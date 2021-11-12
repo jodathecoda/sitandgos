@@ -1,0 +1,82 @@
+Game Hand #383637168 - Tournament #20870557 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:45:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: iraiseufold12 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+iraiseufold12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Qh]
+Lorpugo3 folds
+iraiseufold12 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: iraiseufold12 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #383637221 - Tournament #20870557 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:45:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: iraiseufold12 (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+iraiseufold12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 9d]
+iraiseufold12 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [3c 5c 2d]
+Main pot 40.00
+Lorpugo3 checks
+iraiseufold12 checks
+*** TURN *** [3c 5c 2d] [Jd]
+Main pot 40.00
+Lorpugo3 bets 20.00
+iraiseufold12 calls 20.00
+*** RIVER *** [3c 5c 2d Jd] [8h]
+Main pot 80.00
+Lorpugo3 checks
+iraiseufold12 checks
+*** SHOW DOWN ***
+Main pot 80.00
+Lorpugo3 shows [5s 9d] (a pair of Fives [5s 5c Jd 9d 8h])
+iraiseufold12 mucks hand
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [3c 5c 2d Jd 8h]
+Seat 1: iraiseufold12 (button) mucked [Tc 6d]
+Seat 2: Lorpugo3 (big blind) showed [5s 9d] and won 80.00 with a pair of Fives [5s 5c Jd 9d 8h]
+
+Game Hand #383637466 - Tournament #20870557 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:45:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: iraiseufold12 (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+Lorpugo3 posts the small blind 10.00
+iraiseufold12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Js]
+Lorpugo3 raises 40.00 to 50.00
+iraiseufold12 raises 180.00 to 200.00
+Lorpugo3 calls 150.00
+*** FLOP *** [Ad Jd Tc]
+Main pot 400.00
+iraiseufold12 bets 200.00
+Lorpugo3 calls 200.00
+*** TURN *** [Ad Jd Tc] [Kd]
+Main pot 800.00
+iraiseufold12 bets 400.00
+Lorpugo3 calls 400.00
+*** RIVER *** [Ad Jd Tc Kd] [5s]
+Main pot 1600.00
+iraiseufold12 bets 670.00 and is all-in
+Lorpugo3 calls 670.00
+*** SHOW DOWN ***
+Main pot 2940.00
+iraiseufold12 shows [6d 6c] (a pair of Sixs [6d 6c Ad Kd Jd])
+Lorpugo3 shows [Ks Js] (two pair, Kings and Jacks [Ks Kd Js Jd Ad])
+Lorpugo3 collected 2940.00 from main pot
+*** SUMMARY ***
+Total pot 2940.00
+Board [Ad Jd Tc Kd 5s]
+Seat 1: iraiseufold12 (big blind) showed [6d 6c] and lost with a pair of Sixs [6d 6c Ad Kd Jd]
+Seat 2: Lorpugo3 (button) showed [Ks Js] and won 2940.00 with two pair, Kings and Jacks [Ks Kd Js Jd Ad]
+

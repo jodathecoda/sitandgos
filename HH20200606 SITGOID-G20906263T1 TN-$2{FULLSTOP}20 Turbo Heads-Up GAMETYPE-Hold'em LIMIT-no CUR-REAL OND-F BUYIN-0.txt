@@ -1,0 +1,211 @@
+Game Hand #388080145 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:24:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Hardforholdem (1500.00)
+Hardforholdem posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 9h]
+Hardforholdem folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Hardforholdem (button) folded on the Pre-Flop
+
+Game Hand #388080323 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:24:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: Hardforholdem (1490.00)
+Lorpugo3 posts the small blind 10.00
+Hardforholdem posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 5h]
+Lorpugo3 raises 60.00 to 70.00
+Hardforholdem folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Hardforholdem (big blind) folded on the Pre-Flop
+
+Game Hand #388080547 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:24:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: Hardforholdem (1470.00)
+Hardforholdem posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Jc]
+Hardforholdem calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Hardforholdem calls 40.00
+*** FLOP *** [Td 3s 5d]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Hardforholdem folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Td 3s 5d]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Hardforholdem (button) folded on the Flop
+
+Game Hand #388081100 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1590.00)
+Seat 2: Hardforholdem (1410.00)
+Lorpugo3 posts the small blind 10.00
+Hardforholdem posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 4d]
+Lorpugo3 folds
+Hardforholdem does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Hardforholdem did not show and won 30.00
+
+Game Hand #388081235 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: Hardforholdem (1420.00)
+Hardforholdem posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ac]
+Hardforholdem raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jc Ks 3h]
+Main pot 80.00
+Lorpugo3 checks
+Hardforholdem bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Hardforholdem
+Hardforholdem does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Jc Ks 3h]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Hardforholdem did not show and won 80.00
+
+Game Hand #388081743 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: Hardforholdem (1460.00)
+Lorpugo3 posts the small blind 10.00
+Hardforholdem posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 4h]
+Lorpugo3 folds
+Hardforholdem does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Hardforholdem did not show and won 30.00
+
+Game Hand #388081914 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: Hardforholdem (1470.00)
+Hardforholdem posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Th]
+Hardforholdem folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Hardforholdem (button) folded on the Pre-Flop
+
+Game Hand #388082065 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: Hardforholdem (1460.00)
+Lorpugo3 posts the small blind 10.00
+Hardforholdem posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 9s]
+Lorpugo3 raises 50.00 to 60.00
+Hardforholdem folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Hardforholdem (big blind) folded on the Pre-Flop
+
+Game Hand #388082326 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:25:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Hardforholdem (1440.00)
+Hardforholdem posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 8c]
+Hardforholdem calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5s 7h 6s]
+Main pot 40.00
+Lorpugo3 checks
+Hardforholdem bets 30.00
+Lorpugo3 raises 70.00 to 70.00
+Hardforholdem calls 40.00
+*** TURN *** [5s 7h 6s] [2s]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Hardforholdem calls 90.00
+*** RIVER *** [5s 7h 6s 2s] [Ah]
+Main pot 360.00
+Lorpugo3 bets 180.00
+Hardforholdem calls 180.00
+*** SHOW DOWN ***
+Main pot 720.00
+Lorpugo3 shows [4d 8c] (a straight, Eight high [8c 7h 6s 5s 4d])
+Hardforholdem mucks hand
+Lorpugo3 collected 720.00 from main pot
+*** SUMMARY ***
+Total pot 720.00
+Board [5s 7h 6s 2s Ah]
+Seat 1: Lorpugo3 (big blind) showed [4d 8c] and won 720.00 with a straight, Eight high [8c 7h 6s 5s 4d]
+Seat 2: Hardforholdem (button) mucked [5d 2d]
+
+Game Hand #388083560 - Tournament #20906263 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/05 21:26:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1920.00)
+Seat 2: Hardforholdem (1080.00)
+Lorpugo3 posts the small blind 10.00
+Hardforholdem posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Qd]
+Lorpugo3 raises 50.00 to 60.00
+Hardforholdem raises 100.00 to 120.00
+Lorpugo3 calls 60.00
+*** FLOP *** [3d 6d Qc]
+Main pot 240.00
+Hardforholdem bets 50.00
+Lorpugo3 raises 150.00 to 150.00
+Hardforholdem calls 100.00
+*** TURN *** [3d 6d Qc] [Qh]
+Main pot 540.00
+Hardforholdem bets 80.00
+Lorpugo3 raises 330.00 to 330.00
+Hardforholdem calls 250.00
+*** RIVER *** [3d 6d Qc Qh] [7s]
+Main pot 1200.00
+Hardforholdem bets 480.00 and is all-in
+Lorpugo3 calls 480.00
+*** SHOW DOWN ***
+Main pot 2160.00
+Lorpugo3 shows [Th Qd] (three of a kind, Set of Queens [Qh Qd Qc Th 7s])
+Hardforholdem shows [Ad As] (two pair, Aces and Queens [As Ad Qh Qc 7s])
+Lorpugo3 collected 2160.00 from main pot
+*** SUMMARY ***
+Total pot 2160.00
+Board [3d 6d Qc Qh 7s]
+Seat 1: Lorpugo3 (button) showed [Th Qd] and won 2160.00 with three of a kind, Set of Queens [Qh Qd Qc Th 7s]
+Seat 2: Hardforholdem (big blind) showed [Ad As] and lost with two pair, Aces and Queens [As Ad Qh Qc 7s]
+

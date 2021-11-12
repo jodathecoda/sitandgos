@@ -1,0 +1,394 @@
+Game Hand #402485168 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:02:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: SKIPER666 (1500.00)
+Lorpugo3 posts the small blind 10.00
+SKIPER666 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Tc]
+Lorpugo3 folds
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 30.00
+
+Game Hand #402485226 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:02:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: SKIPER666 (1510.00)
+SKIPER666 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 3d]
+SKIPER666 raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SKIPER666
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 40.00
+
+Game Hand #402485312 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:02:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: SKIPER666 (1530.00)
+Lorpugo3 posts the small blind 10.00
+SKIPER666 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+Lorpugo3 folds
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 30.00
+
+Game Hand #402485360 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:02:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1460.00)
+Seat 2: SKIPER666 (1540.00)
+SKIPER666 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 5h]
+SKIPER666 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Ts 7d Qh]
+Main pot 100.00
+Lorpugo3 checks
+SKIPER666 bets 50.00
+Lorpugo3 calls 50.00
+*** TURN *** [Ts 7d Qh] [8d]
+Main pot 200.00
+Lorpugo3 checks
+SKIPER666 checks
+*** RIVER *** [Ts 7d Qh 8d] [5d]
+Main pot 200.00
+Lorpugo3 bets 100.00
+SKIPER666 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Ts 7d Qh 8d 5d]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: SKIPER666 (button) folded on the River
+
+Game Hand #402485910 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:03:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: SKIPER666 (1440.00)
+Lorpugo3 posts the small blind 10.00
+SKIPER666 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 2d]
+Lorpugo3 raises 30.00 to 40.00
+SKIPER666 raises 40.00 to 60.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qh 2h 7s]
+Main pot 120.00
+SKIPER666 checks
+Lorpugo3 bets 60.00
+SKIPER666 calls 60.00
+*** TURN *** [Qh 2h 7s] [Qs]
+Main pot 240.00
+SKIPER666 checks
+Lorpugo3 bets 120.00
+SKIPER666 calls 120.00
+*** RIVER *** [Qh 2h 7s Qs] [Ad]
+Main pot 480.00
+SKIPER666 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 480.00
+SKIPER666 shows [7c Ac] (two pair, Aces and Queens [Ad Ac Qs Qh 7s])
+Lorpugo3 mucks hand
+SKIPER666 collected 480.00 from main pot
+*** SUMMARY ***
+Total pot 480.00
+Board [Qh 2h 7s Qs Ad]
+Seat 1: Lorpugo3 (button) mucked [5d 2d]
+Seat 2: SKIPER666 (big blind) showed [7c Ac] and won 480.00 with two pair, Aces and Queens [Ad Ac Qs Qh 7s]
+
+Game Hand #402486346 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:04:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1320.00)
+Seat 2: SKIPER666 (1680.00)
+SKIPER666 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Kc]
+SKIPER666 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [9h 3d Qd]
+Main pot 100.00
+Lorpugo3 checks
+SKIPER666 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SKIPER666
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9h 3d Qd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: SKIPER666 did not show and won 100.00
+
+Game Hand #402486542 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:05:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1270.00)
+Seat 2: SKIPER666 (1730.00)
+Lorpugo3 posts the small blind 10.00
+SKIPER666 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 2s]
+Lorpugo3 folds
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 30.00
+
+Game Hand #402486642 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:05:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: SKIPER666 (1740.00)
+SKIPER666 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 4d]
+SKIPER666 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [5d 5h Jh]
+Main pot 100.00
+Lorpugo3 checks
+SKIPER666 bets 30.00
+Lorpugo3 raises 90.00 to 90.00
+SKIPER666 calls 60.00
+*** TURN *** [5d 5h Jh] [9s]
+Main pot 280.00
+Lorpugo3 checks
+SKIPER666 checks
+*** RIVER *** [5d 5h Jh 9s] [8c]
+Main pot 280.00
+Lorpugo3 checks
+SKIPER666 checks
+*** SHOW DOWN ***
+Main pot 280.00
+Lorpugo3 shows [Ah 4d] (a pair of Fives [5h 5d Ah Jh 9s])
+SKIPER666 shows [4c Js] (two pair, Jacks and Fives [Js Jh 5h 5d 9s])
+SKIPER666 collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [5d 5h Jh 9s 8c]
+Seat 1: Lorpugo3 (big blind) showed [Ah 4d] and lost with a pair of Fives [5h 5d Ah Jh 9s]
+Seat 2: SKIPER666 (button) showed [4c Js] and won 280.00 with two pair, Jacks and Fives [Js Jh 5h 5d 9s]
+
+Game Hand #402487232 - Tournament #21022084 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:06:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1120.00)
+Seat 2: SKIPER666 (1880.00)
+Lorpugo3 posts the small blind 10.00
+SKIPER666 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 8h]
+Lorpugo3 raises 40.00 to 50.00
+SKIPER666 calls 30.00
+*** FLOP *** [3c 2d 4c]
+Main pot 100.00
+SKIPER666 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to SKIPER666
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [3c 2d 4c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: SKIPER666 did not show and won 100.00
+
+Game Hand #402487518 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:07:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1070.00)
+Seat 2: SKIPER666 (1930.00)
+SKIPER666 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Qh]
+SKIPER666 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SKIPER666 (button) folded on the Pre-Flop
+
+Game Hand #402487657 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:07:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1085.00)
+Seat 2: SKIPER666 (1915.00)
+Lorpugo3 posts the small blind 15.00
+SKIPER666 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 3d]
+Lorpugo3 folds
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 45.00
+
+Game Hand #402487756 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:07:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1070.00)
+Seat 2: SKIPER666 (1930.00)
+SKIPER666 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Td]
+SKIPER666 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SKIPER666 (button) folded on the Pre-Flop
+
+Game Hand #402487884 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:07:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1085.00)
+Seat 2: SKIPER666 (1915.00)
+Lorpugo3 posts the small blind 15.00
+SKIPER666 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 4s]
+Lorpugo3 raises 60.00 to 75.00
+SKIPER666 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: SKIPER666 (big blind) folded on the Pre-Flop
+
+Game Hand #402488039 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:08:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1115.00)
+Seat 2: SKIPER666 (1885.00)
+SKIPER666 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Td]
+SKIPER666 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+SKIPER666 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: SKIPER666 (button) folded on the Pre-Flop
+
+Game Hand #402488246 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:08:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1145.00)
+Seat 2: SKIPER666 (1855.00)
+Lorpugo3 posts the small blind 15.00
+SKIPER666 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c Qh]
+Lorpugo3 raises 60.00 to 75.00
+SKIPER666 calls 45.00
+*** FLOP *** [Td Th 2s]
+Main pot 150.00
+SKIPER666 checks
+Lorpugo3 bets 75.00
+SKIPER666 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Td Th 2s]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: SKIPER666 (big blind) folded on the Flop
+
+Game Hand #402488538 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:09:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: SKIPER666 (1780.00)
+SKIPER666 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 7s]
+SKIPER666 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [8c Qh Ts]
+Main pot 60.00
+Lorpugo3 checks
+SKIPER666 checks
+*** TURN *** [8c Qh Ts] [Kd]
+Main pot 60.00
+Lorpugo3 bets 45.00
+SKIPER666 calls 45.00
+*** RIVER *** [8c Qh Ts Kd] [Ah]
+Main pot 150.00
+Lorpugo3 checks
+SKIPER666 bets 45.00
+Lorpugo3 calls 45.00
+*** SHOW DOWN ***
+Main pot 240.00
+SKIPER666 shows [Th Jh] (a straight, Ace high [Ah Kd Qh Jh Ts])
+Lorpugo3 mucks hand
+SKIPER666 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [8c Qh Ts Kd Ah]
+Seat 1: Lorpugo3 (big blind) mucked [Kc 7s]
+Seat 2: SKIPER666 (button) showed [Th Jh] and won 240.00 with a straight, Ace high [Ah Kd Qh Jh Ts]
+
+Game Hand #402489124 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:10:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1100.00)
+Seat 2: SKIPER666 (1900.00)
+Lorpugo3 posts the small blind 15.00
+SKIPER666 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 6d]
+Lorpugo3 folds
+SKIPER666 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SKIPER666 did not show and won 45.00
+
+Game Hand #402489207 - Tournament #21022084 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:10:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1085.00)
+Seat 2: SKIPER666 (1915.00)
+SKIPER666 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Js]
+SKIPER666 raises 45.00 to 60.00
+Lorpugo3 raises 135.00 to 165.00
+SKIPER666 calls 105.00
+*** FLOP *** [5c 6h 3s]
+Main pot 330.00
+Lorpugo3 checks
+SKIPER666 bets 165.00
+Lorpugo3 raises 465.00 to 465.00
+SKIPER666 raises 1585.00 to 1750.00 and is all-in
+Lorpugo3 calls 455.00 and is all-in
+Uncalled bet (830.00) returned to SKIPER666
+*** TURN *** [5c 6h 3s] [3c]
+Main pot 2170.00
+*** RIVER *** [5c 6h 3s 3c] [8c]
+Main pot 2170.00
+*** SHOW DOWN ***
+Main pot 2170.00
+Lorpugo3 shows [Th Js] (a pair of Threes [3s 3c Js Th 8c])
+SKIPER666 shows [Qd Qc] (two pair, Queens and Threes [Qd Qc 3s 3c 8c])
+SKIPER666 collected 2170.00 from main pot
+*** SUMMARY ***
+Total pot 2170.00
+Board [5c 6h 3s 3c 8c]
+Seat 1: Lorpugo3 (big blind) showed [Th Js] and lost with a pair of Threes [3s 3c Js Th 8c]
+Seat 2: SKIPER666 (button) showed [Qd Qc] and won 2170.00 with two pair, Queens and Threes [Qd Qc 3s 3c 8c]
+

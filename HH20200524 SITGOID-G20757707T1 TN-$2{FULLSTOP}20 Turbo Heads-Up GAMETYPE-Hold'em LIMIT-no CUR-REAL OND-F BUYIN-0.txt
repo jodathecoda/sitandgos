@@ -1,0 +1,163 @@
+Game Hand #370681982 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:03:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: stymie 1 (1500.00)
+stymie 1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 2c]
+stymie 1 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8h Jc Qd]
+Main pot 40.00
+Lorpugo3 checks
+stymie 1 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to stymie 1
+stymie 1 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8h Jc Qd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: stymie 1 did not show and won 40.00
+
+Game Hand #370682577 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:03:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: stymie 1 (1520.00)
+Lorpugo3 posts the small blind 10.00
+stymie 1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 6h]
+Lorpugo3 raises 40.00 to 50.00
+stymie 1 calls 30.00
+*** FLOP *** [9h 9d 8c]
+Main pot 100.00
+stymie 1 checks
+Lorpugo3 checks
+*** TURN *** [9h 9d 8c] [Tc]
+Main pot 100.00
+stymie 1 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to stymie 1
+stymie 1 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9h 9d 8c Tc]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: stymie 1 did not show and won 100.00
+
+Game Hand #370683387 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: stymie 1 (1570.00)
+stymie 1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Qh]
+stymie 1 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: stymie 1 (button) folded on the Pre-Flop
+
+Game Hand #370683857 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: stymie 1 (1560.00)
+Lorpugo3 posts the small blind 10.00
+stymie 1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 8s]
+Lorpugo3 raises 40.00 to 50.00
+stymie 1 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: stymie 1 (big blind) folded on the Pre-Flop
+
+Game Hand #370684535 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:04:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1460.00)
+Seat 2: stymie 1 (1540.00)
+stymie 1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 2s]
+stymie 1 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: stymie 1 (button) folded on the Pre-Flop
+
+Game Hand #370685085 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: stymie 1 (1530.00)
+Lorpugo3 posts the small blind 10.00
+stymie 1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Td]
+Lorpugo3 raises 40.00 to 50.00
+stymie 1 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: stymie 1 (big blind) folded on the Pre-Flop
+
+Game Hand #370685701 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: stymie 1 (1510.00)
+stymie 1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 7h]
+stymie 1 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: stymie 1 (button) folded on the Pre-Flop
+
+Game Hand #370685841 - Tournament #20757707 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/24 18:05:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: stymie 1 (1500.00)
+Lorpugo3 posts the small blind 10.00
+stymie 1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Qs]
+Lorpugo3 raises 40.00 to 50.00
+stymie 1 calls 30.00
+*** FLOP *** [5s 9d 7c]
+Main pot 100.00
+stymie 1 bets 50.00
+Lorpugo3 raises 150.00 to 150.00
+stymie 1 calls 100.00
+*** TURN *** [5s 9d 7c] [Th]
+Main pot 400.00
+stymie 1 checks
+Lorpugo3 bets 300.00
+stymie 1 calls 300.00
+*** RIVER *** [5s 9d 7c Th] [3h]
+Main pot 1000.00
+stymie 1 bets 1000.00 and is all-in
+Lorpugo3 calls 1000.00 and is all-in
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Qc Qs] (a pair of Queens [Qs Qc Th 9d 7c])
+stymie 1 shows [8d 4d] (a high card, Ten high [Th 9d 8d 7c 5s])
+Lorpugo3 collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [5s 9d 7c Th 3h]
+Seat 1: Lorpugo3 (button) showed [Qc Qs] and won 3000.00 with a pair of Queens [Qs Qc Th 9d 7c]
+Seat 2: stymie 1 (big blind) showed [8d 4d] and lost with a high card, Ten high [Th 9d 8d 7c 5s]
+

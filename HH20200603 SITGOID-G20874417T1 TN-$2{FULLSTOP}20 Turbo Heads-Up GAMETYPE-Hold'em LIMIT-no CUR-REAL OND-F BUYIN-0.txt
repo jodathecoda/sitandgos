@@ -1,0 +1,58 @@
+Game Hand #384121582 - Tournament #20874417 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:45:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Mcrider122 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 2c]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Mcrider122 did not show and won 30.00
+
+Game Hand #384121734 - Tournament #20874417 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:45:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: Mcrider122 (1510.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 3h]
+Mcrider122 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Mcrider122 (button) folded on the Pre-Flop
+
+Game Hand #384121938 - Tournament #20874417 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:45:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Mcrider122 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Qc]
+Lorpugo3 raises 50.00 to 60.00
+Mcrider122 raises 1480.00 to 1500.00 and is all-in
+Lorpugo3 calls 1440.00 and is all-in
+*** FLOP *** [Kh Th 6c]
+Main pot 3000.00
+*** TURN *** [Kh Th 6c] [5s]
+Main pot 3000.00
+*** RIVER *** [Kh Th 6c 5s] [Ad]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Kc Qc] (a pair of Kings [Kh Kc Ad Qc Th])
+Mcrider122 shows [Kd Ac] (two pair, Aces and Kings [Ad Ac Kh Kd Th])
+Mcrider122 collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [Kh Th 6c 5s Ad]
+Seat 1: Lorpugo3 (button) showed [Kc Qc] and lost with a pair of Kings [Kh Kc Ad Qc Th]
+Seat 2: Mcrider122 (big blind) showed [Kd Ac] and won 3000.00 with two pair, Aces and Kings [Ad Ac Kh Kd Th]
+

@@ -1,0 +1,211 @@
+Game Hand #384052555 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:53:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: slivy (1500.00)
+slivy posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 4h]
+slivy raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to slivy
+slivy does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: slivy did not show and won 40.00
+
+Game Hand #384052705 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:53:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: slivy (1520.00)
+Lorpugo3 posts the small blind 10.00
+slivy posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 3s]
+Lorpugo3 folds
+slivy does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: slivy did not show and won 30.00
+
+Game Hand #384052860 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:53:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: slivy (1530.00)
+slivy posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c Jc]
+slivy raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Th Ad Qc]
+Main pot 100.00
+Lorpugo3 checks
+slivy checks
+*** TURN *** [Th Ad Qc] [Js]
+Main pot 100.00
+Lorpugo3 checks
+slivy checks
+*** RIVER *** [Th Ad Qc Js] [3s]
+Main pot 100.00
+Lorpugo3 checks
+slivy checks
+*** SHOW DOWN ***
+Main pot 100.00
+Lorpugo3 shows [7c Jc] (a pair of Jacks [Js Jc Ad Qc Th])
+slivy mucks hand
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [Th Ad Qc Js 3s]
+Seat 1: Lorpugo3 (big blind) showed [7c Jc] and won 100.00 with a pair of Jacks [Js Jc Ad Qc Th]
+Seat 2: slivy (button) mucked [7s 6d]
+
+Game Hand #384053404 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:54:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: slivy (1480.00)
+Lorpugo3 posts the small blind 10.00
+slivy posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 5c]
+Lorpugo3 raises 30.00 to 40.00
+slivy calls 20.00
+*** FLOP *** [9c 5h As]
+Main pot 80.00
+slivy checks
+Lorpugo3 checks
+*** TURN *** [9c 5h As] [7d]
+Main pot 80.00
+slivy checks
+Lorpugo3 checks
+*** RIVER *** [9c 5h As 7d] [4s]
+Main pot 80.00
+slivy checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 80.00
+slivy shows [Td Qs] (a high card, Ace high [As Qs Td 9c 7d])
+Lorpugo3 shows [8d 5c] (a pair of Fives [5h 5c As 9c 8d])
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [9c 5h As 7d 4s]
+Seat 1: Lorpugo3 (button) showed [8d 5c] and won 80.00 with a pair of Fives [5h 5c As 9c 8d]
+Seat 2: slivy (big blind) showed [Td Qs] and lost with a high card, Ace high [As Qs Td 9c 7d]
+
+Game Hand #384054073 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:54:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: slivy (1440.00)
+slivy posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Qd]
+slivy raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to slivy
+slivy does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: slivy did not show and won 40.00
+
+Game Hand #384054318 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:55:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: slivy (1460.00)
+Lorpugo3 posts the small blind 10.00
+slivy posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh As]
+Lorpugo3 raises 40.00 to 50.00
+slivy folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: slivy (big blind) folded on the Pre-Flop
+
+Game Hand #384054445 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:55:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: slivy (1440.00)
+slivy posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 8s]
+slivy raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8h Td 9c]
+Main pot 100.00
+Lorpugo3 checks
+slivy bets 75.00
+Lorpugo3 raises 220.00 to 220.00
+slivy raises 310.00 to 385.00
+Lorpugo3 raises 1290.00 to 1510.00 and is all-in
+slivy calls 1005.00 and is all-in
+Uncalled bet (120.00) returned to Lorpugo3
+*** TURN *** [8h Td 9c] [3d]
+Main pot 2880.00
+*** RIVER *** [8h Td 9c 3d] [4s]
+Main pot 2880.00
+*** SHOW DOWN ***
+Main pot 2880.00
+Lorpugo3 shows [9d 8s] (two pair, Nines and Eights [9d 9c 8s 8h Td])
+slivy shows [Jc Qc] (a straight, Queen high [Qc Jc Td 9c 8h])
+slivy collected 2880.00 from main pot
+*** SUMMARY ***
+Total pot 2880.00
+Board [8h Td 9c 3d 4s]
+Seat 1: Lorpugo3 (big blind) showed [9d 8s] and lost with two pair, Nines and Eights [9d 9c 8s 8h Td]
+Seat 2: slivy (button) showed [Jc Qc] and won 2880.00 with a straight, Queen high [Qc Jc Td 9c 8h]
+
+Game Hand #384054861 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:55:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (120.00)
+Seat 2: slivy (2880.00)
+Lorpugo3 posts the small blind 10.00
+slivy posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 3c]
+Lorpugo3 raises 110.00 to 120.00 and is all-in
+slivy folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: slivy (big blind) folded on the Pre-Flop
+
+Game Hand #384055015 - Tournament #20873901 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:56:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (140.00)
+Seat 2: slivy (2860.00)
+slivy posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9d]
+slivy raises 50.00 to 60.00
+Lorpugo3 raises 120.00 to 140.00 and is all-in
+slivy calls 80.00
+*** FLOP *** [As 6c 5d]
+Main pot 280.00
+*** TURN *** [As 6c 5d] [Kh]
+Main pot 280.00
+*** RIVER *** [As 6c 5d Kh] [8d]
+Main pot 280.00
+*** SHOW DOWN ***
+Main pot 280.00
+Lorpugo3 shows [6h 9d] (a pair of Sixs [6h 6c As Kh 9d])
+slivy shows [Ad 8s] (two pair, Aces and Eights [As Ad 8s 8d Kh])
+slivy collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [As 6c 5d Kh 8d]
+Seat 1: Lorpugo3 (big blind) showed [6h 9d] and lost with a pair of Sixs [6h 6c As Kh 9d]
+Seat 2: slivy (button) showed [Ad 8s] and won 280.00 with two pair, Aces and Eights [As Ad 8s 8d Kh]
+

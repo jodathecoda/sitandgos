@@ -1,0 +1,1614 @@
+Game Hand #437612431 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:22:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: SITaNASTRO (1500.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Kc]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437612539 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:22:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: SITaNASTRO (1490.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Jc]
+Lorpugo3 raises 50.00 to 60.00
+SITaNASTRO folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437612805 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:22:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: SITaNASTRO (1470.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Td]
+SITaNASTRO raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [6s 6h 5c]
+Main pot 100.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [6s 6h 5c] [9h]
+Main pot 100.00
+Lorpugo3 checks
+SITaNASTRO bets 65.00
+Lorpugo3 folds
+Uncalled bet (65.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [6s 6h 5c 9h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: SITaNASTRO did not show and won 100.00
+
+Game Hand #437613518 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:23:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: SITaNASTRO (1520.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 3s]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437613652 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:23:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: SITaNASTRO (1530.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 3c]
+SITaNASTRO calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qs 8d Ac]
+Main pot 40.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [Qs 8d Ac] [Js]
+Main pot 40.00
+Lorpugo3 checks
+SITaNASTRO bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Qs 8d Ac Js]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437614164 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:23:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: SITaNASTRO (1550.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Tc]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437614403 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:23:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: SITaNASTRO (1530.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 7c]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6s 3s Td]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [6s 3s Td] [Ts]
+Main pot 200.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** RIVER *** [6s 3s Td Ts] [Kh]
+Main pot 200.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [7h 7c] (two pair, Tens and Sevens [Ts Td 7h 7c Kh])
+SITaNASTRO mucks hand
+Lorpugo3 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [6s 3s Td Ts Kh]
+Seat 1: Lorpugo3 (big blind) showed [7h 7c] and won 200.00 with two pair, Tens and Sevens [Ts Td 7h 7c Kh]
+Seat 2: SITaNASTRO (button) mucked [6h 8d]
+
+Game Hand #437615036 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:24:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: SITaNASTRO (1430.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4d]
+Lorpugo3 raises 30.00 to 40.00
+SITaNASTRO raises 80.00 to 100.00
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 140.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 140.00
+
+Game Hand #437615485 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:24:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: SITaNASTRO (1470.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Ad]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 raises 90.00 to 110.00
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437615721 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:25:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: SITaNASTRO (1430.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 2d]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437615885 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:25:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: SITaNASTRO (1440.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 4h]
+SITaNASTRO raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437616179 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:25:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: SITaNASTRO (1460.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Kc]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437616455 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:25:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: SITaNASTRO (1440.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 5d]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Tc Qc 7c]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [Tc Qc 7c] [3d]
+Main pot 80.00
+Lorpugo3 bets 40.00
+SITaNASTRO folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Tc Qc 7c 3d]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: SITaNASTRO (button) folded on the Turn
+
+Game Hand #437617049 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:26:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1600.00)
+Seat 2: SITaNASTRO (1400.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Ah]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO calls 30.00
+*** FLOP *** [9h 7h Qh]
+Main pot 100.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** TURN *** [9h 7h Qh] [8d]
+Main pot 100.00
+SITaNASTRO bets 75.00
+Lorpugo3 calls 75.00
+*** RIVER *** [9h 7h Qh 8d] [Qc]
+Main pot 250.00
+SITaNASTRO bets 125.00
+Lorpugo3 folds
+Uncalled bet (125.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9h 7h Qh 8d Qc]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: SITaNASTRO did not show and won 250.00
+
+Game Hand #437617930 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1475.00)
+Seat 2: SITaNASTRO (1525.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Kd]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437618092 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1485.00)
+Seat 2: SITaNASTRO (1515.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 9d]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437618281 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1505.00)
+Seat 2: SITaNASTRO (1495.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 6d]
+SITaNASTRO raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437618469 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1485.00)
+Seat 2: SITaNASTRO (1515.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 2c]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437618616 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1475.00)
+Seat 2: SITaNASTRO (1525.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 9c]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437618734 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1485.00)
+Seat 2: SITaNASTRO (1515.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 9d]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437618887 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:27:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1475.00)
+Seat 2: SITaNASTRO (1525.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 5c]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437619083 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:28:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1455.00)
+Seat 2: SITaNASTRO (1545.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Ts]
+Lorpugo3 raises 30.00 to 40.00
+SITaNASTRO raises 80.00 to 100.00
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 140.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 140.00
+
+Game Hand #437619358 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:28:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1415.00)
+Seat 2: SITaNASTRO (1585.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 9c]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qd Kh 8c]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [Qd Kh 8c] [6d]
+Main pot 80.00
+Lorpugo3 bets 50.00
+SITaNASTRO raises 110.00 to 110.00
+Lorpugo3 calls 60.00
+*** RIVER *** [Qd Kh 8c 6d] [Kc]
+Main pot 300.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** SHOW DOWN ***
+Main pot 300.00
+Lorpugo3 shows [Tc 9c] (a pair of Kings [Kh Kc Qd Tc 9c])
+SITaNASTRO shows [4d 8d] (two pair, Kings and Eights [Kh Kc 8d 8c Qd])
+SITaNASTRO collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Qd Kh 8c 6d Kc]
+Seat 1: Lorpugo3 (big blind) showed [Tc 9c] and lost with a pair of Kings [Kh Kc Qd Tc 9c]
+Seat 2: SITaNASTRO (button) showed [4d 8d] and won 300.00 with two pair, Kings and Eights [Kh Kc 8d 8c Qd]
+
+Game Hand #437620203 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:28:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: SITaNASTRO (1735.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 2d]
+Lorpugo3 raises 30.00 to 40.00
+SITaNASTRO folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437620389 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:29:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1285.00)
+Seat 2: SITaNASTRO (1715.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 8d]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437620563 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:29:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: SITaNASTRO (1735.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Js]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437620792 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:29:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1285.00)
+Seat 2: SITaNASTRO (1715.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 7c]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Kd Td Qd]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [Kd Td Qd] [7h]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Kd Td Qd 7h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: SITaNASTRO did not show and won 80.00
+
+Game Hand #437621506 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1245.00)
+Seat 2: SITaNASTRO (1755.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Tc]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437621753 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: SITaNASTRO (1735.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 8c]
+SITaNASTRO raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437621936 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1245.00)
+Seat 2: SITaNASTRO (1755.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 3d]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437622102 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1235.00)
+Seat 2: SITaNASTRO (1765.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Qs]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437622225 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1245.00)
+Seat 2: SITaNASTRO (1755.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7d]
+Lorpugo3 raises 40.00 to 50.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437622450 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:30:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: SITaNASTRO (1735.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5d]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [9d Qs Qc]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [9d Qs Qc] [3d]
+Main pot 80.00
+Lorpugo3 checks
+SITaNASTRO bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9d Qs Qc 3d]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: SITaNASTRO did not show and won 80.00
+
+Game Hand #437623249 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:31:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1225.00)
+Seat 2: SITaNASTRO (1775.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 2s]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 30.00
+
+Game Hand #437623418 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:31:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1215.00)
+Seat 2: SITaNASTRO (1785.00)
+SITaNASTRO posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8s]
+SITaNASTRO raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 40.00
+
+Game Hand #437623631 - Tournament #21805499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 19:31:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1195.00)
+Seat 2: SITaNASTRO (1805.00)
+Lorpugo3 posts the small blind 10.00
+SITaNASTRO posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 5d]
+Lorpugo3 raises 30.00 to 40.00
+SITaNASTRO calls 20.00
+*** FLOP *** [Jd 3s 7h]
+Main pot 80.00
+SITaNASTRO checks
+Lorpugo3 bets 40.00
+SITaNASTRO calls 40.00
+*** TURN *** [Jd 3s 7h] [Qh]
+Main pot 160.00
+SITaNASTRO checks
+Lorpugo3 bets 80.00
+SITaNASTRO folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [Jd 3s 7h Qh]
+Seat 1: Lorpugo3 did not show and won 160.00
+Seat 2: SITaNASTRO (big blind) folded on the Turn
+
+Game Hand #437624595 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:32:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1275.00)
+Seat 2: SITaNASTRO (1725.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Ac]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437624719 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:32:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: SITaNASTRO (1710.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 9h]
+Lorpugo3 raises 45.00 to 60.00
+SITaNASTRO raises 90.00 to 120.00
+Lorpugo3 raises 1230.00 to 1290.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (1170.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437625268 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:33:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: SITaNASTRO (1590.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 6s]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437625406 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:33:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1425.00)
+Seat 2: SITaNASTRO (1575.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8h]
+Lorpugo3 raises 75.00 to 90.00
+SITaNASTRO folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437625661 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:33:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1455.00)
+Seat 2: SITaNASTRO (1545.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Kc]
+SITaNASTRO raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 60.00
+
+Game Hand #437625840 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:33:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1425.00)
+Seat 2: SITaNASTRO (1575.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 6s]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO calls 45.00
+*** FLOP *** [Td 2d 8h]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** TURN *** [Td 2d 8h] [Kd]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** RIVER *** [Td 2d 8h Kd] [Qd]
+Main pot 150.00
+SITaNASTRO bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Td 2d 8h Kd Qd]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: SITaNASTRO did not show and won 150.00
+
+Game Hand #437626794 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:34:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1350.00)
+Seat 2: SITaNASTRO (1650.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 4c]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 60.00
+
+Game Hand #437626948 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:34:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1320.00)
+Seat 2: SITaNASTRO (1680.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Th]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO calls 45.00
+*** FLOP *** [Ah 3s 3h]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** TURN *** [Ah 3s 3h] [3c]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 bets 75.00
+SITaNASTRO calls 75.00
+*** RIVER *** [Ah 3s 3h 3c] [5h]
+Main pot 300.00
+SITaNASTRO bets 225.00
+Lorpugo3 folds
+Uncalled bet (225.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Ah 3s 3h 3c 5h]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: SITaNASTRO did not show and won 300.00
+
+Game Hand #437627878 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:35:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1170.00)
+Seat 2: SITaNASTRO (1830.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 2h]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 60.00
+
+Game Hand #437628081 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:35:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1140.00)
+Seat 2: SITaNASTRO (1860.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Kh]
+Lorpugo3 raises 45.00 to 60.00
+SITaNASTRO calls 30.00
+*** FLOP *** [9d 8c 8h]
+Main pot 120.00
+SITaNASTRO checks
+Lorpugo3 bets 60.00
+SITaNASTRO folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [9d 8c 8h]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: SITaNASTRO (big blind) folded on the Flop
+
+Game Hand #437628535 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:35:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1200.00)
+Seat 2: SITaNASTRO (1800.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 6c]
+SITaNASTRO raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 60.00
+
+Game Hand #437628939 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:35:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1170.00)
+Seat 2: SITaNASTRO (1830.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Jd]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 45.00
+
+Game Hand #437629114 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:36:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1155.00)
+Seat 2: SITaNASTRO (1845.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Kc]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [7s Ts 6d]
+Main pot 120.00
+Lorpugo3 checks
+SITaNASTRO bets 60.00
+Lorpugo3 raises 165.00 to 165.00
+SITaNASTRO calls 105.00
+*** TURN *** [7s Ts 6d] [As]
+Main pot 450.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** RIVER *** [7s Ts 6d As] [6c]
+Main pot 450.00
+Lorpugo3 checks
+SITaNASTRO bets 285.00
+Lorpugo3 calls 285.00
+*** SHOW DOWN ***
+Main pot 1020.00
+SITaNASTRO shows [7c 6h] (a full house, Sixs full of Sevens [6h 6d 6c 7s 7c])
+Lorpugo3 mucks hand
+SITaNASTRO collected 1020.00 from main pot
+*** SUMMARY ***
+Total pot 1020.00
+Board [7s Ts 6d As 6c]
+Seat 1: Lorpugo3 (big blind) mucked [Td Kc]
+Seat 2: SITaNASTRO (button) showed [7c 6h] and won 1020.00 with a full house, Sixs full of Sevens [6h 6d 6c 7s 7c]
+
+Game Hand #437630449 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:37:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (645.00)
+Seat 2: SITaNASTRO (2355.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Tc]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO calls 45.00
+*** FLOP *** [4c 5c 5h]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** TURN *** [4c 5c 5h] [8s]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 bets 165.00
+SITaNASTRO calls 165.00
+*** RIVER *** [4c 5c 5h 8s] [6s]
+Main pot 480.00
+SITaNASTRO bets 150.00
+Lorpugo3 raises 405.00 to 405.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (255.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 780.00
+Board [4c 5c 5h 8s 6s]
+Seat 1: Lorpugo3 did not show and won 780.00
+Seat 2: SITaNASTRO (big blind) folded on the River
+
+Game Hand #437631638 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:38:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1035.00)
+Seat 2: SITaNASTRO (1965.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qc]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437631756 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:38:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1050.00)
+Seat 2: SITaNASTRO (1950.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 7d]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 45.00
+
+Game Hand #437631883 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:38:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1035.00)
+Seat 2: SITaNASTRO (1965.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 5d]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Qs 7s 3c]
+Main pot 120.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [Qs 7s 3c] [7c]
+Main pot 120.00
+Lorpugo3 bets 60.00
+SITaNASTRO raises 120.00 to 120.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Qs 7s 3c 7c]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: SITaNASTRO did not show and won 240.00
+
+Game Hand #437632657 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:38:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (915.00)
+Seat 2: SITaNASTRO (2085.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 7s]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 45.00
+
+Game Hand #437632813 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:38:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (900.00)
+Seat 2: SITaNASTRO (2100.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 8d]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437632938 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:39:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (915.00)
+Seat 2: SITaNASTRO (2085.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 5h]
+Lorpugo3 calls 15.00
+SITaNASTRO checks
+*** FLOP *** [2d Ah 8h]
+Main pot 60.00
+SITaNASTRO checks
+Lorpugo3 bets 45.00
+SITaNASTRO folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [2d Ah 8h]
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: SITaNASTRO (big blind) folded on the Flop
+
+Game Hand #437633407 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:39:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (945.00)
+Seat 2: SITaNASTRO (2055.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Qd]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 raises 105.00 to 135.00
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 195.00
+Seat 1: Lorpugo3 did not show and won 195.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437633678 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:39:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1005.00)
+Seat 2: SITaNASTRO (1995.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8h]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437633905 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:39:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1035.00)
+Seat 2: SITaNASTRO (1965.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Jc]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437634023 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:39:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1050.00)
+Seat 2: SITaNASTRO (1950.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 6s]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO calls 45.00
+*** FLOP *** [4d As 5c]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 bets 75.00
+SITaNASTRO calls 75.00
+*** TURN *** [4d As 5c] [4h]
+Main pot 300.00
+SITaNASTRO checks
+Lorpugo3 checks
+*** RIVER *** [4d As 5c 4h] [2d]
+Main pot 300.00
+SITaNASTRO bets 240.00
+Lorpugo3 calls 240.00
+*** SHOW DOWN ***
+Main pot 780.00
+SITaNASTRO shows [7c 6d] (a pair of Fours [4h 4d As 7c 6d])
+Lorpugo3 shows [Ac 6s] (two pair, Aces and Fours [As Ac 4h 4d 6s])
+Lorpugo3 collected 780.00 from main pot
+*** SUMMARY ***
+Total pot 780.00
+Board [4d As 5c 4h 2d]
+Seat 1: Lorpugo3 (button) showed [Ac 6s] and won 780.00 with two pair, Aces and Fours [As Ac 4h 4d 6s]
+Seat 2: SITaNASTRO (big blind) showed [7c 6d] and lost with a pair of Fours [4h 4d As 7c 6d]
+
+Game Hand #437635107 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:40:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: SITaNASTRO (1560.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 6s]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437635224 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:40:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1455.00)
+Seat 2: SITaNASTRO (1545.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Ad]
+Lorpugo3 raises 45.00 to 60.00
+SITaNASTRO folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437635470 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:41:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1485.00)
+Seat 2: SITaNASTRO (1515.00)
+SITaNASTRO posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Ah]
+SITaNASTRO raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [6s Td 5c]
+Main pot 120.00
+Lorpugo3 checks
+SITaNASTRO bets 90.00
+Lorpugo3 calls 90.00
+*** TURN *** [6s Td 5c] [8c]
+Main pot 300.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** RIVER *** [6s Td 5c 8c] [8d]
+Main pot 300.00
+Lorpugo3 bets 30.00
+SITaNASTRO calls 30.00
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [5h Ah] (two pair, Eights and Fives [8d 8c 5h 5c Ah])
+SITaNASTRO shows [As 6h] (two pair, Eights and Sixs [8d 8c 6s 6h As])
+SITaNASTRO collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [6s Td 5c 8c 8d]
+Seat 1: Lorpugo3 (big blind) showed [5h Ah] and lost with two pair, Eights and Fives [8d 8c 5h 5c Ah]
+Seat 2: SITaNASTRO (button) showed [As 6h] and won 360.00 with two pair, Eights and Sixs [8d 8c 6s 6h As]
+
+Game Hand #437636643 - Tournament #21805499 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 19:42:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1305.00)
+Seat 2: SITaNASTRO (1695.00)
+Lorpugo3 posts the small blind 15.00
+SITaNASTRO posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ks]
+Lorpugo3 raises 60.00 to 75.00
+SITaNASTRO calls 45.00
+*** FLOP *** [Ad Ts 8s]
+Main pot 150.00
+SITaNASTRO checks
+Lorpugo3 bets 60.00
+SITaNASTRO folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Ad Ts 8s]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: SITaNASTRO (big blind) folded on the Flop
+
+Game Hand #437637222 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:42:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: SITaNASTRO (1620.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 6c]
+SITaNASTRO calls 25.00
+Lorpugo3 raises 125.00 to 175.00
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 did not show and won 225.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437637553 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:42:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: SITaNASTRO (1570.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 8s]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 75.00
+
+Game Hand #437637724 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:42:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1405.00)
+Seat 2: SITaNASTRO (1595.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 8d]
+SITaNASTRO raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [6d 5c 2d]
+Main pot 200.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [6d 5c 2d] [Ac]
+Main pot 200.00
+Lorpugo3 checks
+SITaNASTRO bets 75.00
+Lorpugo3 calls 75.00
+*** RIVER *** [6d 5c 2d Ac] [Ts]
+Main pot 350.00
+Lorpugo3 checks
+SITaNASTRO bets 263.00
+Lorpugo3 folds
+Uncalled bet (263.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 350.00
+Board [6d 5c 2d Ac Ts]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: SITaNASTRO did not show and won 350.00
+
+Game Hand #437639070 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:43:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: SITaNASTRO (1770.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Qc]
+Lorpugo3 raises 125.00 to 150.00
+SITaNASTRO calls 100.00
+*** FLOP *** [Th 7h 5s]
+Main pot 300.00
+SITaNASTRO checks
+Lorpugo3 bets 175.00
+SITaNASTRO raises 375.00 to 375.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 650.00
+Board [Th 7h 5s]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: SITaNASTRO did not show and won 650.00
+
+Game Hand #437639777 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:44:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (905.00)
+Seat 2: SITaNASTRO (2095.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Js]
+SITaNASTRO calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+SITaNASTRO calls 100.00
+*** FLOP *** [5d Qh 7d]
+Main pot 300.00
+Lorpugo3 bets 175.00
+SITaNASTRO folds
+Uncalled bet (175.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [5d Qh 7d]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: SITaNASTRO (button) folded on the Flop
+
+Game Hand #437640452 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:45:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: SITaNASTRO (1945.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 4d]
+Lorpugo3 calls 25.00
+SITaNASTRO checks
+*** FLOP *** [4s 2d 9s]
+Main pot 100.00
+SITaNASTRO checks
+Lorpugo3 bets 175.00
+SITaNASTRO folds
+Uncalled bet (175.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4s 2d 9s]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: SITaNASTRO (big blind) folded on the Flop
+
+Game Hand #437641115 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:45:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1105.00)
+Seat 2: SITaNASTRO (1895.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 8s]
+SITaNASTRO raises 100.00 to 125.00
+Lorpugo3 calls 75.00
+*** FLOP *** [Kh 6h Tc]
+Main pot 250.00
+Lorpugo3 checks
+SITaNASTRO bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to SITaNASTRO
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [Kh 6h Tc]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: SITaNASTRO did not show and won 250.00
+
+Game Hand #437641667 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:46:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (980.00)
+Seat 2: SITaNASTRO (2020.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 2d]
+Lorpugo3 folds
+SITaNASTRO does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: SITaNASTRO did not show and won 75.00
+
+Game Hand #437641854 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:46:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (955.00)
+Seat 2: SITaNASTRO (2045.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Qh]
+SITaNASTRO raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [4c 8c Kh]
+Main pot 200.00
+Lorpugo3 checks
+SITaNASTRO checks
+*** TURN *** [4c 8c Kh] [3s]
+Main pot 200.00
+Lorpugo3 bets 75.00
+SITaNASTRO calls 75.00
+*** RIVER *** [4c 8c Kh 3s] [3h]
+Main pot 350.00
+Lorpugo3 checks
+SITaNASTRO bets 175.00
+Lorpugo3 calls 175.00
+*** SHOW DOWN ***
+Main pot 700.00
+SITaNASTRO shows [Kc 5d] (two pair, Kings and Threes [Kh Kc 3s 3h 8c])
+Lorpugo3 mucks hand
+SITaNASTRO collected 700.00 from main pot
+*** SUMMARY ***
+Total pot 700.00
+Board [4c 8c Kh 3s 3h]
+Seat 1: Lorpugo3 (big blind) mucked [Qs Qh]
+Seat 2: SITaNASTRO (button) showed [Kc 5d] and won 700.00 with two pair, Kings and Threes [Kh Kc 3s 3h 8c]
+
+Game Hand #437642907 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:47:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (605.00)
+Seat 2: SITaNASTRO (2395.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 3d]
+Lorpugo3 raises 580.00 to 605.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (555.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437643148 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:47:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (655.00)
+Seat 2: SITaNASTRO (2345.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 4s]
+SITaNASTRO calls 25.00
+Lorpugo3 raises 605.00 to 655.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (605.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437643578 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:47:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (705.00)
+Seat 2: SITaNASTRO (2295.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 7c]
+Lorpugo3 raises 680.00 to 705.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (655.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437643899 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:47:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (755.00)
+Seat 2: SITaNASTRO (2245.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 4s]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437644030 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:47:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (780.00)
+Seat 2: SITaNASTRO (2220.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Kh]
+Lorpugo3 raises 755.00 to 780.00 and is all-in
+SITaNASTRO folds
+Uncalled bet (730.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: SITaNASTRO (big blind) folded on the Pre-Flop
+
+Game Hand #437644261 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:48:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (830.00)
+Seat 2: SITaNASTRO (2170.00)
+SITaNASTRO posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 7h]
+SITaNASTRO folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: SITaNASTRO (button) folded on the Pre-Flop
+
+Game Hand #437644400 - Tournament #21805499 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 19:48:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (855.00)
+Seat 2: SITaNASTRO (2145.00)
+Lorpugo3 posts the small blind 25.00
+SITaNASTRO posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Kh]
+Lorpugo3 raises 830.00 to 855.00 and is all-in
+SITaNASTRO calls 805.00
+*** FLOP *** [7h 9d 6c]
+Main pot 1710.00
+*** TURN *** [7h 9d 6c] [2s]
+Main pot 1710.00
+*** RIVER *** [7h 9d 6c 2s] [4h]
+Main pot 1710.00
+*** SHOW DOWN ***
+Main pot 1710.00
+Lorpugo3 shows [Js Kh] (a high card, King high [Kh Js 9d 7h 6c])
+SITaNASTRO shows [5s 5h] (a pair of Fives [5s 5h 9d 7h 6c])
+SITaNASTRO collected 1710.00 from main pot
+*** SUMMARY ***
+Total pot 1710.00
+Board [7h 9d 6c 2s 4h]
+Seat 1: Lorpugo3 (button) showed [Js Kh] and lost with a high card, King high [Kh Js 9d 7h 6c]
+Seat 2: SITaNASTRO (big blind) showed [5s 5h] and won 1710.00 with a pair of Fives [5s 5h 9d 7h 6c]
+

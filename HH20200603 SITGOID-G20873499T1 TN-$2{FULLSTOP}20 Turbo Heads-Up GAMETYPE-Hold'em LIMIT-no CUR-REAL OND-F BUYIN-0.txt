@@ -1,0 +1,127 @@
+Game Hand #384010272 - Tournament #20873499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:18:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 7h]
+Lorpugo3 raises 40.00 to 50.00
+URUGUAYNZ20 raises 130.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [2h 8d Qd]
+Main pot 300.00
+URUGUAYNZ20 bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2h 8d Qd]
+Seat 1: URUGUAYNZ20 did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #384011155 - Tournament #20873499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:19:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1650.00)
+Seat 2: Lorpugo3 (1350.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 9s]
+URUGUAYNZ20 raises 140.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (130.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: URUGUAYNZ20 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384011547 - Tournament #20873499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:19:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1670.00)
+Seat 2: Lorpugo3 (1330.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 2d]
+Lorpugo3 raises 30.00 to 40.00
+URUGUAYNZ20 raises 1650.00 to 1670.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1630.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: URUGUAYNZ20 did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384011883 - Tournament #20873499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:20:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1710.00)
+Seat 2: Lorpugo3 (1290.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Kd]
+URUGUAYNZ20 raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [Kc 6s Qc]
+Main pot 120.00
+Lorpugo3 checks
+URUGUAYNZ20 bets 120.00
+Lorpugo3 calls 120.00
+*** TURN *** [Kc 6s Qc] [2s]
+Main pot 360.00
+Lorpugo3 checks
+URUGUAYNZ20 checks
+*** RIVER *** [Kc 6s Qc 2s] [Ac]
+Main pot 360.00
+Lorpugo3 checks
+URUGUAYNZ20 bets 360.00
+Lorpugo3 calls 360.00
+*** SHOW DOWN ***
+Main pot 1080.00
+URUGUAYNZ20 shows [4h Ad] (a pair of Aces [Ad Ac Kc Qc 6s])
+Lorpugo3 mucks hand
+URUGUAYNZ20 collected 1080.00 from main pot
+*** SUMMARY ***
+Total pot 1080.00
+Board [Kc 6s Qc 2s Ac]
+Seat 1: URUGUAYNZ20 (button) showed [4h Ad] and won 1080.00 with a pair of Aces [Ad Ac Kc Qc 6s]
+Seat 2: Lorpugo3 (big blind) mucked [Tc Kd]
+
+Game Hand #384012954 - Tournament #20873499 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:21:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (2250.00)
+Seat 2: Lorpugo3 (750.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Qc]
+Lorpugo3 raises 40.00 to 50.00
+URUGUAYNZ20 calls 30.00
+*** FLOP *** [9h 3s Kc]
+Main pot 100.00
+URUGUAYNZ20 bets 100.00
+Lorpugo3 calls 100.00
+*** TURN *** [9h 3s Kc] [Kh]
+Main pot 300.00
+URUGUAYNZ20 checks
+Lorpugo3 checks
+*** RIVER *** [9h 3s Kc Kh] [7d]
+Main pot 300.00
+URUGUAYNZ20 bets 300.00
+Lorpugo3 raises 600.00 to 600.00 and is all-in
+URUGUAYNZ20 calls 300.00
+*** SHOW DOWN ***
+Main pot 1500.00
+URUGUAYNZ20 shows [Kd 6c] (three of a kind, Set of Kings [Kh Kd Kc 9h 7d])
+Lorpugo3 shows [Qd Qc] (two pair, Kings and Queens [Kh Kc Qd Qc 9h])
+URUGUAYNZ20 collected 1500.00 from main pot
+*** SUMMARY ***
+Total pot 1500.00
+Board [9h 3s Kc Kh 7d]
+Seat 1: URUGUAYNZ20 (big blind) showed [Kd 6c] and won 1500.00 with three of a kind, Set of Kings [Kh Kd Kc 9h 7d]
+Seat 2: Lorpugo3 (button) showed [Qd Qc] and lost with two pair, Kings and Queens [Kh Kc Qd Qc 9h]
+

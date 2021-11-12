@@ -1,0 +1,1445 @@
+Game Hand #405003205 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:22:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: L10NSCHEMIST (1500.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Jd]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405003241 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:22:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: L10NSCHEMIST (1490.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9c]
+Lorpugo3 raises 50.00 to 60.00
+L10NSCHEMIST folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405003319 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:23:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: L10NSCHEMIST (1470.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 7c]
+L10NSCHEMIST raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 40.00
+
+Game Hand #405003399 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:23:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: L10NSCHEMIST (1490.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 5c]
+Lorpugo3 raises 50.00 to 60.00
+L10NSCHEMIST calls 40.00
+*** FLOP *** [Qh Jh Ts]
+Main pot 120.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** TURN *** [Qh Jh Ts] [Jd]
+Main pot 120.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** RIVER *** [Qh Jh Ts Jd] [5s]
+Main pot 120.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 120.00
+L10NSCHEMIST shows [3c Ad] (a pair of Jacks [Jh Jd Ad Qh Ts])
+Lorpugo3 shows [Ah 5c] (two pair, Jacks and Fives [Jh Jd 5s 5c Ah])
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Qh Jh Ts Jd 5s]
+Seat 1: Lorpugo3 (button) showed [Ah 5c] and won 120.00 with two pair, Jacks and Fives [Jh Jd 5s 5c Ah]
+Seat 2: L10NSCHEMIST (big blind) showed [3c Ad] and lost with a pair of Jacks [Jh Jd Ad Qh Ts]
+
+Game Hand #405003654 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:23:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: L10NSCHEMIST (1430.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 9h]
+L10NSCHEMIST raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 40.00
+
+Game Hand #405003721 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:23:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1550.00)
+Seat 2: L10NSCHEMIST (1450.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Jc]
+Lorpugo3 raises 50.00 to 60.00
+L10NSCHEMIST calls 40.00
+*** FLOP *** [Ks 3h Qc]
+Main pot 120.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** TURN *** [Ks 3h Qc] [5h]
+Main pot 120.00
+L10NSCHEMIST bets 90.00
+Lorpugo3 calls 90.00
+*** RIVER *** [Ks 3h Qc 5h] [7c]
+Main pot 300.00
+L10NSCHEMIST bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Ks 3h Qc 5h 7c]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: L10NSCHEMIST did not show and won 300.00
+
+Game Hand #405004153 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:24:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: L10NSCHEMIST (1600.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 4s]
+L10NSCHEMIST raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 40.00
+
+Game Hand #405004274 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:25:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: L10NSCHEMIST (1620.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Th]
+Lorpugo3 raises 50.00 to 60.00
+L10NSCHEMIST raises 160.00 to 180.00
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 240.00
+
+Game Hand #405004490 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:25:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1320.00)
+Seat 2: L10NSCHEMIST (1680.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5c]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405004540 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:25:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: L10NSCHEMIST (1670.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Ah]
+Lorpugo3 raises 60.00 to 70.00
+L10NSCHEMIST calls 50.00
+*** FLOP *** [9c 4h Qs]
+Main pot 140.00
+L10NSCHEMIST checks
+Lorpugo3 bets 70.00
+L10NSCHEMIST folds
+Uncalled bet (70.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [9c 4h Qs]
+Seat 1: Lorpugo3 did not show and won 140.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Flop
+
+Game Hand #405004731 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:25:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: L10NSCHEMIST (1600.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Tc]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405004772 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:26:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: L10NSCHEMIST (1590.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Jc]
+Lorpugo3 raises 50.00 to 60.00
+L10NSCHEMIST folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405004861 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:26:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: L10NSCHEMIST (1570.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Qh]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405004906 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:26:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: L10NSCHEMIST (1560.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Jc]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 30.00
+
+Game Hand #405004967 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:26:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: L10NSCHEMIST (1570.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405005011 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:26:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: L10NSCHEMIST (1560.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 5h]
+Lorpugo3 raises 30.00 to 40.00
+L10NSCHEMIST calls 20.00
+*** FLOP *** [9c Tc 2h]
+Main pot 80.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** TURN *** [9c Tc 2h] [Qd]
+Main pot 80.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** RIVER *** [9c Tc 2h Qd] [8d]
+Main pot 80.00
+L10NSCHEMIST checks
+Lorpugo3 bets 80.00
+L10NSCHEMIST folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9c Tc 2h Qd 8d]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: L10NSCHEMIST (big blind) folded on the River
+
+Game Hand #405005249 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:27:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: L10NSCHEMIST (1520.00)
+L10NSCHEMIST posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 8h]
+L10NSCHEMIST raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [9d 3h 8d]
+Main pot 100.00
+Lorpugo3 bets 60.00
+L10NSCHEMIST calls 60.00
+*** TURN *** [9d 3h 8d] [5c]
+Main pot 220.00
+Lorpugo3 bets 110.00
+L10NSCHEMIST folds
+Uncalled bet (110.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 220.00
+Board [9d 3h 8d 5c]
+Seat 1: Lorpugo3 did not show and won 220.00
+Seat 2: L10NSCHEMIST (button) folded on the Turn
+
+Game Hand #405005527 - Tournament #21044480 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:27:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1590.00)
+Seat 2: L10NSCHEMIST (1410.00)
+Lorpugo3 posts the small blind 10.00
+L10NSCHEMIST posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Kh]
+Lorpugo3 raises 30.00 to 40.00
+L10NSCHEMIST calls 20.00
+*** FLOP *** [8c 5d 8s]
+Main pot 80.00
+L10NSCHEMIST checks
+Lorpugo3 bets 40.00
+L10NSCHEMIST folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [8c 5d 8s]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Flop
+
+Game Hand #405005739 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:28:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1630.00)
+Seat 2: L10NSCHEMIST (1370.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Kd]
+L10NSCHEMIST raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [8d Ks 7h]
+Main pot 150.00
+Lorpugo3 bets 75.00
+L10NSCHEMIST raises 225.00 to 225.00
+Lorpugo3 calls 150.00
+*** TURN *** [8d Ks 7h] [Tc]
+Main pot 600.00
+Lorpugo3 bets 225.00
+L10NSCHEMIST raises 450.00 to 450.00
+Lorpugo3 raises 1105.00 to 1330.00 and is all-in
+L10NSCHEMIST calls 620.00 and is all-in
+Uncalled bet (260.00) returned to Lorpugo3
+*** RIVER *** [8d Ks 7h Tc] [7s]
+Main pot 2740.00
+*** SHOW DOWN ***
+Main pot 2740.00
+Lorpugo3 shows [9d Kd] (two pair, Kings and Sevens [Ks Kd 7s 7h Tc])
+L10NSCHEMIST shows [As Ad] (two pair, Aces and Sevens [As Ad 7s 7h Ks])
+L10NSCHEMIST collected 2740.00 from main pot
+*** SUMMARY ***
+Total pot 2740.00
+Board [8d Ks 7h Tc 7s]
+Seat 1: Lorpugo3 (big blind) showed [9d Kd] and lost with two pair, Kings and Sevens [Ks Kd 7s 7h Tc]
+Seat 2: L10NSCHEMIST (button) showed [As Ad] and won 2740.00 with two pair, Aces and Sevens [As Ad 7s 7h Ks]
+
+Game Hand #405006228 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (260.00)
+Seat 2: L10NSCHEMIST (2740.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Kc]
+Lorpugo3 raises 245.00 to 260.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (230.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405006319 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (290.00)
+Seat 2: L10NSCHEMIST (2710.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 6s]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405006359 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (305.00)
+Seat 2: L10NSCHEMIST (2695.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 6c]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 45.00
+
+Game Hand #405006411 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (290.00)
+Seat 2: L10NSCHEMIST (2710.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 2c]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405006454 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (305.00)
+Seat 2: L10NSCHEMIST (2695.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Tc]
+Lorpugo3 raises 290.00 to 305.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (275.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405006521 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:29:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (335.00)
+Seat 2: L10NSCHEMIST (2665.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 7s]
+L10NSCHEMIST raises 45.00 to 60.00
+Lorpugo3 raises 305.00 to 335.00 and is all-in
+L10NSCHEMIST calls 275.00
+*** FLOP *** [8c 2d Qd]
+Main pot 670.00
+*** TURN *** [8c 2d Qd] [Ks]
+Main pot 670.00
+*** RIVER *** [8c 2d Qd Ks] [5c]
+Main pot 670.00
+*** SHOW DOWN ***
+Main pot 670.00
+Lorpugo3 shows [Qs 7s] (a pair of Queens [Qs Qd Ks 8c 7s])
+L10NSCHEMIST shows [Tc 7c] (a high card, King high [Ks Qd Tc 8c 7c])
+Lorpugo3 collected 670.00 from main pot
+*** SUMMARY ***
+Total pot 670.00
+Board [8c 2d Qd Ks 5c]
+Seat 1: Lorpugo3 (big blind) showed [Qs 7s] and won 670.00 with a pair of Queens [Qs Qd Ks 8c 7s]
+Seat 2: L10NSCHEMIST (button) showed [Tc 7c] and lost with a high card, King high [Ks Qd Tc 8c 7c]
+
+Game Hand #405006667 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:30:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (670.00)
+Seat 2: L10NSCHEMIST (2330.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Jh]
+Lorpugo3 raises 60.00 to 75.00
+L10NSCHEMIST folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405006748 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:30:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (700.00)
+Seat 2: L10NSCHEMIST (2300.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 6d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405006792 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:30:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (715.00)
+Seat 2: L10NSCHEMIST (2285.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 6d]
+Lorpugo3 raises 45.00 to 60.00
+L10NSCHEMIST calls 30.00
+*** FLOP *** [5h 3s Jc]
+Main pot 120.00
+L10NSCHEMIST checks
+Lorpugo3 bets 60.00
+L10NSCHEMIST calls 60.00
+*** TURN *** [5h 3s Jc] [Ad]
+Main pot 240.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** RIVER *** [5h 3s Jc Ad] [8d]
+Main pot 240.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 240.00
+L10NSCHEMIST shows [5d Kd] (a pair of Fives [5h 5d Ad Kd Jc])
+Lorpugo3 mucks hand
+L10NSCHEMIST collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [5h 3s Jc Ad 8d]
+Seat 1: Lorpugo3 (button) mucked [5c 6d]
+Seat 2: L10NSCHEMIST (big blind) showed [5d Kd] and won 240.00 with a pair of Fives [5h 5d Ad Kd Jc] with the kicker King
+
+Game Hand #405007096 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:31:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (595.00)
+Seat 2: L10NSCHEMIST (2405.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3h]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405007149 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:31:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (610.00)
+Seat 2: L10NSCHEMIST (2390.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 4s]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 45.00
+
+Game Hand #405007204 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:31:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (595.00)
+Seat 2: L10NSCHEMIST (2405.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 6d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405007272 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:31:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (610.00)
+Seat 2: L10NSCHEMIST (2390.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Jh]
+Lorpugo3 raises 60.00 to 75.00
+L10NSCHEMIST calls 45.00
+*** FLOP *** [Jd Qd Qh]
+Main pot 150.00
+L10NSCHEMIST checks
+Lorpugo3 checks
+*** TURN *** [Jd Qd Qh] [7d]
+Main pot 150.00
+L10NSCHEMIST bets 90.00
+Lorpugo3 calls 90.00
+*** RIVER *** [Jd Qd Qh 7d] [3d]
+Main pot 330.00
+L10NSCHEMIST bets 165.00
+Lorpugo3 raises 445.00 to 445.00 and is all-in
+L10NSCHEMIST calls 280.00
+*** SHOW DOWN ***
+Main pot 1220.00
+Lorpugo3 shows [Qs Jh] (a full house, Queens full of Jacks [Qs Qh Qd Jh Jd])
+L10NSCHEMIST shows [Tc Kd] (a flush, King high [Kd Qd Jd 7d 3d])
+Lorpugo3 collected 1220.00 from main pot
+*** SUMMARY ***
+Total pot 1220.00
+Board [Jd Qd Qh 7d 3d]
+Seat 1: Lorpugo3 (button) showed [Qs Jh] and won 1220.00 with a full house, Queens full of Jacks [Qs Qh Qd Jh Jd]
+Seat 2: L10NSCHEMIST (big blind) showed [Tc Kd] and lost with a flush, King high [Kd Qd Jd 7d 3d]
+
+Game Hand #405007691 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:32:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: L10NSCHEMIST (1780.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Jc]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405007742 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:32:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1235.00)
+Seat 2: L10NSCHEMIST (1765.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 5c]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 45.00
+
+Game Hand #405007806 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:32:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: L10NSCHEMIST (1780.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts As]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405007848 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:32:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1235.00)
+Seat 2: L10NSCHEMIST (1765.00)
+Lorpugo3 posts the small blind 15.00
+L10NSCHEMIST posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Td]
+Lorpugo3 raises 60.00 to 75.00
+L10NSCHEMIST folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405007940 - Tournament #21044480 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 08:32:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: L10NSCHEMIST (1735.00)
+L10NSCHEMIST posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 7d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405007985 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:32:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: L10NSCHEMIST (1720.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Jh]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 75.00
+
+Game Hand #405008060 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1255.00)
+Seat 2: L10NSCHEMIST (1745.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405008109 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: L10NSCHEMIST (1720.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 2d]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405008196 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: L10NSCHEMIST (1670.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Ks]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405008244 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1355.00)
+Seat 2: L10NSCHEMIST (1645.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6h]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405008344 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1405.00)
+Seat 2: L10NSCHEMIST (1595.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 5d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405008402 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: L10NSCHEMIST (1570.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 9c]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405008479 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:33:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: L10NSCHEMIST (1520.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 6h]
+L10NSCHEMIST raises 100.00 to 125.00
+Lorpugo3 calls 75.00
+*** FLOP *** [Jh 2d 2c]
+Main pot 250.00
+Lorpugo3 checks
+L10NSCHEMIST bets 175.00
+Lorpugo3 folds
+Uncalled bet (175.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [Jh 2d 2c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: L10NSCHEMIST did not show and won 250.00
+
+Game Hand #405008654 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:34:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1355.00)
+Seat 2: L10NSCHEMIST (1645.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 7h]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST raises 325.00 to 375.00
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 500.00
+
+Game Hand #405008905 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:34:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: L10NSCHEMIST (1770.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Ac]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405008960 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:34:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1255.00)
+Seat 2: L10NSCHEMIST (1745.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 9s]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST raises 325.00 to 375.00
+Lorpugo3 raises 1130.00 to 1255.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (880.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 750.00
+Seat 1: Lorpugo3 did not show and won 750.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405009242 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:35:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1630.00)
+Seat 2: L10NSCHEMIST (1370.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Qd]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405009293 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:35:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1655.00)
+Seat 2: L10NSCHEMIST (1345.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Qc]
+Lorpugo3 raises 75.00 to 100.00
+L10NSCHEMIST raises 350.00 to 400.00
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 500.00
+
+Game Hand #405009458 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:35:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1555.00)
+Seat 2: L10NSCHEMIST (1445.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Ts]
+L10NSCHEMIST raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 100.00
+
+Game Hand #405009538 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:35:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1505.00)
+Seat 2: L10NSCHEMIST (1495.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 5s]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 75.00
+
+Game Hand #405009620 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:36:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: L10NSCHEMIST (1520.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 9c]
+L10NSCHEMIST raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [4h Jh As]
+Main pot 200.00
+Lorpugo3 checks
+L10NSCHEMIST bets 125.00
+Lorpugo3 calls 125.00
+*** TURN *** [4h Jh As] [7c]
+Main pot 450.00
+Lorpugo3 checks
+L10NSCHEMIST checks
+*** RIVER *** [4h Jh As 7c] [4s]
+Main pot 450.00
+Lorpugo3 checks
+L10NSCHEMIST checks
+*** SHOW DOWN ***
+Main pot 450.00
+Lorpugo3 shows [Jc 9c] (two pair, Jacks and Fours [Jh Jc 4s 4h As])
+L10NSCHEMIST mucks hand
+Lorpugo3 collected 450.00 from main pot
+*** SUMMARY ***
+Total pot 450.00
+Board [4h Jh As 7c 4s]
+Seat 1: Lorpugo3 (big blind) showed [Jc 9c] and won 450.00 with two pair, Jacks and Fours [Jh Jc 4s 4h As]
+Seat 2: L10NSCHEMIST (button) mucked [Kd 6s]
+
+Game Hand #405009939 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:36:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1705.00)
+Seat 2: L10NSCHEMIST (1295.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 5d]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST raises 325.00 to 375.00
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 500.00
+
+Game Hand #405010086 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:37:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: L10NSCHEMIST (1420.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 6c]
+L10NSCHEMIST raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 100.00
+
+Game Hand #405010163 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:37:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: L10NSCHEMIST (1470.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 3c]
+Lorpugo3 raises 100.00 to 125.00
+L10NSCHEMIST folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405010266 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:37:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: L10NSCHEMIST (1420.00)
+L10NSCHEMIST posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Jc]
+L10NSCHEMIST raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 100.00
+
+Game Hand #405010351 - Tournament #21044480 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 08:37:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: L10NSCHEMIST (1470.00)
+Lorpugo3 posts the small blind 25.00
+L10NSCHEMIST posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Kc]
+Lorpugo3 raises 75.00 to 100.00
+L10NSCHEMIST raises 250.00 to 300.00
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 400.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 400.00
+
+Game Hand #405010517 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:37:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: L10NSCHEMIST (1570.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Qs]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405010568 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:38:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: L10NSCHEMIST (1520.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 5c]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 150.00
+
+Game Hand #405010658 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:38:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: L10NSCHEMIST (1570.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Ad]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405010712 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:38:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: L10NSCHEMIST (1520.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc As]
+Lorpugo3 raises 150.00 to 200.00
+L10NSCHEMIST calls 100.00
+*** FLOP *** [7s 9h 3s]
+Main pot 400.00
+L10NSCHEMIST checks
+Lorpugo3 bets 200.00
+L10NSCHEMIST raises 1320.00 to 1320.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1120.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 800.00
+Board [7s 9h 3s]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: L10NSCHEMIST did not show and won 800.00
+
+Game Hand #405010922 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:38:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1080.00)
+Seat 2: L10NSCHEMIST (1920.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 9d]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405010972 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:38:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1130.00)
+Seat 2: L10NSCHEMIST (1870.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 9c]
+Lorpugo3 calls 50.00
+L10NSCHEMIST raises 1770.00 to 1870.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1770.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 200.00
+
+Game Hand #405011117 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:39:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1030.00)
+Seat 2: L10NSCHEMIST (1970.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 3h]
+L10NSCHEMIST raises 1920.00 to 1970.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1870.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 200.00
+
+Game Hand #405011182 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:39:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (930.00)
+Seat 2: L10NSCHEMIST (2070.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 7d]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 150.00
+
+Game Hand #405011264 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:39:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (880.00)
+Seat 2: L10NSCHEMIST (2120.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Th]
+L10NSCHEMIST raises 2070.00 to 2120.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2020.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 200.00
+
+Game Hand #405011329 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:39:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (780.00)
+Seat 2: L10NSCHEMIST (2220.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Td]
+Lorpugo3 raises 730.00 to 780.00 and is all-in
+L10NSCHEMIST calls 680.00
+*** FLOP *** [3s Tc 5s]
+Main pot 1560.00
+*** TURN *** [3s Tc 5s] [Ad]
+Main pot 1560.00
+*** RIVER *** [3s Tc 5s Ad] [Kh]
+Main pot 1560.00
+*** SHOW DOWN ***
+Main pot 1560.00
+Lorpugo3 shows [As Td] (two pair, Aces and Tens [As Ad Td Tc Kh])
+L10NSCHEMIST shows [8d 7s] (a high card, Ace high [Ad Kh Tc 8d 7s])
+Lorpugo3 collected 1560.00 from main pot
+*** SUMMARY ***
+Total pot 1560.00
+Board [3s Tc 5s Ad Kh]
+Seat 1: Lorpugo3 (button) showed [As Td] and won 1560.00 with two pair, Aces and Tens [As Ad Td Tc Kh]
+Seat 2: L10NSCHEMIST (big blind) showed [8d 7s] and lost with a high card, Ace high [Ad Kh Tc 8d 7s]
+
+Game Hand #405011457 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:39:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: L10NSCHEMIST (1440.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 9h]
+L10NSCHEMIST raises 200.00 to 250.00
+Lorpugo3 calls 150.00
+*** FLOP *** [Kh 2h 3c]
+Main pot 500.00
+Lorpugo3 checks
+L10NSCHEMIST bets 300.00
+Lorpugo3 calls 300.00
+*** TURN *** [Kh 2h 3c] [7d]
+Main pot 1100.00
+Lorpugo3 checks
+L10NSCHEMIST checks
+*** RIVER *** [Kh 2h 3c 7d] [6s]
+Main pot 1100.00
+Lorpugo3 checks
+L10NSCHEMIST checks
+*** SHOW DOWN ***
+Main pot 1100.00
+Lorpugo3 shows [Th 9h] (a high card, King high [Kh Th 9h 7d 6s])
+L10NSCHEMIST shows [Ad 4c] (a high card, Ace high [Ad Kh 7d 6s 4c])
+L10NSCHEMIST collected 1100.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [Kh 2h 3c 7d 6s]
+Seat 1: Lorpugo3 (big blind) showed [Th 9h] and lost with a high card, King high [Kh Th 9h 7d 6s]
+Seat 2: L10NSCHEMIST (button) showed [Ad 4c] and won 1100.00 with a high card, Ace high [Ad Kh 7d 6s 4c]
+
+Game Hand #405011934 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: L10NSCHEMIST (1990.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 9c]
+Lorpugo3 raises 960.00 to 1010.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (910.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405012058 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: L10NSCHEMIST (1890.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 2s]
+L10NSCHEMIST raises 1840.00 to 1890.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1790.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 200.00
+
+Game Hand #405012145 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: L10NSCHEMIST (1990.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 3c]
+Lorpugo3 folds
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 150.00
+
+Game Hand #405012218 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (960.00)
+Seat 2: L10NSCHEMIST (2040.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Qc]
+L10NSCHEMIST folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: L10NSCHEMIST (button) folded on the Pre-Flop
+
+Game Hand #405012259 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: L10NSCHEMIST (1990.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Kd]
+Lorpugo3 raises 960.00 to 1010.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (910.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405012352 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:41:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: L10NSCHEMIST (1890.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 3d]
+L10NSCHEMIST raises 150.00 to 200.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to L10NSCHEMIST
+L10NSCHEMIST does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: L10NSCHEMIST did not show and won 200.00
+
+Game Hand #405012446 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:42:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: L10NSCHEMIST (1990.00)
+Lorpugo3 posts the small blind 50.00
+L10NSCHEMIST posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Tc]
+Lorpugo3 raises 960.00 to 1010.00 and is all-in
+L10NSCHEMIST folds
+Uncalled bet (910.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: L10NSCHEMIST (big blind) folded on the Pre-Flop
+
+Game Hand #405012555 - Tournament #21044480 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/18 08:42:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: L10NSCHEMIST (1890.00)
+L10NSCHEMIST posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 4c]
+L10NSCHEMIST raises 150.00 to 200.00
+Lorpugo3 raises 1010.00 to 1110.00 and is all-in
+L10NSCHEMIST calls 910.00
+*** FLOP *** [9c 4h 9s]
+Main pot 2220.00
+*** TURN *** [9c 4h 9s] [9h]
+Main pot 2220.00
+*** RIVER *** [9c 4h 9s 9h] [3d]
+Main pot 2220.00
+*** SHOW DOWN ***
+Main pot 2220.00
+Lorpugo3 shows [As 4c] (a full house, Nines full of Fours [9s 9h 9c 4h 4c])
+L10NSCHEMIST shows [Ah Ad] (a full house, Nines full of Aces [9s 9h 9c Ah Ad])
+L10NSCHEMIST collected 2220.00 from main pot
+*** SUMMARY ***
+Total pot 2220.00
+Board [9c 4h 9s 9h 3d]
+Seat 1: Lorpugo3 (big blind) showed [As 4c] and lost with a full house, Nines full of Fours [9s 9h 9c 4h 4c]
+Seat 2: L10NSCHEMIST (button) showed [Ah Ad] and won 2220.00 with a full house, Nines full of Aces [9s 9h 9c Ah Ad]
+

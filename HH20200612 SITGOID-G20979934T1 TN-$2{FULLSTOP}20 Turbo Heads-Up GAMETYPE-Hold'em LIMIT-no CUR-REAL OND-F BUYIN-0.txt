@@ -1,0 +1,333 @@
+Game Hand #396879689 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:37:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+TrumpKeeper posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Js]
+Lorpugo3 folds
+TrumpKeeper does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: TrumpKeeper did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396879905 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:38:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+TrumpKeeper posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Ts]
+TrumpKeeper raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qh 6c Js]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** TURN *** [Qh 6c Js] [7s]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** RIVER *** [Qh 6c Js 7s] [3c]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** SHOW DOWN ***
+Main pot 80.00
+Lorpugo3 shows [5s Ts] (a high card, Queen high [Qh Js Ts 7s 6c])
+TrumpKeeper shows [2h 2c] (a pair of Deuces [2h 2c Qh Js 7s])
+TrumpKeeper collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [Qh 6c Js 7s 3c]
+Seat 1: TrumpKeeper (button) showed [2h 2c] and won 80.00 with a pair of Deuces [2h 2c Qh Js 7s]
+Seat 2: Lorpugo3 (big blind) showed [5s Ts] and lost with a high card, Queen high [Qh Js Ts 7s 6c]
+
+Game Hand #396880178 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:38:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 10.00
+TrumpKeeper posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9s]
+Lorpugo3 raises 50.00 to 60.00
+TrumpKeeper calls 40.00
+*** FLOP *** [Js 6h 7s]
+Main pot 120.00
+TrumpKeeper checks
+Lorpugo3 bets 60.00
+TrumpKeeper folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Js 6h 7s]
+Seat 1: TrumpKeeper (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #396880365 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:39:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+TrumpKeeper posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Jh]
+TrumpKeeper raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to TrumpKeeper
+TrumpKeeper does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: TrumpKeeper did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396880448 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:39:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+TrumpKeeper posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 7d]
+Lorpugo3 folds
+TrumpKeeper does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: TrumpKeeper did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396880489 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:39:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+TrumpKeeper posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Kd]
+TrumpKeeper raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qc Qd 9d]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** TURN *** [Qc Qd 9d] [Ks]
+Main pot 80.00
+Lorpugo3 bets 60.00
+TrumpKeeper calls 60.00
+*** RIVER *** [Qc Qd 9d Ks] [2s]
+Main pot 200.00
+Lorpugo3 bets 50.00
+TrumpKeeper calls 50.00
+*** SHOW DOWN ***
+Main pot 300.00
+Lorpugo3 shows [3s Kd] (two pair, Kings and Queens [Ks Kd Qd Qc 9d])
+TrumpKeeper mucks hand
+Lorpugo3 collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Qc Qd 9d Ks 2s]
+Seat 1: TrumpKeeper (button) mucked [Tc 9h]
+Seat 2: Lorpugo3 (big blind) showed [3s Kd] and won 300.00 with two pair, Kings and Queens [Ks Kd Qd Qc 9d]
+
+Game Hand #396880770 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:40:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (1370.00)
+Seat 2: Lorpugo3 (1630.00)
+Lorpugo3 posts the small blind 10.00
+TrumpKeeper posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c Ts]
+Lorpugo3 raises 40.00 to 50.00
+TrumpKeeper calls 30.00
+*** FLOP *** [Qs 8s 3s]
+Main pot 100.00
+TrumpKeeper bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to TrumpKeeper
+TrumpKeeper does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Qs 8s 3s]
+Seat 1: TrumpKeeper did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #396880890 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:40:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+TrumpKeeper posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 4s]
+TrumpKeeper raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Ah 5d Kc]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** TURN *** [Ah 5d Kc] [9d]
+Main pot 80.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** RIVER *** [Ah 5d Kc 9d] [2d]
+Main pot 80.00
+Lorpugo3 bets 60.00
+TrumpKeeper folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ah 5d Kc 9d 2d]
+Seat 1: TrumpKeeper (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #396881140 - Tournament #20979934 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 09:41:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+Lorpugo3 posts the small blind 10.00
+TrumpKeeper posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Ad]
+Lorpugo3 raises 40.00 to 50.00
+TrumpKeeper calls 30.00
+*** FLOP *** [2c 3c Ah]
+Main pot 100.00
+TrumpKeeper checks
+Lorpugo3 bets 50.00
+TrumpKeeper calls 50.00
+*** TURN *** [2c 3c Ah] [As]
+Main pot 200.00
+TrumpKeeper checks
+Lorpugo3 bets 150.00
+TrumpKeeper calls 150.00
+*** RIVER *** [2c 3c Ah As] [Th]
+Main pot 500.00
+TrumpKeeper bets 120.00
+Lorpugo3 raises 390.00 to 390.00
+TrumpKeeper calls 270.00
+*** SHOW DOWN ***
+Main pot 1280.00
+Lorpugo3 shows [7s Ad] (three of a kind, Set of Aces [As Ah Ad Th 7s])
+TrumpKeeper mucks hand
+Lorpugo3 collected 1280.00 from main pot
+*** SUMMARY ***
+Total pot 1280.00
+Board [2c 3c Ah As Th]
+Seat 1: TrumpKeeper (big blind) mucked [Jh 3h]
+Seat 2: Lorpugo3 (button) showed [7s Ad] and won 1280.00 with three of a kind, Set of Aces [As Ah Ad Th 7s]
+
+Game Hand #396881498 - Tournament #20979934 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 09:42:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (740.00)
+Seat 2: Lorpugo3 (2260.00)
+TrumpKeeper posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 3s]
+TrumpKeeper calls 15.00
+Lorpugo3 checks
+*** FLOP *** [5s Ks Jc]
+Main pot 60.00
+Lorpugo3 checks
+TrumpKeeper checks
+*** TURN *** [5s Ks Jc] [As]
+Main pot 60.00
+Lorpugo3 bets 60.00
+TrumpKeeper calls 60.00
+*** RIVER *** [5s Ks Jc As] [9h]
+Main pot 180.00
+Lorpugo3 bets 90.00
+TrumpKeeper calls 90.00
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [Ad 3s] (a pair of Aces [As Ad Ks Jc 9h])
+TrumpKeeper mucks hand
+Lorpugo3 collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [5s Ks Jc As 9h]
+Seat 1: TrumpKeeper (button) mucked [6d 6s]
+Seat 2: Lorpugo3 (big blind) showed [Ad 3s] and won 360.00 with a pair of Aces [As Ad Ks Jc 9h]
+
+Game Hand #396881724 - Tournament #20979934 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 09:43:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (560.00)
+Seat 2: Lorpugo3 (2440.00)
+Lorpugo3 posts the small blind 15.00
+TrumpKeeper posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 3c]
+Lorpugo3 raises 45.00 to 60.00
+TrumpKeeper calls 30.00
+*** FLOP *** [5d 5c Qh]
+Main pot 120.00
+TrumpKeeper checks
+Lorpugo3 checks
+*** TURN *** [5d 5c Qh] [7d]
+Main pot 120.00
+TrumpKeeper checks
+Lorpugo3 bets 60.00
+TrumpKeeper folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5d 5c Qh 7d]
+Seat 1: TrumpKeeper (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #396881936 - Tournament #20979934 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 09:43:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: TrumpKeeper (500.00)
+Seat 2: Lorpugo3 (2500.00)
+TrumpKeeper posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 2d]
+TrumpKeeper raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to TrumpKeeper
+TrumpKeeper does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: TrumpKeeper did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396881990 - Tournament #20979934 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 09:44:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: TrumpKeeper (530.00)
+Seat 2: Lorpugo3 (2470.00)
+Lorpugo3 posts the small blind 15.00
+TrumpKeeper posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2s]
+Lorpugo3 raises 45.00 to 60.00
+TrumpKeeper raises 120.00 to 150.00
+Lorpugo3 calls 90.00
+*** FLOP *** [6s Kh 5c]
+Main pot 300.00
+TrumpKeeper bets 150.00
+Lorpugo3 calls 150.00
+*** TURN *** [6s Kh 5c] [2c]
+Main pot 600.00
+TrumpKeeper bets 230.00 and is all-in
+Lorpugo3 calls 230.00
+*** RIVER *** [6s Kh 5c 2c] [4c]
+Main pot 1060.00
+*** SHOW DOWN ***
+Main pot 1060.00
+TrumpKeeper shows [7h 4s] (a pair of Fours [4s 4c Kh 7h 6s])
+Lorpugo3 shows [Ks 2s] (two pair, Kings and Deuces [Ks Kh 2s 2c 6s])
+Lorpugo3 collected 1060.00 from main pot
+*** SUMMARY ***
+Total pot 1060.00
+Board [6s Kh 5c 2c 4c]
+Seat 1: TrumpKeeper (big blind) showed [7h 4s] and lost with a pair of Fours [4s 4c Kh 7h 6s]
+Seat 2: Lorpugo3 (button) showed [Ks 2s] and won 1060.00 with two pair, Kings and Deuces [Ks Kh 2s 2c 6s]
+

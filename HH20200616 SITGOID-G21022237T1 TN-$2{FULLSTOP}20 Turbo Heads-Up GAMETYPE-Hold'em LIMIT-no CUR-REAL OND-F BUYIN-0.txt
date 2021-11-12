@@ -1,0 +1,368 @@
+Game Hand #402502635 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:36:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Ac]
+Martyrdom raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+Martyrdom folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Martyrdom (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 160.00
+
+Game Hand #402502788 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:36:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Ks]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom calls 30.00
+*** FLOP *** [7s Kh 9c]
+Main pot 100.00
+Martyrdom checks
+Lorpugo3 checks
+*** TURN *** [7s Kh 9c] [Jc]
+Main pot 100.00
+Martyrdom bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [7s Kh 9c Jc] [7d]
+Main pot 300.00
+Martyrdom bets 1310.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1310.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [7s Kh 9c Jc 7d]
+Seat 1: Martyrdom did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #402503200 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:37:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Qd]
+Martyrdom raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [As Tc 6d]
+Main pot 80.00
+Lorpugo3 checks
+Martyrdom checks
+*** TURN *** [As Tc 6d] [7s]
+Main pot 80.00
+Lorpugo3 checks
+Martyrdom checks
+*** RIVER *** [As Tc 6d 7s] [8c]
+Main pot 80.00
+Lorpugo3 checks
+Martyrdom checks
+*** SHOW DOWN ***
+Main pot 80.00
+Lorpugo3 shows [7h Qd] (a pair of Sevens [7s 7h As Qd Tc])
+Martyrdom mucks hand
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [As Tc 6d 7s 8c]
+Seat 1: Martyrdom (button) mucked [4c 6s]
+Seat 2: Lorpugo3 (big blind) showed [7h Qd] and won 80.00 with a pair of Sevens [7s 7h As Qd Tc]
+
+Game Hand #402503482 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:37:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1570.00)
+Seat 2: Lorpugo3 (1430.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 5c]
+Lorpugo3 folds
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Martyrdom did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402503562 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:37:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Ad]
+Martyrdom folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Martyrdom (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402503605 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:37:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1570.00)
+Seat 2: Lorpugo3 (1430.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 9s]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Martyrdom (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402503687 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:38:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 6d]
+Martyrdom folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Martyrdom (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402503749 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:38:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s As]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom calls 30.00
+*** FLOP *** [6s Td 2s]
+Main pot 100.00
+Martyrdom checks
+Lorpugo3 bets 50.00
+Martyrdom folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [6s Td 2s]
+Seat 1: Martyrdom (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402503920 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:38:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 3h]
+Martyrdom raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Martyrdom did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402503999 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:38:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 6h]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Martyrdom (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402504082 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:38:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 9s]
+Martyrdom raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [As Qs 9h]
+Main pot 120.00
+Lorpugo3 checks
+Martyrdom bets 1430.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1430.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [As Qs 9h]
+Seat 1: Martyrdom did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402504266 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:39:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 8d]
+Lorpugo3 raises 30.00 to 40.00
+Martyrdom calls 20.00
+*** FLOP *** [Jd 2s 2h]
+Main pot 80.00
+Martyrdom bets 1510.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1510.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Jd 2s 2h]
+Seat 1: Martyrdom did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #402504448 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:39:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 7s]
+Martyrdom raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [9s 3h Js]
+Main pot 80.00
+Lorpugo3 checks
+Martyrdom bets 1550.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1550.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9s 3h Js]
+Seat 1: Martyrdom did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402504620 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:39:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1630.00)
+Seat 2: Lorpugo3 (1370.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Qd]
+Lorpugo3 raises 30.00 to 40.00
+Martyrdom calls 20.00
+*** FLOP *** [Ac Kd 5s]
+Main pot 80.00
+Martyrdom checks
+Lorpugo3 bets 40.00
+Martyrdom folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ac Kd 5s]
+Seat 1: Martyrdom (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #402504774 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:40:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3h]
+Martyrdom raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Martyrdom
+Martyrdom does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Martyrdom did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402504864 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:40:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Qc]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Martyrdom (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402504986 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:40:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Martyrdom (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+Martyrdom posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5c]
+Martyrdom folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Martyrdom (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402505035 - Tournament #21022237 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:40:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Martyrdom (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+Lorpugo3 posts the small blind 10.00
+Martyrdom posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ad]
+Lorpugo3 raises 40.00 to 50.00
+Martyrdom raises 1560.00 to 1580.00 and is all-in
+Lorpugo3 calls 1370.00 and is all-in
+Uncalled bet (160.00) returned to Martyrdom
+*** FLOP *** [4h 2c 6s]
+Main pot 2840.00
+*** TURN *** [4h 2c 6s] [Js]
+Main pot 2840.00
+*** RIVER *** [4h 2c 6s Js] [2d]
+Main pot 2840.00
+*** SHOW DOWN ***
+Main pot 2840.00
+Martyrdom shows [As Ks] (a pair of Deuces [2d 2c As Ks Js])
+Lorpugo3 shows [Qh Ad] (a pair of Deuces [2d 2c Ad Qh Js])
+Martyrdom collected 2840.00 from main pot
+*** SUMMARY ***
+Total pot 2840.00
+Board [4h 2c 6s Js 2d]
+Seat 1: Martyrdom (big blind) showed [As Ks] and won 2840.00 with a pair of Deuces [2d 2c As Ks Js] with the kicker King
+Seat 2: Lorpugo3 (button) showed [Qh Ad] and lost with a pair of Deuces [2d 2c Ad Qh Js]
+

@@ -1,0 +1,29 @@
+Game Hand #381450550 - Tournament #20849616 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:42:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Jh]
+Mrjbay raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+Mrjbay raises 1460.00 to 1500.00 and is all-in
+Lorpugo3 calls 1380.00 and is all-in
+*** FLOP *** [Th 4h Qh]
+Main pot 3000.00
+*** TURN *** [Th 4h Qh] [6d]
+Main pot 3000.00
+*** RIVER *** [Th 4h Qh 6d] [7d]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Mrjbay shows [5s 8h] (a straight, Eight high [8h 7d 6d 5s 4h])
+Lorpugo3 shows [Kc Jh] (a high card, King high [Kc Qh Jh Th 7d])
+Mrjbay collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [Th 4h Qh 6d 7d]
+Seat 1: Mrjbay (button) showed [5s 8h] and won 3000.00 with a straight, Eight high [8h 7d 6d 5s 4h]
+Seat 2: Lorpugo3 (big blind) showed [Kc Jh] and lost with a high card, King high [Kc Qh Jh Th 7d]
+

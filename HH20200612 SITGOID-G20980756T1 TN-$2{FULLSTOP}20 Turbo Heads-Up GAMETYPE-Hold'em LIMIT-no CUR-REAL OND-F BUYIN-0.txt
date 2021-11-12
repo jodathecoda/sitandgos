@@ -1,0 +1,1066 @@
+Game Hand #396971798 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:00:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: PuppyP (1500.00)
+Lorpugo3 posts the small blind 10.00
+PuppyP posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Td]
+Lorpugo3 raises 50.00 to 60.00
+PuppyP folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396971875 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:00:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: PuppyP (1480.00)
+PuppyP posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Kh]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396971904 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:00:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: PuppyP (1470.00)
+Lorpugo3 posts the small blind 10.00
+PuppyP posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 5d]
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 30.00
+
+Game Hand #396971943 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:00:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: PuppyP (1480.00)
+PuppyP posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Ah]
+PuppyP raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5d 7s 8s]
+Main pot 80.00
+Lorpugo3 checks
+PuppyP bets 40.00
+Lorpugo3 raises 130.00 to 130.00
+PuppyP calls 90.00
+*** TURN *** [5d 7s 8s] [3d]
+Main pot 340.00
+Lorpugo3 bets 295.00
+PuppyP calls 295.00
+*** RIVER *** [5d 7s 8s 3d] [4s]
+Main pot 930.00
+Lorpugo3 checks
+PuppyP checks
+*** SHOW DOWN ***
+Main pot 930.00
+Lorpugo3 shows [8c Ah] (a pair of Eights [8s 8c Ah 7s 5d])
+PuppyP mucks hand
+Lorpugo3 collected 930.00 from main pot
+*** SUMMARY ***
+Total pot 930.00
+Board [5d 7s 8s 3d 4s]
+Seat 1: Lorpugo3 (big blind) showed [8c Ah] and won 930.00 with a pair of Eights [8s 8c Ah 7s 5d] with the kicker Ace
+Seat 2: PuppyP (button) mucked [Jd 8d]
+
+Game Hand #396972355 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:01:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1985.00)
+Seat 2: PuppyP (1015.00)
+Lorpugo3 posts the small blind 10.00
+PuppyP posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 7h]
+Lorpugo3 raises 40.00 to 50.00
+PuppyP calls 30.00
+*** FLOP *** [6c 9h 5s]
+Main pot 100.00
+PuppyP bets 50.00
+Lorpugo3 raises 150.00 to 150.00
+PuppyP calls 100.00
+*** TURN *** [6c 9h 5s] [7c]
+Main pot 400.00
+PuppyP checks
+Lorpugo3 checks
+*** RIVER *** [6c 9h 5s 7c] [4h]
+Main pot 400.00
+PuppyP bets 200.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [6c 9h 5s 7c 4h]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: PuppyP did not show and won 400.00
+
+Game Hand #396972827 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:02:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1785.00)
+Seat 2: PuppyP (1215.00)
+PuppyP posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Qd]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396973000 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:03:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1795.00)
+Seat 2: PuppyP (1205.00)
+Lorpugo3 posts the small blind 10.00
+PuppyP posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Ac]
+Lorpugo3 raises 40.00 to 50.00
+PuppyP calls 30.00
+*** FLOP *** [5s 2s 3c]
+Main pot 100.00
+PuppyP checks
+Lorpugo3 bets 60.00
+PuppyP calls 60.00
+*** TURN *** [5s 2s 3c] [Qc]
+Main pot 220.00
+PuppyP checks
+Lorpugo3 bets 110.00
+PuppyP folds
+Uncalled bet (110.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 220.00
+Board [5s 2s 3c Qc]
+Seat 1: Lorpugo3 did not show and won 220.00
+Seat 2: PuppyP (big blind) folded on the Turn
+
+Game Hand #396973407 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:03:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1905.00)
+Seat 2: PuppyP (1095.00)
+PuppyP posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 3s]
+PuppyP raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 40.00
+
+Game Hand #396973568 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:04:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1885.00)
+Seat 2: PuppyP (1115.00)
+Lorpugo3 posts the small blind 10.00
+PuppyP posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 5c]
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 30.00
+
+Game Hand #396973683 - Tournament #20980756 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 14:04:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1875.00)
+Seat 2: PuppyP (1125.00)
+PuppyP posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Td]
+PuppyP raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qh Qd 8d]
+Main pot 80.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [Qh Qd 8d] [3h]
+Main pot 80.00
+Lorpugo3 bets 50.00
+PuppyP calls 50.00
+*** RIVER *** [Qh Qd 8d 3h] [Qs]
+Main pot 180.00
+Lorpugo3 bets 135.00
+PuppyP folds
+Uncalled bet (135.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [Qh Qd 8d 3h Qs]
+Seat 1: Lorpugo3 did not show and won 180.00
+Seat 2: PuppyP (button) folded on the River
+
+Game Hand #396974069 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:05:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1965.00)
+Seat 2: PuppyP (1035.00)
+Lorpugo3 posts the small blind 15.00
+PuppyP posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 3d]
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 45.00
+
+Game Hand #396974153 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:05:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1950.00)
+Seat 2: PuppyP (1050.00)
+PuppyP posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 8d]
+PuppyP calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 135.00
+Seat 1: Lorpugo3 did not show and won 135.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396974299 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:05:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1980.00)
+Seat 2: PuppyP (1020.00)
+Lorpugo3 posts the small blind 15.00
+PuppyP posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4s]
+Lorpugo3 raises 60.00 to 75.00
+PuppyP calls 45.00
+*** FLOP *** [5d 9h 5h]
+Main pot 150.00
+PuppyP checks
+Lorpugo3 bets 75.00
+PuppyP calls 75.00
+*** TURN *** [5d 9h 5h] [2h]
+Main pot 300.00
+PuppyP checks
+Lorpugo3 checks
+*** RIVER *** [5d 9h 5h 2h] [9s]
+Main pot 300.00
+PuppyP checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 300.00
+PuppyP shows [5s As] (a full house, Fives full of Nines [5s 5h 5d 9s 9h])
+Lorpugo3 mucks hand
+PuppyP collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [5d 9h 5h 2h 9s]
+Seat 1: Lorpugo3 (button) mucked [Qs 4s]
+Seat 2: PuppyP (big blind) showed [5s As] and won 300.00 with a full house, Fives full of Nines [5s 5h 5d 9s 9h]
+
+Game Hand #396974879 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:07:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1830.00)
+Seat 2: PuppyP (1170.00)
+PuppyP posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d As]
+PuppyP raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [4c 4d 2c]
+Main pot 150.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [4c 4d 2c] [Td]
+Main pot 150.00
+Lorpugo3 bets 75.00
+PuppyP folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [4c 4d 2c Td]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: PuppyP (button) folded on the Turn
+
+Game Hand #396975220 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:07:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1905.00)
+Seat 2: PuppyP (1095.00)
+Lorpugo3 posts the small blind 15.00
+PuppyP posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ad]
+Lorpugo3 raises 60.00 to 75.00
+PuppyP folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396975381 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:08:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1935.00)
+Seat 2: PuppyP (1065.00)
+PuppyP posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Jd]
+PuppyP raises 60.00 to 75.00
+Lorpugo3 raises 195.00 to 225.00
+PuppyP calls 150.00
+*** FLOP *** [Qs 5s 7c]
+Main pot 450.00
+Lorpugo3 bets 225.00
+PuppyP folds
+Uncalled bet (225.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [Qs 5s 7c]
+Seat 1: Lorpugo3 did not show and won 450.00
+Seat 2: PuppyP (button) folded on the Flop
+
+Game Hand #396975715 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:08:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2160.00)
+Seat 2: PuppyP (840.00)
+Lorpugo3 posts the small blind 15.00
+PuppyP posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 8d]
+Lorpugo3 raises 60.00 to 75.00
+PuppyP calls 45.00
+*** FLOP *** [5s Qh 3c]
+Main pot 150.00
+PuppyP checks
+Lorpugo3 bets 60.00
+PuppyP folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [5s Qh 3c]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: PuppyP (big blind) folded on the Flop
+
+Game Hand #396976198 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:09:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2235.00)
+Seat 2: PuppyP (765.00)
+PuppyP posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Ts]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396976253 - Tournament #20980756 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 14:10:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2250.00)
+Seat 2: PuppyP (750.00)
+Lorpugo3 posts the small blind 15.00
+PuppyP posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 7h]
+Lorpugo3 raises 60.00 to 75.00
+PuppyP raises 195.00 to 225.00
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 300.00
+
+Game Hand #396976412 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:10:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2175.00)
+Seat 2: PuppyP (825.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 4h]
+PuppyP raises 125.00 to 150.00
+Lorpugo3 raises 2125.00 to 2175.00 and is all-in
+PuppyP calls 675.00 and is all-in
+Uncalled bet (1350.00) returned to Lorpugo3
+*** FLOP *** [Tc 5c Ks]
+Main pot 1650.00
+*** TURN *** [Tc 5c Ks] [3s]
+Main pot 1650.00
+*** RIVER *** [Tc 5c Ks 3s] [4c]
+Main pot 1650.00
+*** SHOW DOWN ***
+Main pot 1650.00
+Lorpugo3 shows [Ac 4h] (a pair of Fours [4h 4c Ac Ks Tc])
+PuppyP shows [6d 6h] (a pair of Sixs [6h 6d Ks Tc 5c])
+PuppyP collected 1650.00 from main pot
+*** SUMMARY ***
+Total pot 1650.00
+Board [Tc 5c Ks 3s 4c]
+Seat 1: Lorpugo3 (big blind) showed [Ac 4h] and lost with a pair of Fours [4h 4c Ac Ks Tc]
+Seat 2: PuppyP (button) showed [6d 6h] and won 1650.00 with a pair of Sixs [6h 6d Ks Tc 5c]
+
+Game Hand #396976637 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:10:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1350.00)
+Seat 2: PuppyP (1650.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Kc]
+Lorpugo3 raises 100.00 to 125.00
+PuppyP folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396976762 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:11:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: PuppyP (1600.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 3c]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396976860 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:11:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1425.00)
+Seat 2: PuppyP (1575.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8h]
+Lorpugo3 raises 100.00 to 125.00
+PuppyP raises 325.00 to 375.00
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 500.00
+
+Game Hand #396977094 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:11:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1300.00)
+Seat 2: PuppyP (1700.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 4d]
+PuppyP raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 100.00
+
+Game Hand #396977258 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:12:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1250.00)
+Seat 2: PuppyP (1750.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 3d]
+Lorpugo3 raises 100.00 to 125.00
+PuppyP calls 75.00
+*** FLOP *** [Tc 5s 6c]
+Main pot 250.00
+PuppyP checks
+Lorpugo3 bets 125.00
+PuppyP calls 125.00
+*** TURN *** [Tc 5s 6c] [7h]
+Main pot 500.00
+PuppyP checks
+Lorpugo3 checks
+*** RIVER *** [Tc 5s 6c 7h] [8h]
+Main pot 500.00
+PuppyP checks
+Lorpugo3 bets 500.00
+PuppyP calls 500.00
+*** SHOW DOWN ***
+Main pot 1500.00
+Lorpugo3 shows [5d 3d] (a pair of Fives [5s 5d Tc 8h 7h])
+PuppyP shows [6s 7s] (two pair, Sevens and Sixs [7s 7h 6s 6c Tc])
+PuppyP collected 1500.00 from main pot
+*** SUMMARY ***
+Total pot 1500.00
+Board [Tc 5s 6c 7h 8h]
+Seat 1: Lorpugo3 (button) showed [5d 3d] and lost with a pair of Fives [5s 5d Tc 8h 7h]
+Seat 2: PuppyP (big blind) showed [6s 7s] and won 1500.00 with two pair, Sevens and Sixs [7s 7h 6s 6c Tc]
+
+Game Hand #396977633 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:12:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: PuppyP (2500.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 5s]
+PuppyP calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Th 8s 6c]
+Main pot 100.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [Th 8s 6c] [Qc]
+Main pot 100.00
+Lorpugo3 bets 50.00
+PuppyP calls 50.00
+*** RIVER *** [Th 8s 6c Qc] [3h]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [2d 5s] (a high card, Queen high [Qc Th 8s 6c 5s])
+PuppyP shows [3c Jc] (a pair of Threes [3h 3c Qc Jc Th])
+PuppyP collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [Th 8s 6c Qc 3h]
+Seat 1: Lorpugo3 (big blind) showed [2d 5s] and lost with a high card, Queen high [Qc Th 8s 6c 5s]
+Seat 2: PuppyP (button) showed [3c Jc] and won 200.00 with a pair of Threes [3h 3c Qc Jc Th]
+
+Game Hand #396977908 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:13:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (400.00)
+Seat 2: PuppyP (2600.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 2h]
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 75.00
+
+Game Hand #396978000 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:13:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (375.00)
+Seat 2: PuppyP (2625.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 3c]
+PuppyP raises 75.00 to 100.00
+Lorpugo3 raises 325.00 to 375.00 and is all-in
+PuppyP calls 275.00
+*** FLOP *** [Qc Kd Ac]
+Main pot 750.00
+*** TURN *** [Qc Kd Ac] [6s]
+Main pot 750.00
+*** RIVER *** [Qc Kd Ac 6s] [3s]
+Main pot 750.00
+*** SHOW DOWN ***
+Main pot 750.00
+Lorpugo3 shows [Ad 3c] (two pair, Aces and Threes [Ad Ac 3s 3c Kd])
+PuppyP shows [9s 9c] (a pair of Nines [9s 9c Ac Kd Qc])
+Lorpugo3 collected 750.00 from main pot
+*** SUMMARY ***
+Total pot 750.00
+Board [Qc Kd Ac 6s 3s]
+Seat 1: Lorpugo3 (big blind) showed [Ad 3c] and won 750.00 with two pair, Aces and Threes [Ad Ac 3s 3c Kd]
+Seat 2: PuppyP (button) showed [9s 9c] and lost with a pair of Nines [9s 9c Ac Kd Qc]
+
+Game Hand #396978144 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:13:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (750.00)
+Seat 2: PuppyP (2250.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8d]
+Lorpugo3 calls 25.00
+PuppyP checks
+*** FLOP *** [5h 5d Ac]
+Main pot 100.00
+PuppyP checks
+Lorpugo3 bets 50.00
+PuppyP folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [5h 5d Ac]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: PuppyP (big blind) folded on the Flop
+
+Game Hand #396978437 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:14:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (800.00)
+Seat 2: PuppyP (2200.00)
+PuppyP posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Th]
+PuppyP raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 100.00
+
+Game Hand #396978545 - Tournament #20980756 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 14:14:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (750.00)
+Seat 2: PuppyP (2250.00)
+Lorpugo3 posts the small blind 25.00
+PuppyP posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 3s]
+Lorpugo3 raises 75.00 to 100.00
+PuppyP calls 50.00
+*** FLOP *** [8s 2h Ad]
+Main pot 200.00
+PuppyP checks
+Lorpugo3 bets 100.00
+PuppyP calls 100.00
+*** TURN *** [8s 2h Ad] [6h]
+Main pot 400.00
+PuppyP checks
+Lorpugo3 checks
+*** RIVER *** [8s 2h Ad 6h] [2d]
+Main pot 400.00
+PuppyP checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 400.00
+PuppyP shows [4s As] (two pair, Aces and Deuces [As Ad 2h 2d 8s])
+Lorpugo3 mucks hand
+PuppyP collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [8s 2h Ad 6h 2d]
+Seat 1: Lorpugo3 (button) mucked [Kc 3s]
+Seat 2: PuppyP (big blind) showed [4s As] and won 400.00 with two pair, Aces and Deuces [As Ad 2h 2d 8s]
+
+Game Hand #396978993 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:15:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (550.00)
+Seat 2: PuppyP (2450.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 7c]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396979064 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:15:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (600.00)
+Seat 2: PuppyP (2400.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 8c]
+Lorpugo3 raises 550.00 to 600.00 and is all-in
+PuppyP folds
+Uncalled bet (500.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396979171 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:15:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (700.00)
+Seat 2: PuppyP (2300.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Qs]
+PuppyP calls 50.00
+Lorpugo3 checks
+*** FLOP *** [3s Tc 9d]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [3s Tc 9d] [4c]
+Main pot 200.00
+Lorpugo3 bets 100.00
+PuppyP folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [3s Tc 9d 4c]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (button) folded on the Turn
+
+Game Hand #396979470 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:16:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (800.00)
+Seat 2: PuppyP (2200.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 7s]
+Lorpugo3 raises 750.00 to 800.00 and is all-in
+PuppyP folds
+Uncalled bet (700.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396979583 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:16:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (900.00)
+Seat 2: PuppyP (2100.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Qd]
+PuppyP calls 50.00
+Lorpugo3 checks
+*** FLOP *** [8d 8h 3c]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [8d 8h 3c] [Qs]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** RIVER *** [8d 8h 3c Qs] [7d]
+Main pot 200.00
+Lorpugo3 bets 100.00
+PuppyP folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [8d 8h 3c Qs 7d]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (button) folded on the River
+
+Game Hand #396979971 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:17:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1000.00)
+Seat 2: PuppyP (2000.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Js]
+Lorpugo3 raises 950.00 to 1000.00 and is all-in
+PuppyP calls 900.00
+*** FLOP *** [Ts Kc Td]
+Main pot 2000.00
+*** TURN *** [Ts Kc Td] [7h]
+Main pot 2000.00
+*** RIVER *** [Ts Kc Td 7h] [3h]
+Main pot 2000.00
+*** SHOW DOWN ***
+Main pot 2000.00
+Lorpugo3 shows [Tc Js] (three of a kind, Set of Tens [Ts Td Tc Kc Js])
+PuppyP shows [Ah 7d] (two pair, Tens and Sevens [Ts Td 7h 7d Ah])
+Lorpugo3 collected 2000.00 from main pot
+*** SUMMARY ***
+Total pot 2000.00
+Board [Ts Kc Td 7h 3h]
+Seat 1: Lorpugo3 (button) showed [Tc Js] and won 2000.00 with three of a kind, Set of Tens [Ts Td Tc Kc Js]
+Seat 2: PuppyP (big blind) showed [Ah 7d] and lost with two pair, Tens and Sevens [Ts Td 7h 7d Ah]
+
+Game Hand #396980163 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:17:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2000.00)
+Seat 2: PuppyP (1000.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 2h]
+PuppyP raises 950.00 to 1000.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (900.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 200.00
+
+Game Hand #396980376 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:18:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1900.00)
+Seat 2: PuppyP (1100.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 8d]
+Lorpugo3 calls 50.00
+PuppyP checks
+*** FLOP *** [2c 6d Qh]
+Main pot 200.00
+PuppyP checks
+Lorpugo3 bets 200.00
+PuppyP folds
+Uncalled bet (200.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2c 6d Qh]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (big blind) folded on the Flop
+
+Game Hand #396980552 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:18:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2000.00)
+Seat 2: PuppyP (1000.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8h]
+PuppyP raises 950.00 to 1000.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (900.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 200.00
+
+Game Hand #396980693 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:18:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1900.00)
+Seat 2: PuppyP (1100.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 4h]
+Lorpugo3 folds
+PuppyP does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 150.00
+
+Game Hand #396980805 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:19:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1850.00)
+Seat 2: PuppyP (1150.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 9d]
+PuppyP calls 50.00
+Lorpugo3 checks
+*** FLOP *** [2s 5c 3c]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** TURN *** [2s 5c 3c] [4c]
+Main pot 200.00
+Lorpugo3 checks
+PuppyP checks
+*** RIVER *** [2s 5c 3c 4c] [9h]
+Main pot 200.00
+Lorpugo3 bets 100.00
+PuppyP folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2s 5c 3c 4c 9h]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PuppyP (button) folded on the River
+
+Game Hand #396981092 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:19:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1950.00)
+Seat 2: PuppyP (1050.00)
+Lorpugo3 posts the small blind 50.00
+PuppyP posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 5c]
+Lorpugo3 raises 1900.00 to 1950.00 and is all-in
+PuppyP calls 950.00 and is all-in
+Uncalled bet (900.00) returned to Lorpugo3
+*** FLOP *** [Qs Qd 6h]
+Main pot 2100.00
+*** TURN *** [Qs Qd 6h] [Th]
+Main pot 2100.00
+*** RIVER *** [Qs Qd 6h Th] [Jh]
+Main pot 2100.00
+*** SHOW DOWN ***
+Main pot 2100.00
+Lorpugo3 shows [Kd 5c] (a pair of Queens [Qs Qd Kd Jh Th])
+PuppyP shows [Js As] (two pair, Queens and Jacks [Qs Qd Js Jh As])
+PuppyP collected 2100.00 from main pot
+*** SUMMARY ***
+Total pot 2100.00
+Board [Qs Qd 6h Th Jh]
+Seat 1: Lorpugo3 (button) showed [Kd 5c] and lost with a pair of Queens [Qs Qd Kd Jh Th]
+Seat 2: PuppyP (big blind) showed [Js As] and won 2100.00 with two pair, Queens and Jacks [Qs Qd Js Jh As]
+
+Game Hand #396981307 - Tournament #20980756 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/12 14:20:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (900.00)
+Seat 2: PuppyP (2100.00)
+PuppyP posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Th]
+PuppyP raises 2050.00 to 2100.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2000.00) returned to PuppyP
+PuppyP does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PuppyP did not show and won 200.00
+
+Game Hand #396981432 - Tournament #20980756 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/06/12 14:20:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (800.00)
+Seat 2: PuppyP (2200.00)
+Lorpugo3 posts the small blind 75.00
+PuppyP posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 8s]
+Lorpugo3 raises 725.00 to 800.00 and is all-in
+PuppyP folds
+Uncalled bet (650.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: PuppyP (big blind) folded on the Pre-Flop
+
+Game Hand #396981573 - Tournament #20980756 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/06/12 14:20:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (950.00)
+Seat 2: PuppyP (2050.00)
+PuppyP posts the small blind 75.00
+Lorpugo3 posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Kd]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 did not show and won 225.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396981621 - Tournament #20980756 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/06/12 14:20:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1025.00)
+Seat 2: PuppyP (1975.00)
+Lorpugo3 posts the small blind 75.00
+PuppyP posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Jh]
+Lorpugo3 raises 950.00 to 1025.00 and is all-in
+PuppyP calls 875.00
+*** FLOP *** [2c 8d Jd]
+Main pot 2050.00
+*** TURN *** [2c 8d Jd] [Ts]
+Main pot 2050.00
+*** RIVER *** [2c 8d Jd Ts] [Qc]
+Main pot 2050.00
+*** SHOW DOWN ***
+Main pot 2050.00
+Lorpugo3 shows [9c Jh] (a straight, Queen high [Qc Jh Ts 9c 8d])
+PuppyP shows [5c As] (a high card, Ace high [As Qc Jd Ts 8d])
+Lorpugo3 collected 2050.00 from main pot
+*** SUMMARY ***
+Total pot 2050.00
+Board [2c 8d Jd Ts Qc]
+Seat 1: Lorpugo3 (button) showed [9c Jh] and won 2050.00 with a straight, Queen high [Qc Jh Ts 9c 8d]
+Seat 2: PuppyP (big blind) showed [5c As] and lost with a high card, Ace high [As Qc Jd Ts 8d]
+
+Game Hand #396981755 - Tournament #20980756 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/06/12 14:21:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2050.00)
+Seat 2: PuppyP (950.00)
+PuppyP posts the small blind 75.00
+Lorpugo3 posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 6c]
+PuppyP folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 did not show and won 225.00
+Seat 2: PuppyP (button) folded on the Pre-Flop
+
+Game Hand #396981815 - Tournament #20980756 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/06/12 14:21:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2125.00)
+Seat 2: PuppyP (875.00)
+Lorpugo3 posts the small blind 75.00
+PuppyP posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Ts]
+Lorpugo3 raises 2050.00 to 2125.00 and is all-in
+PuppyP calls 725.00 and is all-in
+Uncalled bet (1250.00) returned to Lorpugo3
+*** FLOP *** [Kh 3h 4s]
+Main pot 1750.00
+*** TURN *** [Kh 3h 4s] [Kc]
+Main pot 1750.00
+*** RIVER *** [Kh 3h 4s Kc] [8c]
+Main pot 1750.00
+*** SHOW DOWN ***
+Main pot 1750.00
+Lorpugo3 shows [Kd Ts] (three of a kind, Set of Kings [Kh Kd Kc Ts 8c])
+PuppyP shows [9c 7c] (a pair of Kings [Kh Kc 9c 8c 7c])
+Lorpugo3 collected 1750.00 from main pot
+*** SUMMARY ***
+Total pot 1750.00
+Board [Kh 3h 4s Kc 8c]
+Seat 1: Lorpugo3 (button) showed [Kd Ts] and won 1750.00 with three of a kind, Set of Kings [Kh Kd Kc Ts 8c]
+Seat 2: PuppyP (big blind) showed [9c 7c] and lost with a pair of Kings [Kh Kc 9c 8c 7c]
+

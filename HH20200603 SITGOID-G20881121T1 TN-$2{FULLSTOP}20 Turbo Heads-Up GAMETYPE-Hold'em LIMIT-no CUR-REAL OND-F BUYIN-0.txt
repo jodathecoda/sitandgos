@@ -1,0 +1,771 @@
+Game Hand #384952878 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:54:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Charlie79 (1500.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 3d]
+Charlie79 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8d Ac 5h]
+Main pot 40.00
+Lorpugo3 checks
+Charlie79 checks
+*** TURN *** [8d Ac 5h] [2h]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Charlie79 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8d Ac 5h 2h]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Charlie79 (button) folded on the Turn
+
+Game Hand #384953035 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:54:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: Charlie79 (1480.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Jh]
+Lorpugo3 raises 60.00 to 70.00
+Charlie79 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Charlie79 (big blind) folded on the Pre-Flop
+
+Game Hand #384953105 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:54:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: Charlie79 (1460.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Th]
+Charlie79 raises 40.00 to 50.00
+Lorpugo3 raises 110.00 to 130.00
+Charlie79 calls 80.00
+*** FLOP *** [Kh Ah 3s]
+Main pot 260.00
+Lorpugo3 checks
+Charlie79 bets 130.00
+Lorpugo3 calls 130.00
+*** TURN *** [Kh Ah 3s] [3h]
+Main pot 520.00
+Lorpugo3 checks
+Charlie79 bets 260.00
+Lorpugo3 raises 580.00 to 580.00
+Charlie79 folds
+Uncalled bet (320.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 1040.00
+Board [Kh Ah 3s 3h]
+Seat 1: Lorpugo3 did not show and won 1040.00
+Seat 2: Charlie79 (button) folded on the Turn
+
+Game Hand #384953404 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:55:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2060.00)
+Seat 2: Charlie79 (940.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 7h]
+Lorpugo3 raises 50.00 to 60.00
+Charlie79 calls 40.00
+*** FLOP *** [8d Kh Qh]
+Main pot 120.00
+Charlie79 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8d Kh Qh]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Charlie79 did not show and won 120.00
+
+Game Hand #384953463 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:55:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2000.00)
+Seat 2: Charlie79 (1000.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9s]
+Charlie79 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Charlie79 (button) folded on the Pre-Flop
+
+Game Hand #384953479 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:55:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2010.00)
+Seat 2: Charlie79 (990.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6s]
+Lorpugo3 folds
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 30.00
+
+Game Hand #384953510 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:55:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2000.00)
+Seat 2: Charlie79 (1000.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Th]
+Charlie79 raises 40.00 to 50.00
+Lorpugo3 raises 110.00 to 130.00
+Charlie79 calls 80.00
+*** FLOP *** [Kh 8c 4c]
+Main pot 260.00
+Lorpugo3 bets 70.00
+Charlie79 folds
+Uncalled bet (70.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 260.00
+Board [Kh 8c 4c]
+Seat 1: Lorpugo3 did not show and won 260.00
+Seat 2: Charlie79 (button) folded on the Flop
+
+Game Hand #384953608 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:56:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2130.00)
+Seat 2: Charlie79 (870.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 9h]
+Lorpugo3 raises 50.00 to 60.00
+Charlie79 calls 40.00
+*** FLOP *** [Ks Th 9c]
+Main pot 120.00
+Charlie79 checks
+Lorpugo3 checks
+*** TURN *** [Ks Th 9c] [7h]
+Main pot 120.00
+Charlie79 bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [Ks Th 9c 7h] [Js]
+Main pot 240.00
+Charlie79 bets 120.00
+Lorpugo3 raises 360.00 to 360.00
+Charlie79 calls 240.00
+*** SHOW DOWN ***
+Main pot 960.00
+Lorpugo3 shows [Qh 9h] (a straight, King high [Ks Qh Js Th 9h])
+Charlie79 mucks hand
+Lorpugo3 collected 960.00 from main pot
+*** SUMMARY ***
+Total pot 960.00
+Board [Ks Th 9c 7h Js]
+Seat 1: Lorpugo3 (button) showed [Qh 9h] and won 960.00 with a straight, King high [Ks Qh Js Th 9h]
+Seat 2: Charlie79 (big blind) mucked [Ts Jc]
+
+Game Hand #384953819 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:56:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2610.00)
+Seat 2: Charlie79 (390.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Ad]
+Charlie79 calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+Charlie79 calls 30.00
+*** FLOP *** [4d 9s Jc]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Charlie79 raises 340.00 to 340.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (290.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [4d 9s Jc]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Charlie79 did not show and won 200.00
+
+Game Hand #384953939 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:57:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2510.00)
+Seat 2: Charlie79 (490.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 8c]
+Lorpugo3 raises 40.00 to 50.00
+Charlie79 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Charlie79 (big blind) folded on the Pre-Flop
+
+Game Hand #384953994 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:57:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2530.00)
+Seat 2: Charlie79 (470.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 7h]
+Charlie79 raises 460.00 to 470.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (450.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 40.00
+
+Game Hand #384954116 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:57:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2510.00)
+Seat 2: Charlie79 (490.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Th]
+Lorpugo3 raises 30.00 to 40.00
+Charlie79 raises 470.00 to 490.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (450.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 80.00
+
+Game Hand #384954183 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:57:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2470.00)
+Seat 2: Charlie79 (530.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 6d]
+Charlie79 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Charlie79 (button) folded on the Pre-Flop
+
+Game Hand #384954215 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:57:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2480.00)
+Seat 2: Charlie79 (520.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Qs]
+Lorpugo3 raises 30.00 to 40.00
+Charlie79 calls 20.00
+*** FLOP *** [8s 2c 8c]
+Main pot 80.00
+Charlie79 checks
+Lorpugo3 bets 40.00
+Charlie79 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [8s 2c 8c]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Charlie79 (big blind) folded on the Flop
+
+Game Hand #384954333 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:58:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2520.00)
+Seat 2: Charlie79 (480.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 2d]
+Charlie79 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [3d 6h Kd]
+Main pot 80.00
+Lorpugo3 checks
+Charlie79 bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [3d 6h Kd] [9h]
+Main pot 160.00
+Lorpugo3 checks
+Charlie79 checks
+*** RIVER *** [3d 6h Kd 9h] [4s]
+Main pot 160.00
+Lorpugo3 bets 80.00
+Charlie79 folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [3d 6h Kd 9h 4s]
+Seat 1: Lorpugo3 did not show and won 160.00
+Seat 2: Charlie79 (button) folded on the River
+
+Game Hand #384954483 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:58:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2600.00)
+Seat 2: Charlie79 (400.00)
+Lorpugo3 posts the small blind 10.00
+Charlie79 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Qs]
+Lorpugo3 raises 30.00 to 40.00
+Charlie79 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Charlie79 (big blind) folded on the Pre-Flop
+
+Game Hand #384954539 - Tournament #20881121 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:58:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2620.00)
+Seat 2: Charlie79 (380.00)
+Charlie79 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 9h]
+Charlie79 raises 370.00 to 380.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (360.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 40.00
+
+Game Hand #384954586 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:59:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2600.00)
+Seat 2: Charlie79 (400.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 2d]
+Lorpugo3 folds
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 45.00
+
+Game Hand #384954622 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:59:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2585.00)
+Seat 2: Charlie79 (415.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3s]
+Charlie79 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Ad Qh 7c]
+Main pot 60.00
+Lorpugo3 checks
+Charlie79 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Ad Qh 7c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Charlie79 did not show and won 60.00
+
+Game Hand #384954703 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:59:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2555.00)
+Seat 2: Charlie79 (445.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 5h]
+Lorpugo3 folds
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 45.00
+
+Game Hand #384954748 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:59:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2540.00)
+Seat 2: Charlie79 (460.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 8c]
+Charlie79 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Charlie79 (button) folded on the Pre-Flop
+
+Game Hand #384954774 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:59:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2555.00)
+Seat 2: Charlie79 (445.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 4s]
+Lorpugo3 calls 15.00
+Charlie79 checks
+*** FLOP *** [9d 2h 5c]
+Main pot 60.00
+Charlie79 bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [9d 2h 5c] [Tc]
+Main pot 120.00
+Charlie79 bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [9d 2h 5c Tc] [2s]
+Main pot 240.00
+Charlie79 bets 120.00
+Lorpugo3 calls 120.00
+*** SHOW DOWN ***
+Main pot 480.00
+Charlie79 shows [7c 5h] (two pair, Fives and Deuces [5h 5c 2s 2h Tc])
+Lorpugo3 shows [5d 4s] (two pair, Fives and Deuces [5d 5c 2s 2h Tc])
+Lorpugo3 collected 240.00 from main pot
+Charlie79 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 480.00
+Board [9d 2h 5c Tc 2s]
+Seat 1: Lorpugo3 (button) showed [5d 4s] and won 240.00 with two pair, Fives and Deuces [5d 5c 2s 2h Tc]
+Seat 2: Charlie79 (big blind) showed [7c 5h] and won 240.00 with two pair, Fives and Deuces [5h 5c 2s 2h Tc]
+
+Game Hand #384954972 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:00:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2555.00)
+Seat 2: Charlie79 (445.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 9c]
+Charlie79 calls 15.00
+Lorpugo3 raises 30.00 to 60.00
+Charlie79 calls 30.00
+*** FLOP *** [Js Jd 9s]
+Main pot 120.00
+Lorpugo3 checks
+Charlie79 checks
+*** TURN *** [Js Jd 9s] [Ah]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Charlie79 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Js Jd 9s Ah]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Charlie79 (button) folded on the Turn
+
+Game Hand #384955118 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:00:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2615.00)
+Seat 2: Charlie79 (385.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Qs]
+Lorpugo3 raises 45.00 to 60.00
+Charlie79 calls 30.00
+*** FLOP *** [6c 3s Td]
+Main pot 120.00
+Charlie79 checks
+Lorpugo3 bets 30.00
+Charlie79 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [6c 3s Td]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Charlie79 (big blind) folded on the Flop
+
+Game Hand #384955248 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:01:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2675.00)
+Seat 2: Charlie79 (325.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ad]
+Charlie79 raises 310.00 to 325.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (295.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 60.00
+
+Game Hand #384955325 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:01:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2645.00)
+Seat 2: Charlie79 (355.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 4d]
+Lorpugo3 raises 45.00 to 60.00
+Charlie79 calls 30.00
+*** FLOP *** [5h 2h Th]
+Main pot 120.00
+Charlie79 checks
+Lorpugo3 bets 30.00
+Charlie79 raises 60.00 to 60.00
+Lorpugo3 calls 30.00
+*** TURN *** [5h 2h Th] [Ts]
+Main pot 240.00
+Charlie79 bets 235.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (235.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [5h 2h Th Ts]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Charlie79 did not show and won 240.00
+
+Game Hand #384955509 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:01:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2525.00)
+Seat 2: Charlie79 (475.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Td]
+Charlie79 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+Charlie79 raises 445.00 to 475.00 and is all-in
+Lorpugo3 calls 385.00
+*** FLOP *** [4c Ad 3s]
+Main pot 950.00
+*** TURN *** [4c Ad 3s] [Jh]
+Main pot 950.00
+*** RIVER *** [4c Ad 3s Jh] [Ts]
+Main pot 950.00
+*** SHOW DOWN ***
+Main pot 950.00
+Lorpugo3 shows [Kc Td] (a pair of Tens [Ts Td Ad Kc Jh])
+Charlie79 shows [As Kh] (a pair of Aces [As Ad Kh Jh Ts])
+Charlie79 collected 950.00 from main pot
+*** SUMMARY ***
+Total pot 950.00
+Board [4c Ad 3s Jh Ts]
+Seat 1: Lorpugo3 (big blind) showed [Kc Td] and lost with a pair of Tens [Ts Td Ad Kc Jh]
+Seat 2: Charlie79 (button) showed [As Kh] and won 950.00 with a pair of Aces [As Ad Kh Jh Ts]
+
+Game Hand #384955681 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:02:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2050.00)
+Seat 2: Charlie79 (950.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 5d]
+Lorpugo3 folds
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 45.00
+
+Game Hand #384955738 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:02:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2035.00)
+Seat 2: Charlie79 (965.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 3h]
+Charlie79 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [7s 8c 4s]
+Main pot 60.00
+Lorpugo3 checks
+Charlie79 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [7s 8c 4s]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Charlie79 did not show and won 60.00
+
+Game Hand #384955872 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:02:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2005.00)
+Seat 2: Charlie79 (995.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Ts]
+Lorpugo3 raises 60.00 to 75.00
+Charlie79 raises 965.00 to 995.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (920.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 150.00
+
+Game Hand #384955989 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:02:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1930.00)
+Seat 2: Charlie79 (1070.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 6h]
+Charlie79 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Kc Jc 9d]
+Main pot 60.00
+Lorpugo3 checks
+Charlie79 checks
+*** TURN *** [Kc Jc 9d] [4c]
+Main pot 60.00
+Lorpugo3 bets 30.00
+Charlie79 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Kc Jc 9d 4c]
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Charlie79 (button) folded on the Turn
+
+Game Hand #384956165 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:03:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1960.00)
+Seat 2: Charlie79 (1040.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 4d]
+Lorpugo3 raises 75.00 to 90.00
+Charlie79 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Charlie79 (big blind) folded on the Pre-Flop
+
+Game Hand #384956254 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:03:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1990.00)
+Seat 2: Charlie79 (1010.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 6c]
+Charlie79 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qc 8c 7s]
+Main pot 60.00
+Lorpugo3 checks
+Charlie79 bets 45.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Qc 8c 7s]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Charlie79 did not show and won 60.00
+
+Game Hand #384956408 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:03:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1960.00)
+Seat 2: Charlie79 (1040.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Js]
+Lorpugo3 raises 60.00 to 75.00
+Charlie79 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Charlie79 (big blind) folded on the Pre-Flop
+
+Game Hand #384956488 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:03:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1990.00)
+Seat 2: Charlie79 (1010.00)
+Charlie79 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 3d]
+Charlie79 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Charlie79
+Charlie79 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Charlie79 did not show and won 60.00
+
+Game Hand #384956558 - Tournament #20881121 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 14:03:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1960.00)
+Seat 2: Charlie79 (1040.00)
+Lorpugo3 posts the small blind 15.00
+Charlie79 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Qd]
+Lorpugo3 raises 60.00 to 75.00
+Charlie79 raises 1010.00 to 1040.00 and is all-in
+Lorpugo3 calls 965.00
+*** FLOP *** [2s 2c Kh]
+Main pot 2080.00
+*** TURN *** [2s 2c Kh] [Qc]
+Main pot 2080.00
+*** RIVER *** [2s 2c Kh Qc] [7c]
+Main pot 2080.00
+*** SHOW DOWN ***
+Main pot 2080.00
+Lorpugo3 shows [Qs Qd] (a full house, Queens full of Deuces [Qs Qd Qc 2s 2c])
+Charlie79 shows [Ad Tc] (a pair of Deuces [2s 2c Ad Kh Qc])
+Lorpugo3 collected 2080.00 from main pot
+*** SUMMARY ***
+Total pot 2080.00
+Board [2s 2c Kh Qc 7c]
+Seat 1: Lorpugo3 (button) showed [Qs Qd] and won 2080.00 with a full house, Queens full of Deuces [Qs Qd Qc 2s 2c]
+Seat 2: Charlie79 (big blind) showed [Ad Tc] and lost with a pair of Deuces [2s 2c Ad Kh Qc]
+

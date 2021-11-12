@@ -1,0 +1,305 @@
+Game Hand #437741188 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:10:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: Uplay2lose (500.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 5h 9h Ad]
+Uplay2lose raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [3h Ts 8c]
+Main pot 120.00
+Lorpugo3 checks
+Uplay2lose bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to Uplay2lose
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [3h Ts 8c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Uplay2lose did not show and won 120.00
+
+Game Hand #437742051 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:11:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: Uplay2lose (560.00)
+Lorpugo3 posts the small blind 10.00
+Uplay2lose posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 7d 6c 6s]
+Lorpugo3 folds
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 30.00
+
+Game Hand #437742305 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:11:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (430.00)
+Seat 2: Uplay2lose (570.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 3s 3d 6s]
+Uplay2lose folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Uplay2lose (button) folded on the Pre-Flop
+
+Game Hand #437742644 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:11:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: Uplay2lose (560.00)
+Lorpugo3 posts the small blind 10.00
+Uplay2lose posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Tc 9c Td]
+Lorpugo3 raises 40.00 to 50.00
+Uplay2lose folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Uplay2lose (big blind) folded on the Pre-Flop
+
+Game Hand #437743033 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:12:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: Uplay2lose (540.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 7h 5s 8s]
+Uplay2lose folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Uplay2lose (button) folded on the Pre-Flop
+
+Game Hand #437743212 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:12:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (470.00)
+Seat 2: Uplay2lose (530.00)
+Lorpugo3 posts the small blind 10.00
+Uplay2lose posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4s 2d 3d]
+Lorpugo3 folds
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 30.00
+
+Game Hand #437743356 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:12:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: Uplay2lose (540.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Jc 8h 9d]
+Uplay2lose folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Uplay2lose (button) folded on the Pre-Flop
+
+Game Hand #437743557 - Tournament #21806455 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:12:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (470.00)
+Seat 2: Uplay2lose (530.00)
+Lorpugo3 posts the small blind 10.00
+Uplay2lose posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 5c Td 7d]
+Lorpugo3 raises 30.00 to 40.00
+Uplay2lose calls 20.00
+*** FLOP *** [Tc 8d 9h]
+Main pot 80.00
+Uplay2lose checks
+Lorpugo3 checks
+*** TURN *** [Tc 8d 9h] [3d]
+Main pot 80.00
+Uplay2lose checks
+Lorpugo3 bets 80.00
+Uplay2lose folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Tc 8d 9h 3d]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Uplay2lose (big blind) folded on the Turn
+
+Game Hand #437744387 - Tournament #21806455 - Omaha(Pot Limit) - Level 2 (15.00/30.00)- 2020/07/14 21:13:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (510.00)
+Seat 2: Uplay2lose (490.00)
+Uplay2lose posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Ac Th 5d]
+Uplay2lose calls 15.00
+Lorpugo3 checks
+*** FLOP *** [3c Kc 8h]
+Main pot 60.00
+Lorpugo3 checks
+Uplay2lose bets 45.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to Uplay2lose
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [3c Kc 8h]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Uplay2lose did not show and won 60.00
+
+Game Hand #437744974 - Tournament #21806455 - Omaha(Pot Limit) - Level 2 (15.00/30.00)- 2020/07/14 21:13:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (480.00)
+Seat 2: Uplay2lose (520.00)
+Lorpugo3 posts the small blind 15.00
+Uplay2lose posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Th Jc 3s]
+Lorpugo3 calls 15.00
+Uplay2lose checks
+*** FLOP *** [Qc 6s As]
+Main pot 60.00
+Uplay2lose checks
+Lorpugo3 checks
+*** TURN *** [Qc 6s As] [9c]
+Main pot 60.00
+Uplay2lose bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [Qc 6s As 9c] [Ah]
+Main pot 180.00
+Uplay2lose checks
+Lorpugo3 bets 180.00
+Uplay2lose calls 180.00
+*** SHOW DOWN ***
+Main pot 540.00
+Lorpugo3 shows [8s Th Jc 3s] (a pair of Aces [As Ah Qc Jc Th])
+Uplay2lose shows [8c Qd 3h 9s] (two pair, Aces and Queens [As Ah Qd Qc 9s])
+Uplay2lose collected 540.00 from main pot
+*** SUMMARY ***
+Total pot 540.00
+Board [Qc 6s As 9c Ah]
+Seat 1: Lorpugo3 (button) showed [8s Th Jc 3s] and lost with a pair of Aces [As Ah Qc Jc Th]
+Seat 2: Uplay2lose (big blind) showed [8c Qd 3h 9s] and won 540.00 with two pair, Aces and Queens [As Ah Qd Qc 9s]
+
+Game Hand #437746664 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:14:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (210.00)
+Seat 2: Uplay2lose (790.00)
+Uplay2lose posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ts 3h 5c]
+Uplay2lose folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Uplay2lose (button) folded on the Pre-Flop
+
+Game Hand #437746863 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:15:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (230.00)
+Seat 2: Uplay2lose (770.00)
+Lorpugo3 posts the small blind 20.00
+Uplay2lose posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 4d Qs 5d]
+Lorpugo3 folds
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 60.00
+
+Game Hand #437747053 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:15:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (210.00)
+Seat 2: Uplay2lose (790.00)
+Uplay2lose posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2h 7h 6d]
+Uplay2lose raises 100.00 to 120.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Uplay2lose
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 80.00
+
+Game Hand #437747386 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:15:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (170.00)
+Seat 2: Uplay2lose (830.00)
+Lorpugo3 posts the small blind 20.00
+Uplay2lose posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Js Qs 3s]
+Lorpugo3 folds
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 60.00
+
+Game Hand #437747584 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:15:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (150.00)
+Seat 2: Uplay2lose (850.00)
+Uplay2lose posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 9d 2h 4d]
+Uplay2lose raises 100.00 to 120.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Uplay2lose
+Uplay2lose does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Uplay2lose did not show and won 80.00
+
+Game Hand #437747869 - Tournament #21806455 - Omaha(Pot Limit) - Level 3 (20.00/40.00)- 2020/07/14 21:15:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (110.00)
+Seat 2: Uplay2lose (890.00)
+Lorpugo3 posts the small blind 20.00
+Uplay2lose posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 7h 8c Td]
+Lorpugo3 raises 90.00 to 110.00 and is all-in
+Uplay2lose calls 70.00
+*** FLOP *** [Qs Jd 3d]
+Main pot 220.00
+*** TURN *** [Qs Jd 3d] [Kc]
+Main pot 220.00
+*** RIVER *** [Qs Jd 3d Kc] [9s]
+Main pot 220.00
+*** SHOW DOWN ***
+Main pot 220.00
+Lorpugo3 shows [7d 7h 8c Td] (a straight, Queen high [Qs Jd Td 9s 8c])
+Uplay2lose shows [Th 9c 8d 3h] (a straight, King high [Kc Qs Jd Th 9c])
+Uplay2lose collected 220.00 from main pot
+*** SUMMARY ***
+Total pot 220.00
+Board [Qs Jd 3d Kc 9s]
+Seat 1: Lorpugo3 (button) showed [7d 7h 8c Td] and lost with a straight, Queen high [Qs Jd Td 9s 8c]
+Seat 2: Uplay2lose (big blind) showed [Th 9c 8d 3h] and won 220.00 with a straight, King high [Kc Qs Jd Th 9c]
+

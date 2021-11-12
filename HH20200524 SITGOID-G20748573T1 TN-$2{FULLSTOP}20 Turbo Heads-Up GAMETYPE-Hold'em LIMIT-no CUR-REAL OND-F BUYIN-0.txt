@@ -1,0 +1,278 @@
+Game Hand #369594695 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:01:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: AllDayAdamK (1500.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ts]
+AllDayAdamK calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6d 5d 3h]
+Main pot 40.00
+Lorpugo3 checks
+AllDayAdamK bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [6d 5d 3h] [Qd]
+Main pot 100.00
+Lorpugo3 checks
+AllDayAdamK bets 30.00
+Lorpugo3 calls 30.00
+*** RIVER *** [6d 5d 3h Qd] [4h]
+Main pot 160.00
+Lorpugo3 checks
+AllDayAdamK checks
+*** SHOW DOWN ***
+Main pot 160.00
+Lorpugo3 shows [3d Ts] (a pair of Threes [3h 3d Qd Ts 6d])
+AllDayAdamK shows [9h 5h] (a pair of Fives [5h 5d Qd 9h 6d])
+AllDayAdamK collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [6d 5d 3h Qd 4h]
+Seat 1: Lorpugo3 (big blind) showed [3d Ts] and lost with a pair of Threes [3h 3d Qd Ts 6d]
+Seat 2: AllDayAdamK (button) showed [9h 5h] and won 160.00 with a pair of Fives [5h 5d Qd 9h 6d]
+
+Game Hand #369595884 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:02:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1420.00)
+Seat 2: AllDayAdamK (1580.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 9d]
+Lorpugo3 raises 40.00 to 50.00
+AllDayAdamK raises 70.00 to 90.00
+Lorpugo3 calls 40.00
+*** FLOP *** [Kh Qc 2h]
+Main pot 180.00
+AllDayAdamK checks
+Lorpugo3 checks
+*** TURN *** [Kh Qc 2h] [Qd]
+Main pot 180.00
+AllDayAdamK checks
+Lorpugo3 bets 110.00
+AllDayAdamK raises 220.00 to 220.00
+Lorpugo3 folds
+Uncalled bet (110.00) returned to AllDayAdamK
+AllDayAdamK does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Kh Qc 2h Qd]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: AllDayAdamK did not show and won 400.00
+
+Game Hand #369597261 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:03:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: AllDayAdamK (1780.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h As]
+AllDayAdamK raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+AllDayAdamK calls 80.00
+*** FLOP *** [4s 9c Jd]
+Main pot 240.00
+Lorpugo3 bets 100.00
+AllDayAdamK raises 1660.00 to 1660.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1560.00) returned to AllDayAdamK
+AllDayAdamK does not show
+*** SUMMARY ***
+Total pot 440.00
+Board [4s 9c Jd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: AllDayAdamK did not show and won 440.00
+
+Game Hand #369598158 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:03:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1000.00)
+Seat 2: AllDayAdamK (2000.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 3d]
+Lorpugo3 raises 30.00 to 40.00
+AllDayAdamK calls 20.00
+*** FLOP *** [2s Qc 2c]
+Main pot 80.00
+AllDayAdamK checks
+Lorpugo3 bets 40.00
+AllDayAdamK folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2s Qc 2c]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: AllDayAdamK (big blind) folded on the Flop
+
+Game Hand #369598751 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:04:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1040.00)
+Seat 2: AllDayAdamK (1960.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Qs]
+AllDayAdamK calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ah 5d Ks]
+Main pot 40.00
+Lorpugo3 checks
+AllDayAdamK bets 30.00
+Lorpugo3 raises 90.00 to 90.00
+AllDayAdamK calls 60.00
+*** TURN *** [Ah 5d Ks] [3d]
+Main pot 220.00
+Lorpugo3 bets 110.00
+AllDayAdamK calls 110.00
+*** RIVER *** [Ah 5d Ks 3d] [6h]
+Main pot 440.00
+Lorpugo3 bets 330.00
+AllDayAdamK calls 330.00
+*** SHOW DOWN ***
+Main pot 1100.00
+Lorpugo3 shows [4c Qs] (a high card, Ace high [Ah Ks Qs 6h 5d])
+AllDayAdamK shows [Kh 4s] (a pair of Kings [Ks Kh Ah 6h 5d])
+AllDayAdamK collected 1100.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [Ah 5d Ks 3d 6h]
+Seat 1: Lorpugo3 (big blind) showed [4c Qs] and lost with a high card, Ace high [Ah Ks Qs 6h 5d]
+Seat 2: AllDayAdamK (button) showed [Kh 4s] and won 1100.00 with a pair of Kings [Ks Kh Ah 6h 5d]
+
+Game Hand #369600198 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (490.00)
+Seat 2: AllDayAdamK (2510.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 5d]
+Lorpugo3 raises 40.00 to 50.00
+AllDayAdamK calls 30.00
+*** FLOP *** [Qc Jc 5s]
+Main pot 100.00
+AllDayAdamK bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to AllDayAdamK
+AllDayAdamK shows [Kd 8d] (a high card, King high [Kd Qc Jc 8d 5s])
+*** SUMMARY ***
+Total pot 100.00
+Board [Qc Jc 5s]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: AllDayAdamK (big blind) showed [Kd 8d] and won 100.00 with a high card, King high [Kd Qc Jc 8d 5s]
+
+Game Hand #369600774 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: AllDayAdamK (2560.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8d]
+AllDayAdamK raises 2550.00 to 2560.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2540.00) returned to AllDayAdamK
+AllDayAdamK does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: AllDayAdamK did not show and won 40.00
+
+Game Hand #369601015 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (420.00)
+Seat 2: AllDayAdamK (2580.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Td]
+Lorpugo3 folds
+AllDayAdamK does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: AllDayAdamK did not show and won 30.00
+
+Game Hand #369601330 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (410.00)
+Seat 2: AllDayAdamK (2590.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 9s]
+AllDayAdamK folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: AllDayAdamK (button) folded on the Pre-Flop
+
+Game Hand #369601549 - Tournament #20748573 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:05:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (420.00)
+Seat 2: AllDayAdamK (2580.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Ah]
+Lorpugo3 raises 30.00 to 40.00
+AllDayAdamK folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: AllDayAdamK (big blind) folded on the Pre-Flop
+
+Game Hand #369603186 - Tournament #20748573 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/23 23:06:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: AllDayAdamK (2560.00)
+AllDayAdamK posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 5s]
+AllDayAdamK raises 2545.00 to 2560.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2530.00) returned to AllDayAdamK
+AllDayAdamK shows [7d 3c]
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: AllDayAdamK (button) showed [7d 3c] and won 60.00
+
+Game Hand #369603466 - Tournament #20748573 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/23 23:07:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (410.00)
+Seat 2: AllDayAdamK (2590.00)
+Lorpugo3 posts the small blind 15.00
+AllDayAdamK posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 9h]
+Lorpugo3 calls 15.00
+AllDayAdamK raises 2560.00 to 2590.00 and is all-in
+Lorpugo3 calls 380.00 and is all-in
+Uncalled bet (2180.00) returned to AllDayAdamK
+*** FLOP *** [4d 2h Qc]
+Main pot 820.00
+*** TURN *** [4d 2h Qc] [Ks]
+Main pot 820.00
+*** RIVER *** [4d 2h Qc Ks] [5h]
+Main pot 820.00
+*** SHOW DOWN ***
+Main pot 820.00
+Lorpugo3 shows [8s 9h] (a high card, King high [Ks Qc 9h 8s 5h])
+AllDayAdamK shows [7c Ah] (a high card, Ace high [Ah Ks Qc 7c 5h])
+AllDayAdamK collected 820.00 from main pot
+*** SUMMARY ***
+Total pot 820.00
+Board [4d 2h Qc Ks 5h]
+Seat 1: Lorpugo3 (button) showed [8s 9h] and lost with a high card, King high [Ks Qc 9h 8s 5h]
+Seat 2: AllDayAdamK (big blind) showed [7c Ah] and won 820.00 with a high card, Ace high [Ah Ks Qc 7c 5h]
+

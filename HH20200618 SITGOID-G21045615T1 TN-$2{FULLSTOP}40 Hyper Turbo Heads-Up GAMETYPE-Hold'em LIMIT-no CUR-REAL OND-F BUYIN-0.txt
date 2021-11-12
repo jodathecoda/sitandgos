@@ -1,0 +1,508 @@
+Game Hand #405116791 - Tournament #21045615 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:25:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (500.00)
+Seat 2: Lorpugo3 (500.00)
+zapyou13 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ah]
+zapyou13 calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+zapyou13 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 70.00
+Seat 1: zapyou13 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 70.00
+
+Game Hand #405116963 - Tournament #21045615 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:25:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (480.00)
+Seat 2: Lorpugo3 (520.00)
+Lorpugo3 posts the small blind 10.00
+zapyou13 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3c]
+Lorpugo3 raises 30.00 to 40.00
+zapyou13 calls 20.00
+*** FLOP *** [3d Jh Td]
+Main pot 80.00
+zapyou13 checks
+Lorpugo3 bets 20.00
+zapyou13 raises 60.00 to 60.00
+Lorpugo3 calls 40.00
+*** TURN *** [3d Jh Td] [Qs]
+Main pot 200.00
+zapyou13 checks
+Lorpugo3 bets 130.00
+zapyou13 folds
+Uncalled bet (130.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [3d Jh Td Qs]
+Seat 1: zapyou13 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #405117648 - Tournament #21045615 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:26:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (380.00)
+Seat 2: Lorpugo3 (620.00)
+zapyou13 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 7d]
+zapyou13 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [4d Qs 3s]
+Main pot 40.00
+Lorpugo3 checks
+zapyou13 checks
+*** TURN *** [4d Qs 3s] [Ts]
+Main pot 40.00
+Lorpugo3 checks
+zapyou13 checks
+*** RIVER *** [4d Qs 3s Ts] [5s]
+Main pot 40.00
+Lorpugo3 checks
+zapyou13 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to zapyou13
+zapyou13 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [4d Qs 3s Ts 5s]
+Seat 1: zapyou13 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #405118041 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:27:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (400.00)
+Seat 2: Lorpugo3 (600.00)
+Lorpugo3 posts the small blind 15.00
+zapyou13 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Qs]
+Lorpugo3 raises 45.00 to 60.00
+zapyou13 calls 30.00
+*** FLOP *** [3c 5h 2c]
+Main pot 120.00
+zapyou13 checks
+Lorpugo3 bets 540.00 and is all-in
+zapyou13 folds
+Uncalled bet (540.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [3c 5h 2c]
+Seat 1: zapyou13 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #405118242 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:27:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (340.00)
+Seat 2: Lorpugo3 (660.00)
+zapyou13 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 6s]
+zapyou13 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: zapyou13 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #405118297 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:28:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (325.00)
+Seat 2: Lorpugo3 (675.00)
+Lorpugo3 posts the small blind 15.00
+zapyou13 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Jc]
+Lorpugo3 raises 45.00 to 60.00
+zapyou13 raises 295.00 to 325.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (265.00) returned to zapyou13
+zapyou13 does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: zapyou13 did not show and won 120.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405118441 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:28:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (385.00)
+Seat 2: Lorpugo3 (615.00)
+zapyou13 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ad]
+zapyou13 calls 15.00
+Lorpugo3 raises 585.00 to 615.00 and is all-in
+zapyou13 folds
+Uncalled bet (585.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: zapyou13 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #405118526 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:28:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (355.00)
+Seat 2: Lorpugo3 (645.00)
+Lorpugo3 posts the small blind 15.00
+zapyou13 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 8h]
+Lorpugo3 raises 45.00 to 60.00
+zapyou13 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: zapyou13 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #405118607 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:28:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (325.00)
+Seat 2: Lorpugo3 (675.00)
+zapyou13 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 6c]
+zapyou13 raises 310.00 to 325.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (295.00) returned to zapyou13
+zapyou13 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: zapyou13 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #405118692 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:28:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (355.00)
+Seat 2: Lorpugo3 (645.00)
+Lorpugo3 posts the small blind 15.00
+zapyou13 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 7c]
+Lorpugo3 raises 45.00 to 60.00
+zapyou13 calls 30.00
+*** FLOP *** [6h 6d 6c]
+Main pot 120.00
+zapyou13 bets 30.00
+Lorpugo3 raises 585.00 to 585.00 and is all-in
+zapyou13 calls 265.00 and is all-in
+Uncalled bet (290.00) returned to Lorpugo3
+*** TURN *** [6h 6d 6c] [4d]
+Main pot 710.00
+*** RIVER *** [6h 6d 6c 4d] [5s]
+Main pot 710.00
+*** SHOW DOWN ***
+Main pot 710.00
+zapyou13 shows [Qs Qc] (a full house, Sixs full of Queens [6h 6d 6c Qs Qc])
+Lorpugo3 shows [7d 7c] (a full house, Sixs full of Sevens [6h 6d 6c 7d 7c])
+zapyou13 collected 710.00 from main pot
+*** SUMMARY ***
+Total pot 710.00
+Board [6h 6d 6c 4d 5s]
+Seat 1: zapyou13 (big blind) showed [Qs Qc] and won 710.00 with a full house, Sixs full of Queens [6h 6d 6c Qs Qc]
+Seat 2: Lorpugo3 (button) showed [7d 7c] and lost with a full house, Sixs full of Sevens [6h 6d 6c 7d 7c]
+
+Game Hand #405118994 - Tournament #21045615 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 13:29:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (710.00)
+Seat 2: Lorpugo3 (290.00)
+zapyou13 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 2s]
+zapyou13 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [8h 4d 8s]
+Main pot 60.00
+Lorpugo3 checks
+zapyou13 checks
+*** TURN *** [8h 4d 8s] [Kd]
+Main pot 60.00
+Lorpugo3 bets 260.00 and is all-in
+zapyou13 folds
+Uncalled bet (260.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [8h 4d 8s Kd]
+Seat 1: zapyou13 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #405119241 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:29:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (680.00)
+Seat 2: Lorpugo3 (320.00)
+Lorpugo3 posts the small blind 20.00
+zapyou13 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 7s]
+Lorpugo3 raises 300.00 to 320.00 and is all-in
+zapyou13 folds
+Uncalled bet (280.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: zapyou13 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #405119319 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:29:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (640.00)
+Seat 2: Lorpugo3 (360.00)
+zapyou13 posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 3h]
+zapyou13 calls 20.00
+Lorpugo3 checks
+*** FLOP *** [7s Ad 2s]
+Main pot 80.00
+Lorpugo3 bets 320.00 and is all-in
+zapyou13 folds
+Uncalled bet (320.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [7s Ad 2s]
+Seat 1: zapyou13 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #405119495 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:30:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (600.00)
+Seat 2: Lorpugo3 (400.00)
+Lorpugo3 posts the small blind 20.00
+zapyou13 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 4h]
+Lorpugo3 folds
+zapyou13 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: zapyou13 did not show and won 60.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405119561 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:30:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (620.00)
+Seat 2: Lorpugo3 (380.00)
+zapyou13 posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 9h]
+zapyou13 raises 600.00 to 620.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (580.00) returned to zapyou13
+zapyou13 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: zapyou13 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #405119684 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:30:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (660.00)
+Seat 2: Lorpugo3 (340.00)
+Lorpugo3 posts the small blind 20.00
+zapyou13 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 5c]
+Lorpugo3 calls 20.00
+zapyou13 checks
+*** FLOP *** [Td Kh 4h]
+Main pot 80.00
+zapyou13 checks
+Lorpugo3 checks
+*** TURN *** [Td Kh 4h] [Th]
+Main pot 80.00
+zapyou13 checks
+Lorpugo3 bets 40.00
+zapyou13 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Td Kh 4h Th]
+Seat 1: zapyou13 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #405119969 - Tournament #21045615 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 13:31:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (620.00)
+Seat 2: Lorpugo3 (380.00)
+zapyou13 posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Ts]
+zapyou13 calls 20.00
+Lorpugo3 checks
+*** FLOP *** [7h Jh 8d]
+Main pot 80.00
+Lorpugo3 checks
+zapyou13 checks
+*** TURN *** [7h Jh 8d] [5d]
+Main pot 80.00
+Lorpugo3 bets 40.00
+zapyou13 calls 40.00
+*** RIVER *** [7h Jh 8d 5d] [2d]
+Main pot 160.00
+Lorpugo3 checks
+zapyou13 bets 40.00
+Lorpugo3 calls 40.00
+*** SHOW DOWN ***
+Main pot 240.00
+zapyou13 shows [2h 3h] (a pair of Deuces [2h 2d Jh 8d 7h])
+Lorpugo3 shows [5s Ts] (a pair of Fives [5s 5d Jh Ts 8d])
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [7h Jh 8d 5d 2d]
+Seat 1: zapyou13 (button) showed [2h 3h] and lost with a pair of Deuces [2h 2d Jh 8d 7h]
+Seat 2: Lorpugo3 (big blind) showed [5s Ts] and won 240.00 with a pair of Fives [5s 5d Jh Ts 8d]
+
+Game Hand #405120248 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:31:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (500.00)
+Seat 2: Lorpugo3 (500.00)
+Lorpugo3 posts the small blind 25.00
+zapyou13 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 8d]
+Lorpugo3 raises 475.00 to 500.00 and is all-in
+zapyou13 folds
+Uncalled bet (450.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: zapyou13 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #405120349 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:31:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (450.00)
+Seat 2: Lorpugo3 (550.00)
+zapyou13 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6s]
+zapyou13 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: zapyou13 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #405120392 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:31:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (425.00)
+Seat 2: Lorpugo3 (575.00)
+Lorpugo3 posts the small blind 25.00
+zapyou13 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Qh]
+Lorpugo3 raises 550.00 to 575.00 and is all-in
+zapyou13 calls 375.00 and is all-in
+Uncalled bet (150.00) returned to Lorpugo3
+*** FLOP *** [4d Kc Kh]
+Main pot 850.00
+*** TURN *** [4d Kc Kh] [5h]
+Main pot 850.00
+*** RIVER *** [4d Kc Kh 5h] [3h]
+Main pot 850.00
+*** SHOW DOWN ***
+Main pot 850.00
+zapyou13 shows [Kd Jc] (three of a kind, Set of Kings [Kh Kd Kc Jc 5h])
+Lorpugo3 shows [9d Qh] (a pair of Kings [Kh Kc Qh 9d 5h])
+zapyou13 collected 850.00 from main pot
+*** SUMMARY ***
+Total pot 850.00
+Board [4d Kc Kh 5h 3h]
+Seat 1: zapyou13 (big blind) showed [Kd Jc] and won 850.00 with three of a kind, Set of Kings [Kh Kd Kc Jc 5h]
+Seat 2: Lorpugo3 (button) showed [9d Qh] and lost with a pair of Kings [Kh Kc Qh 9d 5h]
+
+Game Hand #405120541 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:32:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (850.00)
+Seat 2: Lorpugo3 (150.00)
+zapyou13 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 8h]
+zapyou13 raises 825.00 to 850.00 and is all-in
+Lorpugo3 calls 100.00 and is all-in
+Uncalled bet (700.00) returned to zapyou13
+*** FLOP *** [2h As 9h]
+Main pot 300.00
+*** TURN *** [2h As 9h] [2d]
+Main pot 300.00
+*** RIVER *** [2h As 9h 2d] [Qc]
+Main pot 300.00
+*** SHOW DOWN ***
+Main pot 300.00
+zapyou13 shows [Ac 8c] (two pair, Aces and Deuces [As Ac 2h 2d Qc])
+Lorpugo3 shows [Ad 8h] (two pair, Aces and Deuces [As Ad 2h 2d Qc])
+Lorpugo3 collected 150.00 from main pot
+zapyou13 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [2h As 9h 2d Qc]
+Seat 1: zapyou13 (button) showed [Ac 8c] and won 150.00 with two pair, Aces and Deuces [As Ac 2h 2d Qc]
+Seat 2: Lorpugo3 (big blind) showed [Ad 8h] and won 150.00 with two pair, Aces and Deuces [As Ad 2h 2d Qc]
+
+Game Hand #405120689 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:32:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: zapyou13 (850.00)
+Seat 2: Lorpugo3 (150.00)
+Lorpugo3 posts the small blind 25.00
+zapyou13 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Kh]
+Lorpugo3 raises 125.00 to 150.00 and is all-in
+zapyou13 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: zapyou13 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #405120804 - Tournament #21045615 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 13:32:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: zapyou13 (800.00)
+Seat 2: Lorpugo3 (200.00)
+zapyou13 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Qc]
+zapyou13 raises 775.00 to 800.00 and is all-in
+Lorpugo3 calls 150.00 and is all-in
+Uncalled bet (600.00) returned to zapyou13
+*** FLOP *** [5h Jd 4c]
+Main pot 400.00
+*** TURN *** [5h Jd 4c] [Js]
+Main pot 400.00
+*** RIVER *** [5h Jd 4c Js] [9s]
+Main pot 400.00
+*** SHOW DOWN ***
+Main pot 400.00
+zapyou13 shows [8h Ah] (a pair of Jacks [Js Jd Ah 9s 8h])
+Lorpugo3 shows [8c Qc] (a pair of Jacks [Js Jd Qc 9s 8c])
+zapyou13 collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [5h Jd 4c Js 9s]
+Seat 1: zapyou13 (button) showed [8h Ah] and won 400.00 with a pair of Jacks [Js Jd Ah 9s 8h] with the kicker Ace
+Seat 2: Lorpugo3 (big blind) showed [8c Qc] and lost with a pair of Jacks [Js Jd Qc 9s 8c]
+

@@ -1,0 +1,476 @@
+Game Hand #384110392 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:37:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Kd]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 raises 80.00 to 100.00
+Mcrider122 calls 60.00
+*** FLOP *** [8s 4s Jc]
+Main pot 200.00
+Lorpugo3 checks
+Mcrider122 checks
+*** TURN *** [8s 4s Jc] [Ah]
+Main pot 200.00
+Lorpugo3 checks
+Mcrider122 bets 20.00
+Lorpugo3 calls 20.00
+*** RIVER *** [8s 4s Jc Ah] [9s]
+Main pot 240.00
+Lorpugo3 checks
+Mcrider122 checks
+*** SHOW DOWN ***
+Main pot 240.00
+Lorpugo3 shows [Ad Kd] (a pair of Aces [Ah Ad Kd Jc 9s])
+Mcrider122 mucks hand
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [8s 4s Jc Ah 9s]
+Seat 1: Mcrider122 (button) mucked [2c 6c]
+Seat 2: Lorpugo3 (big blind) showed [Ad Kd] and won 240.00 with a pair of Aces [Ah Ad Kd Jc 9s]
+
+Game Hand #384111268 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:38:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 7c]
+Lorpugo3 raises 40.00 to 50.00
+Mcrider122 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384111495 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:38:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 9s]
+Mcrider122 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384111638 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:38:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1350.00)
+Seat 2: Lorpugo3 (1650.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 7s]
+Lorpugo3 raises 40.00 to 50.00
+Mcrider122 calls 30.00
+*** FLOP *** [6c 3d Tc]
+Main pot 100.00
+Mcrider122 checks
+Lorpugo3 bets 50.00
+Mcrider122 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [6c 3d Tc]
+Seat 1: Mcrider122 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #384112278 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:38:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Qs]
+Mcrider122 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384112396 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:38:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs As]
+Lorpugo3 raises 40.00 to 50.00
+Mcrider122 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384112646 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1270.00)
+Seat 2: Lorpugo3 (1730.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 6d]
+Mcrider122 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384112857 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1260.00)
+Seat 2: Lorpugo3 (1740.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qc]
+Lorpugo3 raises 30.00 to 40.00
+Mcrider122 raises 100.00 to 120.00
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Mcrider122 did not show and won 160.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384113175 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 8h]
+Mcrider122 raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384113415 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1320.00)
+Seat 2: Lorpugo3 (1680.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6c]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384113564 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 5s]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6c 7d Ah]
+Main pot 80.00
+Lorpugo3 checks
+Mcrider122 bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6c 7d Ah]
+Seat 1: Mcrider122 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #384114065 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:39:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1370.00)
+Seat 2: Lorpugo3 (1630.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Jc]
+Lorpugo3 raises 60.00 to 70.00
+Mcrider122 calls 50.00
+*** FLOP *** [2s 3c Qc]
+Main pot 140.00
+Mcrider122 bets 20.00
+Lorpugo3 raises 60.00 to 60.00
+Mcrider122 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [2s 3c Qc]
+Seat 1: Mcrider122 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 180.00
+
+Game Hand #384114684 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:40:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1280.00)
+Seat 2: Lorpugo3 (1720.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 8d]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384114907 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:40:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 5d]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384115086 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:40:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1310.00)
+Seat 2: Lorpugo3 (1690.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Qs]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384115393 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:40:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 8c]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384115534 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:40:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3h]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Ac 8d Jd]
+Main pot 80.00
+Lorpugo3 checks
+Mcrider122 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ac 8d Jd]
+Seat 1: Mcrider122 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #384116098 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:41:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 6d]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384116272 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:41:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9c]
+Mcrider122 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mcrider122 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384116424 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:41:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 9h]
+Lorpugo3 raises 40.00 to 50.00
+Mcrider122 calls 30.00
+*** FLOP *** [2d 3d Tc]
+Main pot 100.00
+Mcrider122 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [2d 3d Tc]
+Seat 1: Mcrider122 did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #384116912 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:41:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 3d]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384117122 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:42:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 8c]
+Lorpugo3 raises 40.00 to 50.00
+Mcrider122 calls 30.00
+*** FLOP *** [3d Jc 3h]
+Main pot 100.00
+Mcrider122 checks
+Lorpugo3 bets 50.00
+Mcrider122 raises 100.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [3d Jc 3h]
+Seat 1: Mcrider122 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #384117716 - Tournament #20874301 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:42:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Mcrider122 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 9s]
+Mcrider122 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Mcrider122
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mcrider122 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384117908 - Tournament #20874301 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:42:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mcrider122 (1570.00)
+Seat 2: Lorpugo3 (1430.00)
+Lorpugo3 posts the small blind 15.00
+Mcrider122 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 6h]
+Lorpugo3 folds
+Mcrider122 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Mcrider122 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384118064 - Tournament #20874301 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:42:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mcrider122 (1585.00)
+Seat 2: Lorpugo3 (1415.00)
+Mcrider122 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Qs]
+Mcrider122 raises 45.00 to 60.00
+Lorpugo3 raises 150.00 to 180.00
+Mcrider122 calls 120.00
+*** FLOP *** [8c Jc 5c]
+Main pot 360.00
+Lorpugo3 bets 180.00
+Mcrider122 raises 1405.00 to 1405.00 and is all-in
+Lorpugo3 calls 1055.00 and is all-in
+Uncalled bet (170.00) returned to Mcrider122
+*** TURN *** [8c Jc 5c] [5d]
+Main pot 2830.00
+*** RIVER *** [8c Jc 5c 5d] [Td]
+Main pot 2830.00
+*** SHOW DOWN ***
+Main pot 2830.00
+Mcrider122 shows [2c 9c] (a flush, Jack high [Jc 9c 8c 5c 2c])
+Lorpugo3 shows [Kc Qs] (a pair of Fives [5d 5c Kc Qs Jc])
+Mcrider122 collected 2830.00 from main pot
+*** SUMMARY ***
+Total pot 2830.00
+Board [8c Jc 5c 5d Td]
+Seat 1: Mcrider122 (button) showed [2c 9c] and won 2830.00 with a flush, Jack high [Jc 9c 8c 5c 2c]
+Seat 2: Lorpugo3 (big blind) showed [Kc Qs] and lost with a pair of Fives [5d 5c Kc Qs Jc]
+

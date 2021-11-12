@@ -1,0 +1,601 @@
+Game Hand #383603008 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:27:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: KPSharktooth (1500.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 2s]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6c 3d 4d]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [6c 3d 4d]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: KPSharktooth did not show and won 40.00
+
+Game Hand #383603146 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:28:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: KPSharktooth (1520.00)
+Lorpugo3 posts the small blind 10.00
+KPSharktooth posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ts]
+Lorpugo3 raises 30.00 to 40.00
+KPSharktooth calls 20.00
+*** FLOP *** [8c Ac Jd]
+Main pot 80.00
+KPSharktooth bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [8c Ac Jd]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: KPSharktooth did not show and won 80.00
+
+Game Hand #383603247 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:28:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: KPSharktooth (1560.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 4s]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5h 2s Ks]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth bets 30.00
+Lorpugo3 raises 70.00 to 70.00
+KPSharktooth calls 40.00
+*** TURN *** [5h 2s Ks] [9s]
+Main pot 180.00
+Lorpugo3 bets 100.00
+KPSharktooth folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [5h 2s Ks 9s]
+Seat 1: Lorpugo3 did not show and won 180.00
+Seat 2: KPSharktooth (button) folded on the Turn
+
+Game Hand #383603452 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:28:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: KPSharktooth (1470.00)
+Lorpugo3 posts the small blind 10.00
+KPSharktooth posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 8c]
+Lorpugo3 folds
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: KPSharktooth did not show and won 30.00
+
+Game Hand #383603494 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:29:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: KPSharktooth (1480.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 3h]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Td 8h Kh]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth checks
+*** TURN *** [Td 8h Kh] [8c]
+Main pot 40.00
+Lorpugo3 bets 30.00
+KPSharktooth calls 30.00
+*** RIVER *** [Td 8h Kh 8c] [5s]
+Main pot 100.00
+Lorpugo3 checks
+KPSharktooth bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Td 8h Kh 8c 5s]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: KPSharktooth did not show and won 100.00
+
+Game Hand #383603781 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:29:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: KPSharktooth (1530.00)
+Lorpugo3 posts the small blind 10.00
+KPSharktooth posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Ac]
+Lorpugo3 raises 40.00 to 50.00
+KPSharktooth calls 30.00
+*** FLOP *** [4d Qd 3d]
+Main pot 100.00
+KPSharktooth checks
+Lorpugo3 bets 40.00
+KPSharktooth calls 40.00
+*** TURN *** [4d Qd 3d] [Qc]
+Main pot 180.00
+KPSharktooth checks
+Lorpugo3 bets 80.00
+KPSharktooth calls 80.00
+*** RIVER *** [4d Qd 3d Qc] [Ah]
+Main pot 340.00
+KPSharktooth bets 170.00
+Lorpugo3 calls 170.00
+*** SHOW DOWN ***
+Main pot 680.00
+KPSharktooth shows [9d 4c] (two pair, Queens and Fours [Qd Qc 4d 4c Ah])
+Lorpugo3 shows [6d Ac] (two pair, Aces and Queens [Ah Ac Qd Qc 6d])
+Lorpugo3 collected 680.00 from main pot
+*** SUMMARY ***
+Total pot 680.00
+Board [4d Qd 3d Qc Ah]
+Seat 1: Lorpugo3 (button) showed [6d Ac] and won 680.00 with two pair, Aces and Queens [Ah Ac Qd Qc 6d]
+Seat 2: KPSharktooth (big blind) showed [9d 4c] and lost with two pair, Queens and Fours [Qd Qc 4d 4c Ah]
+
+Game Hand #383604194 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:30:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1810.00)
+Seat 2: KPSharktooth (1190.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 2h]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5c 5s 4h]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [5c 5s 4h] [Ks]
+Main pot 120.00
+Lorpugo3 bets 20.00
+KPSharktooth folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5c 5s 4h Ks]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: KPSharktooth (button) folded on the Turn
+
+Game Hand #383604459 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:31:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1870.00)
+Seat 2: KPSharktooth (1130.00)
+Lorpugo3 posts the small blind 10.00
+KPSharktooth posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 6s]
+Lorpugo3 raises 30.00 to 40.00
+KPSharktooth calls 20.00
+*** FLOP *** [2h Kc 8c]
+Main pot 80.00
+KPSharktooth checks
+Lorpugo3 bets 50.00
+KPSharktooth folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2h Kc 8c]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: KPSharktooth (big blind) folded on the Flop
+
+Game Hand #383604599 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:31:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1910.00)
+Seat 2: KPSharktooth (1090.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8s]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [7s 5c Tc]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [7s 5c Tc]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: KPSharktooth did not show and won 40.00
+
+Game Hand #383604758 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:32:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1890.00)
+Seat 2: KPSharktooth (1110.00)
+Lorpugo3 posts the small blind 10.00
+KPSharktooth posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 4s]
+Lorpugo3 folds
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: KPSharktooth did not show and won 30.00
+
+Game Hand #383604812 - Tournament #20870020 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:32:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1880.00)
+Seat 2: KPSharktooth (1120.00)
+KPSharktooth posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 4h]
+KPSharktooth calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ac 2s 5d]
+Main pot 40.00
+Lorpugo3 checks
+KPSharktooth checks
+*** TURN *** [Ac 2s 5d] [9s]
+Main pot 40.00
+Lorpugo3 bets 20.00
+KPSharktooth calls 20.00
+*** RIVER *** [Ac 2s 5d 9s] [9h]
+Main pot 80.00
+Lorpugo3 checks
+KPSharktooth bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ac 2s 5d 9s 9h]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: KPSharktooth did not show and won 80.00
+
+Game Hand #383605094 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:32:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1840.00)
+Seat 2: KPSharktooth (1160.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 5h]
+Lorpugo3 folds
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: KPSharktooth did not show and won 45.00
+
+Game Hand #383605162 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:33:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1825.00)
+Seat 2: KPSharktooth (1175.00)
+KPSharktooth posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3c]
+KPSharktooth raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: KPSharktooth did not show and won 60.00
+
+Game Hand #383605244 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:33:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1795.00)
+Seat 2: KPSharktooth (1205.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Ts]
+Lorpugo3 raises 60.00 to 75.00
+KPSharktooth folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: KPSharktooth (big blind) folded on the Pre-Flop
+
+Game Hand #383605303 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:33:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1825.00)
+Seat 2: KPSharktooth (1175.00)
+KPSharktooth posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 9h]
+KPSharktooth raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Qh 3c Js]
+Main pot 120.00
+Lorpugo3 checks
+KPSharktooth bets 120.00
+Lorpugo3 calls 120.00
+*** TURN *** [Qh 3c Js] [8h]
+Main pot 360.00
+Lorpugo3 checks
+KPSharktooth bets 150.00
+Lorpugo3 calls 150.00
+*** RIVER *** [Qh 3c Js 8h] [9s]
+Main pot 660.00
+Lorpugo3 checks
+KPSharktooth bets 300.00
+Lorpugo3 calls 300.00
+*** SHOW DOWN ***
+Main pot 1260.00
+KPSharktooth shows [Ac 5c] (a high card, Ace high [Ac Qh Js 9s 8h])
+Lorpugo3 shows [Qd 9h] (two pair, Queens and Nines [Qh Qd 9s 9h Js])
+Lorpugo3 collected 1260.00 from main pot
+*** SUMMARY ***
+Total pot 1260.00
+Board [Qh 3c Js 8h 9s]
+Seat 1: Lorpugo3 (big blind) showed [Qd 9h] and won 1260.00 with two pair, Queens and Nines [Qh Qd 9s 9h Js]
+Seat 2: KPSharktooth (button) showed [Ac 5c] and lost with a high card, Ace high [Ac Qh Js 9s 8h]
+
+Game Hand #383605742 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:34:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2455.00)
+Seat 2: KPSharktooth (545.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Qc]
+Lorpugo3 raises 45.00 to 60.00
+KPSharktooth calls 30.00
+*** FLOP *** [4d 4s Ac]
+Main pot 120.00
+KPSharktooth checks
+Lorpugo3 bets 60.00
+KPSharktooth raises 485.00 to 485.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (425.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [4d 4s Ac]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: KPSharktooth did not show and won 240.00
+
+Game Hand #383605904 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:34:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2335.00)
+Seat 2: KPSharktooth (665.00)
+KPSharktooth posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3s]
+KPSharktooth raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: KPSharktooth did not show and won 60.00
+
+Game Hand #383605961 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:35:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2305.00)
+Seat 2: KPSharktooth (695.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 3s]
+Lorpugo3 raises 45.00 to 60.00
+KPSharktooth calls 30.00
+*** FLOP *** [7s 7c Ah]
+Main pot 120.00
+KPSharktooth checks
+Lorpugo3 checks
+*** TURN *** [7s 7c Ah] [8s]
+Main pot 120.00
+KPSharktooth checks
+Lorpugo3 checks
+*** RIVER *** [7s 7c Ah 8s] [Qs]
+Main pot 120.00
+KPSharktooth checks
+Lorpugo3 bets 60.00
+KPSharktooth folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [7s 7c Ah 8s Qs]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: KPSharktooth (big blind) folded on the River
+
+Game Hand #383606235 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:35:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2365.00)
+Seat 2: KPSharktooth (635.00)
+KPSharktooth posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 5h]
+KPSharktooth calls 15.00
+Lorpugo3 checks
+*** FLOP *** [2c 9c 5d]
+Main pot 60.00
+Lorpugo3 checks
+KPSharktooth checks
+*** TURN *** [2c 9c 5d] [Js]
+Main pot 60.00
+Lorpugo3 checks
+KPSharktooth checks
+*** RIVER *** [2c 9c 5d Js] [Qd]
+Main pot 60.00
+Lorpugo3 checks
+KPSharktooth bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [2c 9c 5d Js Qd]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: KPSharktooth did not show and won 60.00
+
+Game Hand #383606491 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:36:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2335.00)
+Seat 2: KPSharktooth (665.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 9s]
+Lorpugo3 raises 45.00 to 60.00
+KPSharktooth calls 30.00
+*** FLOP *** [Th 8c Kc]
+Main pot 120.00
+KPSharktooth bets 90.00
+Lorpugo3 calls 90.00
+*** TURN *** [Th 8c Kc] [8s]
+Main pot 300.00
+KPSharktooth bets 150.00
+Lorpugo3 calls 150.00
+*** RIVER *** [Th 8c Kc 8s] [As]
+Main pot 600.00
+KPSharktooth bets 365.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (365.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 600.00
+Board [Th 8c Kc 8s As]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: KPSharktooth did not show and won 600.00
+
+Game Hand #383606711 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:36:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2035.00)
+Seat 2: KPSharktooth (965.00)
+KPSharktooth posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Js]
+KPSharktooth calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+KPSharktooth calls 45.00
+*** FLOP *** [Ts Tc 9s]
+Main pot 150.00
+Lorpugo3 bets 75.00
+KPSharktooth folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Ts Tc 9s]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: KPSharktooth (button) folded on the Flop
+
+Game Hand #383606899 - Tournament #20870020 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 13:37:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2110.00)
+Seat 2: KPSharktooth (890.00)
+Lorpugo3 posts the small blind 15.00
+KPSharktooth posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 6s]
+Lorpugo3 raises 75.00 to 90.00
+KPSharktooth calls 60.00
+*** FLOP *** [5h Tc 2c]
+Main pot 180.00
+KPSharktooth checks
+Lorpugo3 bets 75.00
+KPSharktooth calls 75.00
+*** TURN *** [5h Tc 2c] [3d]
+Main pot 330.00
+KPSharktooth checks
+Lorpugo3 checks
+*** RIVER *** [5h Tc 2c 3d] [Qh]
+Main pot 330.00
+KPSharktooth checks
+Lorpugo3 bets 195.00
+KPSharktooth calls 195.00
+*** SHOW DOWN ***
+Main pot 720.00
+Lorpugo3 shows [Qs 6s] (a pair of Queens [Qs Qh Tc 6s 5h])
+KPSharktooth mucks hand
+Lorpugo3 collected 720.00 from main pot
+*** SUMMARY ***
+Total pot 720.00
+Board [5h Tc 2c 3d Qh]
+Seat 1: Lorpugo3 (button) showed [Qs 6s] and won 720.00 with a pair of Queens [Qs Qh Tc 6s 5h]
+Seat 2: KPSharktooth (big blind) mucked [3c Kc]
+
+Game Hand #383607168 - Tournament #20870020 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 13:37:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2470.00)
+Seat 2: KPSharktooth (530.00)
+KPSharktooth posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Ts]
+KPSharktooth calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Jh 5h Qd]
+Main pot 100.00
+Lorpugo3 checks
+KPSharktooth bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to KPSharktooth
+KPSharktooth does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Jh 5h Qd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: KPSharktooth did not show and won 100.00
+
+Game Hand #383607409 - Tournament #20870020 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 13:38:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2420.00)
+Seat 2: KPSharktooth (580.00)
+Lorpugo3 posts the small blind 25.00
+KPSharktooth posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah As]
+Lorpugo3 raises 75.00 to 100.00
+KPSharktooth calls 50.00
+*** FLOP *** [9h Qs 2h]
+Main pot 200.00
+KPSharktooth bets 480.00 and is all-in
+Lorpugo3 calls 480.00
+*** TURN *** [9h Qs 2h] [4s]
+Main pot 1160.00
+*** RIVER *** [9h Qs 2h 4s] [8c]
+Main pot 1160.00
+*** SHOW DOWN ***
+Main pot 1160.00
+Lorpugo3 shows [Ah As] (a pair of Aces [As Ah Qs 9h 8c])
+KPSharktooth shows [3c 9s] (a pair of Nines [9s 9h Qs 8c 4s])
+Lorpugo3 collected 1160.00 from main pot
+*** SUMMARY ***
+Total pot 1160.00
+Board [9h Qs 2h 4s 8c]
+Seat 1: Lorpugo3 (button) showed [Ah As] and won 1160.00 with a pair of Aces [As Ah Qs 9h 8c]
+Seat 2: KPSharktooth (big blind) showed [3c 9s] and lost with a pair of Nines [9s 9h Qs 8c 4s]
+

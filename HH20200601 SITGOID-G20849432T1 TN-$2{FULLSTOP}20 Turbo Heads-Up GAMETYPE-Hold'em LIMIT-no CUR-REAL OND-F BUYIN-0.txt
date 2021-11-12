@@ -1,0 +1,120 @@
+Game Hand #381445248 - Tournament #20849432 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:40:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Mrjbay (1500.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Kc]
+Lorpugo3 raises 40.00 to 50.00
+Mrjbay raises 60.00 to 80.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Qs 9h 8d]
+Main pot 160.00
+Mrjbay checks
+Lorpugo3 checks
+*** TURN *** [Qs 9h 8d] [4d]
+Main pot 160.00
+Mrjbay bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [Qs 9h 8d 4d]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Mrjbay did not show and won 160.00
+
+Game Hand #381446802 - Tournament #20849432 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:41:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1420.00)
+Seat 2: Mrjbay (1580.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 4d]
+Mrjbay raises 1570.00 to 1580.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1560.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Mrjbay did not show and won 40.00
+
+Game Hand #381447161 - Tournament #20849432 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:41:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: Mrjbay (1600.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ac]
+Lorpugo3 raises 40.00 to 50.00
+Mrjbay raises 130.00 to 150.00
+Lorpugo3 raises 1350.00 to 1400.00 and is all-in
+Mrjbay calls 1250.00
+*** FLOP *** [5d 3d 5h]
+Main pot 2800.00
+*** TURN *** [5d 3d 5h] [Qc]
+Main pot 2800.00
+*** RIVER *** [5d 3d 5h Qc] [Kh]
+Main pot 2800.00
+*** SHOW DOWN ***
+Main pot 2800.00
+Lorpugo3 shows [Js Ac] (a pair of Fives [5h 5d Ac Kh Qc])
+Mrjbay shows [9d Ah] (a pair of Fives [5h 5d Ah Kh Qc])
+Lorpugo3 collected 1400.00 from main pot
+Mrjbay collected 1400.00 from main pot
+*** SUMMARY ***
+Total pot 2800.00
+Board [5d 3d 5h Qc Kh]
+Seat 1: Lorpugo3 (button) showed [Js Ac] and won 1400.00 with a pair of Fives [5h 5d Ac Kh Qc]
+Seat 2: Mrjbay (big blind) showed [9d Ah] and won 1400.00 with a pair of Fives [5h 5d Ah Kh Qc]
+
+Game Hand #381448077 - Tournament #20849432 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:41:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: Mrjbay (1600.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Kc]
+Mrjbay raises 1590.00 to 1600.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1580.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Mrjbay did not show and won 40.00
+
+Game Hand #381448454 - Tournament #20849432 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:41:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: Mrjbay (1620.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 3s]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 1600.00 to 1620.00 and is all-in
+Lorpugo3 calls 1340.00 and is all-in
+Uncalled bet (240.00) returned to Mrjbay
+*** FLOP *** [6s 8h Kc]
+Main pot 2760.00
+*** TURN *** [6s 8h Kc] [Th]
+Main pot 2760.00
+*** RIVER *** [6s 8h Kc Th] [Ah]
+Main pot 2760.00
+*** SHOW DOWN ***
+Main pot 2760.00
+Lorpugo3 shows [3h 3s] (a pair of Threes [3s 3h Ah Kc Th])
+Mrjbay shows [7s Kd] (a pair of Kings [Kd Kc Ah Th 8h])
+Mrjbay collected 2760.00 from main pot
+*** SUMMARY ***
+Total pot 2760.00
+Board [6s 8h Kc Th Ah]
+Seat 1: Lorpugo3 (button) showed [3h 3s] and lost with a pair of Threes [3s 3h Ah Kc Th]
+Seat 2: Mrjbay (big blind) showed [7s Kd] and won 2760.00 with a pair of Kings [Kd Kc Ah Th 8h]
+

@@ -1,0 +1,176 @@
+Game Hand #437586125 - Tournament #21805380 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 18:56:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: Valcher (500.00)
+Lorpugo3 posts the small blind 10.00
+Valcher posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Ac]
+Lorpugo3 raises 30.00 to 40.00
+Valcher folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Valcher (big blind) folded on the Pre-Flop
+
+Game Hand #437586248 - Tournament #21805380 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 18:56:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (520.00)
+Seat 2: Valcher (480.00)
+Valcher posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 5d]
+Valcher calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Valcher calls 40.00
+*** FLOP *** [Td Js Qc]
+Main pot 120.00
+Lorpugo3 checks
+Valcher checks
+*** TURN *** [Td Js Qc] [8c]
+Main pot 120.00
+Lorpugo3 checks
+Valcher checks
+*** RIVER *** [Td Js Qc 8c] [Jd]
+Main pot 120.00
+Lorpugo3 checks
+Valcher checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [4d 5d] (a pair of Jacks [Js Jd Qc Td 8c])
+Valcher shows [6s Ac] (a pair of Jacks [Js Jd Ac Qc Td])
+Valcher collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Td Js Qc 8c Jd]
+Seat 1: Lorpugo3 (big blind) showed [4d 5d] and lost with a pair of Jacks [Js Jd Qc Td 8c]
+Seat 2: Valcher (button) showed [6s Ac] and won 120.00 with a pair of Jacks [Js Jd Ac Qc Td] with the kicker Ace
+
+Game Hand #437586818 - Tournament #21805380 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 18:57:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: Valcher (540.00)
+Lorpugo3 posts the small blind 10.00
+Valcher posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 6s]
+Lorpugo3 raises 450.00 to 460.00 and is all-in
+Valcher folds
+Uncalled bet (440.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Valcher (big blind) folded on the Pre-Flop
+
+Game Hand #437586931 - Tournament #21805380 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 18:57:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (480.00)
+Seat 2: Valcher (520.00)
+Valcher posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Ac]
+Valcher raises 30.00 to 40.00
+Lorpugo3 raises 460.00 to 480.00 and is all-in
+Valcher folds
+Uncalled bet (440.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Valcher (button) folded on the Pre-Flop
+
+Game Hand #437587117 - Tournament #21805380 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 18:57:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (520.00)
+Seat 2: Valcher (480.00)
+Lorpugo3 posts the small blind 10.00
+Valcher posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Qd]
+Lorpugo3 raises 40.00 to 50.00
+Valcher folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Valcher (big blind) folded on the Pre-Flop
+
+Game Hand #437587231 - Tournament #21805380 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 18:58:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (540.00)
+Seat 2: Valcher (460.00)
+Valcher posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 8c]
+Valcher calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qs Th 6h]
+Main pot 60.00
+Lorpugo3 checks
+Valcher checks
+*** TURN *** [Qs Th 6h] [4h]
+Main pot 60.00
+Lorpugo3 checks
+Valcher bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Valcher
+Valcher does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Qs Th 6h 4h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: Valcher did not show and won 60.00
+
+Game Hand #437587561 - Tournament #21805380 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 18:58:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (510.00)
+Seat 2: Valcher (490.00)
+Lorpugo3 posts the small blind 15.00
+Valcher posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Tc]
+Lorpugo3 raises 60.00 to 75.00
+Valcher folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Valcher (big blind) folded on the Pre-Flop
+
+Game Hand #437587672 - Tournament #21805380 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 18:58:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (540.00)
+Seat 2: Valcher (460.00)
+Valcher posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 9c]
+Valcher calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+Valcher raises 430.00 to 460.00 and is all-in
+Lorpugo3 calls 385.00
+*** FLOP *** [8d 2h 9d]
+Main pot 920.00
+*** TURN *** [8d 2h 9d] [Qd]
+Main pot 920.00
+*** RIVER *** [8d 2h 9d Qd] [7c]
+Main pot 920.00
+*** SHOW DOWN ***
+Main pot 920.00
+Lorpugo3 shows [9h 9c] (three of a kind, Set of Nines [9h 9d 9c Qd 8d])
+Valcher shows [Js Ad] (a high card, Ace high [Ad Qd Js 9d 8d])
+Lorpugo3 collected 920.00 from main pot
+*** SUMMARY ***
+Total pot 920.00
+Board [8d 2h 9d Qd 7c]
+Seat 1: Lorpugo3 (big blind) showed [9h 9c] and won 920.00 with three of a kind, Set of Nines [9h 9d 9c Qd 8d]
+Seat 2: Valcher (button) showed [Js Ad] and lost with a high card, Ace high [Ad Qd Js 9d 8d]
+

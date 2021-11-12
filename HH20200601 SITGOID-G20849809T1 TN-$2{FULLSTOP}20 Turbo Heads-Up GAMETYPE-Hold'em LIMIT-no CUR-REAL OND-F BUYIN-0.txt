@@ -1,0 +1,994 @@
+Game Hand #381504546 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:10:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+evil1209 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Qd]
+Lorpugo3 raises 40.00 to 50.00
+evil1209 calls 30.00
+*** FLOP *** [Js 8d 9d]
+Main pot 100.00
+evil1209 checks
+Lorpugo3 bets 50.00
+evil1209 calls 50.00
+*** TURN *** [Js 8d 9d] [Tc]
+Main pot 200.00
+evil1209 checks
+Lorpugo3 bets 100.00
+evil1209 calls 100.00
+*** RIVER *** [Js 8d 9d Tc] [Ks]
+Main pot 400.00
+evil1209 bets 20.00
+Lorpugo3 raises 350.00 to 350.00
+evil1209 calls 330.00
+*** SHOW DOWN ***
+Main pot 1100.00
+Lorpugo3 shows [Td Qd] (a straight, King high [Ks Qd Js Td 9d])
+evil1209 shows [5d Qh] (a straight, King high [Ks Qh Js Tc 9d])
+evil1209 collected 550.00 from main pot
+Lorpugo3 collected 550.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [Js 8d 9d Tc Ks]
+Seat 1: evil1209 (big blind) showed [5d Qh] and won 550.00 with a straight, King high [Ks Qh Js Tc 9d]
+Seat 2: Lorpugo3 (button) showed [Td Qd] and won 550.00 with a straight, King high [Ks Qd Js Td 9d]
+
+Game Hand #381506948 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:11:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+evil1209 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 6d]
+evil1209 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8s Qc 4h]
+Main pot 40.00
+Lorpugo3 checks
+evil1209 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8s Qc 4h]
+Seat 1: evil1209 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #381507907 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:11:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+evil1209 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 5h]
+Lorpugo3 raises 30.00 to 40.00
+evil1209 calls 20.00
+*** FLOP *** [Kd 3d 4h]
+Main pot 80.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [Kd 3d 4h] [6d]
+Main pot 80.00
+evil1209 checks
+Lorpugo3 bets 40.00
+evil1209 calls 40.00
+*** RIVER *** [Kd 3d 4h 6d] [Qd]
+Main pot 160.00
+evil1209 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+evil1209 shows [8h 7h] (a high card, King high [Kd Qd 8h 7h 6d])
+Lorpugo3 shows [9c 5h] (a high card, King high [Kd Qd 9c 6d 5h])
+Lorpugo3 collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [Kd 3d 4h 6d Qd]
+Seat 1: evil1209 (big blind) showed [8h 7h] and lost with a high card, King high [Kd Qd 8h 7h 6d]
+Seat 2: Lorpugo3 (button) showed [9c 5h] and won 160.00 with a high card, King high [Kd Qd 9c 6d 5h] with the kicker Nine
+
+Game Hand #381509675 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:12:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+evil1209 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 9h]
+evil1209 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+evil1209 calls 40.00
+*** FLOP *** [As 4h Qd]
+Main pot 120.00
+Lorpugo3 bets 50.00
+evil1209 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [As 4h Qd]
+Seat 1: evil1209 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #381510728 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:13:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+Lorpugo3 posts the small blind 10.00
+evil1209 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ad]
+Lorpugo3 raises 40.00 to 50.00
+evil1209 calls 30.00
+*** FLOP *** [8s Th 8d]
+Main pot 100.00
+evil1209 checks
+Lorpugo3 bets 40.00
+evil1209 calls 40.00
+*** TURN *** [8s Th 8d] [As]
+Main pot 180.00
+evil1209 bets 20.00
+Lorpugo3 raises 70.00 to 70.00
+evil1209 raises 100.00 to 120.00
+Lorpugo3 calls 50.00
+*** RIVER *** [8s Th 8d As] [4c]
+Main pot 420.00
+evil1209 bets 20.00
+Lorpugo3 calls 20.00
+*** SHOW DOWN ***
+Main pot 460.00
+evil1209 shows [8c 3c] (three of a kind, Set of Eights [8s 8d 8c As Th])
+Lorpugo3 mucks hand
+evil1209 collected 460.00 from main pot
+*** SUMMARY ***
+Total pot 460.00
+Board [8s Th 8d As 4c]
+Seat 1: evil1209 (big blind) showed [8c 3c] and won 460.00 with three of a kind, Set of Eights [8s 8d 8c As Th]
+Seat 2: Lorpugo3 (button) mucked [Js Ad]
+
+Game Hand #381512705 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:14:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+evil1209 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ts]
+evil1209 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6s 2h 6d]
+Main pot 40.00
+Lorpugo3 bets 20.00
+evil1209 calls 20.00
+*** TURN *** [6s 2h 6d] [7s]
+Main pot 80.00
+Lorpugo3 bets 60.00
+evil1209 calls 60.00
+*** RIVER *** [6s 2h 6d 7s] [6h]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 checks
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [2s Ts] (a full house, Sixs full of Deuces [6s 6h 6d 2s 2h])
+evil1209 mucks hand
+Lorpugo3 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [6s 2h 6d 7s 6h]
+Seat 1: evil1209 (button) mucked [4c 3d]
+Seat 2: Lorpugo3 (big blind) showed [2s Ts] and won 200.00 with a full house, Sixs full of Deuces [6s 6h 6d 2s 2h]
+
+Game Hand #381514094 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:14:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+evil1209 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Qc]
+Lorpugo3 raises 40.00 to 50.00
+evil1209 calls 30.00
+*** FLOP *** [Ks 5d 6d]
+Main pot 100.00
+evil1209 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ks 5d 6d]
+Seat 1: evil1209 did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #381514883 - Tournament #20849809 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 23:15:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1560.00)
+Seat 2: Lorpugo3 (1440.00)
+evil1209 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 4s]
+evil1209 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ks 9d 8h]
+Main pot 40.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [Ks 9d 8h] [6d]
+Main pot 40.00
+Lorpugo3 checks
+evil1209 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Ks 9d 8h 6d]
+Seat 1: evil1209 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #381516296 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:15:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+Lorpugo3 posts the small blind 15.00
+evil1209 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 4h]
+Lorpugo3 folds
+evil1209 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: evil1209 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381516624 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:15:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1595.00)
+Seat 2: Lorpugo3 (1405.00)
+evil1209 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 2s]
+evil1209 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [9c Kd As]
+Main pot 60.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [9c Kd As] [3h]
+Main pot 60.00
+Lorpugo3 bets 30.00
+evil1209 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [9c Kd As 3h]
+Seat 1: evil1209 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #381517714 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:16:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1565.00)
+Seat 2: Lorpugo3 (1435.00)
+Lorpugo3 posts the small blind 15.00
+evil1209 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Ks]
+Lorpugo3 raises 45.00 to 60.00
+evil1209 calls 30.00
+*** FLOP *** [3c 8h Td]
+Main pot 120.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [3c 8h Td] [Th]
+Main pot 120.00
+evil1209 checks
+Lorpugo3 bets 60.00
+evil1209 calls 60.00
+*** RIVER *** [3c 8h Td Th] [6h]
+Main pot 240.00
+evil1209 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 240.00
+evil1209 shows [As 5d] (a pair of Tens [Th Td As 8h 6h])
+Lorpugo3 mucks hand
+evil1209 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [3c 8h Td Th 6h]
+Seat 1: evil1209 (big blind) showed [As 5d] and won 240.00 with a pair of Tens [Th Td As 8h 6h] with the kicker Ace
+Seat 2: Lorpugo3 (button) mucked [9h Ks]
+
+Game Hand #381519645 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:17:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1685.00)
+Seat 2: Lorpugo3 (1315.00)
+evil1209 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Ac]
+evil1209 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+evil1209 calls 60.00
+*** FLOP *** [Qd 7c 6c]
+Main pot 180.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [Qd 7c 6c] [5d]
+Main pot 180.00
+Lorpugo3 bets 90.00
+evil1209 calls 90.00
+*** RIVER *** [Qd 7c 6c 5d] [Ts]
+Main pot 360.00
+Lorpugo3 checks
+evil1209 checks
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [4c Ac] (a high card, Ace high [Ac Qd Ts 7c 6c])
+evil1209 mucks hand
+Lorpugo3 collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [Qd 7c 6c 5d Ts]
+Seat 1: evil1209 (button) mucked [Jh Kh]
+Seat 2: Lorpugo3 (big blind) showed [4c Ac] and won 360.00 with a high card, Ace high [Ac Qd Ts 7c 6c]
+
+Game Hand #381521698 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:18:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1505.00)
+Seat 2: Lorpugo3 (1495.00)
+Lorpugo3 posts the small blind 15.00
+evil1209 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 8s]
+Lorpugo3 raises 60.00 to 75.00
+evil1209 calls 45.00
+*** FLOP *** [7s Js Ac]
+Main pot 150.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [7s Js Ac] [Qh]
+Main pot 150.00
+evil1209 checks
+Lorpugo3 checks
+*** RIVER *** [7s Js Ac Qh] [3h]
+Main pot 150.00
+evil1209 checks
+Lorpugo3 bets 150.00
+evil1209 folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [7s Js Ac Qh 3h]
+Seat 1: evil1209 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #381523316 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:18:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+evil1209 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 4d]
+evil1209 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qs 3d Jc]
+Main pot 60.00
+Lorpugo3 checks
+evil1209 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Qs 3d Jc]
+Seat 1: evil1209 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #381524253 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:19:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 15.00
+evil1209 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 3s]
+Lorpugo3 folds
+evil1209 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: evil1209 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381524807 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:19:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1475.00)
+Seat 2: Lorpugo3 (1525.00)
+evil1209 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 5d]
+evil1209 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [2s 6h Js]
+Main pot 60.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [2s 6h Js] [4h]
+Main pot 60.00
+Lorpugo3 bets 30.00
+evil1209 calls 30.00
+*** RIVER *** [2s 6h Js 4h] [Kh]
+Main pot 120.00
+Lorpugo3 checks
+evil1209 checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [6c 5d] (a pair of Sixs [6h 6c Kh Js 5d])
+evil1209 mucks hand
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [2s 6h Js 4h Kh]
+Seat 1: evil1209 (button) mucked [3c 3h]
+Seat 2: Lorpugo3 (big blind) showed [6c 5d] and won 120.00 with a pair of Sixs [6h 6c Kh Js 5d]
+
+Game Hand #381526575 - Tournament #20849809 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/31 23:20:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1415.00)
+Seat 2: Lorpugo3 (1585.00)
+Lorpugo3 posts the small blind 15.00
+evil1209 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 7c]
+Lorpugo3 raises 60.00 to 75.00
+evil1209 calls 45.00
+*** FLOP *** [6d Kd 9h]
+Main pot 150.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [6d Kd 9h] [9d]
+Main pot 150.00
+evil1209 checks
+Lorpugo3 checks
+*** RIVER *** [6d Kd 9h 9d] [8d]
+Main pot 150.00
+evil1209 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [6d Kd 9h 9d 8d]
+Seat 1: evil1209 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #381528072 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:20:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+evil1209 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 4d]
+evil1209 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [9d Qh 2d]
+Main pot 100.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [9d Qh 2d] [Tc]
+Main pot 100.00
+Lorpugo3 checks
+evil1209 checks
+*** RIVER *** [9d Qh 2d Tc] [Ah]
+Main pot 100.00
+Lorpugo3 bets 50.00
+evil1209 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9d Qh 2d Tc Ah]
+Seat 1: evil1209 (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #381529514 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:21:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+Lorpugo3 posts the small blind 25.00
+evil1209 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Qc]
+Lorpugo3 raises 100.00 to 125.00
+evil1209 calls 75.00
+*** FLOP *** [5h Th 8h]
+Main pot 250.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [5h Th 8h] [7c]
+Main pot 250.00
+evil1209 checks
+Lorpugo3 bets 125.00
+evil1209 calls 125.00
+*** RIVER *** [5h Th 8h 7c] [As]
+Main pot 500.00
+evil1209 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 500.00
+evil1209 shows [9s 4s] (a high card, Ace high [As Th 9s 8h 7c])
+Lorpugo3 shows [Tc Qc] (a pair of Tens [Th Tc As Qc 8h])
+Lorpugo3 collected 500.00 from main pot
+*** SUMMARY ***
+Total pot 500.00
+Board [5h Th 8h 7c As]
+Seat 1: evil1209 (big blind) showed [9s 4s] and lost with a high card, Ace high [As Th 9s 8h 7c]
+Seat 2: Lorpugo3 (button) showed [Tc Qc] and won 500.00 with a pair of Tens [Th Tc As Qc 8h]
+
+Game Hand #381531010 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:22:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1190.00)
+Seat 2: Lorpugo3 (1810.00)
+evil1209 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 2d]
+evil1209 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Td 2h 4c]
+Main pot 100.00
+Lorpugo3 checks
+evil1209 bets 50.00
+Lorpugo3 calls 50.00
+*** TURN *** [Td 2h 4c] [Ks]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Td 2h 4c Ks]
+Seat 1: evil1209 did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #381532269 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:22:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+Lorpugo3 posts the small blind 25.00
+evil1209 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Kh]
+Lorpugo3 raises 100.00 to 125.00
+evil1209 calls 75.00
+*** FLOP *** [9c 8s 7d]
+Main pot 250.00
+evil1209 bets 250.00
+Lorpugo3 folds
+Uncalled bet (250.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9c 8s 7d]
+Seat 1: evil1209 did not show and won 250.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #381533251 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:23:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1415.00)
+Seat 2: Lorpugo3 (1585.00)
+evil1209 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 8s]
+evil1209 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [2h 6d 7d]
+Main pot 100.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [2h 6d 7d] [9d]
+Main pot 100.00
+Lorpugo3 bets 50.00
+evil1209 calls 50.00
+*** RIVER *** [2h 6d 7d 9d] [Qh]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2h 6d 7d 9d Qh]
+Seat 1: evil1209 did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #381535112 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:23:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1515.00)
+Seat 2: Lorpugo3 (1485.00)
+Lorpugo3 posts the small blind 25.00
+evil1209 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 2c]
+Lorpugo3 folds
+evil1209 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: evil1209 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381535597 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:24:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+evil1209 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4h]
+evil1209 calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+evil1209 calls 100.00
+*** FLOP *** [3c 4d 2d]
+Main pot 300.00
+Lorpugo3 bets 1310.00 and is all-in
+evil1209 folds
+Uncalled bet (1310.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [3c 4d 2d]
+Seat 1: evil1209 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 300.00
+
+Game Hand #381536616 - Tournament #20849809 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/05/31 23:24:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Lorpugo3 posts the small blind 25.00
+evil1209 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Qh]
+Lorpugo3 raises 100.00 to 125.00
+evil1209 calls 75.00
+*** FLOP *** [6d Kd 8d]
+Main pot 250.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [6d Kd 8d] [Ad]
+Main pot 250.00
+evil1209 checks
+Lorpugo3 checks
+*** RIVER *** [6d Kd 8d Ad] [3s]
+Main pot 250.00
+evil1209 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [6d Kd 8d Ad 3s]
+Seat 1: evil1209 did not show and won 250.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #381539349 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:25:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1515.00)
+Seat 2: Lorpugo3 (1485.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Qh]
+evil1209 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [As 5d 9d]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [As 5d 9d] [4s]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 checks
+*** RIVER *** [As 5d 9d 4s] [Tc]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 checks
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [8s Qh] (a high card, Ace high [As Qh Tc 9d 8s])
+evil1209 shows [Jh 9s] (a pair of Nines [9s 9d As Jh Tc])
+evil1209 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [As 5d 9d 4s Tc]
+Seat 1: evil1209 (button) showed [Jh 9s] and won 200.00 with a pair of Nines [9s 9d As Jh Tc]
+Seat 2: Lorpugo3 (big blind) showed [8s Qh] and lost with a high card, Ace high [As Qh Tc 9d 8s]
+
+Game Hand #381540888 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:26:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1615.00)
+Seat 2: Lorpugo3 (1385.00)
+Lorpugo3 posts the small blind 50.00
+evil1209 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Js]
+Lorpugo3 raises 150.00 to 200.00
+evil1209 calls 100.00
+*** FLOP *** [4c As Ad]
+Main pot 400.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [4c As Ad] [Kh]
+Main pot 400.00
+evil1209 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [4c As Ad Kh]
+Seat 1: evil1209 did not show and won 400.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #381542113 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:27:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (1815.00)
+Seat 2: Lorpugo3 (1185.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3c]
+evil1209 calls 50.00
+Lorpugo3 raises 1085.00 to 1185.00 and is all-in
+evil1209 folds
+Uncalled bet (1085.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: evil1209 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #381542661 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:27:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (1715.00)
+Seat 2: Lorpugo3 (1285.00)
+Lorpugo3 posts the small blind 50.00
+evil1209 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs As]
+Lorpugo3 raises 150.00 to 200.00
+evil1209 calls 100.00
+*** FLOP *** [6h 9c Qd]
+Main pot 400.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [6h 9c Qd] [4c]
+Main pot 400.00
+evil1209 bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [6h 9c Qd 4c] [8h]
+Main pot 600.00
+evil1209 bets 100.00
+Lorpugo3 calls 100.00
+*** SHOW DOWN ***
+Main pot 800.00
+evil1209 shows [9d 9h] (three of a kind, Set of Nines [9h 9d 9c Qd 8h])
+Lorpugo3 mucks hand
+evil1209 collected 800.00 from main pot
+*** SUMMARY ***
+Total pot 800.00
+Board [6h 9c Qd 4c 8h]
+Seat 1: evil1209 (big blind) showed [9d 9h] and won 800.00 with three of a kind, Set of Nines [9h 9d 9c Qd 8h]
+Seat 2: Lorpugo3 (button) mucked [Qs As]
+
+Game Hand #381544255 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:28:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (2115.00)
+Seat 2: Lorpugo3 (885.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Js]
+evil1209 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: evil1209 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #381544613 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:28:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (2065.00)
+Seat 2: Lorpugo3 (935.00)
+Lorpugo3 posts the small blind 50.00
+evil1209 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 5d]
+Lorpugo3 calls 50.00
+evil1209 checks
+*** FLOP *** [9h Td Qs]
+Main pot 200.00
+evil1209 checks
+Lorpugo3 checks
+*** TURN *** [9h Td Qs] [4h]
+Main pot 200.00
+evil1209 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to evil1209
+evil1209 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [9h Td Qs 4h]
+Seat 1: evil1209 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #381545742 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:28:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (2165.00)
+Seat 2: Lorpugo3 (835.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Jh]
+evil1209 calls 50.00
+Lorpugo3 raises 735.00 to 835.00 and is all-in
+evil1209 folds
+Uncalled bet (735.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: evil1209 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #381546255 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:28:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (2065.00)
+Seat 2: Lorpugo3 (935.00)
+Lorpugo3 posts the small blind 50.00
+evil1209 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+Lorpugo3 folds
+evil1209 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: evil1209 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381546670 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:29:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (2115.00)
+Seat 2: Lorpugo3 (885.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Qc]
+evil1209 calls 50.00
+Lorpugo3 raises 785.00 to 885.00 and is all-in
+evil1209 folds
+Uncalled bet (785.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: evil1209 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #381547161 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:29:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (2015.00)
+Seat 2: Lorpugo3 (985.00)
+Lorpugo3 posts the small blind 50.00
+evil1209 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Qc]
+Lorpugo3 calls 50.00
+evil1209 checks
+*** FLOP *** [5s Ah Jc]
+Main pot 200.00
+evil1209 checks
+Lorpugo3 bets 100.00
+evil1209 calls 100.00
+*** TURN *** [5s Ah Jc] [5h]
+Main pot 400.00
+evil1209 checks
+Lorpugo3 checks
+*** RIVER *** [5s Ah Jc 5h] [Ad]
+Main pot 400.00
+evil1209 bets 100.00
+Lorpugo3 calls 100.00
+*** SHOW DOWN ***
+Main pot 600.00
+evil1209 shows [4h 5c] (a full house, Fives full of Aces [5s 5h 5c Ah Ad])
+Lorpugo3 mucks hand
+evil1209 collected 600.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [5s Ah Jc 5h Ad]
+Seat 1: evil1209 (big blind) showed [4h 5c] and won 600.00 with a full house, Fives full of Aces [5s 5h 5c Ah Ad]
+Seat 2: Lorpugo3 (button) mucked [6d Qc]
+
+Game Hand #381548561 - Tournament #20849809 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/05/31 23:30:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (2315.00)
+Seat 2: Lorpugo3 (685.00)
+evil1209 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4c]
+evil1209 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [6h Ah Kc]
+Main pot 200.00
+Lorpugo3 checks
+evil1209 checks
+*** TURN *** [6h Ah Kc] [As]
+Main pot 200.00
+Lorpugo3 bets 100.00
+evil1209 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [6h Ah Kc As]
+Seat 1: evil1209 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #381549626 - Tournament #20849809 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/05/31 23:30:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: evil1209 (2215.00)
+Seat 2: Lorpugo3 (785.00)
+Lorpugo3 posts the small blind 75.00
+evil1209 posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Tc]
+Lorpugo3 folds
+evil1209 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: evil1209 did not show and won 225.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381550085 - Tournament #20849809 - Holdem(No Limit) - Level 5 (75.00/150.00)- 2020/05/31 23:30:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: evil1209 (2290.00)
+Seat 2: Lorpugo3 (710.00)
+evil1209 posts the small blind 75.00
+Lorpugo3 posts the big blind 150.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Qh]
+evil1209 calls 75.00
+Lorpugo3 raises 560.00 to 710.00 and is all-in
+evil1209 calls 560.00
+*** FLOP *** [6h 9h 6d]
+Main pot 1420.00
+*** TURN *** [6h 9h 6d] [9d]
+Main pot 1420.00
+*** RIVER *** [6h 9h 6d 9d] [5h]
+Main pot 1420.00
+*** SHOW DOWN ***
+Main pot 1420.00
+evil1209 shows [Qc Kc] (two pair, Nines and Sixs [9h 9d 6h 6d Kc])
+Lorpugo3 shows [2c Qh] (two pair, Nines and Sixs [9h 9d 6h 6d Qh])
+evil1209 collected 1420.00 from main pot
+*** SUMMARY ***
+Total pot 1420.00
+Board [6h 9h 6d 9d 5h]
+Seat 1: evil1209 (button) showed [Qc Kc] and won 1420.00 with two pair, Nines and Sixs [9h 9d 6h 6d Kc] with the kicker King
+Seat 2: Lorpugo3 (big blind) showed [2c Qh] and lost with two pair, Nines and Sixs [9h 9d 6h 6d Qh]
+

@@ -1,0 +1,96 @@
+Game Hand #405106481 - Tournament #21045418 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:05:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: NovaTech (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+NovaTech posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 4s]
+Lorpugo3 folds
+NovaTech does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: NovaTech did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405106540 - Tournament #21045418 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:05:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: NovaTech (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+NovaTech posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 7h]
+NovaTech raises 30.00 to 40.00
+Lorpugo3 raises 90.00 to 110.00
+NovaTech folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: NovaTech (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #405106660 - Tournament #21045418 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:06:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: NovaTech (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+Lorpugo3 posts the small blind 10.00
+NovaTech posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 9h]
+Lorpugo3 raises 40.00 to 50.00
+NovaTech calls 30.00
+*** FLOP *** [9s Tc Th]
+Main pot 100.00
+NovaTech checks
+Lorpugo3 bets 50.00
+NovaTech calls 50.00
+*** TURN *** [9s Tc Th] [7d]
+Main pot 200.00
+NovaTech checks
+Lorpugo3 bets 130.00
+NovaTech raises 260.00 to 260.00
+Lorpugo3 raises 1300.00 to 1430.00 and is all-in
+NovaTech calls 1110.00 and is all-in
+Uncalled bet (60.00) returned to Lorpugo3
+*** RIVER *** [9s Tc Th 7d] [6s]
+Main pot 2940.00
+*** SHOW DOWN ***
+Main pot 2940.00
+NovaTech shows [Jd 8s] (a straight, Jack high [Jd Th 9s 8s 7d])
+Lorpugo3 shows [Ah 9h] (two pair, Tens and Nines [Th Tc 9s 9h Ah])
+NovaTech collected 2940.00 from main pot
+*** SUMMARY ***
+Total pot 2940.00
+Board [9s Tc Th 7d 6s]
+Seat 1: NovaTech (big blind) showed [Jd 8s] and won 2940.00 with a straight, Jack high [Jd Th 9s 8s 7d]
+Seat 2: Lorpugo3 (button) showed [Ah 9h] and lost with two pair, Tens and Nines [Th Tc 9s 9h Ah]
+
+Game Hand #405107081 - Tournament #21045418 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:06:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: NovaTech (2940.00)
+Seat 2: Lorpugo3 (60.00)
+NovaTech posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 9h]
+NovaTech raises 2930.00 to 2940.00 and is all-in
+Lorpugo3 calls 40.00 and is all-in
+Uncalled bet (2880.00) returned to NovaTech
+*** FLOP *** [Jc 5d Jh]
+Main pot 120.00
+*** TURN *** [Jc 5d Jh] [8d]
+Main pot 120.00
+*** RIVER *** [Jc 5d Jh 8d] [Th]
+Main pot 120.00
+*** SHOW DOWN ***
+Main pot 120.00
+NovaTech shows [5c Td] (two pair, Jacks and Tens [Jh Jc Th Td 8d])
+Lorpugo3 shows [Kh 9h] (a pair of Jacks [Jh Jc Kh Th 9h])
+NovaTech collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Jc 5d Jh 8d Th]
+Seat 1: NovaTech (button) showed [5c Td] and won 120.00 with two pair, Jacks and Tens [Jh Jc Th Td 8d]
+Seat 2: Lorpugo3 (big blind) showed [Kh 9h] and lost with a pair of Jacks [Jh Jc Kh Th 9h]
+

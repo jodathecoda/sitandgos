@@ -1,0 +1,1049 @@
+Game Hand #395611458 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:18:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: NeverSkip (1500.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Kh]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip calls 30.00
+*** FLOP *** [4s 4c 3h]
+Main pot 100.00
+NeverSkip checks
+Lorpugo3 bets 50.00
+NeverSkip calls 50.00
+*** TURN *** [4s 4c 3h] [Qd]
+Main pot 200.00
+NeverSkip checks
+Lorpugo3 checks
+*** RIVER *** [4s 4c 3h Qd] [4d]
+Main pot 200.00
+NeverSkip checks
+Lorpugo3 bets 40.00
+NeverSkip calls 40.00
+*** SHOW DOWN ***
+Main pot 280.00
+Lorpugo3 shows [Js Kh] (three of a kind, Set of Fours [4s 4d 4c Kh Qd])
+NeverSkip shows [Td Ad] (three of a kind, Set of Fours [4s 4d 4c Ad Qd])
+NeverSkip collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [4s 4c 3h Qd 4d]
+Seat 1: Lorpugo3 (button) showed [Js Kh] and lost with three of a kind, Set of Fours [4s 4d 4c Kh Qd]
+Seat 2: NeverSkip (big blind) showed [Td Ad] and won 280.00 with three of a kind, Set of Fours [4s 4d 4c Ad Qd] with the kicker Ace
+
+Game Hand #395611705 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:19:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1360.00)
+Seat 2: NeverSkip (1640.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 4c]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395611742 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:19:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1370.00)
+Seat 2: NeverSkip (1630.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 2h]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 30.00
+
+Game Hand #395611775 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:19:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1360.00)
+Seat 2: NeverSkip (1640.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 4c]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395611801 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:19:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1370.00)
+Seat 2: NeverSkip (1630.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Ah]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395611885 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:19:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1390.00)
+Seat 2: NeverSkip (1610.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Th]
+NeverSkip raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Ad 3s 8d]
+Main pot 100.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [Ad 3s 8d] [7h]
+Main pot 100.00
+Lorpugo3 checks
+NeverSkip bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ad 3s 8d 7h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: NeverSkip did not show and won 100.00
+
+Game Hand #395612102 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:20:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1340.00)
+Seat 2: NeverSkip (1660.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 4d]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip calls 30.00
+*** FLOP *** [Ah 9c Qh]
+Main pot 100.00
+NeverSkip checks
+Lorpugo3 checks
+*** TURN *** [Ah 9c Qh] [Jh]
+Main pot 100.00
+NeverSkip checks
+Lorpugo3 checks
+*** RIVER *** [Ah 9c Qh Jh] [Ad]
+Main pot 100.00
+NeverSkip bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ah 9c Qh Jh Ad]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: NeverSkip did not show and won 100.00
+
+Game Hand #395612309 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:20:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: NeverSkip (1710.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Qh]
+NeverSkip raises 40.00 to 50.00
+Lorpugo3 raises 130.00 to 150.00
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395612441 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:21:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1340.00)
+Seat 2: NeverSkip (1660.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 5s]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395612509 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:21:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1360.00)
+Seat 2: NeverSkip (1640.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Th]
+NeverSkip raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [5c 6d As]
+Main pot 100.00
+Lorpugo3 checks
+NeverSkip bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [5c 6d As]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: NeverSkip did not show and won 100.00
+
+Game Hand #395612686 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:21:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1310.00)
+Seat 2: NeverSkip (1690.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Ts]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip calls 30.00
+*** FLOP *** [Ks Tc 2c]
+Main pot 100.00
+NeverSkip checks
+Lorpugo3 bets 50.00
+NeverSkip calls 50.00
+*** TURN *** [Ks Tc 2c] [5c]
+Main pot 200.00
+NeverSkip checks
+Lorpugo3 bets 100.00
+NeverSkip calls 100.00
+*** RIVER *** [Ks Tc 2c 5c] [6h]
+Main pot 400.00
+NeverSkip checks
+Lorpugo3 bets 200.00
+NeverSkip folds
+Uncalled bet (200.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Ks Tc 2c 5c 6h]
+Seat 1: Lorpugo3 did not show and won 400.00
+Seat 2: NeverSkip (big blind) folded on the River
+
+Game Hand #395612980 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:22:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: NeverSkip (1490.00)
+NeverSkip posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Qd]
+NeverSkip raises 40.00 to 50.00
+Lorpugo3 raises 130.00 to 150.00
+NeverSkip calls 100.00
+*** FLOP *** [2s 2h 8d]
+Main pot 300.00
+Lorpugo3 bets 150.00
+NeverSkip folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2s 2h 8d]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: NeverSkip (button) folded on the Flop
+
+Game Hand #395613207 - Tournament #20969398 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 11:23:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1660.00)
+Seat 2: NeverSkip (1340.00)
+Lorpugo3 posts the small blind 10.00
+NeverSkip posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Kd]
+Lorpugo3 raises 40.00 to 50.00
+NeverSkip calls 30.00
+*** FLOP *** [Jd 2s Ks]
+Main pot 100.00
+NeverSkip checks
+Lorpugo3 checks
+*** TURN *** [Jd 2s Ks] [5h]
+Main pot 100.00
+NeverSkip bets 50.00
+Lorpugo3 calls 50.00
+*** RIVER *** [Jd 2s Ks 5h] [4s]
+Main pot 200.00
+NeverSkip bets 100.00
+Lorpugo3 calls 100.00
+*** SHOW DOWN ***
+Main pot 400.00
+NeverSkip shows [Ad 3h] (a straight, Five high [5h 4s 3h 2s Ad])
+Lorpugo3 mucks hand
+NeverSkip collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [Jd 2s Ks 5h 4s]
+Seat 1: Lorpugo3 (button) mucked [Kh Kd]
+Seat 2: NeverSkip (big blind) showed [Ad 3h] and won 400.00 with a straight, Five high [5h 4s 3h 2s Ad]
+
+Game Hand #395613451 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:23:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1460.00)
+Seat 2: NeverSkip (1540.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8s]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395613485 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:23:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1475.00)
+Seat 2: NeverSkip (1525.00)
+Lorpugo3 posts the small blind 15.00
+NeverSkip posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 3c]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 45.00
+
+Game Hand #395613547 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:23:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1460.00)
+Seat 2: NeverSkip (1540.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Ad]
+NeverSkip raises 60.00 to 75.00
+Lorpugo3 raises 195.00 to 225.00
+NeverSkip calls 150.00
+*** FLOP *** [2s Tc 6d]
+Main pot 450.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [2s Tc 6d] [Kc]
+Main pot 450.00
+Lorpugo3 checks
+NeverSkip bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [2s Tc 6d Kc]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: NeverSkip did not show and won 450.00
+
+Game Hand #395613800 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:24:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1235.00)
+Seat 2: NeverSkip (1765.00)
+Lorpugo3 posts the small blind 15.00
+NeverSkip posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 4c]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 45.00
+
+Game Hand #395613847 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:24:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: NeverSkip (1780.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 2s]
+NeverSkip raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 60.00
+
+Game Hand #395613918 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:24:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1190.00)
+Seat 2: NeverSkip (1810.00)
+Lorpugo3 posts the small blind 15.00
+NeverSkip posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Td]
+Lorpugo3 raises 60.00 to 75.00
+NeverSkip folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395613993 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:25:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: NeverSkip (1780.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 4h]
+NeverSkip raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 60.00
+
+Game Hand #395614104 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:25:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1190.00)
+Seat 2: NeverSkip (1810.00)
+Lorpugo3 posts the small blind 15.00
+NeverSkip posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 3d]
+Lorpugo3 raises 60.00 to 75.00
+NeverSkip calls 45.00
+*** FLOP *** [4d 5h 6c]
+Main pot 150.00
+NeverSkip checks
+Lorpugo3 bets 90.00
+NeverSkip calls 90.00
+*** TURN *** [4d 5h 6c] [Qh]
+Main pot 330.00
+NeverSkip checks
+Lorpugo3 checks
+*** RIVER *** [4d 5h 6c Qh] [2d]
+Main pot 330.00
+NeverSkip bets 180.00
+Lorpugo3 raises 525.00 to 525.00
+NeverSkip folds
+Uncalled bet (345.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 690.00
+Board [4d 5h 6c Qh 2d]
+Seat 1: Lorpugo3 did not show and won 690.00
+Seat 2: NeverSkip (big blind) folded on the River
+
+Game Hand #395614403 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:26:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1535.00)
+Seat 2: NeverSkip (1465.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 6s]
+NeverSkip raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Kh 4d 6h]
+Main pot 120.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [Kh 4d 6h] [2c]
+Main pot 120.00
+Lorpugo3 checks
+NeverSkip bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [Kh 4d 6h 2c] [8d]
+Main pot 240.00
+Lorpugo3 checks
+NeverSkip bets 120.00
+Lorpugo3 calls 120.00
+*** SHOW DOWN ***
+Main pot 480.00
+NeverSkip shows [5c Qd] (a high card, King high [Kh Qd 8d 6h 5c])
+Lorpugo3 shows [7h 6s] (a pair of Sixs [6s 6h Kh 8d 7h])
+Lorpugo3 collected 480.00 from main pot
+*** SUMMARY ***
+Total pot 480.00
+Board [Kh 4d 6h 2c 8d]
+Seat 1: Lorpugo3 (big blind) showed [7h 6s] and won 480.00 with a pair of Sixs [6s 6h Kh 8d 7h]
+Seat 2: NeverSkip (button) showed [5c Qd] and lost with a high card, King high [Kh Qd 8d 6h 5c]
+
+Game Hand #395614801 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:27:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1775.00)
+Seat 2: NeverSkip (1225.00)
+Lorpugo3 posts the small blind 15.00
+NeverSkip posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5d]
+Lorpugo3 raises 60.00 to 75.00
+NeverSkip calls 45.00
+*** FLOP *** [7s As 3s]
+Main pot 150.00
+NeverSkip checks
+Lorpugo3 bets 60.00
+NeverSkip calls 60.00
+*** TURN *** [7s As 3s] [Ah]
+Main pot 270.00
+NeverSkip checks
+Lorpugo3 bets 120.00
+NeverSkip folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 270.00
+Board [7s As 3s Ah]
+Seat 1: Lorpugo3 did not show and won 270.00
+Seat 2: NeverSkip (big blind) folded on the Turn
+
+Game Hand #395615019 - Tournament #20969398 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 11:27:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1910.00)
+Seat 2: NeverSkip (1090.00)
+NeverSkip posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Js]
+NeverSkip raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [Jc 3c 7c]
+Main pot 150.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [Jc 3c 7c] [Qs]
+Main pot 150.00
+Lorpugo3 checks
+NeverSkip checks
+*** RIVER *** [Jc 3c 7c Qs] [8s]
+Main pot 150.00
+Lorpugo3 checks
+NeverSkip checks
+*** SHOW DOWN ***
+Main pot 150.00
+Lorpugo3 shows [4s Js] (a pair of Jacks [Js Jc Qs 8s 7c])
+NeverSkip mucks hand
+Lorpugo3 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 150.00
+Board [Jc 3c 7c Qs 8s]
+Seat 1: Lorpugo3 (big blind) showed [4s Js] and won 150.00 with a pair of Jacks [Js Jc Qs 8s 7c]
+Seat 2: NeverSkip (button) mucked [Ks 2c]
+
+Game Hand #395615256 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:28:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1985.00)
+Seat 2: NeverSkip (1015.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 5c]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 75.00
+
+Game Hand #395615294 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:28:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1960.00)
+Seat 2: NeverSkip (1040.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Jh]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395615336 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:28:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1985.00)
+Seat 2: NeverSkip (1015.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 6s]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 75.00
+
+Game Hand #395615386 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:28:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1960.00)
+Seat 2: NeverSkip (1040.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 2h]
+NeverSkip calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Ad Jd 9c]
+Main pot 100.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [Ad Jd 9c] [2s]
+Main pot 100.00
+Lorpugo3 bets 50.00
+NeverSkip folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ad Jd 9c 2s]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: NeverSkip (button) folded on the Turn
+
+Game Hand #395615514 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:29:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2010.00)
+Seat 2: NeverSkip (990.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 7d]
+Lorpugo3 folds
+NeverSkip shows [Ks Kh]
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip (big blind) showed [Ks Kh] and won 75.00
+
+Game Hand #395615557 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:29:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1985.00)
+Seat 2: NeverSkip (1015.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 3d]
+NeverSkip raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 100.00
+
+Game Hand #395615616 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:29:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1935.00)
+Seat 2: NeverSkip (1065.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 7c]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 75.00
+
+Game Hand #395615672 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:29:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1910.00)
+Seat 2: NeverSkip (1090.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 7d]
+NeverSkip calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+NeverSkip calls 100.00
+*** FLOP *** [6s 4c 4h]
+Main pot 300.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [6s 4c 4h] [6d]
+Main pot 300.00
+Lorpugo3 bets 150.00
+NeverSkip folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [6s 4c 4h 6d]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: NeverSkip (button) folded on the Turn
+
+Game Hand #395615869 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:30:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2060.00)
+Seat 2: NeverSkip (940.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 4d]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 75.00
+
+Game Hand #395615928 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:30:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2035.00)
+Seat 2: NeverSkip (965.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 9d]
+NeverSkip calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+NeverSkip raises 915.00 to 965.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (840.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 250.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 250.00
+
+Game Hand #395616050 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:30:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1910.00)
+Seat 2: NeverSkip (1090.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Jh]
+Lorpugo3 raises 100.00 to 125.00
+NeverSkip calls 75.00
+*** FLOP *** [Jc 8s Qs]
+Main pot 250.00
+NeverSkip checks
+Lorpugo3 checks
+*** TURN *** [Jc 8s Qs] [5h]
+Main pot 250.00
+NeverSkip checks
+Lorpugo3 bets 125.00
+NeverSkip calls 125.00
+*** RIVER *** [Jc 8s Qs 5h] [As]
+Main pot 500.00
+NeverSkip checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 500.00
+NeverSkip shows [Js Tc] (a pair of Jacks [Js Jc As Qs Tc])
+Lorpugo3 mucks hand
+NeverSkip collected 500.00 from main pot
+*** SUMMARY ***
+Total pot 500.00
+Board [Jc 8s Qs 5h As]
+Seat 1: Lorpugo3 (button) mucked [3h Jh]
+Seat 2: NeverSkip (big blind) showed [Js Tc] and won 500.00 with a pair of Jacks [Js Jc As Qs Tc] with the kicker Ten
+
+Game Hand #395616258 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:31:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1660.00)
+Seat 2: NeverSkip (1340.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qs]
+NeverSkip calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+NeverSkip calls 100.00
+*** FLOP *** [Jd 4h 7d]
+Main pot 300.00
+Lorpugo3 checks
+NeverSkip bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Jd 4h 7d]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: NeverSkip did not show and won 300.00
+
+Game Hand #395616477 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:31:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: NeverSkip (1490.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 9s]
+Lorpugo3 raises 100.00 to 125.00
+NeverSkip folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395616532 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:31:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: NeverSkip (1440.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 7h]
+NeverSkip raises 100.00 to 125.00
+Lorpugo3 calls 75.00
+*** FLOP *** [2c 5d Js]
+Main pot 250.00
+Lorpugo3 checks
+NeverSkip bets 125.00
+Lorpugo3 raises 375.00 to 375.00
+NeverSkip calls 250.00
+*** TURN *** [2c 5d Js] [Ah]
+Main pot 1000.00
+Lorpugo3 checks
+NeverSkip checks
+*** RIVER *** [2c 5d Js Ah] [Jd]
+Main pot 1000.00
+Lorpugo3 checks
+NeverSkip checks
+*** SHOW DOWN ***
+Main pot 1000.00
+Lorpugo3 shows [6c 7h] (a pair of Jacks [Js Jd Ah 7h 6c])
+NeverSkip shows [7c 5h] (two pair, Jacks and Fives [Js Jd 5h 5d Ah])
+NeverSkip collected 1000.00 from main pot
+*** SUMMARY ***
+Total pot 1000.00
+Board [2c 5d Js Ah Jd]
+Seat 1: Lorpugo3 (big blind) showed [6c 7h] and lost with a pair of Jacks [Js Jd Ah 7h 6c]
+Seat 2: NeverSkip (button) showed [7c 5h] and won 1000.00 with two pair, Jacks and Fives [Js Jd 5h 5d Ah]
+
+Game Hand #395616968 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:32:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1060.00)
+Seat 2: NeverSkip (1940.00)
+Lorpugo3 posts the small blind 25.00
+NeverSkip posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 2h]
+Lorpugo3 raises 100.00 to 125.00
+NeverSkip raises 1890.00 to 1940.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1815.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 250.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 250.00
+
+Game Hand #395617125 - Tournament #20969398 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 11:33:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (935.00)
+Seat 2: NeverSkip (2065.00)
+NeverSkip posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 2h]
+NeverSkip raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 100.00
+
+Game Hand #395617230 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:33:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (885.00)
+Seat 2: NeverSkip (2115.00)
+Lorpugo3 posts the small blind 50.00
+NeverSkip posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Ts]
+Lorpugo3 folds
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 150.00
+
+Game Hand #395617286 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:33:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (835.00)
+Seat 2: NeverSkip (2165.00)
+NeverSkip posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 7h]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395617325 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:33:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (885.00)
+Seat 2: NeverSkip (2115.00)
+Lorpugo3 posts the small blind 50.00
+NeverSkip posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 9s]
+Lorpugo3 raises 835.00 to 885.00 and is all-in
+NeverSkip folds
+Uncalled bet (785.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395617440 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:34:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (985.00)
+Seat 2: NeverSkip (2015.00)
+NeverSkip posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Tc]
+NeverSkip folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: NeverSkip (button) folded on the Pre-Flop
+
+Game Hand #395617479 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:34:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1035.00)
+Seat 2: NeverSkip (1965.00)
+Lorpugo3 posts the small blind 50.00
+NeverSkip posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8h]
+Lorpugo3 raises 985.00 to 1035.00 and is all-in
+NeverSkip folds
+Uncalled bet (935.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395617558 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:34:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1135.00)
+Seat 2: NeverSkip (1865.00)
+NeverSkip posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 3c]
+NeverSkip calls 50.00
+Lorpugo3 checks
+*** FLOP *** [8c 6d Qc]
+Main pot 200.00
+Lorpugo3 checks
+NeverSkip checks
+*** TURN *** [8c 6d Qc] [Jd]
+Main pot 200.00
+Lorpugo3 bets 100.00
+NeverSkip calls 100.00
+*** RIVER *** [8c 6d Qc Jd] [5d]
+Main pot 400.00
+Lorpugo3 checks
+NeverSkip checks
+*** SHOW DOWN ***
+Main pot 400.00
+Lorpugo3 shows [8s 3c] (a pair of Eights [8s 8c Qc Jd 6d])
+NeverSkip shows [Qh 7d] (a pair of Queens [Qh Qc Jd 8c 7d])
+NeverSkip collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [8c 6d Qc Jd 5d]
+Seat 1: Lorpugo3 (big blind) showed [8s 3c] and lost with a pair of Eights [8s 8c Qc Jd 6d]
+Seat 2: NeverSkip (button) showed [Qh 7d] and won 400.00 with a pair of Queens [Qh Qc Jd 8c 7d]
+
+Game Hand #395617970 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:35:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (935.00)
+Seat 2: NeverSkip (2065.00)
+Lorpugo3 posts the small blind 50.00
+NeverSkip posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Kd]
+Lorpugo3 raises 885.00 to 935.00 and is all-in
+NeverSkip folds
+Uncalled bet (835.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: NeverSkip (big blind) folded on the Pre-Flop
+
+Game Hand #395618062 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:35:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1035.00)
+Seat 2: NeverSkip (1965.00)
+NeverSkip posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 9d]
+NeverSkip raises 200.00 to 250.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to NeverSkip
+NeverSkip does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: NeverSkip did not show and won 200.00
+
+Game Hand #395618183 - Tournament #20969398 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 11:36:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (935.00)
+Seat 2: NeverSkip (2065.00)
+Lorpugo3 posts the small blind 50.00
+NeverSkip posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c As]
+Lorpugo3 raises 885.00 to 935.00 and is all-in
+NeverSkip calls 835.00
+*** FLOP *** [Jh 4d 6d]
+Main pot 1870.00
+*** TURN *** [Jh 4d 6d] [8c]
+Main pot 1870.00
+*** RIVER *** [Jh 4d 6d 8c] [2d]
+Main pot 1870.00
+*** SHOW DOWN ***
+Main pot 1870.00
+Lorpugo3 shows [5c As] (a high card, Ace high [As Jh 8c 6d 5c])
+NeverSkip shows [Ad 3d] (a flush, Ace high [Ad 6d 4d 3d 2d])
+NeverSkip collected 1870.00 from main pot
+*** SUMMARY ***
+Total pot 1870.00
+Board [Jh 4d 6d 8c 2d]
+Seat 1: Lorpugo3 (button) showed [5c As] and lost with a high card, Ace high [As Jh 8c 6d 5c]
+Seat 2: NeverSkip (big blind) showed [Ad 3d] and won 1870.00 with a flush, Ace high [Ad 6d 4d 3d 2d]
+

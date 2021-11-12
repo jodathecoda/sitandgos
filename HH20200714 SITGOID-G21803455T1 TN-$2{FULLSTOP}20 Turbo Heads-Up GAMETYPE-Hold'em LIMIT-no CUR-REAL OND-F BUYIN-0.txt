@@ -1,0 +1,866 @@
+Game Hand #437344448 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:39:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: jhon5 (1500.00)
+Lorpugo3 posts the small blind 10.00
+jhon5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 6d]
+Lorpugo3 raises 30.00 to 40.00
+jhon5 calls 20.00
+*** FLOP *** [2h 8h 8s]
+Main pot 80.00
+jhon5 checks
+Lorpugo3 checks
+*** TURN *** [2h 8h 8s] [Jd]
+Main pot 80.00
+jhon5 checks
+Lorpugo3 checks
+*** RIVER *** [2h 8h 8s Jd] [3d]
+Main pot 80.00
+jhon5 checks
+Lorpugo3 bets 120.00
+jhon5 folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2h 8h 8s Jd 3d]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: jhon5 (big blind) folded on the River
+
+Game Hand #437344664 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:40:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: jhon5 (1460.00)
+jhon5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc As]
+jhon5 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Kh Kd 7c]
+Main pot 100.00
+Lorpugo3 checks
+jhon5 bets 75.00
+Lorpugo3 calls 75.00
+*** TURN *** [Kh Kd 7c] [5s]
+Main pot 250.00
+Lorpugo3 checks
+jhon5 bets 188.00
+Lorpugo3 folds
+Uncalled bet (188.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [Kh Kd 7c 5s]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: jhon5 did not show and won 250.00
+
+Game Hand #437344927 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:41:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1415.00)
+Seat 2: jhon5 (1585.00)
+Lorpugo3 posts the small blind 10.00
+jhon5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 7c]
+Lorpugo3 raises 40.00 to 50.00
+jhon5 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: jhon5 (big blind) folded on the Pre-Flop
+
+Game Hand #437345027 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:41:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1435.00)
+Seat 2: jhon5 (1565.00)
+jhon5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s As]
+jhon5 raises 30.00 to 40.00
+Lorpugo3 raises 90.00 to 110.00
+jhon5 calls 70.00
+*** FLOP *** [Ac 7c 3s]
+Main pot 220.00
+Lorpugo3 bets 110.00
+jhon5 calls 110.00
+*** TURN *** [Ac 7c 3s] [8c]
+Main pot 440.00
+Lorpugo3 checks
+jhon5 bets 330.00
+Lorpugo3 folds
+Uncalled bet (330.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 440.00
+Board [Ac 7c 3s 8c]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: jhon5 did not show and won 440.00
+
+Game Hand #437345491 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:42:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1215.00)
+Seat 2: jhon5 (1785.00)
+Lorpugo3 posts the small blind 10.00
+jhon5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 6d]
+Lorpugo3 raises 40.00 to 50.00
+jhon5 raises 130.00 to 150.00
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 200.00
+
+Game Hand #437345636 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:43:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1165.00)
+Seat 2: jhon5 (1835.00)
+jhon5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 6c]
+jhon5 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Kc Qh 7c]
+Main pot 40.00
+Lorpugo3 checks
+jhon5 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Kc Qh 7c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: jhon5 did not show and won 40.00
+
+Game Hand #437345851 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:43:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1145.00)
+Seat 2: jhon5 (1855.00)
+Lorpugo3 posts the small blind 10.00
+jhon5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 5c]
+Lorpugo3 raises 30.00 to 40.00
+jhon5 calls 20.00
+*** FLOP *** [5s 3c 9h]
+Main pot 80.00
+jhon5 checks
+Lorpugo3 bets 50.00
+jhon5 calls 50.00
+*** TURN *** [5s 3c 9h] [Th]
+Main pot 180.00
+jhon5 checks
+Lorpugo3 checks
+*** RIVER *** [5s 3c 9h Th] [4h]
+Main pot 180.00
+jhon5 bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [5s 3c 9h Th 4h]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: jhon5 did not show and won 180.00
+
+Game Hand #437346080 - Tournament #21803455 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 12:44:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: jhon5 (1945.00)
+jhon5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 7h]
+jhon5 calls 10.00
+Lorpugo3 raises 20.00 to 40.00
+jhon5 calls 20.00
+*** FLOP *** [2c 5h Jd]
+Main pot 80.00
+Lorpugo3 bets 50.00
+jhon5 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2c 5h Jd]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: jhon5 (button) folded on the Flop
+
+Game Hand #437346231 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:44:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1095.00)
+Seat 2: jhon5 (1905.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 6c]
+Lorpugo3 raises 45.00 to 60.00
+jhon5 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: jhon5 (big blind) folded on the Pre-Flop
+
+Game Hand #437346288 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:45:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1125.00)
+Seat 2: jhon5 (1875.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 3d]
+jhon5 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [As 5c Tc]
+Main pot 60.00
+Lorpugo3 checks
+jhon5 bets 45.00
+Lorpugo3 calls 45.00
+*** TURN *** [As 5c Tc] [6d]
+Main pot 150.00
+Lorpugo3 checks
+jhon5 checks
+*** RIVER *** [As 5c Tc 6d] [7s]
+Main pot 150.00
+Lorpugo3 bets 150.00
+jhon5 folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [As 5c Tc 6d 7s]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: jhon5 (button) folded on the River
+
+Game Hand #437346569 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:45:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1200.00)
+Seat 2: jhon5 (1800.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 9d]
+Lorpugo3 raises 45.00 to 60.00
+jhon5 calls 30.00
+*** FLOP *** [8h Kd Qh]
+Main pot 120.00
+jhon5 checks
+Lorpugo3 checks
+*** TURN *** [8h Kd Qh] [9s]
+Main pot 120.00
+jhon5 checks
+Lorpugo3 checks
+*** RIVER *** [8h Kd Qh 9s] [Jc]
+Main pot 120.00
+jhon5 checks
+Lorpugo3 bets 90.00
+jhon5 folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8h Kd Qh 9s Jc]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: jhon5 (big blind) folded on the River
+
+Game Hand #437346820 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:46:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: jhon5 (1740.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Ts]
+jhon5 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [As Qd 8s]
+Main pot 60.00
+Lorpugo3 checks
+jhon5 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [As Qd 8s]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: jhon5 did not show and won 60.00
+
+Game Hand #437346935 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:46:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: jhon5 (1770.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4h]
+Lorpugo3 calls 15.00
+jhon5 raises 60.00 to 90.00
+Lorpugo3 calls 60.00
+*** FLOP *** [2c Jh Tc]
+Main pot 180.00
+jhon5 bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [2c Jh Tc]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: jhon5 did not show and won 180.00
+
+Game Hand #437347052 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:47:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1140.00)
+Seat 2: jhon5 (1860.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Ts]
+jhon5 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+jhon5 calls 60.00
+*** FLOP *** [Js 6h 7d]
+Main pot 180.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [Js 6h 7d] [3c]
+Main pot 180.00
+Lorpugo3 checks
+jhon5 checks
+*** RIVER *** [Js 6h 7d 3c] [Ad]
+Main pot 180.00
+Lorpugo3 bets 105.00
+jhon5 folds
+Uncalled bet (105.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [Js 6h 7d 3c Ad]
+Seat 1: Lorpugo3 did not show and won 180.00
+Seat 2: jhon5 (button) folded on the River
+
+Game Hand #437347273 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:47:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: jhon5 (1770.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 7s]
+Lorpugo3 raises 45.00 to 60.00
+jhon5 calls 30.00
+*** FLOP *** [Ah 6d 4h]
+Main pot 120.00
+jhon5 checks
+Lorpugo3 bets 60.00
+jhon5 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ah 6d 4h]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: jhon5 (big blind) folded on the Flop
+
+Game Hand #437347385 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:48:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: jhon5 (1710.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Qc]
+jhon5 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: jhon5 (button) folded on the Pre-Flop
+
+Game Hand #437347416 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:48:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1305.00)
+Seat 2: jhon5 (1695.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 3c]
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 45.00
+
+Game Hand #437347454 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:48:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: jhon5 (1710.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 5h]
+jhon5 raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 60.00
+
+Game Hand #437347497 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:48:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: jhon5 (1740.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Kc]
+Lorpugo3 raises 45.00 to 60.00
+jhon5 raises 150.00 to 180.00
+Lorpugo3 raises 450.00 to 510.00
+jhon5 folds
+Uncalled bet (330.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 360.00
+Seat 1: Lorpugo3 did not show and won 360.00
+Seat 2: jhon5 (big blind) folded on the Pre-Flop
+
+Game Hand #437347646 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:48:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: jhon5 (1560.00)
+jhon5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Jd]
+jhon5 calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+jhon5 calls 45.00
+*** FLOP *** [Qd 6d 7c]
+Main pot 150.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [Qd 6d 7c] [4d]
+Main pot 150.00
+Lorpugo3 bets 75.00
+jhon5 calls 75.00
+*** RIVER *** [Qd 6d 7c 4d] [2d]
+Main pot 300.00
+Lorpugo3 checks
+jhon5 checks
+*** SHOW DOWN ***
+Main pot 300.00
+Lorpugo3 shows [9d Jd] (a flush, Queen high [Qd Jd 9d 6d 4d])
+jhon5 mucks hand
+Lorpugo3 collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Qd 6d 7c 4d 2d]
+Seat 1: Lorpugo3 (big blind) showed [9d Jd] and won 300.00 with a flush, Queen high [Qd Jd 9d 6d 4d]
+Seat 2: jhon5 (button) mucked [Ah 7h]
+
+Game Hand #437347905 - Tournament #21803455 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 12:49:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1590.00)
+Seat 2: jhon5 (1410.00)
+Lorpugo3 posts the small blind 15.00
+jhon5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 2c]
+Lorpugo3 raises 45.00 to 60.00
+jhon5 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: jhon5 (big blind) folded on the Pre-Flop
+
+Game Hand #437347959 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:49:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1620.00)
+Seat 2: jhon5 (1380.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Js]
+jhon5 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+jhon5 calls 75.00
+*** FLOP *** [9h 3h Qs]
+Main pot 250.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [9h 3h Qs] [6c]
+Main pot 250.00
+Lorpugo3 checks
+jhon5 bets 125.00
+Lorpugo3 folds
+Uncalled bet (125.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9h 3h Qs 6c]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: jhon5 did not show and won 250.00
+
+Game Hand #437348253 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:50:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1495.00)
+Seat 2: jhon5 (1505.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 7c]
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 75.00
+
+Game Hand #437348291 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:50:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: jhon5 (1530.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9c]
+jhon5 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+jhon5 calls 75.00
+*** FLOP *** [3s 8s Kh]
+Main pot 250.00
+Lorpugo3 bets 100.00
+jhon5 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [3s 8s Kh]
+Seat 1: Lorpugo3 did not show and won 250.00
+Seat 2: jhon5 (button) folded on the Flop
+
+Game Hand #437348419 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:51:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1595.00)
+Seat 2: jhon5 (1405.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 75.00
+
+Game Hand #437348459 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:51:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: jhon5 (1430.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 4s]
+jhon5 raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 100.00
+
+Game Hand #437348510 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:51:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: jhon5 (1480.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 7c]
+Lorpugo3 raises 75.00 to 100.00
+jhon5 calls 50.00
+*** FLOP *** [Kh 2h Tc]
+Main pot 200.00
+jhon5 checks
+Lorpugo3 checks
+*** TURN *** [Kh 2h Tc] [5d]
+Main pot 200.00
+jhon5 checks
+Lorpugo3 checks
+*** RIVER *** [Kh 2h Tc 5d] [2s]
+Main pot 200.00
+jhon5 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 200.00
+jhon5 shows [Qs 6s] (a pair of Deuces [2s 2h Kh Qs Tc])
+Lorpugo3 mucks hand
+jhon5 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [Kh 2h Tc 5d 2s]
+Seat 1: Lorpugo3 (button) mucked [6h 7c]
+Seat 2: jhon5 (big blind) showed [Qs 6s] and won 200.00 with a pair of Deuces [2s 2h Kh Qs Tc] with the kicker Queen
+
+Game Hand #437348736 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:52:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1420.00)
+Seat 2: jhon5 (1580.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2d]
+jhon5 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: jhon5 (button) folded on the Pre-Flop
+
+Game Hand #437348779 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:52:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1445.00)
+Seat 2: jhon5 (1555.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 3s]
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 75.00
+
+Game Hand #437348827 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:52:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1420.00)
+Seat 2: jhon5 (1580.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Td]
+jhon5 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Ks 9d 8d]
+Main pot 100.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [Ks 9d 8d] [4s]
+Main pot 100.00
+Lorpugo3 checks
+jhon5 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ks 9d 8d 4s]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: jhon5 did not show and won 100.00
+
+Game Hand #437349021 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:52:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1370.00)
+Seat 2: jhon5 (1630.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 5d]
+Lorpugo3 folds
+jhon5 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 75.00
+
+Game Hand #437349067 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:53:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1345.00)
+Seat 2: jhon5 (1655.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Ks]
+jhon5 raises 125.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [Js Jc 4d]
+Main pot 300.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [Js Jc 4d] [6c]
+Main pot 300.00
+Lorpugo3 checks
+jhon5 checks
+*** RIVER *** [Js Jc 4d 6c] [As]
+Main pot 300.00
+Lorpugo3 checks
+jhon5 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Js Jc 4d 6c As]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: jhon5 did not show and won 300.00
+
+Game Hand #437349303 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:53:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1195.00)
+Seat 2: jhon5 (1805.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Ah]
+Lorpugo3 raises 75.00 to 100.00
+jhon5 calls 50.00
+*** FLOP *** [8c 3s Ad]
+Main pot 200.00
+jhon5 checks
+Lorpugo3 bets 100.00
+jhon5 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [8c 3s Ad]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: jhon5 (big blind) folded on the Flop
+
+Game Hand #437349432 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:54:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1295.00)
+Seat 2: jhon5 (1705.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Ts]
+jhon5 raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: jhon5 did not show and won 100.00
+
+Game Hand #437349489 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:54:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1245.00)
+Seat 2: jhon5 (1755.00)
+Lorpugo3 posts the small blind 25.00
+jhon5 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3c]
+Lorpugo3 raises 75.00 to 100.00
+jhon5 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: jhon5 (big blind) folded on the Pre-Flop
+
+Game Hand #437349553 - Tournament #21803455 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/14 12:54:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1295.00)
+Seat 2: jhon5 (1705.00)
+jhon5 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 5d]
+jhon5 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [3s Jc 4h]
+Main pot 100.00
+Lorpugo3 checks
+jhon5 checks
+*** TURN *** [3s Jc 4h] [5h]
+Main pot 100.00
+Lorpugo3 bets 50.00
+jhon5 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [3s Jc 4h 5h]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: jhon5 (button) folded on the Turn
+
+Game Hand #437349729 - Tournament #21803455 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/14 12:54:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1345.00)
+Seat 2: jhon5 (1655.00)
+Lorpugo3 posts the small blind 50.00
+jhon5 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Qd]
+Lorpugo3 raises 150.00 to 200.00
+jhon5 raises 500.00 to 600.00
+Lorpugo3 calls 400.00
+*** FLOP *** [3s Ks Ts]
+Main pot 1200.00
+jhon5 checks
+Lorpugo3 checks
+*** TURN *** [3s Ks Ts] [4c]
+Main pot 1200.00
+jhon5 bets 1055.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1055.00) returned to jhon5
+jhon5 does not show
+*** SUMMARY ***
+Total pot 1200.00
+Board [3s Ks Ts 4c]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: jhon5 did not show and won 1200.00
+
+Game Hand #437349859 - Tournament #21803455 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/14 12:55:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (745.00)
+Seat 2: jhon5 (2255.00)
+jhon5 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Td]
+jhon5 calls 50.00
+Lorpugo3 raises 645.00 to 745.00 and is all-in
+jhon5 calls 645.00
+*** FLOP *** [Jd Jh Kd]
+Main pot 1490.00
+*** TURN *** [Jd Jh Kd] [Qs]
+Main pot 1490.00
+*** RIVER *** [Jd Jh Kd Qs] [Jc]
+Main pot 1490.00
+*** SHOW DOWN ***
+Main pot 1490.00
+Lorpugo3 shows [As Td] (a straight, Ace high [As Kd Qs Jh Td])
+jhon5 shows [3d 3c] (a full house, Jacks full of Threes [Jh Jd Jc 3d 3c])
+jhon5 collected 1490.00 from main pot
+*** SUMMARY ***
+Total pot 1490.00
+Board [Jd Jh Kd Qs Jc]
+Seat 1: Lorpugo3 (big blind) showed [As Td] and lost with a straight, Ace high [As Kd Qs Jh Td]
+Seat 2: jhon5 (button) showed [3d 3c] and won 1490.00 with a full house, Jacks full of Threes [Jh Jd Jc 3d 3c]
+

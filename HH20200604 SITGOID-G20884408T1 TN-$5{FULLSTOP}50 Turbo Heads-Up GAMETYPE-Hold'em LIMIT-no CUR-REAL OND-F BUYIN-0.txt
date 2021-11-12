@@ -1,0 +1,958 @@
+Game Hand #385352285 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:10:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 6d]
+YoungGrandma69 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9s 7c 7d]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [9s 7c 7d] [5s]
+Main pot 100.00
+Lorpugo3 checks
+YoungGrandma69 bets 75.00
+Lorpugo3 raises 230.00 to 230.00
+YoungGrandma69 folds
+Uncalled bet (155.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9s 7c 7d 5s]
+Seat 1: YoungGrandma69 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 250.00
+
+Game Hand #385353478 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:11:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1375.00)
+Seat 2: Lorpugo3 (1625.00)
+Lorpugo3 posts the small blind 10.00
+YoungGrandma69 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 8h]
+Lorpugo3 raises 50.00 to 60.00
+YoungGrandma69 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #385353680 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:11:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1355.00)
+Seat 2: Lorpugo3 (1645.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 7h]
+YoungGrandma69 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ac 3s Jc]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [Ac 3s Jc] [Kh]
+Main pot 40.00
+Lorpugo3 bets 20.00
+YoungGrandma69 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Ac 3s Jc Kh]
+Seat 1: YoungGrandma69 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #385354210 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:12:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1335.00)
+Seat 2: Lorpugo3 (1665.00)
+Lorpugo3 posts the small blind 10.00
+YoungGrandma69 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 4d]
+Lorpugo3 raises 60.00 to 70.00
+YoungGrandma69 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #385354436 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:12:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1315.00)
+Seat 2: Lorpugo3 (1685.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Tc]
+YoungGrandma69 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+YoungGrandma69 calls 40.00
+*** FLOP *** [2d 2c 8h]
+Main pot 120.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [2d 2c 8h] [8d]
+Main pot 120.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** RIVER *** [2d 2c 8h 8d] [3h]
+Main pot 120.00
+Lorpugo3 checks
+YoungGrandma69 bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [2d 2c 8h 8d 3h]
+Seat 1: YoungGrandma69 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #385355433 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:13:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1375.00)
+Seat 2: Lorpugo3 (1625.00)
+Lorpugo3 posts the small blind 10.00
+YoungGrandma69 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Qd]
+Lorpugo3 raises 60.00 to 70.00
+YoungGrandma69 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #385355684 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:13:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1355.00)
+Seat 2: Lorpugo3 (1645.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 6s]
+YoungGrandma69 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5c 2h 8h]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [5c 2h 8h] [Kh]
+Main pot 40.00
+Lorpugo3 bets 30.00
+YoungGrandma69 calls 30.00
+*** RIVER *** [5c 2h 8h Kh] [9c]
+Main pot 100.00
+Lorpugo3 checks
+YoungGrandma69 bets 75.00
+Lorpugo3 calls 75.00
+*** SHOW DOWN ***
+Main pot 250.00
+YoungGrandma69 shows [Kd 6c] (a pair of Kings [Kh Kd 9c 8h 6c])
+Lorpugo3 shows [Ks 6s] (a pair of Kings [Ks Kh 9c 8h 6s])
+YoungGrandma69 collected 125.00 from main pot
+Lorpugo3 collected 125.00 from main pot
+*** SUMMARY ***
+Total pot 250.00
+Board [5c 2h 8h Kh 9c]
+Seat 1: YoungGrandma69 (button) showed [Kd 6c] and won 125.00 with a pair of Kings [Kh Kd 9c 8h 6c]
+Seat 2: Lorpugo3 (big blind) showed [Ks 6s] and won 125.00 with a pair of Kings [Ks Kh 9c 8h 6s]
+
+Game Hand #385356434 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:13:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1355.00)
+Seat 2: Lorpugo3 (1645.00)
+Lorpugo3 posts the small blind 10.00
+YoungGrandma69 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 3d]
+Lorpugo3 folds
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: YoungGrandma69 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385356570 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:14:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1365.00)
+Seat 2: Lorpugo3 (1635.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 7c]
+YoungGrandma69 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Jh 4h 4d]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [Jh 4h 4d] [Ah]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** RIVER *** [Jh 4h 4d Ah] [Qc]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** SHOW DOWN ***
+Main pot 40.00
+Lorpugo3 shows [Kc 7c] (a pair of Fours [4h 4d Ah Kc Qc])
+YoungGrandma69 mucks hand
+Lorpugo3 collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [Jh 4h 4d Ah Qc]
+Seat 1: YoungGrandma69 (button) mucked [Ts 6h]
+Seat 2: Lorpugo3 (big blind) showed [Kc 7c] and won 40.00 with a pair of Fours [4h 4d Ah Kc Qc] with the kicker King
+
+Game Hand #385357223 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:14:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1345.00)
+Seat 2: Lorpugo3 (1655.00)
+Lorpugo3 posts the small blind 10.00
+YoungGrandma69 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Qh]
+Lorpugo3 raises 30.00 to 40.00
+YoungGrandma69 calls 20.00
+*** FLOP *** [7s 2d 6s]
+Main pot 80.00
+YoungGrandma69 checks
+Lorpugo3 bets 50.00
+YoungGrandma69 raises 160.00 to 160.00
+Lorpugo3 calls 110.00
+*** TURN *** [7s 2d 6s] [Ac]
+Main pot 400.00
+YoungGrandma69 bets 200.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [7s 2d 6s Ac]
+Seat 1: YoungGrandma69 did not show and won 400.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #385358657 - Tournament #20884408 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 21:15:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1545.00)
+Seat 2: Lorpugo3 (1455.00)
+YoungGrandma69 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 7s]
+YoungGrandma69 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qc 8d 3d]
+Main pot 40.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [Qc 8d 3d] [Qh]
+Main pot 40.00
+Lorpugo3 bets 40.00
+YoungGrandma69 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Qc 8d 3d Qh]
+Seat 1: YoungGrandma69 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #385359259 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:16:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1525.00)
+Seat 2: Lorpugo3 (1475.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Kh]
+Lorpugo3 raises 90.00 to 105.00
+YoungGrandma69 calls 75.00
+*** FLOP *** [4h 7c 4d]
+Main pot 210.00
+YoungGrandma69 checks
+Lorpugo3 bets 105.00
+YoungGrandma69 calls 105.00
+*** TURN *** [4h 7c 4d] [3s]
+Main pot 420.00
+YoungGrandma69 checks
+Lorpugo3 checks
+*** RIVER *** [4h 7c 4d 3s] [5c]
+Main pot 420.00
+YoungGrandma69 checks
+Lorpugo3 bets 210.00
+YoungGrandma69 folds
+Uncalled bet (210.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 420.00
+Board [4h 7c 4d 3s 5c]
+Seat 1: YoungGrandma69 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 420.00
+
+Game Hand #385360303 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:16:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1315.00)
+Seat 2: Lorpugo3 (1685.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 5d]
+YoungGrandma69 raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [8c Js 4d]
+Main pot 150.00
+Lorpugo3 checks
+YoungGrandma69 bets 113.00
+Lorpugo3 folds
+Uncalled bet (113.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [8c Js 4d]
+Seat 1: YoungGrandma69 did not show and won 150.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #385360847 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:17:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qd]
+Lorpugo3 raises 75.00 to 90.00
+YoungGrandma69 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #385361072 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:17:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 8d]
+YoungGrandma69 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [6d Js Kh]
+Main pot 60.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [6d Js Kh] [5h]
+Main pot 60.00
+Lorpugo3 bets 45.00
+YoungGrandma69 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [6d Js Kh 5h]
+Seat 1: YoungGrandma69 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #385361593 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:17:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Qc]
+Lorpugo3 folds
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: YoungGrandma69 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385361749 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:18:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1345.00)
+Seat 2: Lorpugo3 (1655.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 7c]
+YoungGrandma69 raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [4c 9s Ks]
+Main pot 150.00
+Lorpugo3 checks
+YoungGrandma69 bets 113.00
+Lorpugo3 folds
+Uncalled bet (113.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [4c 9s Ks]
+Seat 1: YoungGrandma69 did not show and won 150.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #385362186 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:18:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 9c]
+Lorpugo3 folds
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: YoungGrandma69 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385362327 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:18:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1435.00)
+Seat 2: Lorpugo3 (1565.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 2h]
+YoungGrandma69 raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [7c 9s Js]
+Main pot 150.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [7c 9s Js] [4d]
+Main pot 150.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** RIVER *** [7c 9s Js 4d] [2d]
+Main pot 150.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** SHOW DOWN ***
+Main pot 150.00
+Lorpugo3 shows [2s 2h] (three of a kind, Set of Deuces [2s 2h 2d Js 9s])
+YoungGrandma69 mucks hand
+Lorpugo3 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 150.00
+Board [7c 9s Js 4d 2d]
+Seat 1: YoungGrandma69 (button) mucked [As Td]
+Seat 2: Lorpugo3 (big blind) showed [2s 2h] and won 150.00 with three of a kind, Set of Deuces [2s 2h 2d Js 9s]
+
+Game Hand #385363031 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:18:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 7c]
+Lorpugo3 raises 75.00 to 90.00
+YoungGrandma69 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #385363456 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:19:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 3s]
+YoungGrandma69 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [6d Js 9s]
+Main pot 60.00
+Lorpugo3 checks
+YoungGrandma69 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [6d Js 9s]
+Seat 1: YoungGrandma69 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #385363961 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:19:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 4d]
+Lorpugo3 folds
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: YoungGrandma69 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385364205 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:19:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1375.00)
+Seat 2: Lorpugo3 (1625.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 2s]
+YoungGrandma69 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [7s 4c Kd]
+Main pot 60.00
+Lorpugo3 bets 30.00
+YoungGrandma69 calls 30.00
+*** TURN *** [7s 4c Kd] [9d]
+Main pot 120.00
+Lorpugo3 checks
+YoungGrandma69 bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [7s 4c Kd 9d]
+Seat 1: YoungGrandma69 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #385364877 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:20:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1435.00)
+Seat 2: Lorpugo3 (1565.00)
+Lorpugo3 posts the small blind 15.00
+YoungGrandma69 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Qc]
+Lorpugo3 folds
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: YoungGrandma69 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385365027 - Tournament #20884408 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 21:20:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+YoungGrandma69 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Th]
+YoungGrandma69 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+YoungGrandma69 calls 60.00
+*** FLOP *** [7s 4s 6h]
+Main pot 180.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [7s 4s 6h] [Ks]
+Main pot 180.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** RIVER *** [7s 4s 6h Ks] [4c]
+Main pot 180.00
+Lorpugo3 checks
+YoungGrandma69 bets 135.00
+Lorpugo3 folds
+Uncalled bet (135.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [7s 4s 6h Ks 4c]
+Seat 1: YoungGrandma69 did not show and won 180.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #385365972 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:21:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 25.00
+YoungGrandma69 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Qd]
+Lorpugo3 raises 150.00 to 175.00
+YoungGrandma69 folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #385366185 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:21:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+YoungGrandma69 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 2h]
+YoungGrandma69 raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: YoungGrandma69 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #385366379 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:21:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 25.00
+YoungGrandma69 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 8h]
+Lorpugo3 raises 150.00 to 175.00
+YoungGrandma69 calls 125.00
+*** FLOP *** [9d 4c 2d]
+Main pot 350.00
+YoungGrandma69 bets 175.00
+Lorpugo3 calls 175.00
+*** TURN *** [9d 4c 2d] [Qc]
+Main pot 700.00
+YoungGrandma69 bets 350.00
+Lorpugo3 folds
+Uncalled bet (350.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 700.00
+Board [9d 4c 2d Qc]
+Seat 1: YoungGrandma69 did not show and won 700.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #385367462 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:22:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1890.00)
+Seat 2: Lorpugo3 (1110.00)
+YoungGrandma69 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Qd]
+YoungGrandma69 raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [3s Jc 5s]
+Main pot 200.00
+Lorpugo3 checks
+YoungGrandma69 bets 50.00
+Lorpugo3 raises 175.00 to 175.00
+YoungGrandma69 folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [3s Jc 5s]
+Seat 1: YoungGrandma69 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 300.00
+
+Game Hand #385368098 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:22:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1740.00)
+Seat 2: Lorpugo3 (1260.00)
+Lorpugo3 posts the small blind 25.00
+YoungGrandma69 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4c]
+Lorpugo3 raises 75.00 to 100.00
+YoungGrandma69 calls 50.00
+*** FLOP *** [6s Kh 8c]
+Main pot 200.00
+YoungGrandma69 checks
+Lorpugo3 checks
+*** TURN *** [6s Kh 8c] [Qd]
+Main pot 200.00
+YoungGrandma69 checks
+Lorpugo3 bets 100.00
+YoungGrandma69 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [6s Kh 8c Qd]
+Seat 1: YoungGrandma69 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #385368828 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:23:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1640.00)
+Seat 2: Lorpugo3 (1360.00)
+YoungGrandma69 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 7h]
+YoungGrandma69 raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [7s Kh 3c]
+Main pot 200.00
+Lorpugo3 checks
+YoungGrandma69 bets 50.00
+Lorpugo3 raises 100.00 to 100.00
+YoungGrandma69 calls 50.00
+*** TURN *** [7s Kh 3c] [2d]
+Main pot 400.00
+Lorpugo3 checks
+YoungGrandma69 bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [7s Kh 3c 2d] [Kc]
+Main pot 600.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** SHOW DOWN ***
+Main pot 600.00
+Lorpugo3 shows [8s 7h] (two pair, Kings and Sevens [Kh Kc 7s 7h 8s])
+YoungGrandma69 mucks hand
+Lorpugo3 collected 600.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [7s Kh 3c 2d Kc]
+Seat 1: YoungGrandma69 (button) mucked [3s Qh]
+Seat 2: Lorpugo3 (big blind) showed [8s 7h] and won 600.00 with two pair, Kings and Sevens [Kh Kc 7s 7h 8s]
+
+Game Hand #385370082 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:24:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Lorpugo3 posts the small blind 25.00
+YoungGrandma69 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 9s]
+Lorpugo3 raises 125.00 to 150.00
+YoungGrandma69 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #385370618 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:24:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+YoungGrandma69 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Qd]
+YoungGrandma69 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+YoungGrandma69 calls 75.00
+*** FLOP *** [2s Jd As]
+Main pot 250.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** TURN *** [2s Jd As] [5d]
+Main pot 250.00
+Lorpugo3 bets 75.00
+YoungGrandma69 calls 75.00
+*** RIVER *** [2s Jd As 5d] [8d]
+Main pot 400.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** SHOW DOWN ***
+Main pot 400.00
+Lorpugo3 shows [Jh Qd] (a pair of Jacks [Jh Jd As Qd 8d])
+YoungGrandma69 mucks hand
+Lorpugo3 collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [2s Jd As 5d 8d]
+Seat 1: YoungGrandma69 (button) mucked [5c 3s]
+Seat 2: Lorpugo3 (big blind) showed [Jh Qd] and won 400.00 with a pair of Jacks [Jh Jd As Qd 8d]
+
+Game Hand #385371565 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:25:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+Lorpugo3 posts the small blind 25.00
+YoungGrandma69 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ac]
+Lorpugo3 raises 100.00 to 125.00
+YoungGrandma69 raises 1040.00 to 1090.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (965.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 250.00
+Seat 1: YoungGrandma69 did not show and won 250.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385372055 - Tournament #20884408 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 21:25:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1215.00)
+Seat 2: Lorpugo3 (1785.00)
+YoungGrandma69 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 8c]
+YoungGrandma69 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+YoungGrandma69 calls 75.00
+*** FLOP *** [Js Ts 4h]
+Main pot 250.00
+Lorpugo3 checks
+YoungGrandma69 bets 188.00
+Lorpugo3 folds
+Uncalled bet (188.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [Js Ts 4h]
+Seat 1: YoungGrandma69 did not show and won 250.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #385372877 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:26:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Lorpugo3 posts the small blind 50.00
+YoungGrandma69 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Ks]
+Lorpugo3 raises 200.00 to 250.00
+YoungGrandma69 raises 1240.00 to 1340.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1090.00) returned to YoungGrandma69
+YoungGrandma69 does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: YoungGrandma69 did not show and won 500.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #385373275 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:26:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+YoungGrandma69 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 2h]
+YoungGrandma69 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [Ad 7h 3d]
+Main pot 200.00
+Lorpugo3 checks
+YoungGrandma69 bets 100.00
+Lorpugo3 calls 100.00
+*** TURN *** [Ad 7h 3d] [3s]
+Main pot 400.00
+Lorpugo3 checks
+YoungGrandma69 checks
+*** RIVER *** [Ad 7h 3d 3s] [5h]
+Main pot 400.00
+Lorpugo3 bets 400.00
+YoungGrandma69 folds
+Uncalled bet (400.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Ad 7h 3d 3s 5h]
+Seat 1: YoungGrandma69 (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 400.00
+
+Game Hand #385374377 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:27:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Lorpugo3 posts the small blind 50.00
+YoungGrandma69 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 9c]
+Lorpugo3 raises 150.00 to 200.00
+YoungGrandma69 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #385374608 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:27:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+YoungGrandma69 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qs]
+YoungGrandma69 raises 150.00 to 200.00
+Lorpugo3 raises 1610.00 to 1710.00 and is all-in
+YoungGrandma69 folds
+Uncalled bet (1510.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 400.00
+Seat 1: YoungGrandma69 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 400.00
+
+Game Hand #385374997 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:27:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: YoungGrandma69 (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+Lorpugo3 posts the small blind 50.00
+YoungGrandma69 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7s]
+Lorpugo3 raises 1860.00 to 1910.00 and is all-in
+YoungGrandma69 folds
+Uncalled bet (1810.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: YoungGrandma69 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #385375272 - Tournament #20884408 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/03 21:28:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: YoungGrandma69 (990.00)
+Seat 2: Lorpugo3 (2010.00)
+YoungGrandma69 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 7d]
+YoungGrandma69 raises 150.00 to 200.00
+Lorpugo3 raises 1910.00 to 2010.00 and is all-in
+YoungGrandma69 calls 790.00 and is all-in
+Uncalled bet (1020.00) returned to Lorpugo3
+*** FLOP *** [9h Kd 5d]
+Main pot 1980.00
+*** TURN *** [9h Kd 5d] [3s]
+Main pot 1980.00
+*** RIVER *** [9h Kd 5d 3s] [5h]
+Main pot 1980.00
+*** SHOW DOWN ***
+Main pot 1980.00
+YoungGrandma69 shows [Jh Ah] (a pair of Fives [5h 5d Ah Kd Jh])
+Lorpugo3 shows [Ks 7d] (two pair, Kings and Fives [Ks Kd 5h 5d 9h])
+Lorpugo3 collected 1980.00 from main pot
+*** SUMMARY ***
+Total pot 1980.00
+Board [9h Kd 5d 3s 5h]
+Seat 1: YoungGrandma69 (button) showed [Jh Ah] and lost with a pair of Fives [5h 5d Ah Kd Jh]
+Seat 2: Lorpugo3 (big blind) showed [Ks 7d] and won 1980.00 with two pair, Kings and Fives [Ks Kd 5h 5d 9h]
+

@@ -1,0 +1,122 @@
+Game Hand #436295006 - Tournament #21795642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 17:47:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: DRPUPI (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+DRPUPI posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Js]
+Lorpugo3 raises 50.00 to 60.00
+DRPUPI calls 40.00
+*** FLOP *** [9c 7d 4h]
+Main pot 120.00
+DRPUPI checks
+Lorpugo3 checks
+*** TURN *** [9c 7d 4h] [3c]
+Main pot 120.00
+DRPUPI bets 20.00
+Lorpugo3 calls 20.00
+*** RIVER *** [9c 7d 4h 3c] [Ts]
+Main pot 160.00
+DRPUPI bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to DRPUPI
+DRPUPI does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [9c 7d 4h 3c Ts]
+Seat 1: DRPUPI did not show and won 160.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #436295836 - Tournament #21795642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 17:48:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: DRPUPI (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+DRPUPI posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Jd]
+DRPUPI calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+DRPUPI calls 40.00
+*** FLOP *** [Jh 8c 3h]
+Main pot 120.00
+Lorpugo3 bets 60.00
+DRPUPI folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Jh 8c 3h]
+Seat 1: DRPUPI (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #436296262 - Tournament #21795642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 17:49:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: DRPUPI (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+DRPUPI posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 4c]
+Lorpugo3 raises 30.00 to 40.00
+DRPUPI calls 20.00
+*** FLOP *** [3d 3h 9h]
+Main pot 80.00
+DRPUPI bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to DRPUPI
+DRPUPI does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [3d 3h 9h]
+Seat 1: DRPUPI did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #436296529 - Tournament #21795642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 17:49:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: DRPUPI (1560.00)
+Seat 2: Lorpugo3 (1440.00)
+DRPUPI posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7d]
+DRPUPI folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: DRPUPI (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436296663 - Tournament #21795642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 17:49:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: DRPUPI (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 10.00
+DRPUPI posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 6d]
+Lorpugo3 raises 40.00 to 50.00
+DRPUPI calls 30.00
+*** FLOP *** [4d 6c 2s]
+Main pot 100.00
+DRPUPI checks
+Lorpugo3 bets 75.00
+DRPUPI raises 325.00 to 325.00
+Lorpugo3 raises 1325.00 to 1400.00 and is all-in
+DRPUPI calls 1075.00
+*** TURN *** [4d 6c 2s] [Ad]
+Main pot 2900.00
+*** RIVER *** [4d 6c 2s Ad] [7c]
+Main pot 2900.00
+*** SHOW DOWN ***
+Main pot 2900.00
+DRPUPI shows [6h Ac] (two pair, Aces and Sixs [Ad Ac 6h 6c 7c])
+Lorpugo3 shows [Kd 6d] (a pair of Sixs [6d 6c Ad Kd 7c])
+DRPUPI collected 2900.00 from main pot
+*** SUMMARY ***
+Total pot 2900.00
+Board [4d 6c 2s Ad 7c]
+Seat 1: DRPUPI (big blind) showed [6h Ac] and won 2900.00 with two pair, Aces and Sixs [Ad Ac 6h 6c 7c]
+Seat 2: Lorpugo3 (button) showed [Kd 6d] and lost with a pair of Sixs [6d 6c Ad Kd 7c]
+

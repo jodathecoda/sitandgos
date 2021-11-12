@@ -1,0 +1,282 @@
+Game Hand #395552723 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:51:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: nance (1500.00)
+Lorpugo3 posts the small blind 10.00
+nance posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Kd]
+Lorpugo3 raises 40.00 to 50.00
+nance calls 30.00
+*** FLOP *** [Js 8d 6h]
+Main pot 100.00
+nance checks
+Lorpugo3 checks
+*** TURN *** [Js 8d 6h] [9h]
+Main pot 100.00
+nance bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to nance
+nance does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Js 8d 6h 9h]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: nance did not show and won 100.00
+
+Game Hand #395553086 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:52:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: nance (1550.00)
+nance posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 7c]
+nance calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6d 9d 3s]
+Main pot 40.00
+Lorpugo3 checks
+nance checks
+*** TURN *** [6d 9d 3s] [2h]
+Main pot 40.00
+Lorpugo3 checks
+nance bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to nance
+nance does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [6d 9d 3s 2h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: nance did not show and won 40.00
+
+Game Hand #395553422 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:52:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: nance (1570.00)
+Lorpugo3 posts the small blind 10.00
+nance posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 9h]
+Lorpugo3 raises 40.00 to 50.00
+nance calls 30.00
+*** FLOP *** [7d 9d Qc]
+Main pot 100.00
+nance checks
+Lorpugo3 bets 50.00
+nance calls 50.00
+*** TURN *** [7d 9d Qc] [4c]
+Main pot 200.00
+nance checks
+Lorpugo3 checks
+*** RIVER *** [7d 9d Qc 4c] [Jd]
+Main pot 200.00
+nance checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 200.00
+nance shows [6d 4h] (a pair of Fours [4h 4c Qc Jd 9d])
+Lorpugo3 shows [8h 9h] (a pair of Nines [9h 9d Qc Jd 8h])
+Lorpugo3 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [7d 9d Qc 4c Jd]
+Seat 1: Lorpugo3 (button) showed [8h 9h] and won 200.00 with a pair of Nines [9h 9d Qc Jd 8h]
+Seat 2: nance (big blind) showed [6d 4h] and lost with a pair of Fours [4h 4c Qc Jd 9d]
+
+Game Hand #395553844 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:53:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: nance (1470.00)
+nance posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Qs]
+nance calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6s 8c Ah]
+Main pot 40.00
+Lorpugo3 checks
+nance checks
+*** TURN *** [6s 8c Ah] [Jh]
+Main pot 40.00
+Lorpugo3 checks
+nance checks
+*** RIVER *** [6s 8c Ah Jh] [Ts]
+Main pot 40.00
+Lorpugo3 checks
+nance checks
+*** SHOW DOWN ***
+Main pot 40.00
+Lorpugo3 shows [5h Qs] (a high card, Ace high [Ah Qs Jh Ts 8c])
+nance mucks hand
+Lorpugo3 collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [6s 8c Ah Jh Ts]
+Seat 1: Lorpugo3 (big blind) showed [5h Qs] and won 40.00 with a high card, Ace high [Ah Qs Jh Ts 8c] with the kicker Queen
+Seat 2: nance (button) mucked [7s 4s]
+
+Game Hand #395554257 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:54:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1550.00)
+Seat 2: nance (1450.00)
+Lorpugo3 posts the small blind 10.00
+nance posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 3d]
+Lorpugo3 raises 40.00 to 50.00
+nance calls 30.00
+*** FLOP *** [9d Th Kc]
+Main pot 100.00
+nance checks
+Lorpugo3 checks
+*** TURN *** [9d Th Kc] [Ad]
+Main pot 100.00
+nance checks
+Lorpugo3 bets 50.00
+nance folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9d Th Kc Ad]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: nance (big blind) folded on the Turn
+
+Game Hand #395554496 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:54:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1600.00)
+Seat 2: nance (1400.00)
+nance posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Qh]
+nance calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+nance calls 40.00
+*** FLOP *** [5h 9s Qc]
+Main pot 120.00
+Lorpugo3 checks
+nance checks
+*** TURN *** [5h 9s Qc] [3h]
+Main pot 120.00
+Lorpugo3 bets 60.00
+nance calls 60.00
+*** RIVER *** [5h 9s Qc 3h] [Jc]
+Main pot 240.00
+Lorpugo3 bets 120.00
+nance calls 120.00
+*** SHOW DOWN ***
+Main pot 480.00
+Lorpugo3 shows [Jh Qh] (two pair, Queens and Jacks [Qh Qc Jh Jc 9s])
+nance shows [Th 5c] (a pair of Fives [5h 5c Qc Jc Th])
+Lorpugo3 collected 480.00 from main pot
+*** SUMMARY ***
+Total pot 480.00
+Board [5h 9s Qc 3h Jc]
+Seat 1: Lorpugo3 (big blind) showed [Jh Qh] and won 480.00 with two pair, Queens and Jacks [Qh Qc Jh Jc 9s]
+Seat 2: nance (button) showed [Th 5c] and lost with a pair of Fives [5h 5c Qc Jc Th]
+
+Game Hand #395554884 - Tournament #20968889 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:55:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1840.00)
+Seat 2: nance (1160.00)
+Lorpugo3 posts the small blind 10.00
+nance posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Jh]
+Lorpugo3 raises 40.00 to 50.00
+nance calls 30.00
+*** FLOP *** [Js 8h Th]
+Main pot 100.00
+nance checks
+Lorpugo3 bets 60.00
+nance calls 60.00
+*** TURN *** [Js 8h Th] [2c]
+Main pot 220.00
+nance checks
+Lorpugo3 bets 130.00
+nance calls 130.00
+*** RIVER *** [Js 8h Th 2c] [4d]
+Main pot 480.00
+nance checks
+Lorpugo3 bets 200.00
+nance calls 200.00
+*** SHOW DOWN ***
+Main pot 880.00
+Lorpugo3 shows [8c Jh] (two pair, Jacks and Eights [Js Jh 8h 8c Th])
+nance shows [Ts 9h] (a pair of Tens [Ts Th Js 9h 8h])
+Lorpugo3 collected 880.00 from main pot
+*** SUMMARY ***
+Total pot 880.00
+Board [Js 8h Th 2c 4d]
+Seat 1: Lorpugo3 (button) showed [8c Jh] and won 880.00 with two pair, Jacks and Eights [Js Jh 8h 8c Th]
+Seat 2: nance (big blind) showed [Ts 9h] and lost with a pair of Tens [Ts Th Js 9h 8h]
+
+Game Hand #395555249 - Tournament #20968889 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:56:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2280.00)
+Seat 2: nance (720.00)
+nance posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Kc]
+nance calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+nance calls 45.00
+*** FLOP *** [Td 9s 4h]
+Main pot 150.00
+Lorpugo3 bets 105.00
+nance calls 105.00
+*** TURN *** [Td 9s 4h] [2d]
+Main pot 360.00
+Lorpugo3 bets 210.00
+nance calls 210.00
+*** RIVER *** [Td 9s 4h 2d] [Tc]
+Main pot 780.00
+Lorpugo3 checks
+nance checks
+*** SHOW DOWN ***
+Main pot 780.00
+Lorpugo3 shows [Kh Kc] (two pair, Kings and Tens [Kh Kc Td Tc 9s])
+nance mucks hand
+Lorpugo3 collected 780.00 from main pot
+*** SUMMARY ***
+Total pot 780.00
+Board [Td 9s 4h 2d Tc]
+Seat 1: Lorpugo3 (big blind) showed [Kh Kc] and won 780.00 with two pair, Kings and Tens [Kh Kc Td Tc 9s]
+Seat 2: nance (button) mucked [Qc 4d]
+
+Game Hand #395555594 - Tournament #20968889 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:57:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2670.00)
+Seat 2: nance (330.00)
+Lorpugo3 posts the small blind 15.00
+nance posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 8d]
+Lorpugo3 raises 45.00 to 60.00
+nance calls 30.00
+*** FLOP *** [6c 8s 2d]
+Main pot 120.00
+nance bets 30.00
+Lorpugo3 raises 2610.00 to 2610.00 and is all-in
+nance calls 240.00 and is all-in
+Uncalled bet (2340.00) returned to Lorpugo3
+*** TURN *** [6c 8s 2d] [Kd]
+Main pot 660.00
+*** RIVER *** [6c 8s 2d Kd] [Kh]
+Main pot 660.00
+*** SHOW DOWN ***
+Main pot 660.00
+Lorpugo3 shows [Ks 8d] (a full house, Kings full of Eights [Ks Kh Kd 8s 8d])
+nance shows [As 8h] (two pair, Kings and Eights [Kh Kd 8s 8h As])
+Lorpugo3 collected 660.00 from main pot
+*** SUMMARY ***
+Total pot 660.00
+Board [6c 8s 2d Kd Kh]
+Seat 1: Lorpugo3 (button) showed [Ks 8d] and won 660.00 with a full house, Kings full of Eights [Ks Kh Kd 8s 8d]
+Seat 2: nance (big blind) showed [As 8h] and lost with two pair, Kings and Eights [Kh Kd 8s 8h As]
+

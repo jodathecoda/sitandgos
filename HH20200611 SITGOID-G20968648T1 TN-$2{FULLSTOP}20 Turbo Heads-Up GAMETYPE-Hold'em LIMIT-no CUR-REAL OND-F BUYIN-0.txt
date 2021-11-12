@@ -1,0 +1,818 @@
+Game Hand #395535816 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:19:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Doctor Box posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qc]
+Lorpugo3 raises 40.00 to 50.00
+Doctor Box raises 140.00 to 160.00
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 210.00
+Seat 1: Doctor Box did not show and won 210.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395536683 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:21:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Doctor Box posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 7d]
+Doctor Box raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 160.00
+
+Game Hand #395536818 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:21:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+Doctor Box posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qs]
+Lorpugo3 raises 40.00 to 50.00
+Doctor Box calls 30.00
+*** FLOP *** [2c 7s 8d]
+Main pot 100.00
+Doctor Box checks
+Lorpugo3 checks
+*** TURN *** [2c 7s 8d] [9c]
+Main pot 100.00
+Doctor Box bets 40.00
+Lorpugo3 raises 130.00 to 130.00
+Doctor Box calls 90.00
+*** RIVER *** [2c 7s 8d 9c] [Js]
+Main pot 360.00
+Doctor Box bets 270.00
+Lorpugo3 folds
+Uncalled bet (270.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [2c 7s 8d 9c Js]
+Seat 1: Doctor Box did not show and won 360.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #395537273 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:22:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1690.00)
+Seat 2: Lorpugo3 (1310.00)
+Doctor Box posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Ac]
+Doctor Box raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+Doctor Box calls 80.00
+*** FLOP *** [2h 9d Qh]
+Main pot 240.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [2h 9d Qh] [Kh]
+Main pot 240.00
+Lorpugo3 checks
+Doctor Box checks
+*** RIVER *** [2h 9d Qh Kh] [Qc]
+Main pot 240.00
+Lorpugo3 checks
+Doctor Box bets 20.00
+Lorpugo3 calls 20.00
+*** SHOW DOWN ***
+Main pot 280.00
+Doctor Box shows [9s 4s] (two pair, Queens and Nines [Qh Qc 9s 9d Kh])
+Lorpugo3 mucks hand
+Doctor Box collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [2h 9d Qh Kh Qc]
+Seat 1: Doctor Box (button) showed [9s 4s] and won 280.00 with two pair, Queens and Nines [Qh Qc 9s 9d Kh]
+Seat 2: Lorpugo3 (big blind) mucked [Jc Ac]
+
+Game Hand #395537750 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:23:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+Lorpugo3 posts the small blind 10.00
+Doctor Box posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 6h]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Doctor Box did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395537863 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:23:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1840.00)
+Seat 2: Lorpugo3 (1160.00)
+Doctor Box posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Ah]
+Doctor Box raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [7c 4s Kc]
+Main pot 80.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [7c 4s Kc] [Kd]
+Main pot 80.00
+Lorpugo3 bets 40.00
+Doctor Box calls 40.00
+*** RIVER *** [7c 4s Kc Kd] [6h]
+Main pot 160.00
+Lorpugo3 checks
+Doctor Box checks
+*** SHOW DOWN ***
+Main pot 160.00
+Lorpugo3 shows [3h Ah] (a pair of Kings [Kd Kc Ah 7c 6h])
+Doctor Box mucks hand
+Lorpugo3 collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [7c 4s Kc Kd 6h]
+Seat 1: Doctor Box (button) mucked [9c Qs]
+Seat 2: Lorpugo3 (big blind) showed [3h Ah] and won 160.00 with a pair of Kings [Kd Kc Ah 7c 6h] with the kicker Ace
+
+Game Hand #395538188 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:24:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1760.00)
+Seat 2: Lorpugo3 (1240.00)
+Lorpugo3 posts the small blind 10.00
+Doctor Box posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 8s]
+Lorpugo3 raises 40.00 to 50.00
+Doctor Box folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Doctor Box (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #395538281 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:24:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1740.00)
+Seat 2: Lorpugo3 (1260.00)
+Doctor Box posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Qc]
+Doctor Box raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jd 5s 4d]
+Main pot 80.00
+Lorpugo3 checks
+Doctor Box bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Jd 5s 4d]
+Seat 1: Doctor Box did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #395538515 - Tournament #20968648 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 08:24:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+Lorpugo3 posts the small blind 10.00
+Doctor Box posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qd]
+Lorpugo3 raises 40.00 to 50.00
+Doctor Box calls 30.00
+*** FLOP *** [Jd Kd 6h]
+Main pot 100.00
+Doctor Box checks
+Lorpugo3 checks
+*** TURN *** [Jd Kd 6h] [9d]
+Main pot 100.00
+Doctor Box checks
+Lorpugo3 bets 50.00
+Doctor Box calls 50.00
+*** RIVER *** [Jd Kd 6h 9d] [4c]
+Main pot 200.00
+Doctor Box checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 200.00
+Doctor Box shows [5h 6c] (a pair of Sixs [6h 6c Kd Jd 9d])
+Lorpugo3 shows [9s Qd] (a pair of Nines [9s 9d Kd Qd Jd])
+Lorpugo3 collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [Jd Kd 6h 9d 4c]
+Seat 1: Doctor Box (big blind) showed [5h 6c] and lost with a pair of Sixs [6h 6c Kd Jd 9d]
+Seat 2: Lorpugo3 (button) showed [9s Qd] and won 200.00 with a pair of Nines [9s 9d Kd Qd Jd]
+
+Game Hand #395538883 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:25:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 3d]
+Doctor Box raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Doctor Box did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #395538986 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:25:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1710.00)
+Seat 2: Lorpugo3 (1290.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8s]
+Lorpugo3 raises 60.00 to 75.00
+Doctor Box calls 45.00
+*** FLOP *** [Qh 9d 8h]
+Main pot 150.00
+Doctor Box checks
+Lorpugo3 checks
+*** TURN *** [Qh 9d 8h] [9h]
+Main pot 150.00
+Doctor Box checks
+Lorpugo3 bets 90.00
+Doctor Box calls 90.00
+*** RIVER *** [Qh 9d 8h 9h] [9s]
+Main pot 330.00
+Doctor Box checks
+Lorpugo3 bets 150.00
+Doctor Box calls 150.00
+*** SHOW DOWN ***
+Main pot 630.00
+Lorpugo3 shows [Kh 8s] (a full house, Nines full of Eights [9s 9h 9d 8s 8h])
+Doctor Box shows [Ts Th] (a full house, Nines full of Tens [9s 9h 9d Ts Th])
+Doctor Box collected 630.00 from main pot
+*** SUMMARY ***
+Total pot 630.00
+Board [Qh 9d 8h 9h 9s]
+Seat 1: Doctor Box (big blind) showed [Ts Th] and won 630.00 with a full house, Nines full of Tens [9s 9h 9d Ts Th]
+Seat 2: Lorpugo3 (button) showed [Kh 8s] and lost with a full house, Nines full of Eights [9s 9h 9d 8s 8h]
+
+Game Hand #395539421 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:26:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (2025.00)
+Seat 2: Lorpugo3 (975.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9s]
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #395539487 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:26:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (2010.00)
+Seat 2: Lorpugo3 (990.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Tc]
+Lorpugo3 raises 60.00 to 75.00
+Doctor Box calls 45.00
+*** FLOP *** [Ad Kc 9h]
+Main pot 150.00
+Doctor Box checks
+Lorpugo3 checks
+*** TURN *** [Ad Kc 9h] [Th]
+Main pot 150.00
+Doctor Box checks
+Lorpugo3 checks
+*** RIVER *** [Ad Kc 9h Th] [Ts]
+Main pot 150.00
+Doctor Box bets 45.00
+Lorpugo3 raises 165.00 to 165.00
+Doctor Box folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Ad Kc 9h Th Ts]
+Seat 1: Doctor Box (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 240.00
+
+Game Hand #395539923 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:27:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1890.00)
+Seat 2: Lorpugo3 (1110.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 4s]
+Doctor Box raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Doctor Box did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #395540007 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:27:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1920.00)
+Seat 2: Lorpugo3 (1080.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 5c]
+Lorpugo3 raises 60.00 to 75.00
+Doctor Box raises 225.00 to 255.00
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 330.00
+Seat 1: Doctor Box did not show and won 330.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395540206 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:27:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1995.00)
+Seat 2: Lorpugo3 (1005.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Kh]
+Doctor Box raises 45.00 to 60.00
+Lorpugo3 raises 135.00 to 165.00
+Doctor Box calls 105.00
+*** FLOP *** [Tc 7c Ts]
+Main pot 330.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [Tc 7c Ts] [Td]
+Main pot 330.00
+Lorpugo3 checks
+Doctor Box checks
+*** RIVER *** [Tc 7c Ts Td] [6h]
+Main pot 330.00
+Lorpugo3 checks
+Doctor Box checks
+*** SHOW DOWN ***
+Main pot 330.00
+Lorpugo3 shows [Jc Kh] (three of a kind, Set of Tens [Ts Td Tc Kh Jc])
+Doctor Box mucks hand
+Lorpugo3 collected 330.00 from main pot
+*** SUMMARY ***
+Total pot 330.00
+Board [Tc 7c Ts Td 6h]
+Seat 1: Doctor Box (button) mucked [Kc 8s]
+Seat 2: Lorpugo3 (big blind) showed [Jc Kh] and won 330.00 with three of a kind, Set of Tens [Ts Td Tc Kh Jc] with the kicker Jack
+
+Game Hand #395540647 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:28:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Js]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395540708 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:28:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1845.00)
+Seat 2: Lorpugo3 (1155.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Ac]
+Doctor Box raises 45.00 to 60.00
+Lorpugo3 raises 135.00 to 165.00
+Doctor Box calls 105.00
+*** FLOP *** [6s 6d 8c]
+Main pot 330.00
+Lorpugo3 bets 135.00
+Doctor Box folds
+Uncalled bet (135.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 330.00
+Board [6s 6d 8c]
+Seat 1: Doctor Box (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 330.00
+
+Game Hand #395540972 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 6h]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395541040 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1695.00)
+Seat 2: Lorpugo3 (1305.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Td]
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #395541093 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 2c]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395541156 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1695.00)
+Seat 2: Lorpugo3 (1305.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Ad]
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #395541200 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Lorpugo3 posts the small blind 15.00
+Doctor Box posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 8d]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Doctor Box did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395541335 - Tournament #20968648 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/11 08:29:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1695.00)
+Seat 2: Lorpugo3 (1305.00)
+Doctor Box posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 4h]
+Doctor Box raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Doctor Box did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #395541418 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:30:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1725.00)
+Seat 2: Lorpugo3 (1275.00)
+Lorpugo3 posts the small blind 25.00
+Doctor Box posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Ks]
+Lorpugo3 raises 100.00 to 125.00
+Doctor Box calls 75.00
+*** FLOP *** [4s Qs 7h]
+Main pot 250.00
+Doctor Box checks
+Lorpugo3 checks
+*** TURN *** [4s Qs 7h] [Js]
+Main pot 250.00
+Doctor Box bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [4s Qs 7h Js] [Jd]
+Main pot 450.00
+Doctor Box bets 275.00
+Lorpugo3 folds
+Uncalled bet (275.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [4s Qs 7h Js Jd]
+Seat 1: Doctor Box did not show and won 450.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #395541763 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:30:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1950.00)
+Seat 2: Lorpugo3 (1050.00)
+Doctor Box posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Jh]
+Doctor Box calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+Doctor Box calls 100.00
+*** FLOP *** [9h Qc Tc]
+Main pot 300.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [9h Qc Tc] [6h]
+Main pot 300.00
+Lorpugo3 bets 125.00
+Doctor Box folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [9h Qc Tc 6h]
+Seat 1: Doctor Box (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 300.00
+
+Game Hand #395542062 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:31:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Lorpugo3 posts the small blind 25.00
+Doctor Box posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 8c]
+Lorpugo3 raises 100.00 to 125.00
+Doctor Box calls 75.00
+*** FLOP *** [Kd 3d 8h]
+Main pot 250.00
+Doctor Box checks
+Lorpugo3 bets 125.00
+Doctor Box calls 125.00
+*** TURN *** [Kd 3d 8h] [8s]
+Main pot 500.00
+Doctor Box checks
+Lorpugo3 bets 250.00
+Doctor Box calls 250.00
+*** RIVER *** [Kd 3d 8h 8s] [8d]
+Main pot 1000.00
+Doctor Box bets 200.00
+Lorpugo3 raises 700.00 to 700.00 and is all-in
+Doctor Box folds
+Uncalled bet (500.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 1400.00
+Board [Kd 3d 8h 8s 8d]
+Seat 1: Doctor Box (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 1400.00
+
+Game Hand #395542586 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:32:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1100.00)
+Seat 2: Lorpugo3 (1900.00)
+Doctor Box posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 6s]
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #395542625 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:32:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Lorpugo3 posts the small blind 25.00
+Doctor Box posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8h]
+Lorpugo3 raises 75.00 to 100.00
+Doctor Box raises 1025.00 to 1075.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (975.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Doctor Box did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395542781 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:32:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1175.00)
+Seat 2: Lorpugo3 (1825.00)
+Doctor Box posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qh]
+Doctor Box calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+Doctor Box calls 100.00
+*** FLOP *** [9s 8s 3c]
+Main pot 300.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [9s 8s 3c] [Ad]
+Main pot 300.00
+Lorpugo3 checks
+Doctor Box bets 75.00
+Lorpugo3 raises 225.00 to 225.00
+Doctor Box folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [9s 8s 3c Ad]
+Seat 1: Doctor Box (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 450.00
+
+Game Hand #395543401 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:33:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (950.00)
+Seat 2: Lorpugo3 (2050.00)
+Lorpugo3 posts the small blind 25.00
+Doctor Box posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Js]
+Lorpugo3 raises 75.00 to 100.00
+Doctor Box calls 50.00
+*** FLOP *** [9s 9c Ac]
+Main pot 200.00
+Doctor Box checks
+Lorpugo3 bets 100.00
+Doctor Box folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [9s 9c Ac]
+Seat 1: Doctor Box (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #395543846 - Tournament #20968648 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/11 08:34:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (850.00)
+Seat 2: Lorpugo3 (2150.00)
+Doctor Box posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5d]
+Doctor Box calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Td 3d 4d]
+Main pot 100.00
+Lorpugo3 checks
+Doctor Box checks
+*** TURN *** [Td 3d 4d] [3c]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Doctor Box calls 50.00
+*** RIVER *** [Td 3d 4d 3c] [As]
+Main pot 200.00
+Lorpugo3 bets 125.00
+Doctor Box calls 125.00
+*** SHOW DOWN ***
+Main pot 450.00
+Lorpugo3 shows [6h 5d] (a pair of Threes [3d 3c As Td 6h])
+Doctor Box shows [5c Qh] (a pair of Threes [3d 3c As Qh Td])
+Doctor Box collected 450.00 from main pot
+*** SUMMARY ***
+Total pot 450.00
+Board [Td 3d 4d 3c As]
+Seat 1: Doctor Box (button) showed [5c Qh] and won 450.00 with a pair of Threes [3d 3c As Qh Td] with the kicker Queen
+Seat 2: Lorpugo3 (big blind) showed [6h 5d] and lost with a pair of Threes [3d 3c As Td 6h]
+
+Game Hand #395544250 - Tournament #20968648 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 08:35:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Lorpugo3 posts the small blind 50.00
+Doctor Box posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 9c]
+Lorpugo3 folds
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Doctor Box did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #395544320 - Tournament #20968648 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 08:35:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (1125.00)
+Seat 2: Lorpugo3 (1875.00)
+Doctor Box posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Qs]
+Doctor Box folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Doctor Box (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #395544349 - Tournament #20968648 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 08:35:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Lorpugo3 posts the small blind 50.00
+Doctor Box posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 6d]
+Lorpugo3 raises 150.00 to 200.00
+Doctor Box folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Doctor Box (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #395544423 - Tournament #20968648 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 08:35:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Doctor Box (975.00)
+Seat 2: Lorpugo3 (2025.00)
+Doctor Box posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 8c]
+Doctor Box raises 925.00 to 975.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (875.00) returned to Doctor Box
+Doctor Box does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Doctor Box did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #395544508 - Tournament #20968648 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/11 08:35:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Doctor Box (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Lorpugo3 posts the small blind 50.00
+Doctor Box posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Qs]
+Lorpugo3 raises 150.00 to 200.00
+Doctor Box raises 975.00 to 1075.00 and is all-in
+Lorpugo3 calls 875.00
+*** FLOP *** [As Ad 8c]
+Main pot 2150.00
+*** TURN *** [As Ad 8c] [Th]
+Main pot 2150.00
+*** RIVER *** [As Ad 8c Th] [9c]
+Main pot 2150.00
+*** SHOW DOWN ***
+Main pot 2150.00
+Doctor Box shows [Kd Jh] (a pair of Aces [As Ad Kd Jh Th])
+Lorpugo3 shows [Js Qs] (a straight, Queen high [Qs Js Th 9c 8c])
+Lorpugo3 collected 2150.00 from main pot
+*** SUMMARY ***
+Total pot 2150.00
+Board [As Ad 8c Th 9c]
+Seat 1: Doctor Box (big blind) showed [Kd Jh] and lost with a pair of Aces [As Ad Kd Jh Th]
+Seat 2: Lorpugo3 (button) showed [Js Qs] and won 2150.00 with a straight, Queen high [Qs Js Th 9c 8c]
+

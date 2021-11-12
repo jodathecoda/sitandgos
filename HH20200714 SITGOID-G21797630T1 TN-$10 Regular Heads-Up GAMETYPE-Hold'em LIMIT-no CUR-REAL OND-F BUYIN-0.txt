@@ -1,0 +1,1288 @@
+Game Hand #436593551 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:21:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 7h]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436593690 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:21:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 8c]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436593914 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:21:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 7s]
+FunTomas raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jh 2c 9h]
+Main pot 80.00
+Lorpugo3 checks
+FunTomas checks
+*** TURN *** [Jh 2c 9h] [Tc]
+Main pot 80.00
+Lorpugo3 checks
+FunTomas bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Jh 2c 9h Tc]
+Seat 1: FunTomas did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #436594753 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:22:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 2h]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436594940 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:22:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Kc]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436595188 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:22:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Qc]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436595542 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:22:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 4d]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436595673 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:22:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h As]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas calls 30.00
+*** FLOP *** [Tc 7c 6s]
+Main pot 100.00
+FunTomas checks
+Lorpugo3 checks
+*** TURN *** [Tc 7c 6s] [8c]
+Main pot 100.00
+FunTomas bets 65.00
+Lorpugo3 folds
+Uncalled bet (65.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Tc 7c 6s 8c]
+Seat 1: FunTomas did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #436596491 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:23:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 7c]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436596797 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:23:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 5s]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436597023 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:23:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2h]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436597514 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:24:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8s]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436597816 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:24:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Kc]
+FunTomas calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+FunTomas calls 40.00
+*** FLOP *** [6c 7h 9h]
+Main pot 120.00
+Lorpugo3 bets 90.00
+FunTomas calls 90.00
+*** TURN *** [6c 7h 9h] [3d]
+Main pot 300.00
+Lorpugo3 bets 150.00
+FunTomas calls 150.00
+*** RIVER *** [6c 7h 9h 3d] [4h]
+Main pot 600.00
+Lorpugo3 checks
+FunTomas bets 470.00
+Lorpugo3 folds
+Uncalled bet (470.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 600.00
+Board [6c 7h 9h 3d 4h]
+Seat 1: FunTomas did not show and won 600.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #436598950 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:25:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Qh]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas calls 30.00
+*** FLOP *** [Ah Jh 9s]
+Main pot 100.00
+FunTomas checks
+Lorpugo3 checks
+*** TURN *** [Ah Jh 9s] [Qs]
+Main pot 100.00
+FunTomas bets 50.00
+Lorpugo3 calls 50.00
+*** RIVER *** [Ah Jh 9s Qs] [4d]
+Main pot 200.00
+FunTomas checks
+Lorpugo3 bets 70.00
+FunTomas calls 70.00
+*** SHOW DOWN ***
+Main pot 340.00
+Lorpugo3 shows [8c Qh] (a pair of Queens [Qs Qh Ah Jh 9s])
+FunTomas mucks hand
+Lorpugo3 collected 340.00 from main pot
+*** SUMMARY ***
+Total pot 340.00
+Board [Ah Jh 9s Qs 4d]
+Seat 1: FunTomas (big blind) mucked [9c Td]
+Seat 2: Lorpugo3 (button) showed [8c Qh] and won 340.00 with a pair of Queens [Qs Qh Ah Jh 9s]
+
+Game Hand #436599960 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:26:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1630.00)
+Seat 2: Lorpugo3 (1370.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 9d]
+FunTomas calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #436600233 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:26:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 9h]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436600551 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:26:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Td]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #436600657 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:26:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 2h]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436600919 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:26:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Th]
+FunTomas raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [2d 7d 9c]
+Main pot 80.00
+Lorpugo3 checks
+FunTomas bets 40.00
+Lorpugo3 raises 110.00 to 110.00
+FunTomas calls 70.00
+*** TURN *** [2d 7d 9c] [6s]
+Main pot 300.00
+Lorpugo3 bets 190.00
+FunTomas folds
+Uncalled bet (190.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2d 7d 9c 6s]
+Seat 1: FunTomas (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 300.00
+
+Game Hand #436601953 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:27:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Ac]
+Lorpugo3 raises 40.00 to 50.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436602227 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:27:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Ts]
+FunTomas raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436602545 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:28:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qd]
+Lorpugo3 raises 30.00 to 40.00
+FunTomas folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436602858 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:28:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Jc]
+FunTomas calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+FunTomas calls 30.00
+*** FLOP *** [4d Ac 7h]
+Main pot 100.00
+Lorpugo3 bets 50.00
+FunTomas calls 50.00
+*** TURN *** [4d Ac 7h] [8h]
+Main pot 200.00
+Lorpugo3 checks
+FunTomas checks
+*** RIVER *** [4d Ac 7h 8h] [As]
+Main pot 200.00
+Lorpugo3 checks
+FunTomas checks
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [Qc Jc] (a pair of Aces [As Ac Qc Jc 8h])
+FunTomas shows [6s 7c] (two pair, Aces and Sevens [As Ac 7h 7c 8h])
+FunTomas collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [4d Ac 7h 8h As]
+Seat 1: FunTomas (button) showed [6s 7c] and won 200.00 with two pair, Aces and Sevens [As Ac 7h 7c 8h]
+Seat 2: Lorpugo3 (big blind) showed [Qc Jc] and lost with a pair of Aces [As Ac Qc Jc 8h]
+
+Game Hand #436604050 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:29:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 2s]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436604233 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:29:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ts]
+FunTomas calls 10.00
+Lorpugo3 checks
+*** FLOP *** [7s Jh 7d]
+Main pot 40.00
+Lorpugo3 checks
+FunTomas checks
+*** TURN *** [7s Jh 7d] [3c]
+Main pot 40.00
+Lorpugo3 bets 20.00
+FunTomas folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [7s Jh 7d 3c]
+Seat 1: FunTomas (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436605048 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:29:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6h]
+Lorpugo3 calls 10.00
+FunTomas checks
+*** FLOP *** [Js Th Td]
+Main pot 40.00
+FunTomas checks
+Lorpugo3 bets 20.00
+FunTomas folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Js Th Td]
+Seat 1: FunTomas (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #436605535 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:30:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 9d]
+FunTomas raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [3d 5h 4h]
+Main pot 80.00
+Lorpugo3 checks
+FunTomas checks
+*** TURN *** [3d 5h 4h] [7d]
+Main pot 80.00
+Lorpugo3 bets 40.00
+FunTomas folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [3d 5h 4h 7d]
+Seat 1: FunTomas (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #436606458 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:30:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+FunTomas posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 9d]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: FunTomas did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436606628 - Tournament #21797630 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:30:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+FunTomas posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Jd]
+FunTomas raises 30.00 to 40.00
+Lorpugo3 raises 90.00 to 110.00
+FunTomas calls 70.00
+*** FLOP *** [9c 2d 2c]
+Main pot 220.00
+Lorpugo3 bets 55.00
+FunTomas calls 55.00
+*** TURN *** [9c 2d 2c] [As]
+Main pot 330.00
+Lorpugo3 bets 165.00
+FunTomas raises 350.00 to 350.00
+Lorpugo3 raises 1210.00 to 1375.00 and is all-in
+FunTomas folds
+Uncalled bet (1025.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 1030.00
+Board [9c 2d 2c As]
+Seat 1: FunTomas (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 1030.00
+
+Game Hand #436607774 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:31:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (945.00)
+Seat 2: Lorpugo3 (2055.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 9s]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436608059 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:31:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (915.00)
+Seat 2: Lorpugo3 (2085.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 6c]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436608324 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:32:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (945.00)
+Seat 2: Lorpugo3 (2055.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 5d]
+Lorpugo3 raises 45.00 to 60.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436608565 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:32:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (915.00)
+Seat 2: Lorpugo3 (2085.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 2d]
+FunTomas calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qc Js 5s]
+Main pot 60.00
+Lorpugo3 bets 30.00
+FunTomas folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Qc Js 5s]
+Seat 1: FunTomas (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436609085 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:32:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (885.00)
+Seat 2: Lorpugo3 (2115.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 6h]
+Lorpugo3 calls 15.00
+FunTomas raises 855.00 to 885.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (855.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas did not show and won 60.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436609414 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:32:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (915.00)
+Seat 2: Lorpugo3 (2085.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 3s]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436609697 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:33:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (945.00)
+Seat 2: Lorpugo3 (2055.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Jd]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas calls 45.00
+*** FLOP *** [Th Ts 8h]
+Main pot 150.00
+FunTomas checks
+Lorpugo3 bets 75.00
+FunTomas calls 75.00
+*** TURN *** [Th Ts 8h] [2c]
+Main pot 300.00
+FunTomas checks
+Lorpugo3 checks
+*** RIVER *** [Th Ts 8h 2c] [Jc]
+Main pot 300.00
+FunTomas bets 240.00
+Lorpugo3 calls 240.00
+*** SHOW DOWN ***
+Main pot 780.00
+FunTomas shows [Qh Td] (three of a kind, Set of Tens [Ts Th Td Qh Jc])
+Lorpugo3 mucks hand
+FunTomas collected 780.00 from main pot
+*** SUMMARY ***
+Total pot 780.00
+Board [Th Ts 8h 2c Jc]
+Seat 1: FunTomas (big blind) showed [Qh Td] and won 780.00 with three of a kind, Set of Tens [Ts Th Td Qh Jc]
+Seat 2: Lorpugo3 (button) mucked [9h Jd]
+
+Game Hand #436611015 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:34:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1335.00)
+Seat 2: Lorpugo3 (1665.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6c]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Tc 6s Jc]
+Main pot 120.00
+Lorpugo3 checks
+FunTomas bets 45.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Tc 6s Jc]
+Seat 1: FunTomas did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #436611600 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:34:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1395.00)
+Seat 2: Lorpugo3 (1605.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Kc]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436611860 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:34:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1365.00)
+Seat 2: Lorpugo3 (1635.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 2h]
+FunTomas calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #436612172 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:34:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1335.00)
+Seat 2: Lorpugo3 (1665.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Jd]
+Lorpugo3 raises 45.00 to 60.00
+FunTomas calls 30.00
+*** FLOP *** [5c As Qs]
+Main pot 120.00
+FunTomas checks
+Lorpugo3 bets 45.00
+FunTomas calls 45.00
+*** TURN *** [5c As Qs] [Ad]
+Main pot 210.00
+FunTomas checks
+Lorpugo3 checks
+*** RIVER *** [5c As Qs Ad] [8h]
+Main pot 210.00
+FunTomas bets 173.00
+Lorpugo3 folds
+Uncalled bet (173.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 210.00
+Board [5c As Qs Ad 8h]
+Seat 1: FunTomas did not show and won 210.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #436613266 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:35:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Ks]
+FunTomas calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #436613581 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:35:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ac]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas calls 45.00
+*** FLOP *** [6h Td 9h]
+Main pot 150.00
+FunTomas checks
+Lorpugo3 checks
+*** TURN *** [6h Td 9h] [4s]
+Main pot 150.00
+FunTomas bets 113.00
+Lorpugo3 folds
+Uncalled bet (113.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [6h Td 9h 4s]
+Seat 1: FunTomas did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #436614244 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:36:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1485.00)
+Seat 2: Lorpugo3 (1515.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 6s]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #436614372 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:36:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Jh]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas calls 45.00
+*** FLOP *** [2h Qd 6d]
+Main pot 150.00
+FunTomas checks
+Lorpugo3 bets 60.00
+FunTomas calls 60.00
+*** TURN *** [2h Qd 6d] [5c]
+Main pot 270.00
+FunTomas checks
+Lorpugo3 checks
+*** RIVER *** [2h Qd 6d 5c] [9s]
+Main pot 270.00
+FunTomas bets 218.00
+Lorpugo3 folds
+Uncalled bet (218.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 270.00
+Board [2h Qd 6d 5c 9s]
+Seat 1: FunTomas did not show and won 270.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #436615607 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:37:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1605.00)
+Seat 2: Lorpugo3 (1395.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 7h]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Qd Kh 9c]
+Main pot 120.00
+Lorpugo3 checks
+FunTomas checks
+*** TURN *** [Qd Kh 9c] [9d]
+Main pot 120.00
+Lorpugo3 checks
+FunTomas bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Qd Kh 9c 9d]
+Seat 1: FunTomas did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #436616512 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:37:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1665.00)
+Seat 2: Lorpugo3 (1335.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 9s]
+Lorpugo3 raises 75.00 to 90.00
+FunTomas folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436616826 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:38:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1635.00)
+Seat 2: Lorpugo3 (1365.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 9h]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #436617007 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:38:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1620.00)
+Seat 2: Lorpugo3 (1380.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Ac]
+Lorpugo3 raises 75.00 to 90.00
+FunTomas calls 60.00
+*** FLOP *** [4s Jh 9s]
+Main pot 180.00
+FunTomas checks
+Lorpugo3 checks
+*** TURN *** [4s Jh 9s] [Kh]
+Main pot 180.00
+FunTomas checks
+Lorpugo3 checks
+*** RIVER *** [4s Jh 9s Kh] [7c]
+Main pot 180.00
+FunTomas checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 180.00
+FunTomas shows [2d Ad] (a high card, Ace high [Ad Kh Jh 9s 7c])
+Lorpugo3 shows [6d Ac] (a high card, Ace high [Ac Kh Jh 9s 7c])
+FunTomas collected 90.00 from main pot
+Lorpugo3 collected 90.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [4s Jh 9s Kh 7c]
+Seat 1: FunTomas (big blind) showed [2d Ad] and won 90.00 with a high card, Ace high [Ad Kh Jh 9s 7c]
+Seat 2: Lorpugo3 (button) showed [6d Ac] and won 90.00 with a high card, Ace high [Ac Kh Jh 9s 7c]
+
+Game Hand #436618001 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:38:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1620.00)
+Seat 2: Lorpugo3 (1380.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 2h]
+FunTomas calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qh 9c Ac]
+Main pot 60.00
+Lorpugo3 checks
+FunTomas bets 30.00
+Lorpugo3 raises 75.00 to 75.00
+FunTomas raises 315.00 to 345.00
+Lorpugo3 folds
+Uncalled bet (270.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 210.00
+Board [Qh 9c Ac]
+Seat 1: FunTomas did not show and won 210.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #436618821 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:39:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1725.00)
+Seat 2: Lorpugo3 (1275.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 6d]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436619146 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:39:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1695.00)
+Seat 2: Lorpugo3 (1305.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 6h]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #436619278 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:39:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Qh]
+Lorpugo3 raises 60.00 to 75.00
+FunTomas calls 45.00
+*** FLOP *** [Qd 3s 3h]
+Main pot 150.00
+FunTomas checks
+Lorpugo3 checks
+*** TURN *** [Qd 3s 3h] [Kh]
+Main pot 150.00
+FunTomas checks
+Lorpugo3 checks
+*** RIVER *** [Qd 3s 3h Kh] [Ac]
+Main pot 150.00
+FunTomas bets 75.00
+Lorpugo3 calls 75.00
+*** SHOW DOWN ***
+Main pot 300.00
+FunTomas shows [Kc Td] (two pair, Kings and Threes [Kh Kc 3s 3h Ac])
+Lorpugo3 mucks hand
+FunTomas collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Qd 3s 3h Kh Ac]
+Seat 1: FunTomas (big blind) showed [Kc Td] and won 300.00 with two pair, Kings and Threes [Kh Kc 3s 3h Ac]
+Seat 2: Lorpugo3 (button) mucked [2h Qh]
+
+Game Hand #436620463 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:40:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 8h]
+FunTomas folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: FunTomas (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #436620578 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:40:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1815.00)
+Seat 2: Lorpugo3 (1185.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Js]
+Lorpugo3 raises 75.00 to 90.00
+FunTomas folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436620838 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:40:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1785.00)
+Seat 2: Lorpugo3 (1215.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 6d]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436621085 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:41:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (1815.00)
+Seat 2: Lorpugo3 (1185.00)
+Lorpugo3 posts the small blind 15.00
+FunTomas posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Jh]
+Lorpugo3 raises 75.00 to 90.00
+FunTomas folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: FunTomas (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #436621347 - Tournament #21797630 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:41:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (1785.00)
+Seat 2: Lorpugo3 (1215.00)
+FunTomas posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs As]
+FunTomas raises 45.00 to 60.00
+Lorpugo3 raises 150.00 to 180.00
+FunTomas calls 120.00
+*** FLOP *** [3c 9s 8c]
+Main pot 360.00
+Lorpugo3 checks
+FunTomas checks
+*** TURN *** [3c 9s 8c] [5c]
+Main pot 360.00
+Lorpugo3 checks
+FunTomas bets 195.00
+Lorpugo3 calls 195.00
+*** RIVER *** [3c 9s 8c 5c] [6s]
+Main pot 750.00
+Lorpugo3 checks
+FunTomas checks
+*** SHOW DOWN ***
+Main pot 750.00
+Lorpugo3 shows [Qs As] (a high card, Ace high [As Qs 9s 8c 6s])
+FunTomas shows [8s Js] (a pair of Eights [8s 8c Js 9s 6s])
+FunTomas collected 750.00 from main pot
+*** SUMMARY ***
+Total pot 750.00
+Board [3c 9s 8c 5c 6s]
+Seat 1: FunTomas (button) showed [8s Js] and won 750.00 with a pair of Eights [8s 8c Js 9s 6s]
+Seat 2: Lorpugo3 (big blind) showed [Qs As] and lost with a high card, Ace high [As Qs 9s 8c 6s]
+
+Game Hand #436622475 - Tournament #21797630 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:42:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (2160.00)
+Seat 2: Lorpugo3 (840.00)
+Lorpugo3 posts the small blind 25.00
+FunTomas posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 9d]
+Lorpugo3 raises 75.00 to 100.00
+FunTomas raises 2110.00 to 2160.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2060.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: FunTomas did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436622849 - Tournament #21797630 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:42:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (2260.00)
+Seat 2: Lorpugo3 (740.00)
+FunTomas posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Qs]
+FunTomas raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: FunTomas did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436623094 - Tournament #21797630 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:42:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (2310.00)
+Seat 2: Lorpugo3 (690.00)
+Lorpugo3 posts the small blind 25.00
+FunTomas posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 8s]
+Lorpugo3 folds
+FunTomas does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: FunTomas did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #436623255 - Tournament #21797630 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:42:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: FunTomas (2335.00)
+Seat 2: Lorpugo3 (665.00)
+FunTomas posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 3h]
+FunTomas raises 2310.00 to 2335.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2285.00) returned to FunTomas
+FunTomas does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: FunTomas did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #436623501 - Tournament #21797630 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:42:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: FunTomas (2385.00)
+Seat 2: Lorpugo3 (615.00)
+Lorpugo3 posts the small blind 25.00
+FunTomas posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 4c]
+Lorpugo3 raises 75.00 to 100.00
+FunTomas calls 50.00
+*** FLOP *** [6s 5c Kc]
+Main pot 200.00
+FunTomas checks
+Lorpugo3 bets 100.00
+FunTomas raises 200.00 to 200.00
+Lorpugo3 raises 415.00 to 515.00 and is all-in
+FunTomas calls 315.00
+*** TURN *** [6s 5c Kc] [Ah]
+Main pot 1230.00
+*** RIVER *** [6s 5c Kc Ah] [5s]
+Main pot 1230.00
+*** SHOW DOWN ***
+Main pot 1230.00
+FunTomas shows [8c Kd] (two pair, Kings and Fives [Kd Kc 5s 5c Ah])
+Lorpugo3 shows [6c 4c] (two pair, Sixs and Fives [6s 6c 5s 5c Ah])
+FunTomas collected 1230.00 from main pot
+*** SUMMARY ***
+Total pot 1230.00
+Board [6s 5c Kc Ah 5s]
+Seat 1: FunTomas (big blind) showed [8c Kd] and won 1230.00 with two pair, Kings and Fives [Kd Kc 5s 5c Ah]
+Seat 2: Lorpugo3 (button) showed [6c 4c] and lost with two pair, Sixs and Fives [6s 6c 5s 5c Ah]
+

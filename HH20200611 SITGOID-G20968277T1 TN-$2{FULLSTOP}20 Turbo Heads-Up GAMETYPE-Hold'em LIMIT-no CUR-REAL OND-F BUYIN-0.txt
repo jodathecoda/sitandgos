@@ -1,0 +1,240 @@
+Game Hand #395521572 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:53:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: longjohnson (1500.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 4s]
+Lorpugo3 raises 40.00 to 50.00
+longjohnson calls 30.00
+*** FLOP *** [3h Kh 9h]
+Main pot 100.00
+longjohnson checks
+Lorpugo3 bets 50.00
+longjohnson folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [3h Kh 9h]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: longjohnson (big blind) folded on the Flop
+
+Game Hand #395521912 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:53:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1550.00)
+Seat 2: longjohnson (1450.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Js]
+longjohnson folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: longjohnson (button) folded on the Pre-Flop
+
+Game Hand #395521993 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: longjohnson (1440.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Js]
+Lorpugo3 folds
+longjohnson does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: longjohnson did not show and won 30.00
+
+Game Hand #395522087 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1550.00)
+Seat 2: longjohnson (1450.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 4c]
+longjohnson folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: longjohnson (button) folded on the Pre-Flop
+
+Game Hand #395522166 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: longjohnson (1440.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2c]
+Lorpugo3 raises 40.00 to 50.00
+longjohnson folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: longjohnson (big blind) folded on the Pre-Flop
+
+Game Hand #395522288 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: longjohnson (1420.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Kc]
+longjohnson raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to longjohnson
+longjohnson does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: longjohnson did not show and won 40.00
+
+Game Hand #395522389 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: longjohnson (1440.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 2h]
+Lorpugo3 raises 40.00 to 50.00
+longjohnson folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: longjohnson (big blind) folded on the Pre-Flop
+
+Game Hand #395522532 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:54:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: longjohnson (1420.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 4h]
+longjohnson raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to longjohnson
+longjohnson does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: longjohnson did not show and won 40.00
+
+Game Hand #395522620 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:55:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: longjohnson (1440.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5c]
+Lorpugo3 raises 40.00 to 50.00
+longjohnson raises 135.00 to 155.00
+Lorpugo3 folds
+longjohnson does not show
+*** SUMMARY ***
+Total pot 205.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: longjohnson did not show and won 205.00
+
+Game Hand #395522804 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:55:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: longjohnson (1490.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 9d]
+longjohnson raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to longjohnson
+longjohnson does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: longjohnson did not show and won 40.00
+
+Game Hand #395522932 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:55:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: longjohnson (1510.00)
+Lorpugo3 posts the small blind 10.00
+longjohnson posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 7h]
+Lorpugo3 raises 40.00 to 50.00
+longjohnson calls 30.00
+*** FLOP *** [Kd 4d As]
+Main pot 100.00
+longjohnson checks
+Lorpugo3 checks
+*** TURN *** [Kd 4d As] [4s]
+Main pot 100.00
+longjohnson bets 50.00
+Lorpugo3 calls 50.00
+*** RIVER *** [Kd 4d As 4s] [Ks]
+Main pot 200.00
+longjohnson bets 125.00
+Lorpugo3 calls 125.00
+*** SHOW DOWN ***
+Main pot 450.00
+longjohnson shows [8h Jd] (two pair, Kings and Fours [Ks Kd 4s 4d As])
+Lorpugo3 shows [Ah 7h] (two pair, Aces and Kings [As Ah Ks Kd 7h])
+Lorpugo3 collected 450.00 from main pot
+*** SUMMARY ***
+Total pot 450.00
+Board [Kd 4d As 4s Ks]
+Seat 1: Lorpugo3 (button) showed [Ah 7h] and won 450.00 with two pair, Aces and Kings [As Ah Ks Kd 7h]
+Seat 2: longjohnson (big blind) showed [8h Jd] and lost with two pair, Kings and Fours [Ks Kd 4s 4d As]
+
+Game Hand #395523406 - Tournament #20968277 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/11 07:56:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1715.00)
+Seat 2: longjohnson (1285.00)
+longjohnson posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Qc]
+longjohnson raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+longjohnson calls 80.00
+*** FLOP *** [Th Jd 6h]
+Main pot 240.00
+Lorpugo3 checks
+longjohnson bets 60.00
+Lorpugo3 raises 220.00 to 220.00
+longjohnson calls 160.00
+*** TURN *** [Th Jd 6h] [3s]
+Main pot 680.00
+Lorpugo3 bets 400.00
+longjohnson calls 400.00
+*** RIVER *** [Th Jd 6h 3s] [7c]
+Main pot 1480.00
+Lorpugo3 bets 975.00 and is all-in
+longjohnson calls 545.00 and is all-in
+Uncalled bet (430.00) returned to Lorpugo3
+*** SHOW DOWN ***
+Main pot 2570.00
+Lorpugo3 shows [Jc Qc] (a pair of Jacks [Jd Jc Qc Th 7c])
+longjohnson shows [Td Kd] (a pair of Tens [Th Td Kd Jd 7c])
+Lorpugo3 collected 2570.00 from main pot
+*** SUMMARY ***
+Total pot 2570.00
+Board [Th Jd 6h 3s 7c]
+Seat 1: Lorpugo3 (big blind) showed [Jc Qc] and won 2570.00 with a pair of Jacks [Jd Jc Qc Th 7c]
+Seat 2: longjohnson (button) showed [Td Kd] and lost with a pair of Tens [Th Td Kd Jd 7c]
+

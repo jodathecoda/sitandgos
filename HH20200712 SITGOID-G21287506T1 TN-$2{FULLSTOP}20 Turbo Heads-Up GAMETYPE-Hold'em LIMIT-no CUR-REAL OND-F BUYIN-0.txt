@@ -1,0 +1,972 @@
+Game Hand #434339778 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:12:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 5h]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 calls 20.00
+*** FLOP *** [8d Js 3s]
+Main pot 80.00
+AceOfSpades12 checks
+Lorpugo3 checks
+*** TURN *** [8d Js 3s] [6c]
+Main pot 80.00
+AceOfSpades12 bets 40.00
+Lorpugo3 calls 40.00
+*** RIVER *** [8d Js 3s 6c] [Tc]
+Main pot 160.00
+AceOfSpades12 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+AceOfSpades12 shows [6d 5c] (a pair of Sixs [6d 6c Js Tc 8d])
+Lorpugo3 shows [6s 5h] (a pair of Sixs [6s 6c Js Tc 8d])
+AceOfSpades12 collected 80.00 from main pot
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [8d Js 3s 6c Tc]
+Seat 1: AceOfSpades12 (big blind) showed [6d 5c] and won 80.00 with a pair of Sixs [6d 6c Js Tc 8d]
+Seat 2: Lorpugo3 (button) showed [6s 5h] and won 80.00 with a pair of Sixs [6s 6c Js Tc 8d]
+
+Game Hand #434340350 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:13:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 6h]
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #434340477 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:13:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 8c]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 calls 20.00
+*** FLOP *** [As 3h 4h]
+Main pot 80.00
+AceOfSpades12 checks
+Lorpugo3 bets 40.00
+AceOfSpades12 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [As 3h 4h]
+Seat 1: AceOfSpades12 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #434340809 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:13:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 4h]
+AceOfSpades12 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Kd 5d 6s]
+Main pot 40.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [Kd 5d 6s] [2s]
+Main pot 40.00
+Lorpugo3 bets 30.00
+AceOfSpades12 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Kd 5d 6s 2s]
+Seat 1: AceOfSpades12 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #434341211 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:13:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Jc]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 raises 140.00 to 160.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: AceOfSpades12 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434341611 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:14:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qs]
+AceOfSpades12 calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 70.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 70.00
+
+Game Hand #434341972 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:14:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h As]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 raises 140.00 to 160.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: AceOfSpades12 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434342372 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:15:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s As]
+AceOfSpades12 raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [6h Qh Ad]
+Main pot 120.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [6h Qh Ad] [Qd]
+Main pot 120.00
+Lorpugo3 checks
+AceOfSpades12 bets 120.00
+Lorpugo3 calls 120.00
+*** RIVER *** [6h Qh Ad Qd] [8c]
+Main pot 360.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [2s As] (two pair, Aces and Queens [As Ad Qh Qd 8c])
+AceOfSpades12 mucks hand
+Lorpugo3 collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [6h Qh Ad Qd 8c]
+Seat 1: AceOfSpades12 (button) mucked [Td 6d]
+Seat 2: Lorpugo3 (big blind) showed [2s As] and won 360.00 with two pair, Aces and Queens [As Ad Qh Qd 8c]
+
+Game Hand #434343322 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:15:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1310.00)
+Seat 2: Lorpugo3 (1690.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 8c]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 calls 20.00
+*** FLOP *** [Ac 6h 6c]
+Main pot 80.00
+AceOfSpades12 checks
+Lorpugo3 bets 40.00
+AceOfSpades12 calls 40.00
+*** TURN *** [Ac 6h 6c] [2c]
+Main pot 160.00
+AceOfSpades12 checks
+Lorpugo3 bets 80.00
+AceOfSpades12 folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [Ac 6h 6c 2c]
+Seat 1: AceOfSpades12 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 160.00
+
+Game Hand #434343998 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:16:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1230.00)
+Seat 2: Lorpugo3 (1770.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3s]
+AceOfSpades12 raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: AceOfSpades12 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #434344205 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:16:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1250.00)
+Seat 2: Lorpugo3 (1750.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8s]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: AceOfSpades12 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434344402 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:16:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1260.00)
+Seat 2: Lorpugo3 (1740.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Ad]
+AceOfSpades12 raises 50.00 to 60.00
+Lorpugo3 raises 150.00 to 170.00
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 230.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 230.00
+
+Game Hand #434344730 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:17:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1200.00)
+Seat 2: Lorpugo3 (1800.00)
+Lorpugo3 posts the small blind 10.00
+AceOfSpades12 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8h]
+Lorpugo3 raises 30.00 to 40.00
+AceOfSpades12 raises 100.00 to 120.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: AceOfSpades12 did not show and won 160.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434345026 - Tournament #21287506 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 17:17:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1240.00)
+Seat 2: Lorpugo3 (1760.00)
+AceOfSpades12 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 7c]
+AceOfSpades12 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #434345378 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:17:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1220.00)
+Seat 2: Lorpugo3 (1780.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3s]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: AceOfSpades12 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434345771 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:18:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1235.00)
+Seat 2: Lorpugo3 (1765.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3s]
+AceOfSpades12 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: AceOfSpades12 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #434346015 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:18:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1265.00)
+Seat 2: Lorpugo3 (1735.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 7c]
+Lorpugo3 raises 45.00 to 60.00
+AceOfSpades12 raises 150.00 to 180.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: AceOfSpades12 did not show and won 240.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434346399 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:18:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1325.00)
+Seat 2: Lorpugo3 (1675.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Ks]
+AceOfSpades12 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+AceOfSpades12 raises 210.00 to 240.00
+Lorpugo3 calls 150.00
+*** FLOP *** [8c 5c 5d]
+Main pot 480.00
+Lorpugo3 checks
+AceOfSpades12 bets 90.00
+Lorpugo3 calls 90.00
+*** TURN *** [8c 5c 5d] [Tc]
+Main pot 660.00
+Lorpugo3 checks
+AceOfSpades12 bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 660.00
+Board [8c 5c 5d Tc]
+Seat 1: AceOfSpades12 did not show and won 660.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #434347471 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:19:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1655.00)
+Seat 2: Lorpugo3 (1345.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 2d]
+Lorpugo3 raises 45.00 to 60.00
+AceOfSpades12 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: AceOfSpades12 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #434347659 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:19:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1625.00)
+Seat 2: Lorpugo3 (1375.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 6c]
+AceOfSpades12 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: AceOfSpades12 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #434347850 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:19:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1655.00)
+Seat 2: Lorpugo3 (1345.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6h]
+Lorpugo3 calls 15.00
+AceOfSpades12 checks
+*** FLOP *** [6d 2h 7c]
+Main pot 60.00
+AceOfSpades12 checks
+Lorpugo3 bets 60.00
+AceOfSpades12 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [6d 2h 7c]
+Seat 1: AceOfSpades12 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #434348240 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:20:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1625.00)
+Seat 2: Lorpugo3 (1375.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3d]
+AceOfSpades12 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: AceOfSpades12 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #434348514 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:20:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1655.00)
+Seat 2: Lorpugo3 (1345.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9h]
+Lorpugo3 raises 45.00 to 60.00
+AceOfSpades12 calls 30.00
+*** FLOP *** [6s Tc 8s]
+Main pot 120.00
+AceOfSpades12 checks
+Lorpugo3 checks
+*** TURN *** [6s Tc 8s] [Ts]
+Main pot 120.00
+AceOfSpades12 bets 30.00
+Lorpugo3 calls 30.00
+*** RIVER *** [6s Tc 8s Ts] [4h]
+Main pot 180.00
+AceOfSpades12 bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [6s Tc 8s Ts 4h]
+Seat 1: AceOfSpades12 did not show and won 180.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #434349103 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:21:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1745.00)
+Seat 2: Lorpugo3 (1255.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Js]
+AceOfSpades12 raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [2c 5c 9s]
+Main pot 120.00
+Lorpugo3 checks
+AceOfSpades12 bets 120.00
+Lorpugo3 calls 120.00
+*** TURN *** [2c 5c 9s] [5d]
+Main pot 360.00
+Lorpugo3 checks
+AceOfSpades12 bets 360.00
+Lorpugo3 folds
+Uncalled bet (360.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [2c 5c 9s 5d]
+Seat 1: AceOfSpades12 did not show and won 360.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #434349948 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:21:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1925.00)
+Seat 2: Lorpugo3 (1075.00)
+Lorpugo3 posts the small blind 15.00
+AceOfSpades12 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 5s]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: AceOfSpades12 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434350123 - Tournament #21287506 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 17:22:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1940.00)
+Seat 2: Lorpugo3 (1060.00)
+AceOfSpades12 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 4h]
+AceOfSpades12 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [2s 9s As]
+Main pot 60.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [2s 9s As] [8d]
+Main pot 60.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** RIVER *** [2s 9s As 8d] [Kc]
+Main pot 60.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** SHOW DOWN ***
+Main pot 60.00
+Lorpugo3 shows [Ts 4h] (a high card, Ace high [As Kc Ts 9s 8d])
+AceOfSpades12 shows [Qc 2d] (a pair of Deuces [2s 2d As Kc Qc])
+AceOfSpades12 collected 60.00 from main pot
+*** SUMMARY ***
+Total pot 60.00
+Board [2s 9s As 8d Kc]
+Seat 1: AceOfSpades12 (button) showed [Qc 2d] and won 60.00 with a pair of Deuces [2s 2d As Kc Qc]
+Seat 2: Lorpugo3 (big blind) showed [Ts 4h] and lost with a high card, Ace high [As Kc Ts 9s 8d]
+
+Game Hand #434350735 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:22:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1970.00)
+Seat 2: Lorpugo3 (1030.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 7h]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: AceOfSpades12 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434350883 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:22:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1995.00)
+Seat 2: Lorpugo3 (1005.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 3d]
+AceOfSpades12 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [4s 8c Tc]
+Main pot 100.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [4s 8c Tc] [7h]
+Main pot 100.00
+Lorpugo3 bets 75.00
+AceOfSpades12 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4s 8c Tc 7h]
+Seat 1: AceOfSpades12 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #434351473 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:23:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1945.00)
+Seat 2: Lorpugo3 (1055.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9d]
+Lorpugo3 raises 75.00 to 100.00
+AceOfSpades12 raises 300.00 to 350.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 450.00
+Seat 1: AceOfSpades12 did not show and won 450.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434351777 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:23:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (2045.00)
+Seat 2: Lorpugo3 (955.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Kc]
+AceOfSpades12 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [8d 4s Jd]
+Main pot 100.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [8d 4s Jd] [Qs]
+Main pot 100.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** RIVER *** [8d 4s Jd Qs] [5h]
+Main pot 100.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** SHOW DOWN ***
+Main pot 100.00
+Lorpugo3 shows [5d Kc] (a pair of Fives [5h 5d Kc Qs Jd])
+AceOfSpades12 mucks hand
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [8d 4s Jd Qs 5h]
+Seat 1: AceOfSpades12 (button) mucked [As 6c]
+Seat 2: Lorpugo3 (big blind) showed [5d Kc] and won 100.00 with a pair of Fives [5h 5d Kc Qs Jd]
+
+Game Hand #434352474 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:24:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1995.00)
+Seat 2: Lorpugo3 (1005.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Jc]
+Lorpugo3 raises 75.00 to 100.00
+AceOfSpades12 raises 1945.00 to 1995.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1895.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: AceOfSpades12 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434353073 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:24:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (2095.00)
+Seat 2: Lorpugo3 (905.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 5c]
+AceOfSpades12 calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #434353320 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:25:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (2045.00)
+Seat 2: Lorpugo3 (955.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 3d]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: AceOfSpades12 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434353510 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:25:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (2070.00)
+Seat 2: Lorpugo3 (930.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 6c]
+AceOfSpades12 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+AceOfSpades12 raises 2020.00 to 2070.00 and is all-in
+Lorpugo3 calls 805.00 and is all-in
+Uncalled bet (1140.00) returned to AceOfSpades12
+*** FLOP *** [3s Th 7d]
+Main pot 1860.00
+*** TURN *** [3s Th 7d] [Kh]
+Main pot 1860.00
+*** RIVER *** [3s Th 7d Kh] [8s]
+Main pot 1860.00
+*** SHOW DOWN ***
+Main pot 1860.00
+AceOfSpades12 shows [4h Ac] (a high card, Ace high [Ac Kh Th 8s 7d])
+Lorpugo3 shows [6d 6c] (a pair of Sixs [6d 6c Kh Th 8s])
+Lorpugo3 collected 1860.00 from main pot
+*** SUMMARY ***
+Total pot 1860.00
+Board [3s Th 7d Kh 8s]
+Seat 1: AceOfSpades12 (button) showed [4h Ac] and lost with a high card, Ace high [Ac Kh Th 8s 7d]
+Seat 2: Lorpugo3 (big blind) showed [6d 6c] and won 1860.00 with a pair of Sixs [6d 6c Kh Th 8s]
+
+Game Hand #434354320 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:25:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1140.00)
+Seat 2: Lorpugo3 (1860.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Jc]
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: AceOfSpades12 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434354479 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:26:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1165.00)
+Seat 2: Lorpugo3 (1835.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Kc]
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #434354590 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:26:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1140.00)
+Seat 2: Lorpugo3 (1860.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 5s]
+Lorpugo3 raises 75.00 to 100.00
+AceOfSpades12 raises 200.00 to 250.00
+Lorpugo3 folds
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 350.00
+Seat 1: AceOfSpades12 did not show and won 350.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434355098 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:26:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1240.00)
+Seat 2: Lorpugo3 (1760.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 3c]
+AceOfSpades12 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [5h 6c 8h]
+Main pot 100.00
+Lorpugo3 checks
+AceOfSpades12 checks
+*** TURN *** [5h 6c 8h] [As]
+Main pot 100.00
+Lorpugo3 bets 50.00
+AceOfSpades12 calls 50.00
+*** RIVER *** [5h 6c 8h As] [7c]
+Main pot 200.00
+Lorpugo3 checks
+AceOfSpades12 bets 200.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [5h 6c 8h As 7c]
+Seat 1: AceOfSpades12 did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #434355803 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:27:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Lorpugo3 posts the small blind 25.00
+AceOfSpades12 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Ac]
+Lorpugo3 raises 75.00 to 100.00
+AceOfSpades12 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: AceOfSpades12 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #434356002 - Tournament #21287506 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 17:27:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+AceOfSpades12 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Ks]
+AceOfSpades12 raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [Th 8c 7h]
+Main pot 200.00
+Lorpugo3 checks
+AceOfSpades12 bets 200.00
+Lorpugo3 raises 750.00 to 750.00
+AceOfSpades12 folds
+Uncalled bet (550.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 600.00
+Board [Th 8c 7h]
+Seat 1: AceOfSpades12 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 600.00
+
+Game Hand #434356618 - Tournament #21287506 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/12 17:28:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (990.00)
+Seat 2: Lorpugo3 (2010.00)
+Lorpugo3 posts the small blind 50.00
+AceOfSpades12 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 6d]
+Lorpugo3 calls 50.00
+AceOfSpades12 checks
+*** FLOP *** [Qd 7h Ac]
+Main pot 200.00
+AceOfSpades12 checks
+Lorpugo3 bets 100.00
+AceOfSpades12 raises 200.00 to 200.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to AceOfSpades12
+AceOfSpades12 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Qd 7h Ac]
+Seat 1: AceOfSpades12 did not show and won 400.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #434356989 - Tournament #21287506 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/12 17:28:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (1190.00)
+Seat 2: Lorpugo3 (1810.00)
+AceOfSpades12 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Jc]
+AceOfSpades12 calls 50.00
+Lorpugo3 raises 150.00 to 250.00
+AceOfSpades12 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 350.00
+Seat 1: AceOfSpades12 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 350.00
+
+Game Hand #434357195 - Tournament #21287506 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/12 17:28:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+Lorpugo3 posts the small blind 50.00
+AceOfSpades12 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 7c]
+Lorpugo3 calls 50.00
+AceOfSpades12 checks
+*** FLOP *** [As Qs Qd]
+Main pot 200.00
+AceOfSpades12 checks
+Lorpugo3 checks
+*** TURN *** [As Qs Qd] [3s]
+Main pot 200.00
+AceOfSpades12 checks
+Lorpugo3 checks
+*** RIVER *** [As Qs Qd 3s] [Kh]
+Main pot 200.00
+AceOfSpades12 checks
+Lorpugo3 bets 200.00
+AceOfSpades12 folds
+Uncalled bet (200.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [As Qs Qd 3s Kh]
+Seat 1: AceOfSpades12 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #434357825 - Tournament #21287506 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/12 17:29:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: AceOfSpades12 (990.00)
+Seat 2: Lorpugo3 (2010.00)
+AceOfSpades12 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 6c]
+AceOfSpades12 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [2c 9d 7h]
+Main pot 200.00
+Lorpugo3 checks
+AceOfSpades12 bets 100.00
+Lorpugo3 calls 100.00
+*** TURN *** [2c 9d 7h] [6d]
+Main pot 400.00
+Lorpugo3 checks
+AceOfSpades12 bets 200.00
+Lorpugo3 raises 1810.00 to 1810.00 and is all-in
+AceOfSpades12 folds
+Uncalled bet (1610.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 800.00
+Board [2c 9d 7h 6d]
+Seat 1: AceOfSpades12 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 800.00
+
+Game Hand #434358602 - Tournament #21287506 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/07/12 17:29:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: AceOfSpades12 (590.00)
+Seat 2: Lorpugo3 (2410.00)
+Lorpugo3 posts the small blind 50.00
+AceOfSpades12 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Kc]
+Lorpugo3 raises 2360.00 to 2410.00 and is all-in
+AceOfSpades12 calls 490.00 and is all-in
+Uncalled bet (1820.00) returned to Lorpugo3
+*** FLOP *** [Jc 6d Td]
+Main pot 1180.00
+*** TURN *** [Jc 6d Td] [7d]
+Main pot 1180.00
+*** RIVER *** [Jc 6d Td 7d] [4d]
+Main pot 1180.00
+*** SHOW DOWN ***
+Main pot 1180.00
+AceOfSpades12 shows [As 2c] (a high card, Ace high [As Jc Td 7d 6d])
+Lorpugo3 shows [8d Kc] (a flush, Ten high [Td 8d 7d 6d 4d])
+Lorpugo3 collected 1180.00 from main pot
+*** SUMMARY ***
+Total pot 1180.00
+Board [Jc 6d Td 7d 4d]
+Seat 1: AceOfSpades12 (big blind) showed [As 2c] and lost with a high card, Ace high [As Jc Td 7d 6d]
+Seat 2: Lorpugo3 (button) showed [8d Kc] and won 1180.00 with a flush, Ten high [Td 8d 7d 6d 4d]
+

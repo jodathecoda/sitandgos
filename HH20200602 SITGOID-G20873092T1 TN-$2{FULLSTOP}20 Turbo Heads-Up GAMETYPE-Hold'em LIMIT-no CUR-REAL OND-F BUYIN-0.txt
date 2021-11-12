@@ -1,0 +1,732 @@
+Game Hand #383937173 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:17:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 7s]
+JBobster55 raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [Ah Jh 8s]
+Main pot 120.00
+Lorpugo3 checks
+JBobster55 bets 140.00
+Lorpugo3 folds
+Uncalled bet (140.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ah Jh 8s]
+Seat 1: JBobster55 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #383937744 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:18:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1560.00)
+Seat 2: Lorpugo3 (1440.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Td]
+Lorpugo3 raises 40.00 to 50.00
+JBobster55 raises 150.00 to 170.00
+Lorpugo3 folds
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 220.00
+Seat 1: JBobster55 did not show and won 220.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #383938173 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:18:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Kc]
+JBobster55 raises 50.00 to 60.00
+Lorpugo3 raises 150.00 to 170.00
+JBobster55 raises 1550.00 to 1610.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1440.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 340.00
+Seat 1: JBobster55 did not show and won 340.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #383938618 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:18:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Ad]
+Lorpugo3 raises 50.00 to 60.00
+JBobster55 calls 40.00
+*** FLOP *** [4h Jc 2c]
+Main pot 120.00
+JBobster55 checks
+Lorpugo3 bets 60.00
+JBobster55 calls 60.00
+*** TURN *** [4h Jc 2c] [3c]
+Main pot 240.00
+JBobster55 checks
+Lorpugo3 checks
+*** RIVER *** [4h Jc 2c 3c] [8s]
+Main pot 240.00
+JBobster55 bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [4h Jc 2c 3c 8s]
+Seat 1: JBobster55 did not show and won 240.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #383939272 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:19:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1900.00)
+Seat 2: Lorpugo3 (1100.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Qc]
+JBobster55 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: JBobster55 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #383939428 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:19:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1890.00)
+Seat 2: Lorpugo3 (1110.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 2c]
+Lorpugo3 raises 40.00 to 50.00
+JBobster55 calls 30.00
+*** FLOP *** [Kd 5c 5h]
+Main pot 100.00
+JBobster55 checks
+Lorpugo3 bets 50.00
+JBobster55 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Kd 5c 5h]
+Seat 1: JBobster55 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #383939875 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:19:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1840.00)
+Seat 2: Lorpugo3 (1160.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Th]
+JBobster55 raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: JBobster55 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #383940063 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:19:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1860.00)
+Seat 2: Lorpugo3 (1140.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Qh]
+Lorpugo3 raises 30.00 to 40.00
+JBobster55 calls 20.00
+*** FLOP *** [9s 9d 7s]
+Main pot 80.00
+JBobster55 checks
+Lorpugo3 bets 50.00
+JBobster55 raises 150.00 to 150.00
+Lorpugo3 raises 1050.00 to 1100.00 and is all-in
+JBobster55 folds
+Uncalled bet (950.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 380.00
+Board [9s 9d 7s]
+Seat 1: JBobster55 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 380.00
+
+Game Hand #383940821 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:20:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1670.00)
+Seat 2: Lorpugo3 (1330.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 5d]
+JBobster55 raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: JBobster55 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #383941024 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:20:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1690.00)
+Seat 2: Lorpugo3 (1310.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Qh]
+Lorpugo3 folds
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: JBobster55 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #383941159 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:20:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1700.00)
+Seat 2: Lorpugo3 (1300.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9h]
+JBobster55 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: JBobster55 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #383941268 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:20:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1690.00)
+Seat 2: Lorpugo3 (1310.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 2s]
+Lorpugo3 folds
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: JBobster55 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #383941418 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:20:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1700.00)
+Seat 2: Lorpugo3 (1300.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 4s]
+JBobster55 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ks 9d 3h]
+Main pot 40.00
+Lorpugo3 checks
+JBobster55 checks
+*** TURN *** [Ks 9d 3h] [Tc]
+Main pot 40.00
+Lorpugo3 bets 20.00
+JBobster55 calls 20.00
+*** RIVER *** [Ks 9d 3h Tc] [Jh]
+Main pot 80.00
+Lorpugo3 checks
+JBobster55 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ks 9d 3h Tc Jh]
+Seat 1: JBobster55 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #383942280 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:21:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1740.00)
+Seat 2: Lorpugo3 (1260.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d As]
+Lorpugo3 raises 30.00 to 40.00
+JBobster55 raises 100.00 to 120.00
+Lorpugo3 folds
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: JBobster55 did not show and won 160.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #383942912 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:22:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+JBobster55 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 3c]
+JBobster55 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8c 5s Kh]
+Main pot 40.00
+Lorpugo3 checks
+JBobster55 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8c 5s Kh]
+Seat 1: JBobster55 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #383943313 - Tournament #20873092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 20:22:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Lorpugo3 posts the small blind 10.00
+JBobster55 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 5c]
+Lorpugo3 raises 60.00 to 70.00
+JBobster55 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: JBobster55 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #383943533 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:22:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Jc]
+JBobster55 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [7s 6d Td]
+Main pot 60.00
+Lorpugo3 checks
+JBobster55 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [7s 6d Td]
+Seat 1: JBobster55 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #383944014 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:22:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1810.00)
+Seat 2: Lorpugo3 (1190.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qc]
+Lorpugo3 raises 60.00 to 75.00
+JBobster55 calls 45.00
+*** FLOP *** [Js Ks 3d]
+Main pot 150.00
+JBobster55 checks
+Lorpugo3 bets 75.00
+JBobster55 calls 75.00
+*** TURN *** [Js Ks 3d] [Kd]
+Main pot 300.00
+JBobster55 checks
+Lorpugo3 checks
+*** RIVER *** [Js Ks 3d Kd] [4c]
+Main pot 300.00
+JBobster55 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 300.00
+JBobster55 shows [9d Jd] (two pair, Kings and Jacks [Ks Kd Js Jd 9d])
+Lorpugo3 mucks hand
+JBobster55 collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Js Ks 3d Kd 4c]
+Seat 1: JBobster55 (big blind) showed [9d Jd] and won 300.00 with two pair, Kings and Jacks [Ks Kd Js Jd 9d]
+Seat 2: Lorpugo3 (button) mucked [9s Qc]
+
+Game Hand #383944742 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:23:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1960.00)
+Seat 2: Lorpugo3 (1040.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Th]
+JBobster55 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: JBobster55 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #383944859 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:23:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1945.00)
+Seat 2: Lorpugo3 (1055.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 6d]
+Lorpugo3 raises 75.00 to 90.00
+JBobster55 calls 60.00
+*** FLOP *** [4h Js 9s]
+Main pot 180.00
+JBobster55 checks
+Lorpugo3 checks
+*** TURN *** [4h Js 9s] [7c]
+Main pot 180.00
+JBobster55 bets 135.00
+Lorpugo3 calls 135.00
+*** RIVER *** [4h Js 9s 7c] [7h]
+Main pot 450.00
+JBobster55 checks
+Lorpugo3 bets 375.00
+JBobster55 folds
+Uncalled bet (375.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [4h Js 9s 7c 7h]
+Seat 1: JBobster55 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 450.00
+
+Game Hand #383945785 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:24:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1720.00)
+Seat 2: Lorpugo3 (1280.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8s]
+JBobster55 raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [9c Qc As]
+Main pot 150.00
+Lorpugo3 checks
+JBobster55 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [9c Qc As]
+Seat 1: JBobster55 did not show and won 150.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #383946280 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:24:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1795.00)
+Seat 2: Lorpugo3 (1205.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 6h]
+Lorpugo3 raises 75.00 to 90.00
+JBobster55 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: JBobster55 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #383946515 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:24:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1765.00)
+Seat 2: Lorpugo3 (1235.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 4d]
+JBobster55 raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: JBobster55 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #383946729 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:25:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1795.00)
+Seat 2: Lorpugo3 (1205.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 8s]
+Lorpugo3 raises 75.00 to 90.00
+JBobster55 calls 60.00
+*** FLOP *** [Qh 4h 8d]
+Main pot 180.00
+JBobster55 checks
+Lorpugo3 bets 90.00
+JBobster55 calls 90.00
+*** TURN *** [Qh 4h 8d] [6s]
+Main pot 360.00
+JBobster55 checks
+Lorpugo3 bets 180.00
+JBobster55 folds
+Uncalled bet (180.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [Qh 4h 8d 6s]
+Seat 1: JBobster55 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 360.00
+
+Game Hand #383947407 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:25:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1615.00)
+Seat 2: Lorpugo3 (1385.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Jc]
+JBobster55 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Th 2d 3s]
+Main pot 60.00
+Lorpugo3 checks
+JBobster55 bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [Th 2d 3s] [5h]
+Main pot 180.00
+Lorpugo3 checks
+JBobster55 bets 135.00
+Lorpugo3 folds
+Uncalled bet (135.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [Th 2d 3s 5h]
+Seat 1: JBobster55 did not show and won 180.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #383948135 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:26:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1705.00)
+Seat 2: Lorpugo3 (1295.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Jc]
+Lorpugo3 raises 75.00 to 90.00
+JBobster55 calls 60.00
+*** FLOP *** [3c 4d 6h]
+Main pot 180.00
+JBobster55 checks
+Lorpugo3 checks
+*** TURN *** [3c 4d 6h] [8d]
+Main pot 180.00
+JBobster55 checks
+Lorpugo3 bets 135.00
+JBobster55 calls 135.00
+*** RIVER *** [3c 4d 6h 8d] [2d]
+Main pot 450.00
+JBobster55 checks
+Lorpugo3 bets 338.00
+JBobster55 folds
+Uncalled bet (338.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [3c 4d 6h 8d 2d]
+Seat 1: JBobster55 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 450.00
+
+Game Hand #383948861 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:26:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Ad]
+JBobster55 raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [3h Jh 6h]
+Main pot 150.00
+Lorpugo3 bets 75.00
+JBobster55 raises 180.00 to 180.00
+Lorpugo3 folds
+Uncalled bet (105.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [3h Jh 6h]
+Seat 1: JBobster55 did not show and won 300.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #383949390 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:27:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1630.00)
+Seat 2: Lorpugo3 (1370.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 6d]
+Lorpugo3 raises 45.00 to 60.00
+JBobster55 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: JBobster55 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #383949557 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:27:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1600.00)
+Seat 2: Lorpugo3 (1400.00)
+JBobster55 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Ah]
+JBobster55 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: JBobster55 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #383949690 - Tournament #20873092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 20:27:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1585.00)
+Seat 2: Lorpugo3 (1415.00)
+Lorpugo3 posts the small blind 15.00
+JBobster55 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Qd]
+Lorpugo3 raises 75.00 to 90.00
+JBobster55 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: JBobster55 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #383949882 - Tournament #20873092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 20:27:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1555.00)
+Seat 2: Lorpugo3 (1445.00)
+JBobster55 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 2c]
+JBobster55 raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to JBobster55
+JBobster55 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: JBobster55 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #383950100 - Tournament #20873092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 20:27:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1605.00)
+Seat 2: Lorpugo3 (1395.00)
+Lorpugo3 posts the small blind 25.00
+JBobster55 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Kh]
+Lorpugo3 raises 125.00 to 150.00
+JBobster55 calls 100.00
+*** FLOP *** [Kd 6h 6s]
+Main pot 300.00
+JBobster55 checks
+Lorpugo3 bets 150.00
+JBobster55 folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Kd 6h 6s]
+Seat 1: JBobster55 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 300.00
+
+Game Hand #383950528 - Tournament #20873092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 20:28:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: JBobster55 (1455.00)
+Seat 2: Lorpugo3 (1545.00)
+JBobster55 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 2d]
+JBobster55 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: JBobster55 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #383950653 - Tournament #20873092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 20:28:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: JBobster55 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Lorpugo3 posts the small blind 25.00
+JBobster55 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Jd]
+Lorpugo3 raises 125.00 to 150.00
+JBobster55 calls 100.00
+*** FLOP *** [6s 7c 7h]
+Main pot 300.00
+JBobster55 checks
+Lorpugo3 bets 150.00
+JBobster55 calls 150.00
+*** TURN *** [6s 7c 7h] [Kd]
+Main pot 600.00
+JBobster55 checks
+Lorpugo3 bets 300.00
+JBobster55 calls 300.00
+*** RIVER *** [6s 7c 7h Kd] [Js]
+Main pot 1200.00
+JBobster55 checks
+Lorpugo3 bets 970.00 and is all-in
+JBobster55 calls 830.00 and is all-in
+Uncalled bet (140.00) returned to Lorpugo3
+*** SHOW DOWN ***
+Main pot 2860.00
+JBobster55 shows [Kc 2h] (two pair, Kings and Sevens [Kd Kc 7h 7c Js])
+Lorpugo3 shows [Ks Jd] (two pair, Kings and Jacks [Ks Kd Js Jd 7h])
+Lorpugo3 collected 2860.00 from main pot
+*** SUMMARY ***
+Total pot 2860.00
+Board [6s 7c 7h Kd Js]
+Seat 1: JBobster55 (big blind) showed [Kc 2h] and lost with two pair, Kings and Sevens [Kd Kc 7h 7c Js]
+Seat 2: Lorpugo3 (button) showed [Ks Jd] and won 2860.00 with two pair, Kings and Jacks [Ks Kd Js Jd 7h]
+

@@ -1,0 +1,857 @@
+Game Hand #382511596 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:54:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4d]
+pokerisngood calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5s 7h 2s]
+Main pot 40.00
+Lorpugo3 checks
+pokerisngood bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [5s 7h 2s] [8h]
+Main pot 80.00
+Lorpugo3 checks
+pokerisngood checks
+*** RIVER *** [5s 7h 2s 8h] [Tc]
+Main pot 80.00
+Lorpugo3 bets 110.00
+pokerisngood folds
+Uncalled bet (110.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [5s 7h 2s 8h Tc]
+Seat 1: pokerisngood (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #382512413 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:55:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Ks]
+Lorpugo3 raises 60.00 to 70.00
+pokerisngood folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382512521 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:56:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 5h]
+pokerisngood calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qd 4s 3h]
+Main pot 40.00
+Lorpugo3 checks
+pokerisngood checks
+*** TURN *** [Qd 4s 3h] [Kd]
+Main pot 40.00
+Lorpugo3 bets 40.00
+pokerisngood folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Qd 4s 3h Kd]
+Seat 1: pokerisngood (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382512823 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:56:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 5c]
+Lorpugo3 raises 40.00 to 50.00
+pokerisngood folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382513068 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1400.00)
+Seat 2: Lorpugo3 (1600.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ks]
+pokerisngood raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382513167 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 2c]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382513219 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4h]
+pokerisngood raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382513298 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Qd]
+Lorpugo3 raises 40.00 to 50.00
+pokerisngood folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382513432 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 8d]
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382513505 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:57:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Tc]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382513581 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:58:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Kc]
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382513628 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:58:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Tc]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382513694 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:58:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Qc]
+pokerisngood raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382513769 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:58:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 4c]
+Lorpugo3 raises 40.00 to 50.00
+pokerisngood calls 30.00
+*** FLOP *** [Ks 9s 7s]
+Main pot 100.00
+pokerisngood checks
+Lorpugo3 checks
+*** TURN *** [Ks 9s 7s] [5d]
+Main pot 100.00
+pokerisngood checks
+Lorpugo3 checks
+*** RIVER *** [Ks 9s 7s 5d] [Ts]
+Main pot 100.00
+pokerisngood bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ks 9s 7s 5d Ts]
+Seat 1: pokerisngood did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #382514126 - Tournament #20857582 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 17:59:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ac]
+pokerisngood raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [3d 8h Kd]
+Main pot 100.00
+Lorpugo3 checks
+pokerisngood bets 40.00
+Lorpugo3 raises 110.00 to 110.00
+pokerisngood calls 70.00
+*** TURN *** [3d 8h Kd] [4h]
+Main pot 320.00
+Lorpugo3 bets 190.00
+pokerisngood calls 190.00
+*** RIVER *** [3d 8h Kd 4h] [3s]
+Main pot 700.00
+Lorpugo3 bets 1150.00 and is all-in
+pokerisngood folds
+Uncalled bet (1150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 700.00
+Board [3d 8h Kd 4h 3s]
+Seat 1: pokerisngood (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 700.00
+
+Game Hand #382514741 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:00:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1150.00)
+Seat 2: Lorpugo3 (1850.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 6c]
+Lorpugo3 raises 45.00 to 60.00
+pokerisngood folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382514980 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:00:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1120.00)
+Seat 2: Lorpugo3 (1880.00)
+pokerisngood posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Jh]
+pokerisngood raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382515145 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:00:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1150.00)
+Seat 2: Lorpugo3 (1850.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Jd]
+Lorpugo3 raises 75.00 to 90.00
+pokerisngood folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382515269 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:01:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1120.00)
+Seat 2: Lorpugo3 (1880.00)
+pokerisngood posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 4c]
+pokerisngood calls 15.00
+Lorpugo3 checks
+*** FLOP *** [2s Ah 4s]
+Main pot 60.00
+Lorpugo3 checks
+pokerisngood checks
+*** TURN *** [2s Ah 4s] [9c]
+Main pot 60.00
+Lorpugo3 bets 30.00
+pokerisngood folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [2s Ah 4s 9c]
+Seat 1: pokerisngood (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382515773 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:01:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3s]
+Lorpugo3 raises 60.00 to 75.00
+pokerisngood folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382515948 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:01:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1060.00)
+Seat 2: Lorpugo3 (1940.00)
+pokerisngood posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Kh]
+pokerisngood calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 135.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 135.00
+
+Game Hand #382516171 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:02:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1030.00)
+Seat 2: Lorpugo3 (1970.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 6s]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: pokerisngood did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382516321 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:02:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1045.00)
+Seat 2: Lorpugo3 (1955.00)
+pokerisngood posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 7c]
+pokerisngood calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 135.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 135.00
+
+Game Hand #382516818 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:02:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1015.00)
+Seat 2: Lorpugo3 (1985.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Td]
+Lorpugo3 raises 75.00 to 90.00
+pokerisngood folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382516991 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:03:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (985.00)
+Seat 2: Lorpugo3 (2015.00)
+pokerisngood posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 3c]
+pokerisngood raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [As 4h Th]
+Main pot 150.00
+Lorpugo3 bets 45.00
+pokerisngood calls 45.00
+*** TURN *** [As 4h Th] [7d]
+Main pot 240.00
+Lorpugo3 bets 105.00
+pokerisngood raises 240.00 to 240.00
+Lorpugo3 raises 1790.00 to 1895.00 and is all-in
+pokerisngood calls 625.00 and is all-in
+Uncalled bet (1030.00) returned to Lorpugo3
+*** RIVER *** [As 4h Th 7d] [Kh]
+Main pot 1970.00
+*** SHOW DOWN ***
+Main pot 1970.00
+pokerisngood shows [Ah Qc] (a pair of Aces [As Ah Kh Qc Th])
+Lorpugo3 shows [Ad 3c] (a pair of Aces [As Ad Kh Th 7d])
+pokerisngood collected 1970.00 from main pot
+*** SUMMARY ***
+Total pot 1970.00
+Board [As 4h Th 7d Kh]
+Seat 1: pokerisngood (button) showed [Ah Qc] and won 1970.00 with a pair of Aces [As Ah Kh Qc Th] with the kicker Queen
+Seat 2: Lorpugo3 (big blind) showed [Ad 3c] and lost with a pair of Aces [As Ad Kh Th 7d]
+
+Game Hand #382518180 - Tournament #20857582 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 18:04:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1970.00)
+Seat 2: Lorpugo3 (1030.00)
+Lorpugo3 posts the small blind 15.00
+pokerisngood posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 3c]
+Lorpugo3 raises 90.00 to 105.00
+pokerisngood folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #382518408 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:04:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1940.00)
+Seat 2: Lorpugo3 (1060.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 6h]
+pokerisngood raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [7s Qh Ad]
+Main pot 200.00
+Lorpugo3 checks
+pokerisngood bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [7s Qh Ad]
+Seat 1: pokerisngood did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #382519352 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:05:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (2040.00)
+Seat 2: Lorpugo3 (960.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 6h]
+Lorpugo3 raises 125.00 to 150.00
+pokerisngood raises 1990.00 to 2040.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1890.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: pokerisngood did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382519701 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:05:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (2190.00)
+Seat 2: Lorpugo3 (810.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Jh]
+pokerisngood raises 75.00 to 100.00
+Lorpugo3 raises 225.00 to 275.00
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 375.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 375.00
+
+Game Hand #382520049 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:06:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (2090.00)
+Seat 2: Lorpugo3 (910.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8s]
+Lorpugo3 raises 175.00 to 200.00
+pokerisngood folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #382520256 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:06:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (2040.00)
+Seat 2: Lorpugo3 (960.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 4s]
+pokerisngood raises 75.00 to 100.00
+Lorpugo3 raises 910.00 to 960.00 and is all-in
+pokerisngood folds
+Uncalled bet (860.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #382520591 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:06:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1940.00)
+Seat 2: Lorpugo3 (1060.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Jc]
+Lorpugo3 raises 125.00 to 150.00
+pokerisngood raises 1890.00 to 1940.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1790.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: pokerisngood did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382520891 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:06:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (2090.00)
+Seat 2: Lorpugo3 (910.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 4s]
+pokerisngood raises 75.00 to 100.00
+Lorpugo3 raises 175.00 to 225.00
+pokerisngood calls 125.00
+*** FLOP *** [7d Ah 6s]
+Main pot 450.00
+Lorpugo3 bets 225.00
+pokerisngood folds
+Uncalled bet (225.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [7d Ah 6s]
+Seat 1: pokerisngood (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 450.00
+
+Game Hand #382521560 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:07:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1865.00)
+Seat 2: Lorpugo3 (1135.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Kc]
+Lorpugo3 raises 75.00 to 100.00
+pokerisngood calls 50.00
+*** FLOP *** [Td Th 9h]
+Main pot 200.00
+pokerisngood checks
+Lorpugo3 bets 75.00
+pokerisngood calls 75.00
+*** TURN *** [Td Th 9h] [Qc]
+Main pot 350.00
+pokerisngood checks
+Lorpugo3 checks
+*** RIVER *** [Td Th 9h Qc] [8h]
+Main pot 350.00
+pokerisngood checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 350.00
+pokerisngood shows [Ah 8s] (two pair, Tens and Eights [Th Td 8s 8h Ah])
+Lorpugo3 mucks hand
+pokerisngood collected 350.00 from main pot
+*** SUMMARY ***
+Total pot 350.00
+Board [Td Th 9h Qc 8h]
+Seat 1: pokerisngood (big blind) showed [Ah 8s] and won 350.00 with two pair, Tens and Eights [Th Td 8s 8h Ah]
+Seat 2: Lorpugo3 (button) mucked [2h Kc]
+
+Game Hand #382522744 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:08:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (2040.00)
+Seat 2: Lorpugo3 (960.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 2d]
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #382522845 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:08:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (2015.00)
+Seat 2: Lorpugo3 (985.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 2s]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: pokerisngood did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382522980 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:08:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (2040.00)
+Seat 2: Lorpugo3 (960.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 7c]
+pokerisngood raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: pokerisngood did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382523150 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:08:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (2090.00)
+Seat 2: Lorpugo3 (910.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Jh]
+Lorpugo3 raises 125.00 to 150.00
+pokerisngood calls 100.00
+*** FLOP *** [As 3s 7d]
+Main pot 300.00
+pokerisngood bets 75.00
+Lorpugo3 raises 225.00 to 225.00
+pokerisngood folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [As 3s 7d]
+Seat 1: pokerisngood (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 450.00
+
+Game Hand #382523697 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:09:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1865.00)
+Seat 2: Lorpugo3 (1135.00)
+pokerisngood posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Kh]
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #382523788 - Tournament #20857582 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 18:09:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1840.00)
+Seat 2: Lorpugo3 (1160.00)
+Lorpugo3 posts the small blind 25.00
+pokerisngood posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 5d]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: pokerisngood did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382523896 - Tournament #20857582 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/01 18:09:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1865.00)
+Seat 2: Lorpugo3 (1135.00)
+pokerisngood posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 8h]
+pokerisngood raises 150.00 to 200.00
+Lorpugo3 calls 100.00
+*** FLOP *** [Js 5s 2s]
+Main pot 400.00
+Lorpugo3 checks
+pokerisngood bets 1665.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1665.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [Js 5s 2s]
+Seat 1: pokerisngood did not show and won 400.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #382524330 - Tournament #20857582 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/01 18:09:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (2065.00)
+Seat 2: Lorpugo3 (935.00)
+Lorpugo3 posts the small blind 50.00
+pokerisngood posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3d]
+Lorpugo3 raises 885.00 to 935.00 and is all-in
+pokerisngood folds
+Uncalled bet (835.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #382524526 - Tournament #20857582 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/01 18:10:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1965.00)
+Seat 2: Lorpugo3 (1035.00)
+pokerisngood posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d As]
+pokerisngood folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: pokerisngood (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #382524634 - Tournament #20857582 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/01 18:10:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1915.00)
+Seat 2: Lorpugo3 (1085.00)
+Lorpugo3 posts the small blind 50.00
+pokerisngood posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qc]
+Lorpugo3 raises 1035.00 to 1085.00 and is all-in
+pokerisngood calls 985.00
+*** FLOP *** [7c 6s 9c]
+Main pot 2170.00
+*** TURN *** [7c 6s 9c] [5h]
+Main pot 2170.00
+*** RIVER *** [7c 6s 9c 5h] [2s]
+Main pot 2170.00
+*** SHOW DOWN ***
+Main pot 2170.00
+pokerisngood shows [Kd Kh] (a pair of Kings [Kh Kd 9c 7c 6s])
+Lorpugo3 shows [Ac Qc] (a high card, Ace high [Ac Qc 9c 7c 6s])
+pokerisngood collected 2170.00 from main pot
+*** SUMMARY ***
+Total pot 2170.00
+Board [7c 6s 9c 5h 2s]
+Seat 1: pokerisngood (big blind) showed [Kd Kh] and won 2170.00 with a pair of Kings [Kh Kd 9c 7c 6s]
+Seat 2: Lorpugo3 (button) showed [Ac Qc] and lost with a high card, Ace high [Ac Qc 9c 7c 6s]
+

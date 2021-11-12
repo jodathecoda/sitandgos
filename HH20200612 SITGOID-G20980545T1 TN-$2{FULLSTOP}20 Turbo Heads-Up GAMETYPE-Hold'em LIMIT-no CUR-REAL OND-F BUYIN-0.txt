@@ -1,0 +1,514 @@
+Game Hand #396945564 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:00:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 7s]
+Lorpugo3 raises 40.00 to 50.00
+Jmorse5 raises 70.00 to 90.00
+Lorpugo3 calls 40.00
+*** FLOP *** [9c Kc Th]
+Main pot 180.00
+Jmorse5 checks
+Lorpugo3 bets 90.00
+Jmorse5 calls 90.00
+*** TURN *** [9c Kc Th] [Jd]
+Main pot 360.00
+Jmorse5 checks
+Lorpugo3 bets 180.00
+Jmorse5 folds
+Uncalled bet (180.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [9c Kc Th Jd]
+Seat 1: Jmorse5 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 360.00
+
+Game Hand #396945845 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:00:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1320.00)
+Seat 2: Lorpugo3 (1680.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Th]
+Jmorse5 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [3d Js 4c]
+Main pot 40.00
+Lorpugo3 checks
+Jmorse5 bets 20.00
+Lorpugo3 raises 70.00 to 70.00
+Jmorse5 calls 50.00
+*** TURN *** [3d Js 4c] [Ad]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Jmorse5 calls 90.00
+*** RIVER *** [3d Js 4c Ad] [Kh]
+Main pot 360.00
+Lorpugo3 checks
+Jmorse5 bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [3d Js 4c Ad Kh]
+Seat 1: Jmorse5 did not show and won 360.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #396946164 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:01:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 6c]
+Lorpugo3 folds
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Jmorse5 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396946203 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:01:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Js]
+Jmorse5 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Jmorse5 calls 40.00
+*** FLOP *** [6d Ah 4d]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Jmorse5 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [6d Ah 4d]
+Seat 1: Jmorse5 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #396946363 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:02:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 7d]
+Lorpugo3 raises 40.00 to 50.00
+Jmorse5 calls 30.00
+*** FLOP *** [Ad 7c 9d]
+Main pot 100.00
+Jmorse5 checks
+Lorpugo3 checks
+*** TURN *** [Ad 7c 9d] [8s]
+Main pot 100.00
+Jmorse5 bets 75.00
+Lorpugo3 raises 240.00 to 240.00
+Jmorse5 calls 165.00
+*** RIVER *** [Ad 7c 9d 8s] [4d]
+Main pot 580.00
+Jmorse5 bets 263.00
+Lorpugo3 calls 263.00
+*** SHOW DOWN ***
+Main pot 1106.00
+Jmorse5 shows [2d 3d] (a flush, Ace high [Ad 9d 4d 3d 2d])
+Lorpugo3 mucks hand
+Jmorse5 collected 1106.00 from main pot
+*** SUMMARY ***
+Total pot 1106.00
+Board [Ad 7c 9d 8s 4d]
+Seat 1: Jmorse5 (big blind) showed [2d 3d] and won 1106.00 with a flush, Ace high [Ad 9d 4d 3d 2d]
+Seat 2: Lorpugo3 (button) mucked [Ah 7d]
+
+Game Hand #396946628 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:03:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (2003.00)
+Seat 2: Lorpugo3 (997.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 5d]
+Jmorse5 raises 40.00 to 50.00
+Lorpugo3 raises 977.00 to 997.00 and is all-in
+Jmorse5 folds
+Uncalled bet (947.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Jmorse5 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #396946696 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:03:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1953.00)
+Seat 2: Lorpugo3 (1047.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 5c]
+Lorpugo3 folds
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Jmorse5 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396946730 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:03:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1963.00)
+Seat 2: Lorpugo3 (1037.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Ac]
+Jmorse5 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Jmorse5 calls 40.00
+*** FLOP *** [Kh 6d 4h]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Jmorse5 calls 60.00
+*** TURN *** [Kh 6d 4h] [3s]
+Main pot 240.00
+Lorpugo3 bets 120.00
+Jmorse5 folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Kh 6d 4h 3s]
+Seat 1: Jmorse5 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 240.00
+
+Game Hand #396946927 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:03:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1843.00)
+Seat 2: Lorpugo3 (1157.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 7d]
+Lorpugo3 raises 40.00 to 50.00
+Jmorse5 calls 30.00
+*** FLOP *** [As Td 2c]
+Main pot 100.00
+Jmorse5 checks
+Lorpugo3 bets 50.00
+Jmorse5 calls 50.00
+*** TURN *** [As Td 2c] [Jc]
+Main pot 200.00
+Jmorse5 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [As Td 2c Jc]
+Seat 1: Jmorse5 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #396947101 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:04:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1943.00)
+Seat 2: Lorpugo3 (1057.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 2d]
+Jmorse5 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Jmorse5 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396947150 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:04:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1963.00)
+Seat 2: Lorpugo3 (1037.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4s]
+Lorpugo3 folds
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Jmorse5 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396947210 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:04:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1973.00)
+Seat 2: Lorpugo3 (1027.00)
+Jmorse5 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Kd]
+Jmorse5 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5c 7s Jd]
+Main pot 80.00
+Lorpugo3 checks
+Jmorse5 checks
+*** TURN *** [5c 7s Jd] [Ac]
+Main pot 80.00
+Lorpugo3 checks
+Jmorse5 bets 20.00
+Lorpugo3 calls 20.00
+*** RIVER *** [5c 7s Jd Ac] [7c]
+Main pot 120.00
+Lorpugo3 checks
+Jmorse5 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5c 7s Jd Ac 7c]
+Seat 1: Jmorse5 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #396947441 - Tournament #20980545 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 13:05:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (2033.00)
+Seat 2: Lorpugo3 (967.00)
+Lorpugo3 posts the small blind 10.00
+Jmorse5 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 9c]
+Lorpugo3 raises 50.00 to 60.00
+Jmorse5 raises 90.00 to 110.00
+Lorpugo3 calls 50.00
+*** FLOP *** [6s 4c 4s]
+Main pot 220.00
+Jmorse5 bets 1923.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1923.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 220.00
+Board [6s 4c 4s]
+Seat 1: Jmorse5 did not show and won 220.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #396947582 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:05:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (2143.00)
+Seat 2: Lorpugo3 (857.00)
+Jmorse5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6s]
+Jmorse5 raises 2128.00 to 2143.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2113.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Jmorse5 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396947646 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:05:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (2173.00)
+Seat 2: Lorpugo3 (827.00)
+Lorpugo3 posts the small blind 15.00
+Jmorse5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3s]
+Lorpugo3 folds
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Jmorse5 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396947716 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:05:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (2188.00)
+Seat 2: Lorpugo3 (812.00)
+Jmorse5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Kc]
+Jmorse5 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+Jmorse5 raises 150.00 to 180.00
+Lorpugo3 raises 707.00 to 812.00 and is all-in
+Jmorse5 calls 632.00
+*** FLOP *** [Th Ts Qs]
+Main pot 1624.00
+*** TURN *** [Th Ts Qs] [Js]
+Main pot 1624.00
+*** RIVER *** [Th Ts Qs Js] [6c]
+Main pot 1624.00
+*** SHOW DOWN ***
+Main pot 1624.00
+Jmorse5 shows [Ks Kh] (two pair, Kings and Tens [Ks Kh Ts Th Qs])
+Lorpugo3 shows [As Kc] (a straight, Ace high [As Kc Qs Js Ts])
+Lorpugo3 collected 1624.00 from main pot
+*** SUMMARY ***
+Total pot 1624.00
+Board [Th Ts Qs Js 6c]
+Seat 1: Jmorse5 (button) showed [Ks Kh] and lost with two pair, Kings and Tens [Ks Kh Ts Th Qs]
+Seat 2: Lorpugo3 (big blind) showed [As Kc] and won 1624.00 with a straight, Ace high [As Kc Qs Js Ts]
+
+Game Hand #396947908 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:06:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1376.00)
+Seat 2: Lorpugo3 (1624.00)
+Lorpugo3 posts the small blind 15.00
+Jmorse5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 6h]
+Lorpugo3 raises 60.00 to 75.00
+Jmorse5 calls 45.00
+*** FLOP *** [2s Ac Tc]
+Main pot 150.00
+Jmorse5 bets 113.00
+Lorpugo3 folds
+Uncalled bet (113.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [2s Ac Tc]
+Seat 1: Jmorse5 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #396948031 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:06:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1451.00)
+Seat 2: Lorpugo3 (1549.00)
+Jmorse5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 6h]
+Jmorse5 calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+Jmorse5 calls 45.00
+*** FLOP *** [Td 8s 9c]
+Main pot 150.00
+Lorpugo3 checks
+Jmorse5 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to Jmorse5
+Jmorse5 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Td 8s 9c]
+Seat 1: Jmorse5 did not show and won 150.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #396948192 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:06:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1526.00)
+Seat 2: Lorpugo3 (1474.00)
+Lorpugo3 posts the small blind 15.00
+Jmorse5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h As]
+Lorpugo3 raises 60.00 to 75.00
+Jmorse5 calls 45.00
+*** FLOP *** [8h 7c Kd]
+Main pot 150.00
+Jmorse5 checks
+Lorpugo3 checks
+*** TURN *** [8h 7c Kd] [4c]
+Main pot 150.00
+Jmorse5 checks
+Lorpugo3 checks
+*** RIVER *** [8h 7c Kd 4c] [5d]
+Main pot 150.00
+Jmorse5 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 150.00
+Jmorse5 shows [4s Jd] (a pair of Fours [4s 4c Kd Jd 8h])
+Lorpugo3 shows [4h As] (a pair of Fours [4h 4c As Kd 8h])
+Lorpugo3 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 150.00
+Board [8h 7c Kd 4c 5d]
+Seat 1: Jmorse5 (big blind) showed [4s Jd] and lost with a pair of Fours [4s 4c Kd Jd 8h]
+Seat 2: Lorpugo3 (button) showed [4h As] and won 150.00 with a pair of Fours [4h 4c As Kd 8h] with the kicker Ace
+
+Game Hand #396948410 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:07:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Jmorse5 (1451.00)
+Seat 2: Lorpugo3 (1549.00)
+Jmorse5 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 8h]
+Jmorse5 raises 105.00 to 120.00
+Lorpugo3 calls 90.00
+*** FLOP *** [6d Th 7h]
+Main pot 240.00
+Lorpugo3 checks
+Jmorse5 checks
+*** TURN *** [6d Th 7h] [As]
+Main pot 240.00
+Lorpugo3 checks
+Jmorse5 checks
+*** RIVER *** [6d Th 7h As] [5h]
+Main pot 240.00
+Lorpugo3 bets 180.00
+Jmorse5 folds
+Uncalled bet (180.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [6d Th 7h As 5h]
+Seat 1: Jmorse5 (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 240.00
+
+Game Hand #396948637 - Tournament #20980545 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 13:07:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Jmorse5 (1331.00)
+Seat 2: Lorpugo3 (1669.00)
+Lorpugo3 posts the small blind 15.00
+Jmorse5 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8c]
+Lorpugo3 raises 60.00 to 75.00
+Jmorse5 raises 90.00 to 120.00
+Lorpugo3 calls 45.00
+*** FLOP *** [Th Jh 4d]
+Main pot 240.00
+Jmorse5 bets 60.00
+Lorpugo3 raises 240.00 to 240.00
+Jmorse5 calls 180.00
+*** TURN *** [Th Jh 4d] [Td]
+Main pot 720.00
+Jmorse5 checks
+Lorpugo3 bets 1309.00 and is all-in
+Jmorse5 calls 971.00 and is all-in
+Uncalled bet (338.00) returned to Lorpugo3
+*** RIVER *** [Th Jh 4d Td] [6h]
+Main pot 2662.00
+*** SHOW DOWN ***
+Main pot 2662.00
+Jmorse5 shows [Ks Qs] (a pair of Tens [Th Td Ks Qs Jh])
+Lorpugo3 shows [Jc 8c] (two pair, Jacks and Tens [Jh Jc Th Td 8c])
+Lorpugo3 collected 2662.00 from main pot
+*** SUMMARY ***
+Total pot 2662.00
+Board [Th Jh 4d Td 6h]
+Seat 1: Jmorse5 (big blind) showed [Ks Qs] and lost with a pair of Tens [Th Td Ks Qs Jh]
+Seat 2: Lorpugo3 (button) showed [Jc 8c] and won 2662.00 with two pair, Jacks and Tens [Jh Jc Th Td 8c]
+

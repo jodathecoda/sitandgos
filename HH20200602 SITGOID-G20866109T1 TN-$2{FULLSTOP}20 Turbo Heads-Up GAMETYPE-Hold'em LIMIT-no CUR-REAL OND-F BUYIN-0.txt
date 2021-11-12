@@ -1,0 +1,208 @@
+Game Hand #383585040 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:13:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: MrPsychocat (1510.00)
+Seat 2: Lorpugo3 (1490.00) is sitting out
+MrPsychocat posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 7h]
+MrPsychocat raises 34.00 to 44.00
+Lorpugo3 calls 24.00
+*** FLOP *** [4c Qd 3h]
+Main pot 88.00
+Lorpugo3 checks
+MrPsychocat bets 44.00
+Lorpugo3 raises 108.00 to 108.00
+MrPsychocat calls 64.00
+*** TURN *** [4c Qd 3h] [6h]
+Main pot 304.00
+Lorpugo3 bets 172.00
+MrPsychocat folds
+Uncalled bet (172.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 304.00
+Board [4c Qd 3h 6h]
+Seat 1: MrPsychocat (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 304.00
+
+Game Hand #383585169 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:14:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: MrPsychocat (1358.00)
+Seat 2: Lorpugo3 (1642.00)
+Lorpugo3 posts the small blind 10.00
+MrPsychocat posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Kc]
+Lorpugo3 raises 30.00 to 40.00
+MrPsychocat calls 20.00
+*** FLOP *** [5s 6s 8c]
+Main pot 80.00
+MrPsychocat bets 40.00
+Lorpugo3 raises 130.00 to 130.00
+MrPsychocat raises 220.00 to 260.00
+Lorpugo3 raises 1472.00 to 1602.00 and is all-in
+MrPsychocat calls 1058.00 and is all-in
+Uncalled bet (284.00) returned to Lorpugo3
+*** TURN *** [5s 6s 8c] [Qh]
+Main pot 2716.00
+*** RIVER *** [5s 6s 8c Qh] [Ah]
+Main pot 2716.00
+*** SHOW DOWN ***
+Main pot 2716.00
+MrPsychocat shows [7c 9h] (a straight, Nine high [9h 8c 7c 6s 5s])
+Lorpugo3 shows [Kh Kc] (a pair of Kings [Kh Kc Ah Qh 8c])
+MrPsychocat collected 2716.00 from main pot
+*** SUMMARY ***
+Total pot 2716.00
+Board [5s 6s 8c Qh Ah]
+Seat 1: MrPsychocat (big blind) showed [7c 9h] and won 2716.00 with a straight, Nine high [9h 8c 7c 6s 5s]
+Seat 2: Lorpugo3 (button) showed [Kh Kc] and lost with a pair of Kings [Kh Kc Ah Qh 8c]
+
+Game Hand #383585253 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:15:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: MrPsychocat (2716.00)
+Seat 2: Lorpugo3 (284.00)
+MrPsychocat posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 9d]
+MrPsychocat folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: MrPsychocat (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #383585271 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:15:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: MrPsychocat (2706.00)
+Seat 2: Lorpugo3 (294.00)
+Lorpugo3 posts the small blind 10.00
+MrPsychocat posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 8s]
+Lorpugo3 raises 284.00 to 294.00 and is all-in
+MrPsychocat calls 274.00
+*** FLOP *** [Th Ac 8c]
+Main pot 588.00
+*** TURN *** [Th Ac 8c] [9s]
+Main pot 588.00
+*** RIVER *** [Th Ac 8c 9s] [5c]
+Main pot 588.00
+*** SHOW DOWN ***
+Main pot 588.00
+MrPsychocat shows [7d 7c] (a pair of Sevens [7d 7c Ac Th 9s])
+Lorpugo3 shows [Ah 8s] (two pair, Aces and Eights [Ah Ac 8s 8c Th])
+Lorpugo3 collected 588.00 from main pot
+*** SUMMARY ***
+Total pot 588.00
+Board [Th Ac 8c 9s 5c]
+Seat 1: MrPsychocat (big blind) showed [7d 7c] and lost with a pair of Sevens [7d 7c Ac Th 9s]
+Seat 2: Lorpugo3 (button) showed [Ah 8s] and won 588.00 with two pair, Aces and Eights [Ah Ac 8s 8c Th]
+
+Game Hand #383585301 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:15:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: MrPsychocat (2412.00)
+Seat 2: Lorpugo3 (588.00)
+MrPsychocat posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Ks]
+MrPsychocat raises 34.00 to 44.00
+Lorpugo3 calls 24.00
+*** FLOP *** [Qh 8d Qs]
+Main pot 88.00
+Lorpugo3 checks
+MrPsychocat bets 44.00
+Lorpugo3 calls 44.00
+*** TURN *** [Qh 8d Qs] [2s]
+Main pot 176.00
+Lorpugo3 checks
+MrPsychocat checks
+*** RIVER *** [Qh 8d Qs 2s] [8c]
+Main pot 176.00
+Lorpugo3 checks
+MrPsychocat checks
+*** SHOW DOWN ***
+Main pot 176.00
+Lorpugo3 shows [7s Ks] (two pair, Queens and Eights [Qs Qh 8d 8c Ks])
+MrPsychocat shows [As Js] (two pair, Queens and Eights [Qs Qh 8d 8c As])
+MrPsychocat collected 176.00 from main pot
+*** SUMMARY ***
+Total pot 176.00
+Board [Qh 8d Qs 2s 8c]
+Seat 1: MrPsychocat (button) showed [As Js] and won 176.00 with two pair, Queens and Eights [Qs Qh 8d 8c As] with the kicker Ace
+Seat 2: Lorpugo3 (big blind) showed [7s Ks] and lost with two pair, Queens and Eights [Qs Qh 8d 8c Ks]
+
+Game Hand #383585369 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:16:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: MrPsychocat (2500.00)
+Seat 2: Lorpugo3 (500.00)
+Lorpugo3 posts the small blind 10.00
+MrPsychocat posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 6s]
+Lorpugo3 raises 50.00 to 60.00
+MrPsychocat folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: MrPsychocat (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #383585395 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:16:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: MrPsychocat (2480.00)
+Seat 2: Lorpugo3 (520.00)
+MrPsychocat posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 8d]
+MrPsychocat raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6h 8c Ad]
+Main pot 80.00
+Lorpugo3 bets 40.00
+MrPsychocat folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6h 8c Ad]
+Seat 1: MrPsychocat (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #383585438 - Tournament #20866109 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 12:16:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: MrPsychocat (2440.00)
+Seat 2: Lorpugo3 (560.00)
+Lorpugo3 posts the small blind 10.00
+MrPsychocat posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 4d]
+Lorpugo3 raises 50.00 to 60.00
+MrPsychocat calls 40.00
+*** FLOP *** [2s 4h 5s]
+Main pot 120.00
+MrPsychocat bets 60.00
+Lorpugo3 raises 210.00 to 210.00
+MrPsychocat raises 2320.00 to 2380.00 and is all-in
+Lorpugo3 calls 290.00 and is all-in
+Uncalled bet (1880.00) returned to MrPsychocat
+*** TURN *** [2s 4h 5s] [3c]
+Main pot 1120.00
+*** RIVER *** [2s 4h 5s 3c] [Jc]
+Main pot 1120.00
+*** SHOW DOWN ***
+Main pot 1120.00
+MrPsychocat shows [3d As] (a straight, Five high [5s 4h 3d 2s As])
+Lorpugo3 shows [Kd 4d] (a pair of Fours [4h 4d Kd Jc 5s])
+MrPsychocat collected 1120.00 from main pot
+*** SUMMARY ***
+Total pot 1120.00
+Board [2s 4h 5s 3c Jc]
+Seat 1: MrPsychocat (big blind) showed [3d As] and won 1120.00 with a straight, Five high [5s 4h 3d 2s As]
+Seat 2: Lorpugo3 (button) showed [Kd 4d] and lost with a pair of Fours [4h 4d Kd Jc 5s]
+

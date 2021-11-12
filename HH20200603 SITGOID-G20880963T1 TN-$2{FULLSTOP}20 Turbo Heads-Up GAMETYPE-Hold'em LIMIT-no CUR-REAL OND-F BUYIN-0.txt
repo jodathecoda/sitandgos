@@ -1,0 +1,352 @@
+Game Hand #384930701 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:06:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Iris821 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 5s]
+Lorpugo3 raises 50.00 to 60.00
+Iris821 raises 160.00 to 180.00
+Lorpugo3 calls 120.00
+*** FLOP *** [Ac 6d 9h]
+Main pot 360.00
+Iris821 bets 180.00
+Lorpugo3 raises 420.00 to 420.00
+Iris821 raises 1140.00 to 1320.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (900.00) returned to Iris821
+Iris821 does not show
+*** SUMMARY ***
+Total pot 1200.00
+Board [Ac 6d 9h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Iris821 did not show and won 1200.00
+
+Game Hand #384931124 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:07:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (900.00)
+Seat 2: Iris821 (2100.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 8h]
+Iris821 raises 34.00 to 44.00
+Lorpugo3 raises 118.00 to 138.00
+Iris821 calls 94.00
+*** FLOP *** [Ts As 2h]
+Main pot 276.00
+Lorpugo3 bets 138.00
+Iris821 raises 276.00 to 276.00
+Lorpugo3 calls 138.00
+*** TURN *** [Ts As 2h] [7h]
+Main pot 828.00
+Lorpugo3 checks
+Iris821 bets 1686.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1686.00) returned to Iris821
+Iris821 does not show
+*** SUMMARY ***
+Total pot 828.00
+Board [Ts As 2h 7h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: Iris821 did not show and won 828.00
+
+Game Hand #384931373 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:07:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (486.00)
+Seat 2: Iris821 (2514.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h As]
+Lorpugo3 raises 476.00 to 486.00 and is all-in
+Iris821 folds
+Uncalled bet (466.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Iris821 (big blind) folded on the Pre-Flop
+
+Game Hand #384931457 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:07:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (506.00)
+Seat 2: Iris821 (2494.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6c]
+Iris821 raises 34.00 to 44.00
+Lorpugo3 calls 24.00
+*** FLOP *** [Qc 7s As]
+Main pot 88.00
+Lorpugo3 checks
+Iris821 bets 44.00
+Lorpugo3 folds
+Uncalled bet (44.00) returned to Iris821
+Iris821 does not show
+*** SUMMARY ***
+Total pot 88.00
+Board [Qc 7s As]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Iris821 did not show and won 88.00
+
+Game Hand #384931621 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:08:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (462.00)
+Seat 2: Iris821 (2538.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 5d]
+Lorpugo3 raises 60.00 to 70.00
+Iris821 calls 50.00
+*** FLOP *** [6s 2s 6h]
+Main pot 140.00
+Iris821 checks
+Lorpugo3 bets 70.00
+Iris821 calls 70.00
+*** TURN *** [6s 2s 6h] [Qh]
+Main pot 280.00
+Iris821 bets 2398.00 and is all-in
+Lorpugo3 calls 322.00 and is all-in
+Uncalled bet (2076.00) returned to Iris821
+*** RIVER *** [6s 2s 6h Qh] [5s]
+Main pot 924.00
+*** SHOW DOWN ***
+Main pot 924.00
+Lorpugo3 shows [Qd 5d] (two pair, Queens and Sixs [Qh Qd 6s 6h 5s])
+Iris821 shows [3h Kh] (a pair of Sixs [6s 6h Kh Qh 5s])
+Lorpugo3 collected 924.00 from main pot
+*** SUMMARY ***
+Total pot 924.00
+Board [6s 2s 6h Qh 5s]
+Seat 1: Lorpugo3 (button) showed [Qd 5d] and won 924.00 with two pair, Queens and Sixs [Qh Qd 6s 6h 5s]
+Seat 2: Iris821 (big blind) showed [3h Kh] and lost with a pair of Sixs [6s 6h Kh Qh 5s]
+
+Game Hand #384931863 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:08:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (924.00)
+Seat 2: Iris821 (2076.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 3s]
+Iris821 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Iris821 (button) folded on the Pre-Flop
+
+Game Hand #384931904 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:09:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (934.00)
+Seat 2: Iris821 (2066.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 5h]
+Lorpugo3 raises 30.00 to 40.00
+Iris821 raises 100.00 to 120.00
+Lorpugo3 folds
+Iris821 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Iris821 did not show and won 160.00
+
+Game Hand #384931986 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:09:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (894.00)
+Seat 2: Iris821 (2106.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Kh]
+Iris821 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Iris821 (button) folded on the Pre-Flop
+
+Game Hand #384932026 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:09:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (904.00)
+Seat 2: Iris821 (2096.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 5d]
+Lorpugo3 folds
+Iris821 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Iris821 did not show and won 30.00
+
+Game Hand #384932076 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:09:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (894.00)
+Seat 2: Iris821 (2106.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 7h]
+Iris821 raises 34.00 to 44.00
+Lorpugo3 calls 24.00
+*** FLOP *** [8s 7c 7d]
+Main pot 88.00
+Lorpugo3 checks
+Iris821 checks
+*** TURN *** [8s 7c 7d] [2s]
+Main pot 88.00
+Lorpugo3 bets 64.00
+Iris821 calls 64.00
+*** RIVER *** [8s 7c 7d 2s] [5d]
+Main pot 216.00
+Lorpugo3 bets 162.00
+Iris821 calls 162.00
+*** SHOW DOWN ***
+Main pot 540.00
+Lorpugo3 shows [5h 7h] (a full house, Sevens full of Fives [7h 7d 7c 5h 5d])
+Iris821 mucks hand
+Lorpugo3 collected 540.00 from main pot
+*** SUMMARY ***
+Total pot 540.00
+Board [8s 7c 7d 2s 5d]
+Seat 1: Lorpugo3 (big blind) showed [5h 7h] and won 540.00 with a full house, Sevens full of Fives [7h 7d 7c 5h 5d]
+Seat 2: Iris821 (button) mucked [Qs Kd]
+
+Game Hand #384932476 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:10:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1164.00)
+Seat 2: Iris821 (1836.00)
+Lorpugo3 posts the small blind 10.00
+Iris821 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 2d]
+Lorpugo3 raises 30.00 to 40.00
+Iris821 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Iris821 (big blind) folded on the Pre-Flop
+
+Game Hand #384932533 - Tournament #20880963 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 13:10:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1184.00)
+Seat 2: Iris821 (1816.00)
+Iris821 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 8d]
+Iris821 raises 34.00 to 44.00
+Lorpugo3 calls 24.00
+*** FLOP *** [4s 3c 2c]
+Main pot 88.00
+Lorpugo3 checks
+Iris821 bets 66.00
+Lorpugo3 calls 66.00
+*** TURN *** [4s 3c 2c] [Qd]
+Main pot 220.00
+Lorpugo3 checks
+Iris821 checks
+*** RIVER *** [4s 3c 2c Qd] [Tc]
+Main pot 220.00
+Lorpugo3 checks
+Iris821 checks
+*** SHOW DOWN ***
+Main pot 220.00
+Lorpugo3 shows [5s 8d] (a high card, Queen high [Qd Tc 8d 5s 4s])
+Iris821 shows [7d 3d] (a pair of Threes [3d 3c Qd Tc 7d])
+Iris821 collected 220.00 from main pot
+*** SUMMARY ***
+Total pot 220.00
+Board [4s 3c 2c Qd Tc]
+Seat 1: Lorpugo3 (big blind) showed [5s 8d] and lost with a high card, Queen high [Qd Tc 8d 5s 4s]
+Seat 2: Iris821 (button) showed [7d 3d] and won 220.00 with a pair of Threes [3d 3c Qd Tc 7d]
+
+Game Hand #384932880 - Tournament #20880963 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:11:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1074.00)
+Seat 2: Iris821 (1926.00)
+Lorpugo3 posts the small blind 15.00
+Iris821 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c Js]
+Lorpugo3 folds
+Iris821 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Iris821 did not show and won 45.00
+
+Game Hand #384932921 - Tournament #20880963 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:11:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1059.00)
+Seat 2: Iris821 (1941.00)
+Iris821 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 5h]
+Iris821 raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [4d Ts Qh]
+Main pot 120.00
+Lorpugo3 checks
+Iris821 bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [4d Ts Qh] [3h]
+Main pot 240.00
+Lorpugo3 checks
+Iris821 bets 180.00
+Lorpugo3 calls 180.00
+*** RIVER *** [4d Ts Qh 3h] [7c]
+Main pot 600.00
+Lorpugo3 checks
+Iris821 checks
+*** SHOW DOWN ***
+Main pot 600.00
+Lorpugo3 shows [Th 5h] (a pair of Tens [Ts Th Qh 7c 5h])
+Iris821 mucks hand
+Lorpugo3 collected 600.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [4d Ts Qh 3h 7c]
+Seat 1: Lorpugo3 (big blind) showed [Th 5h] and won 600.00 with a pair of Tens [Ts Th Qh 7c 5h]
+Seat 2: Iris821 (button) mucked [Ad 5d]
+
+Game Hand #384933323 - Tournament #20880963 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 13:12:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1359.00)
+Seat 2: Iris821 (1641.00)
+Lorpugo3 posts the small blind 15.00
+Iris821 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd As]
+Lorpugo3 raises 75.00 to 90.00
+Iris821 raises 260.00 to 290.00
+Lorpugo3 raises 1269.00 to 1359.00 and is all-in
+Iris821 calls 1069.00
+*** FLOP *** [8d 3h 3c]
+Main pot 2718.00
+*** TURN *** [8d 3h 3c] [Th]
+Main pot 2718.00
+*** RIVER *** [8d 3h 3c Th] [6d]
+Main pot 2718.00
+*** SHOW DOWN ***
+Main pot 2718.00
+Lorpugo3 shows [Jd As] (a pair of Threes [3h 3c As Jd Th])
+Iris821 shows [Ac Kh] (a pair of Threes [3h 3c Ac Kh Th])
+Iris821 collected 2718.00 from main pot
+*** SUMMARY ***
+Total pot 2718.00
+Board [8d 3h 3c Th 6d]
+Seat 1: Lorpugo3 (button) showed [Jd As] and lost with a pair of Threes [3h 3c As Jd Th]
+Seat 2: Iris821 (big blind) showed [Ac Kh] and won 2718.00 with a pair of Threes [3h 3c Ac Kh Th] with the kicker King
+

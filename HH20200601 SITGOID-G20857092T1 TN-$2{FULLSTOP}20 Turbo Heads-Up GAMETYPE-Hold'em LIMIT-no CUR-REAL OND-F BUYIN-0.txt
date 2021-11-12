@@ -1,0 +1,681 @@
+Game Hand #382430679 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:27:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: atoOto (1500.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4s]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 30.00
+
+Game Hand #382430771 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:27:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: atoOto (1510.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Kc]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382430910 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:27:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: atoOto (1500.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9d]
+Lorpugo3 raises 40.00 to 50.00
+atoOto calls 30.00
+*** FLOP *** [2d Tc Jd]
+Main pot 100.00
+atoOto checks
+Lorpugo3 bets 50.00
+atoOto calls 50.00
+*** TURN *** [2d Tc Jd] [Qh]
+Main pot 200.00
+atoOto checks
+Lorpugo3 bets 120.00
+atoOto raises 270.00 to 270.00
+Lorpugo3 calls 150.00
+*** RIVER *** [2d Tc Jd Qh] [Js]
+Main pot 740.00
+atoOto checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 740.00
+atoOto shows [Jh Qd] (a full house, Jacks full of Queens [Js Jh Jd Qh Qd])
+Lorpugo3 mucks hand
+atoOto collected 740.00 from main pot
+*** SUMMARY ***
+Total pot 740.00
+Board [2d Tc Jd Qh Js]
+Seat 1: Lorpugo3 (button) mucked [Qc 9d]
+Seat 2: atoOto (big blind) showed [Jh Qd] and won 740.00 with a full house, Jacks full of Queens [Js Jh Jd Qh Qd]
+
+Game Hand #382431764 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:28:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1130.00)
+Seat 2: atoOto (1870.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5d]
+atoOto calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+atoOto calls 40.00
+*** FLOP *** [Th 9h 7c]
+Main pot 120.00
+Lorpugo3 checks
+atoOto bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Th 9h 7c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: atoOto did not show and won 120.00
+
+Game Hand #382432441 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:29:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1070.00)
+Seat 2: atoOto (1930.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Kc]
+Lorpugo3 raises 40.00 to 50.00
+atoOto folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382432721 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:30:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1090.00)
+Seat 2: atoOto (1910.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks As]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382432824 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:30:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1100.00)
+Seat 2: atoOto (1900.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 8s]
+Lorpugo3 raises 30.00 to 40.00
+atoOto folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382433073 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:30:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1120.00)
+Seat 2: atoOto (1880.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 6h]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382433465 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:30:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1130.00)
+Seat 2: atoOto (1870.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Ts]
+Lorpugo3 raises 40.00 to 50.00
+atoOto calls 30.00
+*** FLOP *** [6s 6c 5s]
+Main pot 100.00
+atoOto checks
+Lorpugo3 bets 50.00
+atoOto calls 50.00
+*** TURN *** [6s 6c 5s] [As]
+Main pot 200.00
+atoOto checks
+Lorpugo3 checks
+*** RIVER *** [6s 6c 5s As] [9d]
+Main pot 200.00
+atoOto checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 200.00
+atoOto shows [5d 3d] (two pair, Sixs and Fives [6s 6c 5s 5d As])
+Lorpugo3 mucks hand
+atoOto collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [6s 6c 5s As 9d]
+Seat 1: Lorpugo3 (button) mucked [Kh Ts]
+Seat 2: atoOto (big blind) showed [5d 3d] and won 200.00 with two pair, Sixs and Fives [6s 6c 5s 5d As]
+
+Game Hand #382434459 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:31:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1030.00)
+Seat 2: atoOto (1970.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Jd]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382434573 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:32:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1040.00)
+Seat 2: atoOto (1960.00)
+Lorpugo3 posts the small blind 10.00
+atoOto posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 2h]
+Lorpugo3 raises 50.00 to 60.00
+atoOto folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382434788 - Tournament #20857092 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:32:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1060.00)
+Seat 2: atoOto (1940.00)
+atoOto posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9d]
+atoOto calls 10.00
+Lorpugo3 raises 50.00 to 70.00
+atoOto calls 50.00
+*** FLOP *** [Jd Kd 7d]
+Main pot 140.00
+Lorpugo3 checks
+atoOto checks
+*** TURN *** [Jd Kd 7d] [7s]
+Main pot 140.00
+Lorpugo3 bets 70.00
+atoOto raises 180.00 to 180.00
+Lorpugo3 folds
+Uncalled bet (110.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 280.00
+Board [Jd Kd 7d 7s]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: atoOto did not show and won 280.00
+
+Game Hand #382435597 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:33:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (920.00)
+Seat 2: atoOto (2080.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Td]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 45.00
+
+Game Hand #382435717 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:33:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (905.00)
+Seat 2: atoOto (2095.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Kh]
+atoOto calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+atoOto calls 75.00
+*** FLOP *** [7c 5c Kd]
+Main pot 210.00
+Lorpugo3 bets 90.00
+atoOto folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 210.00
+Board [7c 5c Kd]
+Seat 1: Lorpugo3 did not show and won 210.00
+Seat 2: atoOto (button) folded on the Flop
+
+Game Hand #382436335 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:34:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: atoOto (1990.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 6h]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 45.00
+
+Game Hand #382436430 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:34:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (995.00)
+Seat 2: atoOto (2005.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 9c]
+atoOto raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 60.00
+
+Game Hand #382436633 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:34:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (965.00)
+Seat 2: atoOto (2035.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 9h]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 45.00
+
+Game Hand #382436787 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:34:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (950.00)
+Seat 2: atoOto (2050.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 3h]
+atoOto raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8h 7d 6c]
+Main pot 120.00
+Lorpugo3 checks
+atoOto bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8h 7d 6c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: atoOto did not show and won 120.00
+
+Game Hand #382437300 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:35:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (890.00)
+Seat 2: atoOto (2110.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 2h]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 45.00
+
+Game Hand #382437407 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:35:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (875.00)
+Seat 2: atoOto (2125.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 4c]
+atoOto calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+atoOto calls 60.00
+*** FLOP *** [6h 3h 6c]
+Main pot 180.00
+Lorpugo3 bets 90.00
+atoOto calls 90.00
+*** TURN *** [6h 3h 6c] [6s]
+Main pot 360.00
+Lorpugo3 checks
+atoOto bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [6h 3h 6c 6s]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: atoOto did not show and won 360.00
+
+Game Hand #382438255 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:36:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (695.00)
+Seat 2: atoOto (2305.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Qh]
+Lorpugo3 raises 90.00 to 105.00
+atoOto folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382438443 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:36:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (725.00)
+Seat 2: atoOto (2275.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 7d]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382438537 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:36:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (740.00)
+Seat 2: atoOto (2260.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 3d]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 45.00
+
+Game Hand #382438629 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:36:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (725.00)
+Seat 2: atoOto (2275.00)
+atoOto posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Qd]
+atoOto raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [As 6c Kc]
+Main pot 150.00
+Lorpugo3 checks
+atoOto bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [As 6c Kc]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: atoOto did not show and won 150.00
+
+Game Hand #382439006 - Tournament #20857092 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:36:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (650.00)
+Seat 2: atoOto (2350.00)
+Lorpugo3 posts the small blind 15.00
+atoOto posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 2c]
+Lorpugo3 raises 45.00 to 60.00
+atoOto calls 30.00
+*** FLOP *** [2d Ks 7d]
+Main pot 120.00
+atoOto bets 30.00
+Lorpugo3 raises 105.00 to 105.00
+atoOto calls 75.00
+*** TURN *** [2d Ks 7d] [Ah]
+Main pot 330.00
+atoOto bets 540.00
+Lorpugo3 calls 485.00 and is all-in
+Uncalled bet (55.00) returned to atoOto
+*** RIVER *** [2d Ks 7d Ah] [6c]
+Main pot 1300.00
+*** SHOW DOWN ***
+Main pot 1300.00
+Lorpugo3 shows [2h 2c] (three of a kind, Set of Deuces [2h 2d 2c Ah Ks])
+atoOto shows [8d 5d] (a high card, Ace high [Ah Ks 8d 7d 6c])
+Lorpugo3 collected 1300.00 from main pot
+*** SUMMARY ***
+Total pot 1300.00
+Board [2d Ks 7d Ah 6c]
+Seat 1: Lorpugo3 (button) showed [2h 2c] and won 1300.00 with three of a kind, Set of Deuces [2h 2d 2c Ah Ks]
+Seat 2: atoOto (big blind) showed [8d 5d] and lost with a high card, Ace high [Ah Ks 8d 7d 6c]
+
+Game Hand #382439662 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:37:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1300.00)
+Seat 2: atoOto (1700.00)
+atoOto posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 8s]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382439766 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:37:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1325.00)
+Seat 2: atoOto (1675.00)
+Lorpugo3 posts the small blind 25.00
+atoOto posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 8d]
+Lorpugo3 raises 100.00 to 125.00
+atoOto folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382439969 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:38:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1375.00)
+Seat 2: atoOto (1625.00)
+atoOto posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 3s]
+atoOto raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 100.00
+
+Game Hand #382440188 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:38:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1325.00)
+Seat 2: atoOto (1675.00)
+Lorpugo3 posts the small blind 25.00
+atoOto posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 5s]
+Lorpugo3 raises 75.00 to 100.00
+atoOto calls 50.00
+*** FLOP *** [Kc Jh 7d]
+Main pot 200.00
+atoOto checks
+Lorpugo3 checks
+*** TURN *** [Kc Jh 7d] [Ks]
+Main pot 200.00
+atoOto bets 125.00
+Lorpugo3 folds
+Uncalled bet (125.00) returned to atoOto
+atoOto does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Kc Jh 7d Ks]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: atoOto did not show and won 200.00
+
+Game Hand #382440698 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:38:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1225.00)
+Seat 2: atoOto (1775.00)
+atoOto posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc Ah]
+atoOto raises 75.00 to 100.00
+Lorpugo3 raises 275.00 to 325.00
+atoOto raises 1675.00 to 1775.00 and is all-in
+Lorpugo3 calls 900.00 and is all-in
+Uncalled bet (550.00) returned to atoOto
+*** FLOP *** [3d As Js]
+Main pot 2450.00
+*** TURN *** [3d As Js] [2s]
+Main pot 2450.00
+*** RIVER *** [3d As Js 2s] [2d]
+Main pot 2450.00
+*** SHOW DOWN ***
+Main pot 2450.00
+Lorpugo3 shows [Qc Ah] (two pair, Aces and Deuces [As Ah 2s 2d Qc])
+atoOto shows [9h 9c] (two pair, Nines and Deuces [9h 9c 2s 2d As])
+Lorpugo3 collected 2450.00 from main pot
+*** SUMMARY ***
+Total pot 2450.00
+Board [3d As Js 2s 2d]
+Seat 1: Lorpugo3 (big blind) showed [Qc Ah] and won 2450.00 with two pair, Aces and Deuces [As Ah 2s 2d Qc]
+Seat 2: atoOto (button) showed [9h 9c] and lost with two pair, Nines and Deuces [9h 9c 2s 2d As]
+
+Game Hand #382441106 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:39:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2450.00)
+Seat 2: atoOto (550.00)
+Lorpugo3 posts the small blind 25.00
+atoOto posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 9h]
+Lorpugo3 folds
+atoOto does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: atoOto did not show and won 75.00
+
+Game Hand #382441215 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:39:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2425.00)
+Seat 2: atoOto (575.00)
+atoOto posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Jh]
+atoOto folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: atoOto (button) folded on the Pre-Flop
+
+Game Hand #382441293 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:39:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2450.00)
+Seat 2: atoOto (550.00)
+Lorpugo3 posts the small blind 25.00
+atoOto posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ad]
+Lorpugo3 raises 100.00 to 125.00
+atoOto folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: atoOto (big blind) folded on the Pre-Flop
+
+Game Hand #382441526 - Tournament #20857092 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:39:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2500.00)
+Seat 2: atoOto (500.00)
+atoOto posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Jd]
+atoOto raises 475.00 to 500.00 and is all-in
+Lorpugo3 calls 450.00
+*** FLOP *** [Ks Kc Ac]
+Main pot 1000.00
+*** TURN *** [Ks Kc Ac] [Kd]
+Main pot 1000.00
+*** RIVER *** [Ks Kc Ac Kd] [8h]
+Main pot 1000.00
+*** SHOW DOWN ***
+Main pot 1000.00
+Lorpugo3 shows [Js Jd] (a full house, Kings full of Jacks [Ks Kd Kc Js Jd])
+atoOto shows [5d Jh] (three of a kind, Set of Kings [Ks Kd Kc Ac Jh])
+Lorpugo3 collected 1000.00 from main pot
+*** SUMMARY ***
+Total pot 1000.00
+Board [Ks Kc Ac Kd 8h]
+Seat 1: Lorpugo3 (big blind) showed [Js Jd] and won 1000.00 with a full house, Kings full of Jacks [Ks Kd Kc Js Jd]
+Seat 2: atoOto (button) showed [5d Jh] and lost with three of a kind, Set of Kings [Ks Kd Kc Ac Jh]
+

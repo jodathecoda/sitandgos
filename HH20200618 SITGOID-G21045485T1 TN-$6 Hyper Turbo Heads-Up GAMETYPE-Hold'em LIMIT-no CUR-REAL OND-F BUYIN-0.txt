@@ -1,0 +1,155 @@
+Game Hand #405103703 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:58:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: theranchman05 (500.00)
+Lorpugo3 posts the small blind 10.00
+theranchman05 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3c]
+Lorpugo3 raises 30.00 to 40.00
+theranchman05 raises 100.00 to 120.00
+Lorpugo3 folds
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: theranchman05 did not show and won 160.00
+
+Game Hand #405103812 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:58:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: theranchman05 (540.00)
+theranchman05 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Tc]
+theranchman05 raises 30.00 to 40.00
+Lorpugo3 raises 440.00 to 460.00 and is all-in
+theranchman05 folds
+Uncalled bet (420.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: theranchman05 (button) folded on the Pre-Flop
+
+Game Hand #405103854 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:59:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: theranchman05 (500.00)
+Lorpugo3 posts the small blind 10.00
+theranchman05 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 6s]
+Lorpugo3 raises 30.00 to 40.00
+theranchman05 raises 100.00 to 120.00
+Lorpugo3 folds
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: theranchman05 did not show and won 160.00
+
+Game Hand #405103897 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:59:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: theranchman05 (540.00)
+theranchman05 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c Jh]
+theranchman05 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5s Qd As]
+Main pot 80.00
+Lorpugo3 checks
+theranchman05 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to theranchman05
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [5s Qd As]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: theranchman05 did not show and won 80.00
+
+Game Hand #405103968 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:59:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (420.00)
+Seat 2: theranchman05 (580.00)
+Lorpugo3 posts the small blind 10.00
+theranchman05 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Tc]
+Lorpugo3 folds
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: theranchman05 did not show and won 30.00
+
+Game Hand #405103998 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:59:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (410.00)
+Seat 2: theranchman05 (590.00)
+theranchman05 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 8d]
+theranchman05 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to theranchman05
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: theranchman05 did not show and won 40.00
+
+Game Hand #405104028 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:59:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (390.00)
+Seat 2: theranchman05 (610.00)
+Lorpugo3 posts the small blind 10.00
+theranchman05 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 4s]
+Lorpugo3 calls 10.00
+theranchman05 raises 590.00 to 610.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (590.00) returned to theranchman05
+theranchman05 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: theranchman05 did not show and won 40.00
+
+Game Hand #405104067 - Tournament #21045485 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 13:00:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (370.00)
+Seat 2: theranchman05 (630.00)
+theranchman05 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Ks]
+theranchman05 raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+theranchman05 calls 80.00
+*** FLOP *** [5d 4h Ts]
+Main pot 240.00
+Lorpugo3 bets 250.00 and is all-in
+theranchman05 calls 250.00
+*** TURN *** [5d 4h Ts] [Qd]
+Main pot 740.00
+*** RIVER *** [5d 4h Ts Qd] [3h]
+Main pot 740.00
+*** SHOW DOWN ***
+Main pot 740.00
+Lorpugo3 shows [Ac Ks] (a high card, Ace high [Ac Ks Qd Ts 5d])
+theranchman05 shows [9h Tc] (a pair of Tens [Ts Tc Qd 9h 5d])
+theranchman05 collected 740.00 from main pot
+*** SUMMARY ***
+Total pot 740.00
+Board [5d 4h Ts Qd 3h]
+Seat 1: Lorpugo3 (big blind) showed [Ac Ks] and lost with a high card, Ace high [Ac Ks Qd Ts 5d]
+Seat 2: theranchman05 (button) showed [9h Tc] and won 740.00 with a pair of Tens [Ts Tc Qd 9h 5d]
+

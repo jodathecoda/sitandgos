@@ -1,0 +1,1409 @@
+Game Hand #383619046 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:08:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Happy1f1Win (1500.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 8c]
+Lorpugo3 raises 50.00 to 60.00
+Happy1f1Win calls 40.00
+*** FLOP *** [Ks As 5c]
+Main pot 120.00
+Happy1f1Win bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [Ks As 5c] [9d]
+Main pot 160.00
+Happy1f1Win bets 160.00
+Lorpugo3 folds
+Uncalled bet (160.00) returned to Happy1f1Win
+Happy1f1Win shows [Kd 9s] (two pair, Kings and Nines [Ks Kd 9s 9d As])
+*** SUMMARY ***
+Total pot 160.00
+Board [Ks As 5c 9d]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Happy1f1Win (big blind) showed [Kd 9s] and won 160.00 with two pair, Kings and Nines [Ks Kd 9s 9d As]
+
+Game Hand #383619232 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:08:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1420.00)
+Seat 2: Happy1f1Win (1580.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 8c]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383619273 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:08:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: Happy1f1Win (1570.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8d]
+Lorpugo3 raises 40.00 to 50.00
+Happy1f1Win calls 30.00
+*** FLOP *** [2h 2d 7h]
+Main pot 100.00
+Happy1f1Win bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Happy1f1Win
+Happy1f1Win shows [Qd 7d] (two pair, Sevens and Deuces [7h 7d 2h 2d Qd])
+*** SUMMARY ***
+Total pot 100.00
+Board [2h 2d 7h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Happy1f1Win (big blind) showed [Qd 7d] and won 100.00 with two pair, Sevens and Deuces [7h 7d 2h 2d Qd]
+
+Game Hand #383619399 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:09:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: Happy1f1Win (1620.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Td]
+Happy1f1Win calls 10.00
+Lorpugo3 raises 50.00 to 70.00
+Happy1f1Win calls 50.00
+*** FLOP *** [6c Kh 6s]
+Main pot 140.00
+Lorpugo3 bets 70.00
+Happy1f1Win calls 70.00
+*** TURN *** [6c Kh 6s] [8h]
+Main pot 280.00
+Lorpugo3 checks
+Happy1f1Win bets 20.00
+Lorpugo3 calls 20.00
+*** RIVER *** [6c Kh 6s 8h] [2s]
+Main pot 320.00
+Lorpugo3 checks
+Happy1f1Win bets 320.00
+Lorpugo3 folds
+Uncalled bet (320.00) returned to Happy1f1Win
+Happy1f1Win shows [9s Kc] (two pair, Kings and Sixs [Kh Kc 6s 6c 9s])
+*** SUMMARY ***
+Total pot 320.00
+Board [6c Kh 6s 8h 2s]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Happy1f1Win (button) showed [9s Kc] and won 320.00 with two pair, Kings and Sixs [Kh Kc 6s 6c 9s]
+
+Game Hand #383619676 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:09:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: Happy1f1Win (1780.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qd]
+Lorpugo3 raises 50.00 to 60.00
+Happy1f1Win folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383619745 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:10:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1240.00)
+Seat 2: Happy1f1Win (1760.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 7c]
+Happy1f1Win calls 10.00
+Lorpugo3 raises 50.00 to 70.00
+Happy1f1Win calls 50.00
+*** FLOP *** [3h 8s 3c]
+Main pot 140.00
+Lorpugo3 bets 70.00
+Happy1f1Win calls 70.00
+*** TURN *** [3h 8s 3c] [3s]
+Main pot 280.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** RIVER *** [3h 8s 3c 3s] [As]
+Main pot 280.00
+Lorpugo3 bets 140.00
+Happy1f1Win raises 1620.00 to 1620.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1480.00) returned to Happy1f1Win
+Happy1f1Win shows [Qs 3d] (four of a kind, Four Threes [3s 3h 3d 3c As])
+*** SUMMARY ***
+Total pot 560.00
+Board [3h 8s 3c 3s As]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Happy1f1Win (button) showed [Qs 3d] and won 560.00 with four of a kind, Four Threes [3s 3h 3d 3c As]
+
+Game Hand #383620034 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:10:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (960.00)
+Seat 2: Happy1f1Win (2040.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 5s]
+Lorpugo3 raises 30.00 to 40.00
+Happy1f1Win calls 20.00
+*** FLOP *** [2s 5h Js]
+Main pot 80.00
+Happy1f1Win bets 20.00
+Lorpugo3 raises 50.00 to 50.00
+Happy1f1Win folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [2s 5h Js]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Happy1f1Win (big blind) folded on the Flop
+
+Game Hand #383620178 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:10:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1020.00)
+Seat 2: Happy1f1Win (1980.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 3c]
+Happy1f1Win calls 10.00
+Lorpugo3 raises 50.00 to 70.00
+Happy1f1Win calls 50.00
+*** FLOP *** [Qh 2h Qs]
+Main pot 140.00
+Lorpugo3 bets 70.00
+Happy1f1Win folds
+Uncalled bet (70.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Qh 2h Qs]
+Seat 1: Lorpugo3 did not show and won 140.00
+Seat 2: Happy1f1Win (button) folded on the Flop
+
+Game Hand #383620338 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:11:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1090.00)
+Seat 2: Happy1f1Win (1910.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 2s]
+Lorpugo3 raises 30.00 to 40.00
+Happy1f1Win calls 20.00
+*** FLOP *** [Th 2d 7c]
+Main pot 80.00
+Happy1f1Win checks
+Lorpugo3 bets 40.00
+Happy1f1Win calls 40.00
+*** TURN *** [Th 2d 7c] [5d]
+Main pot 160.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** RIVER *** [Th 2d 7c 5d] [Jc]
+Main pot 160.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+Happy1f1Win shows [5c Kd] (a pair of Fives [5d 5c Kd Jc Th])
+Lorpugo3 mucks hand
+Happy1f1Win collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [Th 2d 7c 5d Jc]
+Seat 1: Lorpugo3 (button) mucked [4s 2s]
+Seat 2: Happy1f1Win (big blind) showed [5c Kd] and won 160.00 with a pair of Fives [5d 5c Kd Jc Th]
+
+Game Hand #383620542 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:11:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: Happy1f1Win (1990.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 9c]
+Happy1f1Win calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8h Qs Ad]
+Main pot 40.00
+Lorpugo3 checks
+Happy1f1Win bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [8h Qs Ad] [3c]
+Main pot 80.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** RIVER *** [8h Qs Ad 3c] [6h]
+Main pot 80.00
+Lorpugo3 bets 60.00
+Happy1f1Win calls 60.00
+*** SHOW DOWN ***
+Main pot 200.00
+Lorpugo3 shows [Ks 9c] (a high card, Ace high [Ad Ks Qs 9c 8h])
+Happy1f1Win shows [6c 7s] (a pair of Sixs [6h 6c Ad Qs 8h])
+Happy1f1Win collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [8h Qs Ad 3c 6h]
+Seat 1: Lorpugo3 (big blind) showed [Ks 9c] and lost with a high card, Ace high [Ad Ks Qs 9c 8h]
+Seat 2: Happy1f1Win (button) showed [6c 7s] and won 200.00 with a pair of Sixs [6h 6c Ad Qs 8h]
+
+Game Hand #383620762 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:12:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (910.00)
+Seat 2: Happy1f1Win (2090.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h As]
+Lorpugo3 raises 50.00 to 60.00
+Happy1f1Win raises 2070.00 to 2090.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2030.00) returned to Happy1f1Win
+Happy1f1Win shows [Ad Kh]
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win (big blind) showed [Ad Kh] and won 120.00
+
+Game Hand #383620873 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:12:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (850.00)
+Seat 2: Happy1f1Win (2150.00)
+Happy1f1Win posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 8d]
+Happy1f1Win calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Happy1f1Win calls 40.00
+*** FLOP *** [2h Jd Qd]
+Main pot 120.00
+Lorpugo3 bets 50.00
+Happy1f1Win calls 50.00
+*** TURN *** [2h Jd Qd] [9h]
+Main pot 220.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** RIVER *** [2h Jd Qd 9h] [8h]
+Main pot 220.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** SHOW DOWN ***
+Main pot 220.00
+Lorpugo3 shows [As 8d] (a pair of Eights [8h 8d As Qd Jd])
+Happy1f1Win shows [Js 3s] (a pair of Jacks [Js Jd Qd 9h 8h])
+Happy1f1Win collected 220.00 from main pot
+*** SUMMARY ***
+Total pot 220.00
+Board [2h Jd Qd 9h 8h]
+Seat 1: Lorpugo3 (big blind) showed [As 8d] and lost with a pair of Eights [8h 8d As Qd Jd]
+Seat 2: Happy1f1Win (button) showed [Js 3s] and won 220.00 with a pair of Jacks [Js Jd Qd 9h 8h]
+
+Game Hand #383621107 - Tournament #20870314 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 14:13:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (740.00)
+Seat 2: Happy1f1Win (2260.00)
+Lorpugo3 posts the small blind 10.00
+Happy1f1Win posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 9s]
+Lorpugo3 raises 60.00 to 70.00
+Happy1f1Win calls 50.00
+*** FLOP *** [Qc Kc 8c]
+Main pot 140.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** TURN *** [Qc Kc 8c] [Ac]
+Main pot 140.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** RIVER *** [Qc Kc 8c Ac] [2d]
+Main pot 140.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 140.00
+Happy1f1Win shows [Qh Kd] (two pair, Kings and Queens [Kd Kc Qh Qc Ac])
+Lorpugo3 mucks hand
+Happy1f1Win collected 140.00 from main pot
+*** SUMMARY ***
+Total pot 140.00
+Board [Qc Kc 8c Ac 2d]
+Seat 1: Lorpugo3 (button) mucked [Jd 9s]
+Seat 2: Happy1f1Win (big blind) showed [Qh Kd] and won 140.00 with two pair, Kings and Queens [Kd Kc Qh Qc Ac]
+
+Game Hand #383621333 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:13:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (670.00)
+Seat 2: Happy1f1Win (2330.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Ts]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383621396 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:13:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (685.00)
+Seat 2: Happy1f1Win (2315.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 8s]
+Lorpugo3 raises 60.00 to 75.00
+Happy1f1Win calls 45.00
+*** FLOP *** [2d 5d Jc]
+Main pot 150.00
+Happy1f1Win checks
+Lorpugo3 bets 75.00
+Happy1f1Win calls 75.00
+*** TURN *** [2d 5d Jc] [3c]
+Main pot 300.00
+Happy1f1Win checks
+Lorpugo3 bets 180.00
+Happy1f1Win folds
+Uncalled bet (180.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2d 5d Jc 3c]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: Happy1f1Win (big blind) folded on the Turn
+
+Game Hand #383621622 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:14:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (835.00)
+Seat 2: Happy1f1Win (2165.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 8s]
+Happy1f1Win raises 2150.00 to 2165.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2135.00) returned to Happy1f1Win
+Happy1f1Win shows [Th Td]
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Happy1f1Win (button) showed [Th Td] and won 60.00
+
+Game Hand #383621714 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:14:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (805.00)
+Seat 2: Happy1f1Win (2195.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Kh]
+Lorpugo3 raises 75.00 to 90.00
+Happy1f1Win calls 60.00
+*** FLOP *** [9c Ac Qs]
+Main pot 180.00
+Happy1f1Win checks
+Lorpugo3 bets 60.00
+Happy1f1Win calls 60.00
+*** TURN *** [9c Ac Qs] [2c]
+Main pot 300.00
+Happy1f1Win checks
+Lorpugo3 bets 150.00
+Happy1f1Win calls 150.00
+*** RIVER *** [9c Ac Qs 2c] [Ks]
+Main pot 600.00
+Happy1f1Win checks
+Lorpugo3 bets 300.00
+Happy1f1Win folds
+Uncalled bet (300.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 600.00
+Board [9c Ac Qs 2c Ks]
+Seat 1: Lorpugo3 did not show and won 600.00
+Seat 2: Happy1f1Win (big blind) folded on the River
+
+Game Hand #383622008 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:14:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1105.00)
+Seat 2: Happy1f1Win (1895.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 3d]
+Happy1f1Win calls 15.00
+Lorpugo3 checks
+*** FLOP *** [2c Ac 4d]
+Main pot 60.00
+Lorpugo3 bets 30.00
+Happy1f1Win folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [2c Ac 4d]
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Happy1f1Win (button) folded on the Flop
+
+Game Hand #383622122 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:15:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1135.00)
+Seat 2: Happy1f1Win (1865.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 6s]
+Lorpugo3 calls 15.00
+Happy1f1Win checks
+*** FLOP *** [4d 7s 2c]
+Main pot 60.00
+Happy1f1Win bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [4d 7s 2c] [Kd]
+Main pot 120.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** RIVER *** [4d 7s 2c Kd] [9s]
+Main pot 120.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 120.00
+Happy1f1Win shows [Qc 4s] (a pair of Fours [4s 4d Kd Qc 9s])
+Lorpugo3 mucks hand
+Happy1f1Win collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [4d 7s 2c Kd 9s]
+Seat 1: Lorpugo3 (button) mucked [2s 6s]
+Seat 2: Happy1f1Win (big blind) showed [Qc 4s] and won 120.00 with a pair of Fours [4s 4d Kd Qc 9s]
+
+Game Hand #383622288 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:15:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1075.00)
+Seat 2: Happy1f1Win (1925.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 8h]
+Happy1f1Win calls 15.00
+Lorpugo3 checks
+*** FLOP *** [8d Kd As]
+Main pot 60.00
+Lorpugo3 checks
+Happy1f1Win bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [8d Kd As] [Qh]
+Main pot 120.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** RIVER *** [8d Kd As Qh] [9c]
+Main pot 120.00
+Lorpugo3 checks
+Happy1f1Win bets 947.00
+Lorpugo3 folds
+Uncalled bet (947.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8d Kd As Qh 9c]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Happy1f1Win did not show and won 120.00
+
+Game Hand #383622551 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:16:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1015.00)
+Seat 2: Happy1f1Win (1985.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Td]
+Lorpugo3 raises 75.00 to 90.00
+Happy1f1Win folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383622630 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:16:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1045.00)
+Seat 2: Happy1f1Win (1955.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Ad]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383622663 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:16:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1060.00)
+Seat 2: Happy1f1Win (1940.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ts]
+Lorpugo3 folds
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 45.00
+
+Game Hand #383622727 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:16:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1045.00)
+Seat 2: Happy1f1Win (1955.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 8s]
+Happy1f1Win calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Td Kd Ad]
+Main pot 60.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** TURN *** [Td Kd Ad] [Jh]
+Main pot 60.00
+Lorpugo3 bets 30.00
+Happy1f1Win calls 30.00
+*** RIVER *** [Td Kd Ad Jh] [Jd]
+Main pot 120.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [9c 8s] (a pair of Jacks [Jh Jd Ad Kd Td])
+Happy1f1Win shows [Qc 7h] (a straight, Ace high [Ad Kd Qc Jh Td])
+Happy1f1Win collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Td Kd Ad Jh Jd]
+Seat 1: Lorpugo3 (big blind) showed [9c 8s] and lost with a pair of Jacks [Jh Jd Ad Kd Td]
+Seat 2: Happy1f1Win (button) showed [Qc 7h] and won 120.00 with a straight, Ace high [Ad Kd Qc Jh Td]
+
+Game Hand #383622963 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (985.00)
+Seat 2: Happy1f1Win (2015.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 3c]
+Lorpugo3 folds
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 45.00
+
+Game Hand #383623021 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (970.00)
+Seat 2: Happy1f1Win (2030.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 6h]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383623072 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (985.00)
+Seat 2: Happy1f1Win (2015.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Tc]
+Lorpugo3 folds
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 45.00
+
+Game Hand #383623121 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (970.00)
+Seat 2: Happy1f1Win (2030.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Ts]
+Happy1f1Win raises 2015.00 to 2030.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2000.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 60.00
+
+Game Hand #383623175 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (940.00)
+Seat 2: Happy1f1Win (2060.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 9c]
+Lorpugo3 raises 60.00 to 75.00
+Happy1f1Win calls 45.00
+*** FLOP *** [Kd Qs Ad]
+Main pot 150.00
+Happy1f1Win checks
+Lorpugo3 bets 90.00
+Happy1f1Win folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Kd Qs Ad]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: Happy1f1Win (big blind) folded on the Flop
+
+Game Hand #383623343 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1015.00)
+Seat 2: Happy1f1Win (1985.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 2c]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383623385 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:17:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1030.00)
+Seat 2: Happy1f1Win (1970.00)
+Lorpugo3 posts the small blind 15.00
+Happy1f1Win posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 5d]
+Lorpugo3 folds
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 45.00
+
+Game Hand #383623423 - Tournament #20870314 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 14:18:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1015.00)
+Seat 2: Happy1f1Win (1985.00)
+Happy1f1Win posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 8c]
+Happy1f1Win calls 15.00
+Lorpugo3 checks
+*** FLOP *** [5h 3d Qd]
+Main pot 60.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** TURN *** [5h 3d Qd] [2h]
+Main pot 60.00
+Lorpugo3 bets 30.00
+Happy1f1Win calls 30.00
+*** RIVER *** [5h 3d Qd 2h] [Jh]
+Main pot 120.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [2c 8c] (a pair of Deuces [2h 2c Qd Jh 8c])
+Happy1f1Win shows [3c Kd] (a pair of Threes [3d 3c Kd Qd Jh])
+Happy1f1Win collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [5h 3d Qd 2h Jh]
+Seat 1: Lorpugo3 (big blind) showed [2c 8c] and lost with a pair of Deuces [2h 2c Qd Jh 8c]
+Seat 2: Happy1f1Win (button) showed [3c Kd] and won 120.00 with a pair of Threes [3d 3c Kd Qd Jh]
+
+Game Hand #383623645 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:18:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (955.00)
+Seat 2: Happy1f1Win (2045.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 7c]
+Lorpugo3 raises 150.00 to 175.00
+Happy1f1Win calls 125.00
+*** FLOP *** [4s 2c 2d]
+Main pot 350.00
+Happy1f1Win checks
+Lorpugo3 bets 175.00
+Happy1f1Win folds
+Uncalled bet (175.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 350.00
+Board [4s 2c 2d]
+Seat 1: Lorpugo3 did not show and won 350.00
+Seat 2: Happy1f1Win (big blind) folded on the Flop
+
+Game Hand #383623798 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:18:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1130.00)
+Seat 2: Happy1f1Win (1870.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3c]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383623843 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:19:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1155.00)
+Seat 2: Happy1f1Win (1845.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 7h]
+Lorpugo3 raises 100.00 to 125.00
+Happy1f1Win calls 75.00
+*** FLOP *** [4h 9s Qd]
+Main pot 250.00
+Happy1f1Win bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [4h 9s Qd]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Happy1f1Win did not show and won 250.00
+
+Game Hand #383623978 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:19:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1030.00)
+Seat 2: Happy1f1Win (1970.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Qd]
+Happy1f1Win raises 125.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [2c Ks Jh]
+Main pot 300.00
+Lorpugo3 checks
+Happy1f1Win bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [2c Ks Jh]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Happy1f1Win did not show and won 300.00
+
+Game Hand #383624128 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:19:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (880.00)
+Seat 2: Happy1f1Win (2120.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s Ad]
+Lorpugo3 raises 100.00 to 125.00
+Happy1f1Win calls 75.00
+*** FLOP *** [4d 5h Kh]
+Main pot 250.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** TURN *** [4d 5h Kh] [Ts]
+Main pot 250.00
+Happy1f1Win bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [4d 5h Kh Ts]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Happy1f1Win did not show and won 250.00
+
+Game Hand #383624318 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:20:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (755.00)
+Seat 2: Happy1f1Win (2245.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 6h]
+Happy1f1Win calls 25.00
+Lorpugo3 raises 705.00 to 755.00 and is all-in
+Happy1f1Win folds
+Uncalled bet (705.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383624389 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:20:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (805.00)
+Seat 2: Happy1f1Win (2195.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Qs]
+Lorpugo3 raises 75.00 to 100.00
+Happy1f1Win calls 50.00
+*** FLOP *** [5h 2h Jh]
+Main pot 200.00
+Happy1f1Win bets 50.00
+Lorpugo3 calls 50.00
+*** TURN *** [5h 2h Jh] [6s]
+Main pot 300.00
+Happy1f1Win checks
+Lorpugo3 checks
+*** RIVER *** [5h 2h Jh 6s] [5c]
+Main pot 300.00
+Happy1f1Win bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [5h 2h Jh 6s 5c]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: Happy1f1Win did not show and won 300.00
+
+Game Hand #383624598 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:20:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (655.00)
+Seat 2: Happy1f1Win (2345.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 7c]
+Happy1f1Win raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 100.00
+
+Game Hand #383624676 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:20:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (605.00)
+Seat 2: Happy1f1Win (2395.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 4c]
+Lorpugo3 raises 75.00 to 100.00
+Happy1f1Win folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383624751 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:20:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (655.00)
+Seat 2: Happy1f1Win (2345.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 7d]
+Happy1f1Win calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Th Td 9h]
+Main pot 100.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** TURN *** [Th Td 9h] [4h]
+Main pot 100.00
+Lorpugo3 checks
+Happy1f1Win bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Th Td 9h 4h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: Happy1f1Win did not show and won 100.00
+
+Game Hand #383624914 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:21:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (605.00)
+Seat 2: Happy1f1Win (2395.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Kd]
+Lorpugo3 raises 580.00 to 605.00 and is all-in
+Happy1f1Win folds
+Uncalled bet (555.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383625016 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:21:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (655.00)
+Seat 2: Happy1f1Win (2345.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 8c]
+Happy1f1Win calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Jh 2c 7d]
+Main pot 100.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** TURN *** [Jh 2c 7d] [8h]
+Main pot 100.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** RIVER *** [Jh 2c 7d 8h] [Ah]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Happy1f1Win folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Jh 2c 7d 8h Ah]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (button) folded on the River
+
+Game Hand #383625248 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:22:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (705.00)
+Seat 2: Happy1f1Win (2295.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 3h]
+Lorpugo3 raises 75.00 to 100.00
+Happy1f1Win folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383625332 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:22:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (755.00)
+Seat 2: Happy1f1Win (2245.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Kh]
+Happy1f1Win calls 25.00
+Lorpugo3 raises 125.00 to 175.00
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 did not show and won 225.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383625426 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:22:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (805.00)
+Seat 2: Happy1f1Win (2195.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 9h]
+Lorpugo3 calls 25.00
+Happy1f1Win checks
+*** FLOP *** [8h 4c 8c]
+Main pot 100.00
+Happy1f1Win bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [8h 4c 8c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Happy1f1Win did not show and won 100.00
+
+Game Hand #383625548 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:22:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (755.00)
+Seat 2: Happy1f1Win (2245.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 6s]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383625597 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:22:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (780.00)
+Seat 2: Happy1f1Win (2220.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Qh]
+Lorpugo3 raises 75.00 to 100.00
+Happy1f1Win calls 50.00
+*** FLOP *** [8s 2c 3c]
+Main pot 200.00
+Happy1f1Win bets 200.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [8s 2c 3c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Happy1f1Win did not show and won 200.00
+
+Game Hand #383625721 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:23:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (680.00)
+Seat 2: Happy1f1Win (2320.00)
+Happy1f1Win posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6h]
+Happy1f1Win calls 25.00
+Lorpugo3 checks
+*** FLOP *** [4c 2s 2h]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Happy1f1Win folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4c 2s 2h]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (button) folded on the Flop
+
+Game Hand #383625852 - Tournament #20870314 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/02 14:23:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (730.00)
+Seat 2: Happy1f1Win (2270.00)
+Lorpugo3 posts the small blind 25.00
+Happy1f1Win posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Ks]
+Lorpugo3 raises 705.00 to 730.00 and is all-in
+Happy1f1Win folds
+Uncalled bet (680.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383625940 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:23:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (780.00)
+Seat 2: Happy1f1Win (2220.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Qc]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383625992 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:23:32 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (830.00)
+Seat 2: Happy1f1Win (2170.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Th]
+Lorpugo3 calls 50.00
+Happy1f1Win raises 2070.00 to 2170.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2070.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 200.00
+
+Game Hand #383626084 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:23:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (730.00)
+Seat 2: Happy1f1Win (2270.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Ac]
+Happy1f1Win calls 50.00
+Lorpugo3 raises 630.00 to 730.00 and is all-in
+Happy1f1Win calls 630.00
+*** FLOP *** [8h 9s Tc]
+Main pot 1460.00
+*** TURN *** [8h 9s Tc] [Ts]
+Main pot 1460.00
+*** RIVER *** [8h 9s Tc Ts] [Ah]
+Main pot 1460.00
+*** SHOW DOWN ***
+Main pot 1460.00
+Lorpugo3 shows [5s Ac] (two pair, Aces and Tens [Ah Ac Ts Tc 9s])
+Happy1f1Win shows [Qc 8c] (two pair, Tens and Eights [Ts Tc 8h 8c Ah])
+Lorpugo3 collected 1460.00 from main pot
+*** SUMMARY ***
+Total pot 1460.00
+Board [8h 9s Tc Ts Ah]
+Seat 1: Lorpugo3 (big blind) showed [5s Ac] and won 1460.00 with two pair, Aces and Tens [Ah Ac Ts Tc 9s]
+Seat 2: Happy1f1Win (button) showed [Qc 8c] and lost with two pair, Tens and Eights [Ts Tc 8h 8c Ah]
+
+Game Hand #383626241 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:24:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1460.00)
+Seat 2: Happy1f1Win (1540.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 3h]
+Lorpugo3 folds
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Happy1f1Win did not show and won 150.00
+
+Game Hand #383626332 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:24:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: Happy1f1Win (1590.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 7c]
+Happy1f1Win calls 50.00
+Lorpugo3 checks
+*** FLOP *** [9d Ts 4s]
+Main pot 200.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** TURN *** [9d Ts 4s] [Th]
+Main pot 200.00
+Lorpugo3 bets 100.00
+Happy1f1Win calls 100.00
+*** RIVER *** [9d Ts 4s Th] [Qd]
+Main pot 400.00
+Lorpugo3 checks
+Happy1f1Win checks
+*** SHOW DOWN ***
+Main pot 400.00
+Lorpugo3 shows [5c 7c] (a pair of Tens [Ts Th Qd 9d 7c])
+Happy1f1Win shows [8s Ks] (a pair of Tens [Ts Th Ks Qd 9d])
+Happy1f1Win collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [9d Ts 4s Th Qd]
+Seat 1: Lorpugo3 (big blind) showed [5c 7c] and lost with a pair of Tens [Ts Th Qd 9d 7c]
+Seat 2: Happy1f1Win (button) showed [8s Ks] and won 400.00 with a pair of Tens [Ts Th Ks Qd 9d] with the kicker King
+
+Game Hand #383626573 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:24:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1210.00)
+Seat 2: Happy1f1Win (1790.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ac]
+Lorpugo3 raises 1160.00 to 1210.00 and is all-in
+Happy1f1Win folds
+Uncalled bet (1110.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383626670 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:24:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1310.00)
+Seat 2: Happy1f1Win (1690.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 8h]
+Happy1f1Win calls 50.00
+Lorpugo3 checks
+*** FLOP *** [5s Td Ac]
+Main pot 200.00
+Lorpugo3 checks
+Happy1f1Win bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Happy1f1Win
+Happy1f1Win does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [5s Td Ac]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Happy1f1Win did not show and won 200.00
+
+Game Hand #383626841 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:25:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1210.00)
+Seat 2: Happy1f1Win (1790.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 4c]
+Lorpugo3 calls 50.00
+Happy1f1Win checks
+*** FLOP *** [2d 8c 5c]
+Main pot 200.00
+Happy1f1Win checks
+Lorpugo3 bets 100.00
+Happy1f1Win folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2d 8c 5c]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: Happy1f1Win (big blind) folded on the Flop
+
+Game Hand #383626990 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:25:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1310.00)
+Seat 2: Happy1f1Win (1690.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Ad]
+Happy1f1Win raises 1640.00 to 1690.00 and is all-in
+Lorpugo3 calls 1210.00 and is all-in
+Uncalled bet (380.00) returned to Happy1f1Win
+*** FLOP *** [Qh 7h 3d]
+Main pot 2620.00
+*** TURN *** [Qh 7h 3d] [Th]
+Main pot 2620.00
+*** RIVER *** [Qh 7h 3d Th] [Kh]
+Main pot 2620.00
+*** SHOW DOWN ***
+Main pot 2620.00
+Lorpugo3 shows [Ks Ad] (a pair of Kings [Ks Kh Ad Qh Th])
+Happy1f1Win shows [8s 8d] (a pair of Eights [8s 8d Kh Qh Th])
+Lorpugo3 collected 2620.00 from main pot
+*** SUMMARY ***
+Total pot 2620.00
+Board [Qh 7h 3d Th Kh]
+Seat 1: Lorpugo3 (big blind) showed [Ks Ad] and won 2620.00 with a pair of Kings [Ks Kh Ad Qh Th]
+Seat 2: Happy1f1Win (button) showed [8s 8d] and lost with a pair of Eights [8s 8d Kh Qh Th]
+
+Game Hand #383627116 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:25:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2620.00)
+Seat 2: Happy1f1Win (380.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 2s]
+Lorpugo3 raises 2570.00 to 2620.00 and is all-in
+Happy1f1Win folds
+Uncalled bet (2520.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: Happy1f1Win (big blind) folded on the Pre-Flop
+
+Game Hand #383627202 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:25:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2720.00)
+Seat 2: Happy1f1Win (280.00)
+Happy1f1Win posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 4s]
+Happy1f1Win folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: Happy1f1Win (button) folded on the Pre-Flop
+
+Game Hand #383627247 - Tournament #20870314 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/02 14:25:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2770.00)
+Seat 2: Happy1f1Win (230.00)
+Lorpugo3 posts the small blind 50.00
+Happy1f1Win posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Ah]
+Lorpugo3 raises 2720.00 to 2770.00 and is all-in
+Happy1f1Win calls 130.00 and is all-in
+Uncalled bet (2540.00) returned to Lorpugo3
+*** FLOP *** [Kc 3c Ad]
+Main pot 460.00
+*** TURN *** [Kc 3c Ad] [7h]
+Main pot 460.00
+*** RIVER *** [Kc 3c Ad 7h] [5c]
+Main pot 460.00
+*** SHOW DOWN ***
+Main pot 460.00
+Lorpugo3 shows [5h Ah] (two pair, Aces and Fives [Ah Ad 5h 5c Kc])
+Happy1f1Win shows [Qh 6h] (a high card, Ace high [Ad Kc Qh 7h 6h])
+Lorpugo3 collected 460.00 from main pot
+*** SUMMARY ***
+Total pot 460.00
+Board [Kc 3c Ad 7h 5c]
+Seat 1: Lorpugo3 (button) showed [5h Ah] and won 460.00 with two pair, Aces and Fives [Ah Ad 5h 5c Kc]
+Seat 2: Happy1f1Win (big blind) showed [Qh 6h] and lost with a high card, Ace high [Ad Kc Qh 7h 6h]
+

@@ -1,0 +1,682 @@
+Game Hand #392093853 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:14:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: BigFootBubba (1500.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 2s]
+Lorpugo3 folds
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 30.00
+
+Game Hand #392094106 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:14:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: BigFootBubba (1510.00)
+BigFootBubba posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Qd]
+BigFootBubba raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+BigFootBubba calls 80.00
+*** FLOP *** [2c Tc 7s]
+Main pot 240.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [2c Tc 7s] [Ah]
+Main pot 240.00
+Lorpugo3 checks
+BigFootBubba bets 80.00
+Lorpugo3 calls 80.00
+*** RIVER *** [2c Tc 7s Ah] [4s]
+Main pot 400.00
+Lorpugo3 checks
+BigFootBubba checks
+*** SHOW DOWN ***
+Main pot 400.00
+Lorpugo3 shows [Kh Qd] (a high card, Ace high [Ah Kh Qd Tc 7s])
+BigFootBubba shows [5d Ad] (a pair of Aces [Ah Ad Tc 7s 5d])
+BigFootBubba collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [2c Tc 7s Ah 4s]
+Seat 1: Lorpugo3 (big blind) showed [Kh Qd] and lost with a high card, Ace high [Ah Kh Qd Tc 7s]
+Seat 2: BigFootBubba (button) showed [5d Ad] and won 400.00 with a pair of Aces [Ah Ad Tc 7s 5d]
+
+Game Hand #392095540 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:15:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: BigFootBubba (1710.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 3d]
+Lorpugo3 raises 40.00 to 50.00
+BigFootBubba calls 30.00
+*** FLOP *** [Jd Ad Tc]
+Main pot 100.00
+BigFootBubba checks
+Lorpugo3 checks
+*** TURN *** [Jd Ad Tc] [Kh]
+Main pot 100.00
+BigFootBubba checks
+Lorpugo3 checks
+*** RIVER *** [Jd Ad Tc Kh] [8d]
+Main pot 100.00
+BigFootBubba bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Jd Ad Tc Kh 8d]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: BigFootBubba did not show and won 100.00
+
+Game Hand #392096492 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:16:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1240.00)
+Seat 2: BigFootBubba (1760.00)
+BigFootBubba posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 7s]
+BigFootBubba raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qs 6s 8h]
+Main pot 80.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [Qs 6s 8h] [Kh]
+Main pot 80.00
+Lorpugo3 checks
+BigFootBubba bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Qs 6s 8h Kh]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: BigFootBubba did not show and won 80.00
+
+Game Hand #392097127 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:16:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1200.00)
+Seat 2: BigFootBubba (1800.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Qd]
+Lorpugo3 raises 50.00 to 60.00
+BigFootBubba folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392097381 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:16:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: BigFootBubba (1780.00)
+BigFootBubba posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Qd]
+BigFootBubba raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jc 4h 5c]
+Main pot 80.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [Jc 4h 5c] [9h]
+Main pot 80.00
+Lorpugo3 bets 60.00
+BigFootBubba calls 60.00
+*** RIVER *** [Jc 4h 5c 9h] [7c]
+Main pot 200.00
+Lorpugo3 checks
+BigFootBubba bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Jc 4h 5c 9h 7c]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: BigFootBubba did not show and won 200.00
+
+Game Hand #392098219 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:17:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1120.00)
+Seat 2: BigFootBubba (1880.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 5c]
+Lorpugo3 folds
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 30.00
+
+Game Hand #392098378 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:17:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: BigFootBubba (1890.00)
+BigFootBubba posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 3c]
+BigFootBubba calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9c Qc Kc]
+Main pot 40.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [9c Qc Kc] [5s]
+Main pot 40.00
+Lorpugo3 bets 30.00
+BigFootBubba folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9c Qc Kc 5s]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: BigFootBubba (button) folded on the Turn
+
+Game Hand #392098980 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:18:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1130.00)
+Seat 2: BigFootBubba (1870.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Jd]
+Lorpugo3 raises 40.00 to 50.00
+BigFootBubba folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392099275 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:18:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1150.00)
+Seat 2: BigFootBubba (1850.00)
+BigFootBubba posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Js]
+BigFootBubba raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6d 5c 2d]
+Main pot 80.00
+Lorpugo3 checks
+BigFootBubba bets 70.00
+Lorpugo3 folds
+Uncalled bet (70.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6d 5c 2d]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: BigFootBubba did not show and won 80.00
+
+Game Hand #392099780 - Tournament #20937642 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 19:18:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: BigFootBubba (1890.00)
+Lorpugo3 posts the small blind 10.00
+BigFootBubba posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 8d]
+Lorpugo3 raises 40.00 to 50.00
+BigFootBubba calls 30.00
+*** FLOP *** [Qc Ts Jc]
+Main pot 100.00
+BigFootBubba bets 50.00
+Lorpugo3 calls 50.00
+*** TURN *** [Qc Ts Jc] [Kd]
+Main pot 200.00
+BigFootBubba bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Qc Ts Jc Kd]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: BigFootBubba did not show and won 200.00
+
+Game Hand #392100620 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:19:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: BigFootBubba (1990.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Jd]
+BigFootBubba raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Kc 3d 4d]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Kc 3d 4d]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: BigFootBubba did not show and won 120.00
+
+Game Hand #392101161 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:19:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (950.00)
+Seat 2: BigFootBubba (2050.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 5d]
+Lorpugo3 folds
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 45.00
+
+Game Hand #392101338 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:20:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (935.00)
+Seat 2: BigFootBubba (2065.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Kd]
+BigFootBubba raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [3h Td Ah]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [3h Td Ah] [5h]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [3h Td Ah 5h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: BigFootBubba did not show and won 120.00
+
+Game Hand #392101917 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:20:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (875.00)
+Seat 2: BigFootBubba (2125.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 7c]
+Lorpugo3 raises 60.00 to 75.00
+BigFootBubba folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392102134 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:20:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (905.00)
+Seat 2: BigFootBubba (2095.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Ad]
+BigFootBubba raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Tc 3d 6h]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [Tc 3d 6h] [4c]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba checks
+*** RIVER *** [Tc 3d 6h 4c] [Kc]
+Main pot 120.00
+Lorpugo3 checks
+BigFootBubba bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Tc 3d 6h 4c Kc]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: BigFootBubba did not show and won 120.00
+
+Game Hand #392102852 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:21:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (845.00)
+Seat 2: BigFootBubba (2155.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4d]
+Lorpugo3 folds
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 45.00
+
+Game Hand #392103018 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:21:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (830.00)
+Seat 2: BigFootBubba (2170.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qs]
+BigFootBubba calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Jc Tc Th]
+Main pot 60.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [Jc Tc Th] [2h]
+Main pot 60.00
+Lorpugo3 checks
+BigFootBubba checks
+*** RIVER *** [Jc Tc Th 2h] [4h]
+Main pot 60.00
+Lorpugo3 checks
+BigFootBubba checks
+*** SHOW DOWN ***
+Main pot 60.00
+Lorpugo3 shows [7s Qs] (a pair of Tens [Th Tc Qs Jc 7s])
+BigFootBubba mucks hand
+Lorpugo3 collected 60.00 from main pot
+*** SUMMARY ***
+Total pot 60.00
+Board [Jc Tc Th 2h 4h]
+Seat 1: Lorpugo3 (big blind) showed [7s Qs] and won 60.00 with a pair of Tens [Th Tc Qs Jc 7s] with the kicker Queen
+Seat 2: BigFootBubba (button) mucked [8d 6s]
+
+Game Hand #392103784 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:22:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (860.00)
+Seat 2: BigFootBubba (2140.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Ts]
+Lorpugo3 raises 75.00 to 90.00
+BigFootBubba calls 60.00
+*** FLOP *** [Ac Jh 2d]
+Main pot 180.00
+BigFootBubba bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [Ac Jh 2d] [8c]
+Main pot 240.00
+BigFootBubba bets 30.00
+Lorpugo3 raises 105.00 to 105.00
+BigFootBubba folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Ac Jh 2d 8c]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: BigFootBubba (big blind) folded on the Turn
+
+Game Hand #392104509 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:22:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1010.00)
+Seat 2: BigFootBubba (1990.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 4c]
+BigFootBubba calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+BigFootBubba folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 135.00
+Seat 1: Lorpugo3 did not show and won 135.00
+Seat 2: BigFootBubba (button) folded on the Pre-Flop
+
+Game Hand #392104852 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:22:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1040.00)
+Seat 2: BigFootBubba (1960.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 4s]
+Lorpugo3 raises 45.00 to 60.00
+BigFootBubba calls 30.00
+*** FLOP *** [6h 8d 4c]
+Main pot 120.00
+BigFootBubba bets 105.00
+Lorpugo3 folds
+Uncalled bet (105.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [6h 8d 4c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: BigFootBubba did not show and won 120.00
+
+Game Hand #392105217 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:23:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (980.00)
+Seat 2: BigFootBubba (2020.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 5h]
+BigFootBubba raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 60.00
+
+Game Hand #392105427 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:23:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (950.00)
+Seat 2: BigFootBubba (2050.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Ks]
+Lorpugo3 raises 60.00 to 75.00
+BigFootBubba folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392105662 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:23:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (980.00)
+Seat 2: BigFootBubba (2020.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 7c]
+BigFootBubba folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: BigFootBubba (button) folded on the Pre-Flop
+
+Game Hand #392105815 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:23:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (995.00)
+Seat 2: BigFootBubba (2005.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 6c]
+Lorpugo3 raises 60.00 to 75.00
+BigFootBubba folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392106011 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:23:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1025.00)
+Seat 2: BigFootBubba (1975.00)
+BigFootBubba posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+BigFootBubba raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: BigFootBubba did not show and won 60.00
+
+Game Hand #392106201 - Tournament #20937642 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 19:24:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (995.00)
+Seat 2: BigFootBubba (2005.00)
+Lorpugo3 posts the small blind 15.00
+BigFootBubba posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 7s]
+Lorpugo3 raises 60.00 to 75.00
+BigFootBubba folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: BigFootBubba (big blind) folded on the Pre-Flop
+
+Game Hand #392106456 - Tournament #20937642 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 19:24:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1025.00)
+Seat 2: BigFootBubba (1975.00)
+BigFootBubba posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 9s]
+BigFootBubba raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [2s Kc 9c]
+Main pot 200.00
+Lorpugo3 checks
+BigFootBubba bets 125.00
+Lorpugo3 calls 125.00
+*** TURN *** [2s Kc 9c] [3h]
+Main pot 450.00
+Lorpugo3 checks
+BigFootBubba checks
+*** RIVER *** [2s Kc 9c 3h] [Qs]
+Main pot 450.00
+Lorpugo3 checks
+BigFootBubba bets 125.00
+Lorpugo3 calls 125.00
+*** SHOW DOWN ***
+Main pot 700.00
+BigFootBubba shows [7h Td] (a high card, King high [Kc Qs Td 9c 7h])
+Lorpugo3 shows [7s 9s] (a pair of Nines [9s 9c Kc Qs 7s])
+Lorpugo3 collected 700.00 from main pot
+*** SUMMARY ***
+Total pot 700.00
+Board [2s Kc 9c 3h Qs]
+Seat 1: Lorpugo3 (big blind) showed [7s 9s] and won 700.00 with a pair of Nines [9s 9c Kc Qs 7s]
+Seat 2: BigFootBubba (button) showed [7h Td] and lost with a high card, King high [Kc Qs Td 9c 7h]
+
+Game Hand #392107707 - Tournament #20937642 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 19:25:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1375.00)
+Seat 2: BigFootBubba (1625.00)
+Lorpugo3 posts the small blind 25.00
+BigFootBubba posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 7d]
+Lorpugo3 raises 125.00 to 150.00
+BigFootBubba calls 100.00
+*** FLOP *** [Jh 6h 8c]
+Main pot 300.00
+BigFootBubba bets 125.00
+Lorpugo3 folds
+Uncalled bet (125.00) returned to BigFootBubba
+BigFootBubba does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Jh 6h 8c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: BigFootBubba did not show and won 300.00
+
+Game Hand #392108076 - Tournament #20937642 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 19:25:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1225.00)
+Seat 2: BigFootBubba (1775.00)
+BigFootBubba posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Qs]
+BigFootBubba calls 25.00
+Lorpugo3 checks
+*** FLOP *** [3d 9s 2d]
+Main pot 100.00
+Lorpugo3 checks
+BigFootBubba checks
+*** TURN *** [3d 9s 2d] [4c]
+Main pot 100.00
+Lorpugo3 bets 50.00
+BigFootBubba raises 100.00 to 100.00
+Lorpugo3 calls 50.00
+*** RIVER *** [3d 9s 2d 4c] [4h]
+Main pot 300.00
+Lorpugo3 bets 225.00
+BigFootBubba raises 1625.00 to 1625.00 and is all-in
+Lorpugo3 calls 850.00 and is all-in
+Uncalled bet (550.00) returned to BigFootBubba
+*** SHOW DOWN ***
+Main pot 2450.00
+Lorpugo3 shows [4d Qs] (three of a kind, Set of Fours [4h 4d 4c Qs 9s])
+BigFootBubba shows [6h 5s] (a straight, Six high [6h 5s 4h 3d 2d])
+BigFootBubba collected 2450.00 from main pot
+*** SUMMARY ***
+Total pot 2450.00
+Board [3d 9s 2d 4c 4h]
+Seat 1: Lorpugo3 (big blind) showed [4d Qs] and lost with three of a kind, Set of Fours [4h 4d 4c Qs 9s]
+Seat 2: BigFootBubba (button) showed [6h 5s] and won 2450.00 with a straight, Six high [6h 5s 4h 3d 2d]
+

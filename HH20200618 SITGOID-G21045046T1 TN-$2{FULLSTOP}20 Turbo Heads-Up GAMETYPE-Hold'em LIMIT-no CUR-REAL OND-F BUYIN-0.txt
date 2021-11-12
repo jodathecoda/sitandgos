@@ -1,0 +1,441 @@
+Game Hand #405067248 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:04:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 6d]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #405067287 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:04:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Qh]
+Lorpugo3 raises 30.00 to 40.00
+KATALA333 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #405067335 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:04:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 6d]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [7h Kh Ah]
+Main pot 80.00
+Lorpugo3 checks
+KATALA333 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [7h Kh Ah]
+Seat 1: KATALA333 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #405067437 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:05:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 9d]
+Lorpugo3 raises 50.00 to 60.00
+KATALA333 calls 40.00
+*** FLOP *** [4c Ac Kh]
+Main pot 120.00
+KATALA333 checks
+Lorpugo3 bets 50.00
+KATALA333 raises 270.00 to 270.00
+Lorpugo3 folds
+Uncalled bet (220.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 220.00
+Board [4c Ac Kh]
+Seat 1: KATALA333 did not show and won 220.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #405067554 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:05:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (1650.00)
+Seat 2: Lorpugo3 (1350.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Ts]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+KATALA333 calls 80.00
+*** FLOP *** [8d 3d Kc]
+Main pot 240.00
+Lorpugo3 checks
+KATALA333 bets 60.00
+Lorpugo3 raises 180.00 to 180.00
+KATALA333 calls 120.00
+*** TURN *** [8d 3d Kc] [9h]
+Main pot 600.00
+Lorpugo3 bets 300.00
+KATALA333 calls 300.00
+*** RIVER *** [8d 3d Kc 9h] [3h]
+Main pot 1200.00
+Lorpugo3 checks
+KATALA333 bets 900.00
+Lorpugo3 folds
+Uncalled bet (900.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 1200.00
+Board [8d 3d Kc 9h 3h]
+Seat 1: KATALA333 did not show and won 1200.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #405067940 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:06:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2250.00)
+Seat 2: Lorpugo3 (750.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 4h]
+Lorpugo3 raises 60.00 to 70.00
+KATALA333 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #405068003 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:06:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2230.00)
+Seat 2: Lorpugo3 (770.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Js]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+KATALA333 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: KATALA333 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 160.00
+
+Game Hand #405068072 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:06:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2190.00)
+Seat 2: Lorpugo3 (810.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 9c]
+Lorpugo3 folds
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: KATALA333 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405068103 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2200.00)
+Seat 2: Lorpugo3 (800.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Th]
+KATALA333 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: KATALA333 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #405068140 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2190.00)
+Seat 2: Lorpugo3 (810.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 9d]
+Lorpugo3 raises 50.00 to 60.00
+KATALA333 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #405068199 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2170.00)
+Seat 2: Lorpugo3 (830.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 7h]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #405068234 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2190.00)
+Seat 2: Lorpugo3 (810.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 6d]
+Lorpugo3 raises 30.00 to 40.00
+KATALA333 raises 180.00 to 200.00
+Lorpugo3 folds
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: KATALA333 did not show and won 240.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405068291 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2230.00)
+Seat 2: Lorpugo3 (770.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Ac]
+KATALA333 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: KATALA333 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #405068315 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:07:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2220.00)
+Seat 2: Lorpugo3 (780.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Ah]
+Lorpugo3 raises 50.00 to 60.00
+KATALA333 calls 40.00
+*** FLOP *** [3d 3c Js]
+Main pot 120.00
+KATALA333 checks
+Lorpugo3 bets 70.00
+KATALA333 folds
+Uncalled bet (70.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [3d 3c Js]
+Seat 1: KATALA333 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #405068431 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:08:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2160.00)
+Seat 2: Lorpugo3 (840.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7c]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [As Qc 5s]
+Main pot 80.00
+Lorpugo3 checks
+KATALA333 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [As Qc 5s]
+Seat 1: KATALA333 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #405068544 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:08:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2200.00)
+Seat 2: Lorpugo3 (800.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Ah]
+Lorpugo3 raises 50.00 to 60.00
+KATALA333 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #405068597 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:08:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2180.00)
+Seat 2: Lorpugo3 (820.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ah]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+KATALA333 calls 80.00
+*** FLOP *** [4c 5c 6d]
+Main pot 240.00
+Lorpugo3 bets 120.00
+KATALA333 raises 2060.00 to 2060.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1940.00) returned to KATALA333
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 480.00
+Board [4c 5c 6d]
+Seat 1: KATALA333 did not show and won 480.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #405068716 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:08:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2420.00)
+Seat 2: Lorpugo3 (580.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 4c]
+Lorpugo3 folds
+KATALA333 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: KATALA333 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #405068753 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:09:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2430.00)
+Seat 2: Lorpugo3 (570.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4s]
+KATALA333 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: KATALA333 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #405068785 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:09:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2420.00)
+Seat 2: Lorpugo3 (580.00)
+Lorpugo3 posts the small blind 10.00
+KATALA333 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6h]
+Lorpugo3 raises 30.00 to 40.00
+KATALA333 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: KATALA333 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #405068819 - Tournament #21045046 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:09:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: KATALA333 (2400.00)
+Seat 2: Lorpugo3 (600.00)
+KATALA333 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 7d]
+KATALA333 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [9c Kc Js]
+Main pot 80.00
+Lorpugo3 checks
+KATALA333 checks
+*** TURN *** [9c Kc Js] [5s]
+Main pot 80.00
+Lorpugo3 bets 40.00
+KATALA333 calls 40.00
+*** RIVER *** [9c Kc Js 5s] [Jh]
+Main pot 160.00
+Lorpugo3 bets 170.00
+KATALA333 calls 170.00
+*** SHOW DOWN ***
+Main pot 500.00
+Lorpugo3 shows [Jd 7d] (three of a kind, Set of Jacks [Js Jh Jd Kc 9c])
+KATALA333 mucks hand
+Lorpugo3 collected 500.00 from main pot
+*** SUMMARY ***
+Total pot 500.00
+Board [9c Kc Js 5s Jh]
+Seat 1: KATALA333 (button) mucked [9d 8c]
+Seat 2: Lorpugo3 (big blind) showed [Jd 7d] and won 500.00 with three of a kind, Set of Jacks [Js Jh Jd Kc 9c]
+
+Game Hand #405069011 - Tournament #21045046 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:09:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: KATALA333 (2150.00)
+Seat 2: Lorpugo3 (850.00)
+Lorpugo3 posts the small blind 15.00
+KATALA333 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 8h]
+Lorpugo3 raises 75.00 to 90.00
+KATALA333 raises 2120.00 to 2150.00 and is all-in
+Lorpugo3 calls 760.00 and is all-in
+Uncalled bet (1300.00) returned to KATALA333
+*** FLOP *** [Th Kd 2h]
+Main pot 1700.00
+*** TURN *** [Th Kd 2h] [7d]
+Main pot 1700.00
+*** RIVER *** [Th Kd 2h 7d] [2c]
+Main pot 1700.00
+*** SHOW DOWN ***
+Main pot 1700.00
+KATALA333 shows [Ac 7c] (two pair, Sevens and Deuces [7d 7c 2h 2c Ac])
+Lorpugo3 shows [As 8h] (a pair of Deuces [2h 2c As Kd Th])
+KATALA333 collected 1700.00 from main pot
+*** SUMMARY ***
+Total pot 1700.00
+Board [Th Kd 2h 7d 2c]
+Seat 1: KATALA333 (big blind) showed [Ac 7c] and won 1700.00 with two pair, Sevens and Deuces [7d 7c 2h 2c Ac]
+Seat 2: Lorpugo3 (button) showed [As 8h] and lost with a pair of Deuces [2h 2c As Kd Th]
+

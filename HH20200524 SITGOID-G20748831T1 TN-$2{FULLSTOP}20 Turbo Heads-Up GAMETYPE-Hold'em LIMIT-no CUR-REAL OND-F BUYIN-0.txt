@@ -1,0 +1,123 @@
+Game Hand #369604972 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:08:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: AllDayAdamK (1500.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 4s]
+AllDayAdamK raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+AllDayAdamK calls 80.00
+*** FLOP *** [Kd 2s 4c]
+Main pot 240.00
+Lorpugo3 bets 120.00
+AllDayAdamK folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Kd 2s 4c]
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: AllDayAdamK (button) folded on the Flop
+
+Game Hand #369606434 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:08:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1620.00)
+Seat 2: AllDayAdamK (1380.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Kc]
+Lorpugo3 raises 50.00 to 60.00
+AllDayAdamK calls 40.00
+*** FLOP *** [Jc Jh 9s]
+Main pot 120.00
+AllDayAdamK bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [Jc Jh 9s] [3h]
+Main pot 200.00
+AllDayAdamK checks
+Lorpugo3 checks
+*** RIVER *** [Jc Jh 9s 3h] [Th]
+Main pot 200.00
+AllDayAdamK bets 50.00
+Lorpugo3 calls 50.00
+*** SHOW DOWN ***
+Main pot 300.00
+AllDayAdamK shows [3s Td] (two pair, Jacks and Tens [Jh Jc Th Td 9s])
+Lorpugo3 mucks hand
+AllDayAdamK collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 300.00
+Board [Jc Jh 9s 3h Th]
+Seat 1: Lorpugo3 (button) mucked [8c Kc]
+Seat 2: AllDayAdamK (big blind) showed [3s Td] and won 300.00 with two pair, Jacks and Tens [Jh Jc Th Td 9s]
+
+Game Hand #369607780 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:09:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: AllDayAdamK (1530.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9d]
+AllDayAdamK raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to AllDayAdamK
+AllDayAdamK shows [3s Td]
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: AllDayAdamK (button) showed [3s Td] and won 40.00
+
+Game Hand #369608144 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:09:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: AllDayAdamK (1550.00)
+Lorpugo3 posts the small blind 10.00
+AllDayAdamK posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 3s]
+Lorpugo3 raises 30.00 to 40.00
+AllDayAdamK raises 80.00 to 100.00
+Lorpugo3 folds
+AllDayAdamK does not show
+*** SUMMARY ***
+Total pot 140.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: AllDayAdamK did not show and won 140.00
+
+Game Hand #369608502 - Tournament #20748831 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:10:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: AllDayAdamK (1590.00)
+AllDayAdamK posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 7d]
+AllDayAdamK raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8c 2s As]
+Main pot 100.00
+Lorpugo3 checks
+AllDayAdamK checks
+*** TURN *** [8c 2s As] [Js]
+Main pot 100.00
+Lorpugo3 bets 75.00
+AllDayAdamK raises 190.00 to 190.00
+Lorpugo3 raises 1285.00 to 1360.00 and is all-in
+AllDayAdamK calls 1170.00
+*** RIVER *** [8c 2s As Js] [8h]
+Main pot 2820.00
+*** SHOW DOWN ***
+Main pot 2820.00
+Lorpugo3 shows [Ac 7d] (two pair, Aces and Eights [As Ac 8h 8c Js])
+AllDayAdamK shows [8s 8d] (four of a kind, Four Eights [8s 8h 8d 8c As])
+AllDayAdamK collected 2820.00 from main pot
+*** SUMMARY ***
+Total pot 2820.00
+Board [8c 2s As Js 8h]
+Seat 1: Lorpugo3 (big blind) showed [Ac 7d] and lost with two pair, Aces and Eights [As Ac 8h 8c Js]
+Seat 2: AllDayAdamK (button) showed [8s 8d] and won 2820.00 with four of a kind, Four Eights [8s 8h 8d 8c As]
+

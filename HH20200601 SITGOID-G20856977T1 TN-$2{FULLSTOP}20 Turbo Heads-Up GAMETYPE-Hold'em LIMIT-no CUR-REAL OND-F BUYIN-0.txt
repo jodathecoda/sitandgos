@@ -1,0 +1,612 @@
+Game Hand #382413755 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:08:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Scalamoosh (1500.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 3d]
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 30.00
+
+Game Hand #382413853 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:08:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: Scalamoosh (1510.00)
+Scalamoosh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Qc]
+Scalamoosh raises 40.00 to 50.00
+Lorpugo3 raises 130.00 to 150.00
+Scalamoosh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: Scalamoosh (button) folded on the Pre-Flop
+
+Game Hand #382414132 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:08:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: Scalamoosh (1460.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Ah]
+Lorpugo3 raises 40.00 to 50.00
+Scalamoosh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Scalamoosh (big blind) folded on the Pre-Flop
+
+Game Hand #382414315 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:08:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Scalamoosh (1440.00)
+Scalamoosh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 8h]
+Scalamoosh raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [9h 8d 5c]
+Main pot 100.00
+Lorpugo3 checks
+Scalamoosh checks
+*** TURN *** [9h 8d 5c] [Jc]
+Main pot 100.00
+Lorpugo3 checks
+Scalamoosh checks
+*** RIVER *** [9h 8d 5c Jc] [Ks]
+Main pot 100.00
+Lorpugo3 checks
+Scalamoosh checks
+*** SHOW DOWN ***
+Main pot 100.00
+Lorpugo3 shows [7c 8h] (a pair of Eights [8h 8d Ks Jc 9h])
+Scalamoosh mucks hand
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [9h 8d 5c Jc Ks]
+Seat 1: Lorpugo3 (big blind) showed [7c 8h] and won 100.00 with a pair of Eights [8h 8d Ks Jc 9h]
+Seat 2: Scalamoosh (button) mucked [2h Qd]
+
+Game Hand #382414966 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:09:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1610.00)
+Seat 2: Scalamoosh (1390.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Ad]
+Lorpugo3 raises 40.00 to 50.00
+Scalamoosh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Scalamoosh (big blind) folded on the Pre-Flop
+
+Game Hand #382415126 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:09:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1630.00)
+Seat 2: Scalamoosh (1370.00)
+Scalamoosh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 6s]
+Scalamoosh raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Jc 2h 2c]
+Main pot 100.00
+Lorpugo3 checks
+Scalamoosh bets 50.00
+Lorpugo3 calls 50.00
+*** TURN *** [Jc 2h 2c] [8h]
+Main pot 200.00
+Lorpugo3 checks
+Scalamoosh checks
+*** RIVER *** [Jc 2h 2c 8h] [2d]
+Main pot 200.00
+Lorpugo3 checks
+Scalamoosh bets 100.00
+Lorpugo3 calls 100.00
+*** SHOW DOWN ***
+Main pot 400.00
+Scalamoosh shows [Ts Jd] (a full house, Deuces full of Jacks [2h 2d 2c Jd Jc])
+Lorpugo3 mucks hand
+Scalamoosh collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [Jc 2h 2c 8h 2d]
+Seat 1: Lorpugo3 (big blind) mucked [6d 6s]
+Seat 2: Scalamoosh (button) showed [Ts Jd] and won 400.00 with a full house, Deuces full of Jacks [2h 2d 2c Jd Jc]
+
+Game Hand #382415913 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:10:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: Scalamoosh (1570.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9s]
+Lorpugo3 raises 30.00 to 40.00
+Scalamoosh calls 20.00
+*** FLOP *** [8s Jc Td]
+Main pot 80.00
+Scalamoosh checks
+Lorpugo3 bets 40.00
+Scalamoosh folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [8s Jc Td]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Scalamoosh (big blind) folded on the Flop
+
+Game Hand #382416412 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:11:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: Scalamoosh (1530.00)
+Scalamoosh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Kc]
+Scalamoosh raises 40.00 to 50.00
+Lorpugo3 raises 130.00 to 150.00
+Scalamoosh calls 100.00
+*** FLOP *** [2h 8d Qs]
+Main pot 300.00
+Lorpugo3 bets 90.00
+Scalamoosh calls 90.00
+*** TURN *** [2h 8d Qs] [6h]
+Main pot 480.00
+Lorpugo3 checks
+Scalamoosh bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to Scalamoosh
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 480.00
+Board [2h 8d Qs 6h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: Scalamoosh did not show and won 480.00
+
+Game Hand #382417062 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:12:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: Scalamoosh (1770.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 6s]
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 30.00
+
+Game Hand #382417197 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:12:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: Scalamoosh (1780.00)
+Scalamoosh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Js]
+Scalamoosh raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Jd 8d 5c]
+Main pot 100.00
+Lorpugo3 checks
+Scalamoosh bets 50.00
+Lorpugo3 raises 150.00 to 150.00
+Scalamoosh folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Jd 8d 5c]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: Scalamoosh (button) folded on the Flop
+
+Game Hand #382417766 - Tournament #20856977 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 16:13:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1320.00)
+Seat 2: Scalamoosh (1680.00)
+Lorpugo3 posts the small blind 10.00
+Scalamoosh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6s]
+Lorpugo3 raises 30.00 to 40.00
+Scalamoosh raises 120.00 to 140.00
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 180.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 180.00
+
+Game Hand #382418107 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:13:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: Scalamoosh (1720.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 2s]
+Scalamoosh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Scalamoosh (button) folded on the Pre-Flop
+
+Game Hand #382418228 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:13:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1295.00)
+Seat 2: Scalamoosh (1705.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 2h]
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 45.00
+
+Game Hand #382418345 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:13:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: Scalamoosh (1720.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ah]
+Scalamoosh raises 45.00 to 60.00
+Lorpugo3 raises 135.00 to 165.00
+Scalamoosh calls 105.00
+*** FLOP *** [Jc 8h Qd]
+Main pot 330.00
+Lorpugo3 checks
+Scalamoosh checks
+*** TURN *** [Jc 8h Qd] [6s]
+Main pot 330.00
+Lorpugo3 checks
+Scalamoosh bets 165.00
+Lorpugo3 folds
+Uncalled bet (165.00) returned to Scalamoosh
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 330.00
+Board [Jc 8h Qd 6s]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: Scalamoosh did not show and won 330.00
+
+Game Hand #382419254 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:14:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1115.00)
+Seat 2: Scalamoosh (1885.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 5d]
+Lorpugo3 raises 45.00 to 60.00
+Scalamoosh calls 30.00
+*** FLOP *** [Ts Ac 2h]
+Main pot 120.00
+Scalamoosh checks
+Lorpugo3 bets 60.00
+Scalamoosh calls 60.00
+*** TURN *** [Ts Ac 2h] [Qh]
+Main pot 240.00
+Scalamoosh checks
+Lorpugo3 bets 120.00
+Scalamoosh folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Ts Ac 2h Qh]
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: Scalamoosh (big blind) folded on the Turn
+
+Game Hand #382419875 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:15:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1235.00)
+Seat 2: Scalamoosh (1765.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 7s]
+Scalamoosh raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [7h 2s 3d]
+Main pot 150.00
+Lorpugo3 checks
+Scalamoosh checks
+*** TURN *** [7h 2s 3d] [Kh]
+Main pot 150.00
+Lorpugo3 checks
+Scalamoosh checks
+*** RIVER *** [7h 2s 3d Kh] [3s]
+Main pot 150.00
+Lorpugo3 checks
+Scalamoosh checks
+*** SHOW DOWN ***
+Main pot 150.00
+Lorpugo3 shows [Td 7s] (two pair, Sevens and Threes [7s 7h 3s 3d Kh])
+Scalamoosh mucks hand
+Lorpugo3 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 150.00
+Board [7h 2s 3d Kh 3s]
+Seat 1: Lorpugo3 (big blind) showed [Td 7s] and won 150.00 with two pair, Sevens and Threes [7s 7h 3s 3d Kh]
+Seat 2: Scalamoosh (button) mucked [As 8c]
+
+Game Hand #382420618 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:16:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1310.00)
+Seat 2: Scalamoosh (1690.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 7s]
+Lorpugo3 raises 45.00 to 60.00
+Scalamoosh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Scalamoosh (big blind) folded on the Pre-Flop
+
+Game Hand #382420845 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:16:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1340.00)
+Seat 2: Scalamoosh (1660.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Qs]
+Scalamoosh raises 60.00 to 75.00
+Lorpugo3 calls 45.00
+*** FLOP *** [Jc 2c 2h]
+Main pot 150.00
+Lorpugo3 checks
+Scalamoosh bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Scalamoosh
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Jc 2c 2h]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Scalamoosh did not show and won 150.00
+
+Game Hand #382421521 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:17:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1265.00)
+Seat 2: Scalamoosh (1735.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 5h]
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 45.00
+
+Game Hand #382421662 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:17:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1250.00)
+Seat 2: Scalamoosh (1750.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 4h]
+Scalamoosh raises 60.00 to 75.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to Scalamoosh
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 60.00
+
+Game Hand #382421851 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:17:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: Scalamoosh (1780.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 7d]
+Lorpugo3 folds
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 45.00
+
+Game Hand #382421973 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:17:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1205.00)
+Seat 2: Scalamoosh (1795.00)
+Scalamoosh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 4d]
+Scalamoosh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Scalamoosh (button) folded on the Pre-Flop
+
+Game Hand #382422070 - Tournament #20856977 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:18:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1220.00)
+Seat 2: Scalamoosh (1780.00)
+Lorpugo3 posts the small blind 15.00
+Scalamoosh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qc]
+Lorpugo3 raises 45.00 to 60.00
+Scalamoosh calls 30.00
+*** FLOP *** [8c 9c Td]
+Main pot 120.00
+Scalamoosh bets 90.00
+Lorpugo3 calls 90.00
+*** TURN *** [8c 9c Td] [6c]
+Main pot 300.00
+Scalamoosh checks
+Lorpugo3 bets 120.00
+Scalamoosh calls 120.00
+*** RIVER *** [8c 9c Td 6c] [3h]
+Main pot 540.00
+Scalamoosh bets 360.00
+Lorpugo3 calls 360.00
+*** SHOW DOWN ***
+Main pot 1260.00
+Scalamoosh shows [9d Js] (a pair of Nines [9d 9c Js Td 8c])
+Lorpugo3 shows [7s Qc] (a straight, Ten high [Td 9c 8c 7s 6c])
+Lorpugo3 collected 1260.00 from main pot
+*** SUMMARY ***
+Total pot 1260.00
+Board [8c 9c Td 6c 3h]
+Seat 1: Lorpugo3 (button) showed [7s Qc] and won 1260.00 with a straight, Ten high [Td 9c 8c 7s 6c]
+Seat 2: Scalamoosh (big blind) showed [9d Js] and lost with a pair of Nines [9d 9c Js Td 8c]
+
+Game Hand #382423202 - Tournament #20856977 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:19:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1850.00)
+Seat 2: Scalamoosh (1150.00)
+Scalamoosh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s Qh]
+Scalamoosh raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [5h 8h 9c]
+Main pot 200.00
+Lorpugo3 checks
+Scalamoosh bets 100.00
+Lorpugo3 calls 100.00
+*** TURN *** [5h 8h 9c] [4c]
+Main pot 400.00
+Lorpugo3 checks
+Scalamoosh checks
+*** RIVER *** [5h 8h 9c 4c] [Ah]
+Main pot 400.00
+Lorpugo3 bets 200.00
+Scalamoosh calls 200.00
+*** SHOW DOWN ***
+Main pot 800.00
+Lorpugo3 shows [6s Qh] (a high card, Ace high [Ah Qh 9c 8h 6s])
+Scalamoosh shows [Qd 5d] (a pair of Fives [5h 5d Ah Qd 9c])
+Scalamoosh collected 800.00 from main pot
+*** SUMMARY ***
+Total pot 800.00
+Board [5h 8h 9c 4c Ah]
+Seat 1: Lorpugo3 (big blind) showed [6s Qh] and lost with a high card, Ace high [Ah Qh 9c 8h 6s]
+Seat 2: Scalamoosh (button) showed [Qd 5d] and won 800.00 with a pair of Fives [5h 5d Ah Qd 9c]
+
+Game Hand #382423966 - Tournament #20856977 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:20:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: Scalamoosh (1550.00)
+Lorpugo3 posts the small blind 25.00
+Scalamoosh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Kh]
+Lorpugo3 raises 75.00 to 100.00
+Scalamoosh folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Scalamoosh (big blind) folded on the Pre-Flop
+
+Game Hand #382424114 - Tournament #20856977 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:20:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Scalamoosh (1500.00)
+Scalamoosh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Ks]
+Scalamoosh raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Scalamoosh
+Scalamoosh does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Scalamoosh did not show and won 100.00
+
+Game Hand #382424373 - Tournament #20856977 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:20:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: Scalamoosh (1550.00)
+Lorpugo3 posts the small blind 25.00
+Scalamoosh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 6c]
+Lorpugo3 raises 75.00 to 100.00
+Scalamoosh folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Scalamoosh (big blind) folded on the Pre-Flop
+
+Game Hand #382424536 - Tournament #20856977 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/01 16:20:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Scalamoosh (1500.00)
+Scalamoosh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Jh]
+Scalamoosh raises 100.00 to 125.00
+Lorpugo3 raises 275.00 to 325.00
+Scalamoosh calls 200.00
+*** FLOP *** [9s 3s 5d]
+Main pot 650.00
+Lorpugo3 bets 325.00
+Scalamoosh raises 1175.00 to 1175.00 and is all-in
+Lorpugo3 calls 850.00 and is all-in
+*** TURN *** [9s 3s 5d] [Jd]
+Main pot 3000.00
+*** RIVER *** [9s 3s 5d Jd] [Qh]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Js Jh] (three of a kind, Set of Jacks [Js Jh Jd Qh 9s])
+Scalamoosh shows [5h 5s] (three of a kind, Set of Fives [5s 5h 5d Qh Jd])
+Lorpugo3 collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [9s 3s 5d Jd Qh]
+Seat 1: Lorpugo3 (big blind) showed [Js Jh] and won 3000.00 with three of a kind, Set of Jacks [Js Jh Jd Qh 9s]
+Seat 2: Scalamoosh (button) showed [5h 5s] and lost with three of a kind, Set of Fives [5s 5h 5d Qh Jd]
+

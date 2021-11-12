@@ -1,0 +1,570 @@
+Game Hand #405100204 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:47:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: Majmond (500.00)
+Majmond posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Qd]
+Majmond folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405100254 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:47:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (510.00)
+Seat 2: Majmond (490.00)
+Lorpugo3 posts the small blind 10.00
+Majmond posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Qd]
+Lorpugo3 raises 30.00 to 40.00
+Majmond calls 20.00
+*** FLOP *** [6h Jd Th]
+Main pot 80.00
+Majmond bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6h Jd Th]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Majmond did not show and won 80.00
+
+Game Hand #405100323 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:47:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (470.00)
+Seat 2: Majmond (530.00)
+Majmond posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 8c]
+Majmond raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 40.00
+
+Game Hand #405100368 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:47:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (450.00)
+Seat 2: Majmond (550.00)
+Lorpugo3 posts the small blind 10.00
+Majmond posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Kd]
+Lorpugo3 raises 30.00 to 40.00
+Majmond raises 100.00 to 120.00
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 160.00
+
+Game Hand #405100459 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:48:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (410.00)
+Seat 2: Majmond (590.00)
+Majmond posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Kd]
+Majmond raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [5c 4d Jd]
+Main pot 120.00
+Lorpugo3 checks
+Majmond checks
+*** TURN *** [5c 4d Jd] [Qs]
+Main pot 120.00
+Lorpugo3 checks
+Majmond checks
+*** RIVER *** [5c 4d Jd Qs] [Td]
+Main pot 120.00
+Lorpugo3 bets 90.00
+Majmond folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [5c 4d Jd Qs Td]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Majmond (button) folded on the River
+
+Game Hand #405100654 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:48:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (470.00)
+Seat 2: Majmond (530.00)
+Lorpugo3 posts the small blind 10.00
+Majmond posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 5h]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 30.00
+
+Game Hand #405100687 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:48:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: Majmond (540.00)
+Majmond posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 3d]
+Majmond raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 40.00
+
+Game Hand #405100748 - Tournament #21045223 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:48:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: Majmond (560.00)
+Lorpugo3 posts the small blind 10.00
+Majmond posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Ad]
+Lorpugo3 raises 30.00 to 40.00
+Majmond calls 20.00
+*** FLOP *** [2h Qs 3h]
+Main pot 80.00
+Majmond checks
+Lorpugo3 checks
+*** TURN *** [2h Qs 3h] [8d]
+Main pot 80.00
+Majmond checks
+Lorpugo3 checks
+*** RIVER *** [2h Qs 3h 8d] [Th]
+Main pot 80.00
+Majmond bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2h Qs 3h 8d Th]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: Majmond did not show and won 80.00
+
+Game Hand #405100923 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:49:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (400.00)
+Seat 2: Majmond (600.00)
+Majmond posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Kd]
+Majmond raises 75.00 to 90.00
+Lorpugo3 raises 370.00 to 400.00 and is all-in
+Majmond folds
+Uncalled bet (310.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Seat 1: Lorpugo3 did not show and won 180.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405101005 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:49:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (490.00)
+Seat 2: Majmond (510.00)
+Lorpugo3 posts the small blind 15.00
+Majmond posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 2d]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 45.00
+
+Game Hand #405101126 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:49:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (475.00)
+Seat 2: Majmond (525.00)
+Majmond posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Js]
+Majmond raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 60.00
+
+Game Hand #405101177 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:50:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (445.00)
+Seat 2: Majmond (555.00)
+Lorpugo3 posts the small blind 15.00
+Majmond posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 9h]
+Lorpugo3 raises 45.00 to 60.00
+Majmond raises 150.00 to 180.00
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 240.00
+
+Game Hand #405101245 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:50:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (385.00)
+Seat 2: Majmond (615.00)
+Majmond posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 8s]
+Majmond raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 60.00
+
+Game Hand #405101335 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:50:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (355.00)
+Seat 2: Majmond (645.00)
+Lorpugo3 posts the small blind 15.00
+Majmond posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 3d]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 45.00
+
+Game Hand #405101369 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:50:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (340.00)
+Seat 2: Majmond (660.00)
+Majmond posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 8d]
+Majmond raises 75.00 to 90.00
+Lorpugo3 raises 310.00 to 340.00 and is all-in
+Majmond calls 250.00
+*** FLOP *** [Ks 6c 6s]
+Main pot 680.00
+*** TURN *** [Ks 6c 6s] [2c]
+Main pot 680.00
+*** RIVER *** [Ks 6c 6s 2c] [As]
+Main pot 680.00
+*** SHOW DOWN ***
+Main pot 680.00
+Lorpugo3 shows [Ah 8d] (two pair, Aces and Sixs [As Ah 6s 6c Ks])
+Majmond shows [3s Ad] (two pair, Aces and Sixs [As Ad 6s 6c Ks])
+Lorpugo3 collected 340.00 from main pot
+Majmond collected 340.00 from main pot
+*** SUMMARY ***
+Total pot 680.00
+Board [Ks 6c 6s 2c As]
+Seat 1: Lorpugo3 (big blind) showed [Ah 8d] and won 340.00 with two pair, Aces and Sixs [As Ah 6s 6c Ks]
+Seat 2: Majmond (button) showed [3s Ad] and won 340.00 with two pair, Aces and Sixs [As Ad 6s 6c Ks]
+
+Game Hand #405101475 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:51:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (340.00)
+Seat 2: Majmond (660.00)
+Lorpugo3 posts the small blind 15.00
+Majmond posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Kh]
+Lorpugo3 raises 45.00 to 60.00
+Majmond folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Majmond (big blind) folded on the Pre-Flop
+
+Game Hand #405101513 - Tournament #21045223 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:51:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (370.00)
+Seat 2: Majmond (630.00)
+Majmond posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 2d]
+Majmond calls 15.00
+Lorpugo3 raises 340.00 to 370.00 and is all-in
+Majmond folds
+Uncalled bet (340.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405101584 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:51:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (400.00)
+Seat 2: Majmond (600.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 2s]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 60.00
+
+Game Hand #405101615 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:51:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (380.00)
+Seat 2: Majmond (620.00)
+Majmond posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Kc]
+Majmond raises 100.00 to 120.00
+Lorpugo3 raises 340.00 to 380.00 and is all-in
+Majmond calls 260.00
+*** FLOP *** [3c 2d Jh]
+Main pot 760.00
+*** TURN *** [3c 2d Jh] [4d]
+Main pot 760.00
+*** RIVER *** [3c 2d Jh 4d] [8h]
+Main pot 760.00
+*** SHOW DOWN ***
+Main pot 760.00
+Lorpugo3 shows [Ks Kc] (a pair of Kings [Ks Kc Jh 8h 4d])
+Majmond shows [As 3s] (a pair of Threes [3s 3c As Jh 8h])
+Lorpugo3 collected 760.00 from main pot
+*** SUMMARY ***
+Total pot 760.00
+Board [3c 2d Jh 4d 8h]
+Seat 1: Lorpugo3 (big blind) showed [Ks Kc] and won 760.00 with a pair of Kings [Ks Kc Jh 8h 4d]
+Seat 2: Majmond (button) showed [As 3s] and lost with a pair of Threes [3s 3c As Jh 8h]
+
+Game Hand #405101710 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:51:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (760.00)
+Seat 2: Majmond (240.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 8c]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 60.00
+
+Game Hand #405101742 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:51:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (740.00)
+Seat 2: Majmond (260.00)
+Majmond posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 8s]
+Majmond raises 100.00 to 120.00
+Lorpugo3 calls 80.00
+*** FLOP *** [4s 5s Qd]
+Main pot 240.00
+Lorpugo3 checks
+Majmond bets 140.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (140.00) returned to Majmond
+Majmond does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [4s 5s Qd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Majmond did not show and won 240.00
+
+Game Hand #405101852 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:52:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (620.00)
+Seat 2: Majmond (380.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qs]
+Lorpugo3 raises 60.00 to 80.00
+Majmond folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Majmond (big blind) folded on the Pre-Flop
+
+Game Hand #405101907 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:52:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (660.00)
+Seat 2: Majmond (340.00)
+Majmond posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 4h]
+Majmond folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405101943 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:52:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (680.00)
+Seat 2: Majmond (320.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 5d]
+Lorpugo3 calls 20.00
+Majmond checks
+*** FLOP *** [5c 3d Js]
+Main pot 80.00
+Majmond checks
+Lorpugo3 bets 40.00
+Majmond folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [5c 3d Js]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Majmond (big blind) folded on the Flop
+
+Game Hand #405102047 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:52:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (720.00)
+Seat 2: Majmond (280.00)
+Majmond posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Ac]
+Majmond raises 100.00 to 120.00
+Lorpugo3 raises 680.00 to 720.00 and is all-in
+Majmond folds
+Uncalled bet (600.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405102141 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:52:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (840.00)
+Seat 2: Majmond (160.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 4c]
+Lorpugo3 folds
+Majmond does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Majmond did not show and won 60.00
+
+Game Hand #405102182 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:53:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (820.00)
+Seat 2: Majmond (180.00)
+Majmond posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Jd]
+Majmond folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405102210 - Tournament #21045223 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/06/18 12:53:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (840.00)
+Seat 2: Majmond (160.00)
+Lorpugo3 posts the small blind 20.00
+Majmond posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Qs]
+Lorpugo3 raises 820.00 to 840.00 and is all-in
+Majmond folds
+Uncalled bet (800.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Majmond (big blind) folded on the Pre-Flop
+
+Game Hand #405102252 - Tournament #21045223 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 12:53:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (880.00)
+Seat 2: Majmond (120.00)
+Majmond posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 5c]
+Majmond folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 did not show and won 75.00
+Seat 2: Majmond (button) folded on the Pre-Flop
+
+Game Hand #405102272 - Tournament #21045223 - Holdem(No Limit) - Level 4 (25.00/50.00)- 2020/06/18 12:53:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (905.00)
+Seat 2: Majmond (95.00)
+Lorpugo3 posts the small blind 25.00
+Majmond posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Kc]
+Lorpugo3 raises 880.00 to 905.00 and is all-in
+Majmond calls 45.00 and is all-in
+Uncalled bet (810.00) returned to Lorpugo3
+*** FLOP *** [3d 9h 9c]
+Main pot 190.00
+*** TURN *** [3d 9h 9c] [Tc]
+Main pot 190.00
+*** RIVER *** [3d 9h 9c Tc] [2d]
+Main pot 190.00
+*** SHOW DOWN ***
+Main pot 190.00
+Lorpugo3 shows [3s Kc] (two pair, Nines and Threes [9h 9c 3s 3d Kc])
+Majmond shows [8h 3c] (two pair, Nines and Threes [9h 9c 3d 3c Tc])
+Lorpugo3 collected 190.00 from main pot
+*** SUMMARY ***
+Total pot 190.00
+Board [3d 9h 9c Tc 2d]
+Seat 1: Lorpugo3 (button) showed [3s Kc] and won 190.00 with two pair, Nines and Threes [9h 9c 3s 3d Kc] with the kicker King
+Seat 2: Majmond (big blind) showed [8h 3c] and lost with two pair, Nines and Threes [9h 9c 3d 3c Tc]
+

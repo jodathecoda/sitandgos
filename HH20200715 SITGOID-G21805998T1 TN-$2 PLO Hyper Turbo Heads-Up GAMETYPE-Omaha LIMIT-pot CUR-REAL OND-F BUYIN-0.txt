@@ -1,0 +1,84 @@
+Game Hand #437737716 - Tournament #21805998 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:07:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Uplay2lose (500.00)
+Seat 2: Lorpugo3 (500.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Kh Ah 5s]
+Uplay2lose calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+Uplay2lose calls 30.00
+*** FLOP *** [8c 4h Ad]
+Main pot 100.00
+Lorpugo3 bets 75.00
+Uplay2lose folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [8c 4h Ad]
+Seat 1: Uplay2lose (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #437738591 - Tournament #21805998 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:08:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Uplay2lose (450.00)
+Seat 2: Lorpugo3 (550.00)
+Lorpugo3 posts the small blind 10.00
+Uplay2lose posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ah Kc Td]
+Lorpugo3 raises 30.00 to 40.00
+Uplay2lose calls 20.00
+*** FLOP *** [Qc 4d 9d]
+Main pot 80.00
+Uplay2lose checks
+Lorpugo3 bets 60.00
+Uplay2lose raises 210.00 to 210.00
+Lorpugo3 raises 450.00 to 510.00 and is all-in
+Uplay2lose calls 200.00 and is all-in
+Uncalled bet (100.00) returned to Lorpugo3
+*** TURN *** [Qc 4d 9d] [As]
+Main pot 900.00
+*** RIVER *** [Qc 4d 9d As] [5h]
+Main pot 900.00
+*** SHOW DOWN ***
+Main pot 900.00
+Uplay2lose shows [9h 6c 9s Kd] (three of a kind, Set of Nines [9s 9h 9d As Qc])
+Lorpugo3 shows [Qh Ah Kc Td] (two pair, Aces and Queens [As Ah Qh Qc 9d])
+Uplay2lose collected 900.00 from main pot
+*** SUMMARY ***
+Total pot 900.00
+Board [Qc 4d 9d As 5h]
+Seat 1: Uplay2lose (big blind) showed [9h 6c 9s Kd] and won 900.00 with three of a kind, Set of Nines [9s 9h 9d As Qc]
+Seat 2: Lorpugo3 (button) showed [Qh Ah Kc Td] and lost with two pair, Aces and Queens [As Ah Qh Qc 9d]
+
+Game Hand #437739876 - Tournament #21805998 - Omaha(Pot Limit) - Level 1 (10.00/20.00)- 2020/07/14 21:09:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Uplay2lose (900.00)
+Seat 2: Lorpugo3 (100.00)
+Uplay2lose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 4d 5s 5d]
+Uplay2lose raises 50.00 to 60.00
+Lorpugo3 raises 80.00 to 100.00 and is all-in
+Uplay2lose calls 40.00
+*** FLOP *** [Kd 8d Kh]
+Main pot 200.00
+*** TURN *** [Kd 8d Kh] [6h]
+Main pot 200.00
+*** RIVER *** [Kd 8d Kh 6h] [6d]
+Main pot 200.00
+*** SHOW DOWN ***
+Main pot 200.00
+Uplay2lose shows [8h 6c Ts 8c] (a full house, Eights full of Kings [8h 8d 8c Kh Kd])
+Lorpugo3 shows [Qh 4d 5s 5d] (a flush, King high [Kd 8d 6d 5d 4d])
+Uplay2lose collected 200.00 from main pot
+*** SUMMARY ***
+Total pot 200.00
+Board [Kd 8d Kh 6h 6d]
+Seat 1: Uplay2lose (button) showed [8h 6c Ts 8c] and won 200.00 with a full house, Eights full of Kings [8h 8d 8c Kh Kd]
+Seat 2: Lorpugo3 (big blind) showed [Qh 4d 5s 5d] and lost with a flush, King high [Kd 8d 6d 5d 4d]
+

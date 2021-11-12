@@ -1,0 +1,314 @@
+Game Hand #437691421 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:28:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Donwannabee (1500.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 7s]
+Lorpugo3 folds
+Donwannabee does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Donwannabee did not show and won 30.00
+
+Game Hand #437691610 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:28:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: Donwannabee (1510.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 9d]
+Donwannabee calls 10.00
+Lorpugo3 raises 50.00 to 70.00
+Donwannabee calls 50.00
+*** FLOP *** [Js 8d 8s]
+Main pot 140.00
+Lorpugo3 bets 105.00
+Donwannabee folds
+Uncalled bet (105.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Js 8d 8s]
+Seat 1: Lorpugo3 did not show and won 140.00
+Seat 2: Donwannabee (button) folded on the Flop
+
+Game Hand #437692230 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:29:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Donwannabee (1440.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Th]
+Lorpugo3 raises 40.00 to 50.00
+Donwannabee folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Donwannabee (big blind) folded on the Pre-Flop
+
+Game Hand #437692494 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:29:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: Donwannabee (1420.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 2h]
+Donwannabee raises 1410.00 to 1420.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1400.00) returned to Donwannabee
+Donwannabee does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Donwannabee did not show and won 40.00
+
+Game Hand #437692822 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:29:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Donwannabee (1440.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 7h]
+Lorpugo3 raises 60.00 to 70.00
+Donwannabee calls 50.00
+*** FLOP *** [Ad 7s Tc]
+Main pot 140.00
+Donwannabee checks
+Lorpugo3 bets 70.00
+Donwannabee folds
+Uncalled bet (70.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Ad 7s Tc]
+Seat 1: Lorpugo3 did not show and won 140.00
+Seat 2: Donwannabee (big blind) folded on the Flop
+
+Game Hand #437693494 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:30:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1630.00)
+Seat 2: Donwannabee (1370.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 8s]
+Donwannabee raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8d 9c 4c]
+Main pot 100.00
+Lorpugo3 bets 130.00
+Donwannabee folds
+Uncalled bet (130.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [8d 9c 4c]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: Donwannabee (button) folded on the Flop
+
+Game Hand #437694119 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:30:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1680.00)
+Seat 2: Donwannabee (1320.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 6h]
+Lorpugo3 raises 50.00 to 60.00
+Donwannabee folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Donwannabee (big blind) folded on the Pre-Flop
+
+Game Hand #437694322 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:30:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1700.00)
+Seat 2: Donwannabee (1300.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 8d]
+Donwannabee calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qh 4c Qc]
+Main pot 40.00
+Lorpugo3 checks
+Donwannabee bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [Qh 4c Qc] [8s]
+Main pot 80.00
+Lorpugo3 bets 50.00
+Donwannabee calls 50.00
+*** RIVER *** [Qh 4c Qc 8s] [3h]
+Main pot 180.00
+Lorpugo3 bets 45.00
+Donwannabee raises 1210.00 to 1210.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1165.00) returned to Donwannabee
+Donwannabee does not show
+*** SUMMARY ***
+Total pot 270.00
+Board [Qh 4c Qc 8s 3h]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Donwannabee did not show and won 270.00
+
+Game Hand #437695691 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:32:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1565.00)
+Seat 2: Donwannabee (1435.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Td]
+Lorpugo3 raises 40.00 to 50.00
+Donwannabee folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Donwannabee (big blind) folded on the Pre-Flop
+
+Game Hand #437695972 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:32:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1585.00)
+Seat 2: Donwannabee (1415.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Kd]
+Donwannabee folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Donwannabee (button) folded on the Pre-Flop
+
+Game Hand #437696128 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:32:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1595.00)
+Seat 2: Donwannabee (1405.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Th]
+Lorpugo3 raises 40.00 to 50.00
+Donwannabee calls 30.00
+*** FLOP *** [9c 4h 8h]
+Main pot 100.00
+Donwannabee bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Donwannabee
+Donwannabee does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9c 4h 8h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: Donwannabee did not show and won 100.00
+
+Game Hand #437696679 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:32:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1545.00)
+Seat 2: Donwannabee (1455.00)
+Donwannabee posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 3s]
+Donwannabee calls 10.00
+Lorpugo3 raises 60.00 to 80.00
+Donwannabee calls 60.00
+*** FLOP *** [2s 7h Ts]
+Main pot 160.00
+Lorpugo3 bets 120.00
+Donwannabee folds
+Uncalled bet (120.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [2s 7h Ts]
+Seat 1: Lorpugo3 did not show and won 160.00
+Seat 2: Donwannabee (button) folded on the Flop
+
+Game Hand #437697207 - Tournament #21806055 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/14 20:33:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1625.00)
+Seat 2: Donwannabee (1375.00)
+Lorpugo3 posts the small blind 10.00
+Donwannabee posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8d]
+Lorpugo3 calls 10.00
+Donwannabee checks
+*** FLOP *** [Ks Ac 7c]
+Main pot 40.00
+Donwannabee checks
+Lorpugo3 bets 60.00
+Donwannabee folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Ks Ac 7c]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Donwannabee (big blind) folded on the Flop
+
+Game Hand #437697935 - Tournament #21806055 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 20:33:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1645.00)
+Seat 2: Donwannabee (1355.00)
+Donwannabee posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 6s]
+Donwannabee folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Donwannabee (button) folded on the Pre-Flop
+
+Game Hand #437698087 - Tournament #21806055 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/14 20:33:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1660.00)
+Seat 2: Donwannabee (1340.00)
+Lorpugo3 posts the small blind 15.00
+Donwannabee posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Kd]
+Lorpugo3 raises 60.00 to 75.00
+Donwannabee raises 90.00 to 120.00
+Lorpugo3 raises 225.00 to 300.00
+Donwannabee calls 180.00
+*** FLOP *** [9d Jd Qh]
+Main pot 600.00
+Donwannabee checks
+Lorpugo3 bets 600.00
+Donwannabee raises 1040.00 to 1040.00 and is all-in
+Lorpugo3 calls 440.00
+*** TURN *** [9d Jd Qh] [2d]
+Main pot 2680.00
+*** RIVER *** [9d Jd Qh 2d] [Ad]
+Main pot 2680.00
+*** SHOW DOWN ***
+Main pot 2680.00
+Lorpugo3 shows [Kc Kd] (a flush, Ace high [Ad Kd Jd 9d 2d])
+Donwannabee shows [9c Qs] (two pair, Queens and Nines [Qs Qh 9d 9c Ad])
+Lorpugo3 collected 2680.00 from main pot
+*** SUMMARY ***
+Total pot 2680.00
+Board [9d Jd Qh 2d Ad]
+Seat 1: Lorpugo3 (button) showed [Kc Kd] and won 2680.00 with a flush, Ace high [Ad Kd Jd 9d 2d]
+Seat 2: Donwannabee (big blind) showed [9c Qs] and lost with two pair, Queens and Nines [Qs Qh 9d 9c Ad]
+

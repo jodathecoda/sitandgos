@@ -1,0 +1,145 @@
+Game Hand #369615767 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:14:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Time2Suckout (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Time2Suckout posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 5d]
+Time2Suckout calls 10.00
+Lorpugo3 checks
+*** FLOP *** [2h Jh 2d]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Time2Suckout calls 20.00
+*** TURN *** [2h Jh 2d] [3h]
+Main pot 80.00
+Lorpugo3 checks
+Time2Suckout bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Time2Suckout
+Time2Suckout does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2h Jh 2d 3h]
+Seat 1: Time2Suckout did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #369617473 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:15:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Time2Suckout (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 10.00
+Time2Suckout posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Ad]
+Lorpugo3 raises 50.00 to 60.00
+Time2Suckout calls 40.00
+*** FLOP *** [Ks Qh Qd]
+Main pot 120.00
+Time2Suckout checks
+Lorpugo3 bets 40.00
+Time2Suckout folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ks Qh Qd]
+Seat 1: Time2Suckout (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #369618409 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:15:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Time2Suckout (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Time2Suckout posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4h]
+Time2Suckout calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ac Ks 6c]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Time2Suckout folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Ac Ks 6c]
+Seat 1: Time2Suckout (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #369619432 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:16:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Time2Suckout (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+Time2Suckout posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 4d]
+Lorpugo3 calls 10.00
+Time2Suckout checks
+*** FLOP *** [9c Jd Ts]
+Main pot 40.00
+Time2Suckout bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Time2Suckout
+Time2Suckout does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9c Jd Ts]
+Seat 1: Time2Suckout did not show and won 40.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #369620514 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:17:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Time2Suckout (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Time2Suckout posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4d]
+Time2Suckout raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Time2Suckout
+Time2Suckout does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Time2Suckout did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #369621757 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:17:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Time2Suckout (1500.00) is sitting out
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Time2Suckout posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Ks]
+Lorpugo3 raises 30.00 to 40.00
+Time2Suckout folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Time2Suckout (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #369622006 - Tournament #20748676 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/23 23:18:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Time2Suckout (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Time2Suckout posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 4c]
+Time2Suckout raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Time2Suckout
+Time2Suckout does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Time2Suckout did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+

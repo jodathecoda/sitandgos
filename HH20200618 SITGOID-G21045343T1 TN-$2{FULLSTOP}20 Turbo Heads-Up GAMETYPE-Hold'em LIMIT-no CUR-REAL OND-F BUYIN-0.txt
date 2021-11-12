@@ -1,0 +1,671 @@
+Game Hand #405096637 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:37:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: jessica74 (1500.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Kd]
+Lorpugo3 raises 50.00 to 60.00
+jessica74 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: jessica74 (big blind) folded on the Pre-Flop
+
+Game Hand #405096685 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:37:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: jessica74 (1480.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9d]
+jessica74 calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+jessica74 calls 30.00
+*** FLOP *** [7d Qd Tc]
+Main pot 100.00
+Lorpugo3 checks
+jessica74 bets 75.00
+Lorpugo3 calls 75.00
+*** TURN *** [7d Qd Tc] [3s]
+Main pot 250.00
+Lorpugo3 checks
+jessica74 checks
+*** RIVER *** [7d Qd Tc 3s] [9c]
+Main pot 250.00
+Lorpugo3 checks
+jessica74 bets 188.00
+Lorpugo3 folds
+Uncalled bet (188.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [7d Qd Tc 3s 9c]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: jessica74 did not show and won 250.00
+
+Game Hand #405096877 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:37:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1395.00)
+Seat 2: jessica74 (1605.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Ad]
+Lorpugo3 raises 40.00 to 50.00
+jessica74 calls 30.00
+*** FLOP *** [8h 4d Kh]
+Main pot 100.00
+jessica74 checks
+Lorpugo3 checks
+*** TURN *** [8h 4d Kh] [3c]
+Main pot 100.00
+jessica74 checks
+Lorpugo3 bets 30.00
+jessica74 calls 30.00
+*** RIVER *** [8h 4d Kh 3c] [Jh]
+Main pot 160.00
+jessica74 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+jessica74 shows [6h 7d] (a high card, King high [Kh Jh 8h 7d 6h])
+Lorpugo3 shows [4s Ad] (a pair of Fours [4s 4d Ad Kh Jh])
+Lorpugo3 collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [8h 4d Kh 3c Jh]
+Seat 1: Lorpugo3 (button) showed [4s Ad] and won 160.00 with a pair of Fours [4s 4d Ad Kh Jh]
+Seat 2: jessica74 (big blind) showed [6h 7d] and lost with a high card, King high [Kh Jh 8h 7d 6h]
+
+Game Hand #405097045 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:38:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1475.00)
+Seat 2: jessica74 (1525.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8c]
+jessica74 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [7c Tc As]
+Main pot 40.00
+Lorpugo3 checks
+jessica74 bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [7c Tc As] [Jd]
+Main pot 80.00
+Lorpugo3 checks
+jessica74 bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [7c Tc As Jd] [8h]
+Main pot 200.00
+Lorpugo3 checks
+jessica74 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [7c Tc As Jd 8h]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: jessica74 did not show and won 200.00
+
+Game Hand #405097248 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:38:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1375.00)
+Seat 2: jessica74 (1625.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Js]
+Lorpugo3 folds
+jessica74 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 30.00
+
+Game Hand #405097284 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:38:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1365.00)
+Seat 2: jessica74 (1635.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 2d]
+jessica74 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [8h 5c Jh]
+Main pot 80.00
+Lorpugo3 checks
+jessica74 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [8h 5c Jh]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: jessica74 did not show and won 80.00
+
+Game Hand #405097403 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:39:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1325.00)
+Seat 2: jessica74 (1675.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 3h]
+Lorpugo3 raises 40.00 to 50.00
+jessica74 calls 30.00
+*** FLOP *** [Ac Ks Jc]
+Main pot 100.00
+jessica74 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Ac Ks Jc]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: jessica74 did not show and won 100.00
+
+Game Hand #405097499 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:39:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1275.00)
+Seat 2: jessica74 (1725.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 6d]
+jessica74 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9s Qh Kc]
+Main pot 40.00
+Lorpugo3 checks
+jessica74 checks
+*** TURN *** [9s Qh Kc] [Qs]
+Main pot 40.00
+Lorpugo3 bets 30.00
+jessica74 calls 30.00
+*** RIVER *** [9s Qh Kc Qs] [2s]
+Main pot 100.00
+Lorpugo3 checks
+jessica74 checks
+*** SHOW DOWN ***
+Main pot 100.00
+Lorpugo3 shows [Ah 6d] (a pair of Queens [Qs Qh Ah Kc 9s])
+jessica74 mucks hand
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [9s Qh Kc Qs 2s]
+Seat 1: Lorpugo3 (big blind) showed [Ah 6d] and won 100.00 with a pair of Queens [Qs Qh Ah Kc 9s] with the kicker Ace
+Seat 2: jessica74 (button) mucked [Jd 3c]
+
+Game Hand #405097659 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:40:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1325.00)
+Seat 2: jessica74 (1675.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Jh]
+Lorpugo3 folds
+jessica74 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 30.00
+
+Game Hand #405097705 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:40:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1315.00)
+Seat 2: jessica74 (1685.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 3d]
+jessica74 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: jessica74 (button) folded on the Pre-Flop
+
+Game Hand #405097727 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:40:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1325.00)
+Seat 2: jessica74 (1675.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Ad]
+Lorpugo3 raises 40.00 to 50.00
+jessica74 calls 30.00
+*** FLOP *** [4s 4c 8s]
+Main pot 100.00
+jessica74 checks
+Lorpugo3 bets 60.00
+jessica74 calls 60.00
+*** TURN *** [4s 4c 8s] [6h]
+Main pot 220.00
+jessica74 checks
+Lorpugo3 checks
+*** RIVER *** [4s 4c 8s 6h] [Kh]
+Main pot 220.00
+jessica74 bets 165.00
+Lorpugo3 folds
+Uncalled bet (165.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 220.00
+Board [4s 4c 8s 6h Kh]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: jessica74 did not show and won 220.00
+
+Game Hand #405097998 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:40:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1215.00)
+Seat 2: jessica74 (1785.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 4s]
+jessica74 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: jessica74 (button) folded on the Pre-Flop
+
+Game Hand #405098033 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:41:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1225.00)
+Seat 2: jessica74 (1775.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 4d]
+Lorpugo3 raises 40.00 to 50.00
+jessica74 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: jessica74 (big blind) folded on the Pre-Flop
+
+Game Hand #405098080 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:41:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1245.00)
+Seat 2: jessica74 (1755.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Td]
+jessica74 calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+jessica74 calls 30.00
+*** FLOP *** [8s 6h Ah]
+Main pot 100.00
+Lorpugo3 bets 50.00
+jessica74 calls 50.00
+*** TURN *** [8s 6h Ah] [6c]
+Main pot 200.00
+Lorpugo3 checks
+jessica74 bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [8s 6h Ah 6c] [3s]
+Main pot 400.00
+Lorpugo3 checks
+jessica74 bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [8s 6h Ah 6c 3s]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: jessica74 did not show and won 400.00
+
+Game Hand #405098300 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:41:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1045.00)
+Seat 2: jessica74 (1955.00)
+Lorpugo3 posts the small blind 10.00
+jessica74 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 8s]
+Lorpugo3 raises 30.00 to 40.00
+jessica74 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: jessica74 (big blind) folded on the Pre-Flop
+
+Game Hand #405098354 - Tournament #21045343 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 12:41:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1065.00)
+Seat 2: jessica74 (1935.00)
+jessica74 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Td]
+jessica74 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 40.00
+
+Game Hand #405098408 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:42:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1045.00)
+Seat 2: jessica74 (1955.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 8s]
+Lorpugo3 raises 60.00 to 75.00
+jessica74 calls 45.00
+*** FLOP *** [Ac Ah 8h]
+Main pot 150.00
+jessica74 checks
+Lorpugo3 bets 75.00
+jessica74 calls 75.00
+*** TURN *** [Ac Ah 8h] [4d]
+Main pot 300.00
+jessica74 checks
+Lorpugo3 bets 150.00
+jessica74 calls 150.00
+*** RIVER *** [Ac Ah 8h 4d] [Tc]
+Main pot 600.00
+jessica74 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 600.00
+jessica74 shows [9h 8d] (two pair, Aces and Eights [Ah Ac 8h 8d Tc])
+Lorpugo3 shows [7h 8s] (two pair, Aces and Eights [Ah Ac 8s 8h Tc])
+Lorpugo3 collected 300.00 from main pot
+jessica74 collected 300.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [Ac Ah 8h 4d Tc]
+Seat 1: Lorpugo3 (button) showed [7h 8s] and won 300.00 with two pair, Aces and Eights [Ah Ac 8s 8h Tc]
+Seat 2: jessica74 (big blind) showed [9h 8d] and won 300.00 with two pair, Aces and Eights [Ah Ac 8h 8d Tc]
+
+Game Hand #405098597 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:42:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1045.00)
+Seat 2: jessica74 (1955.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 6d]
+jessica74 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [4s 8c Qh]
+Main pot 60.00
+Lorpugo3 checks
+jessica74 checks
+*** TURN *** [4s 8c Qh] [5d]
+Main pot 60.00
+Lorpugo3 bets 45.00
+jessica74 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [4s 8c Qh 5d]
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: jessica74 (button) folded on the Turn
+
+Game Hand #405098736 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:43:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1075.00)
+Seat 2: jessica74 (1925.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 3s]
+Lorpugo3 folds
+jessica74 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 45.00
+
+Game Hand #405098767 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:43:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1060.00)
+Seat 2: jessica74 (1940.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Th]
+jessica74 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: jessica74 (button) folded on the Pre-Flop
+
+Game Hand #405098797 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:43:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1075.00)
+Seat 2: jessica74 (1925.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Kc]
+Lorpugo3 raises 45.00 to 60.00
+jessica74 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: jessica74 (big blind) folded on the Pre-Flop
+
+Game Hand #405098840 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:43:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1105.00)
+Seat 2: jessica74 (1895.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Qd]
+jessica74 calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+jessica74 calls 45.00
+*** FLOP *** [Ad 4h Kh]
+Main pot 150.00
+Lorpugo3 checks
+jessica74 bets 113.00
+Lorpugo3 folds
+Uncalled bet (113.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Ad 4h Kh]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: jessica74 did not show and won 150.00
+
+Game Hand #405098988 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:43:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1030.00)
+Seat 2: jessica74 (1970.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Ks]
+Lorpugo3 raises 45.00 to 60.00
+jessica74 raises 60.00 to 90.00
+Lorpugo3 calls 30.00
+*** FLOP *** [7d 7c 2s]
+Main pot 180.00
+jessica74 bets 135.00
+Lorpugo3 folds
+Uncalled bet (135.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [7d 7c 2s]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: jessica74 did not show and won 180.00
+
+Game Hand #405099099 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:44:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (940.00)
+Seat 2: jessica74 (2060.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 6d]
+jessica74 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: jessica74 (button) folded on the Pre-Flop
+
+Game Hand #405099133 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:44:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (955.00)
+Seat 2: jessica74 (2045.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 9d]
+Lorpugo3 folds
+jessica74 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 45.00
+
+Game Hand #405099175 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:44:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (940.00)
+Seat 2: jessica74 (2060.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 5d]
+jessica74 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [8d 7d Th]
+Main pot 60.00
+Lorpugo3 checks
+jessica74 bets 45.00
+Lorpugo3 calls 45.00
+*** TURN *** [8d 7d Th] [8c]
+Main pot 150.00
+Lorpugo3 checks
+jessica74 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [8d 7d Th 8c]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: jessica74 did not show and won 150.00
+
+Game Hand #405099341 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:44:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (865.00)
+Seat 2: jessica74 (2135.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3c]
+Lorpugo3 raises 45.00 to 60.00
+jessica74 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: jessica74 (big blind) folded on the Pre-Flop
+
+Game Hand #405099395 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:45:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (895.00)
+Seat 2: jessica74 (2105.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 8s]
+jessica74 raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [7d 2h 3c]
+Main pot 120.00
+Lorpugo3 checks
+jessica74 bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to jessica74
+jessica74 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [7d 2h 3c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: jessica74 did not show and won 120.00
+
+Game Hand #405099529 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:45:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (835.00)
+Seat 2: jessica74 (2165.00)
+Lorpugo3 posts the small blind 15.00
+jessica74 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 7d]
+Lorpugo3 folds
+jessica74 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: jessica74 did not show and won 45.00
+
+Game Hand #405099578 - Tournament #21045343 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 12:45:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (820.00)
+Seat 2: jessica74 (2180.00)
+jessica74 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Ac]
+jessica74 raises 45.00 to 60.00
+Lorpugo3 raises 150.00 to 180.00
+jessica74 calls 120.00
+*** FLOP *** [2d 7h 4d]
+Main pot 360.00
+Lorpugo3 checks
+jessica74 bets 180.00
+Lorpugo3 raises 640.00 to 640.00 and is all-in
+jessica74 calls 460.00
+*** TURN *** [2d 7h 4d] [Ks]
+Main pot 1640.00
+*** RIVER *** [2d 7h 4d Ks] [5h]
+Main pot 1640.00
+*** SHOW DOWN ***
+Main pot 1640.00
+Lorpugo3 shows [Qd Ac] (a high card, Ace high [Ac Ks Qd 7h 5h])
+jessica74 shows [3d As] (a straight, Five high [5h 4d 3d 2d As])
+jessica74 collected 1640.00 from main pot
+*** SUMMARY ***
+Total pot 1640.00
+Board [2d 7h 4d Ks 5h]
+Seat 1: Lorpugo3 (big blind) showed [Qd Ac] and lost with a high card, Ace high [Ac Ks Qd 7h 5h]
+Seat 2: jessica74 (button) showed [3d As] and won 1640.00 with a straight, Five high [5h 4d 3d 2d As]
+

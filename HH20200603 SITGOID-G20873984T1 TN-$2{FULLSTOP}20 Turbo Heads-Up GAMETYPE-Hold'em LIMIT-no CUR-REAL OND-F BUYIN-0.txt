@@ -1,0 +1,462 @@
+Game Hand #384056284 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:57:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Ah]
+Lorpugo3 raises 40.00 to 50.00
+Hornwriter calls 30.00
+*** FLOP *** [5c 6d 7s]
+Main pot 100.00
+Hornwriter bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [5c 6d 7s] [9h]
+Main pot 140.00
+Hornwriter checks
+Lorpugo3 checks
+*** RIVER *** [5c 6d 7s 9h] [Jh]
+Main pot 140.00
+Hornwriter bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [5c 6d 7s 9h Jh]
+Seat 1: Hornwriter did not show and won 140.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #384056632 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:58:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (1570.00)
+Seat 2: Lorpugo3 (1430.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5c]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384056756 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:58:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (1590.00)
+Seat 2: Lorpugo3 (1410.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Js]
+Lorpugo3 folds
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hornwriter did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384056841 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:58:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (1600.00)
+Seat 2: Lorpugo3 (1400.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Jd]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 raises 130.00 to 150.00
+Hornwriter calls 90.00
+*** FLOP *** [6s Jh 4c]
+Main pot 300.00
+Lorpugo3 bets 150.00
+Hornwriter calls 150.00
+*** TURN *** [6s Jh 4c] [5d]
+Main pot 600.00
+Lorpugo3 bets 300.00
+Hornwriter calls 300.00
+*** RIVER *** [6s Jh 4c 5d] [8d]
+Main pot 1200.00
+Lorpugo3 checks
+Hornwriter checks
+*** SHOW DOWN ***
+Main pot 1200.00
+Lorpugo3 shows [Td Jd] (a pair of Jacks [Jh Jd Td 8d 6s])
+Hornwriter mucks hand
+Lorpugo3 collected 1200.00 from main pot
+*** SUMMARY ***
+Total pot 1200.00
+Board [6s Jh 4c 5d 8d]
+Seat 1: Hornwriter (button) mucked [9s 9d]
+Seat 2: Lorpugo3 (big blind) showed [Td Jd] and won 1200.00 with a pair of Jacks [Jh Jd Td 8d 6s]
+
+Game Hand #384057314 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:59:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (1000.00)
+Seat 2: Lorpugo3 (2000.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Js]
+Lorpugo3 raises 40.00 to 50.00
+Hornwriter folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384057437 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:59:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (980.00)
+Seat 2: Lorpugo3 (2020.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 7c]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [4d 7s Tc]
+Main pot 120.00
+Lorpugo3 checks
+Hornwriter bets 80.00
+Lorpugo3 calls 80.00
+*** TURN *** [4d 7s Tc] [7h]
+Main pot 280.00
+Lorpugo3 checks
+Hornwriter checks
+*** RIVER *** [4d 7s Tc 7h] [6h]
+Main pot 280.00
+Lorpugo3 checks
+Hornwriter checks
+*** SHOW DOWN ***
+Main pot 280.00
+Lorpugo3 shows [6d 7c] (a full house, Sevens full of Sixs [7s 7h 7c 6h 6d])
+Hornwriter mucks hand
+Lorpugo3 collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [4d 7s Tc 7h 6h]
+Seat 1: Hornwriter (button) mucked [3s Kd]
+Seat 2: Lorpugo3 (big blind) showed [6d 7c] and won 280.00 with a full house, Sevens full of Sixs [7s 7h 7c 6h 6d]
+
+Game Hand #384057947 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:00:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (840.00)
+Seat 2: Lorpugo3 (2160.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 2c]
+Lorpugo3 folds
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hornwriter did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384058031 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:00:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (850.00)
+Seat 2: Lorpugo3 (2150.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 2d]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [Jd Ks 9d]
+Main pot 120.00
+Lorpugo3 checks
+Hornwriter checks
+*** TURN *** [Jd Ks 9d] [3h]
+Main pot 120.00
+Lorpugo3 checks
+Hornwriter checks
+*** RIVER *** [Jd Ks 9d 3h] [6s]
+Main pot 120.00
+Lorpugo3 checks
+Hornwriter checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [3d 2d] (a pair of Threes [3h 3d Ks Jd 9d])
+Hornwriter mucks hand
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Jd Ks 9d 3h 6s]
+Seat 1: Hornwriter (button) mucked [7h 8s]
+Seat 2: Lorpugo3 (big blind) showed [3d 2d] and won 120.00 with a pair of Threes [3h 3d Ks Jd 9d]
+
+Game Hand #384058621 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:00:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (790.00)
+Seat 2: Lorpugo3 (2210.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 4s]
+Lorpugo3 raises 40.00 to 50.00
+Hornwriter folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384058831 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:01:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (770.00)
+Seat 2: Lorpugo3 (2230.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 6h]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384058978 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:01:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (790.00)
+Seat 2: Lorpugo3 (2210.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Jc]
+Lorpugo3 folds
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hornwriter did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384059093 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:01:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (800.00)
+Seat 2: Lorpugo3 (2200.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 2s]
+Hornwriter raises 60.00 to 70.00
+Lorpugo3 calls 50.00
+*** FLOP *** [6h Kc 5h]
+Main pot 140.00
+Lorpugo3 checks
+Hornwriter bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [6h Kc 5h]
+Seat 1: Hornwriter did not show and won 140.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #384059702 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:01:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (870.00)
+Seat 2: Lorpugo3 (2130.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 9c]
+Lorpugo3 raises 50.00 to 60.00
+Hornwriter folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384059864 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:02:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (850.00)
+Seat 2: Lorpugo3 (2150.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 9c]
+Hornwriter raises 60.00 to 70.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384060029 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:02:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (870.00)
+Seat 2: Lorpugo3 (2130.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Qc]
+Lorpugo3 folds
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hornwriter did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384060141 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:02:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (880.00)
+Seat 2: Lorpugo3 (2120.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 7s]
+Hornwriter folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Hornwriter (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384060242 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:02:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (870.00)
+Seat 2: Lorpugo3 (2130.00)
+Lorpugo3 posts the small blind 10.00
+Hornwriter posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Td]
+Lorpugo3 raises 60.00 to 70.00
+Hornwriter folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384060481 - Tournament #20873984 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:02:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (850.00)
+Seat 2: Lorpugo3 (2150.00)
+Hornwriter posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Jd]
+Hornwriter raises 50.00 to 60.00
+Lorpugo3 raises 150.00 to 170.00
+Hornwriter calls 110.00
+*** FLOP *** [5h 7d 3s]
+Main pot 340.00
+Lorpugo3 checks
+Hornwriter bets 680.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (680.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 340.00
+Board [5h 7d 3s]
+Seat 1: Hornwriter did not show and won 340.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #384061222 - Tournament #20873984 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:03:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (1020.00)
+Seat 2: Lorpugo3 (1980.00)
+Lorpugo3 posts the small blind 15.00
+Hornwriter posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Kh]
+Lorpugo3 raises 75.00 to 90.00
+Hornwriter folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #384061427 - Tournament #20873984 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:03:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (990.00)
+Seat 2: Lorpugo3 (2010.00)
+Hornwriter posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Qd]
+Hornwriter raises 90.00 to 105.00
+Lorpugo3 calls 75.00
+*** FLOP *** [Ac 5h 8h]
+Main pot 210.00
+Lorpugo3 checks
+Hornwriter bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to Hornwriter
+Hornwriter does not show
+*** SUMMARY ***
+Total pot 210.00
+Board [Ac 5h 8h]
+Seat 1: Hornwriter did not show and won 210.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #384061858 - Tournament #20873984 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:03:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Hornwriter (1095.00)
+Seat 2: Lorpugo3 (1905.00)
+Lorpugo3 posts the small blind 15.00
+Hornwriter posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ah]
+Lorpugo3 raises 90.00 to 105.00
+Hornwriter folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Hornwriter (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #384062132 - Tournament #20873984 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/02 22:03:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Hornwriter (1065.00)
+Seat 2: Lorpugo3 (1935.00)
+Hornwriter posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Td]
+Hornwriter raises 105.00 to 120.00
+Lorpugo3 calls 90.00
+*** FLOP *** [5s Ts 8h]
+Main pot 240.00
+Lorpugo3 checks
+Hornwriter bets 200.00
+Lorpugo3 calls 200.00
+*** TURN *** [5s Ts 8h] [As]
+Main pot 640.00
+Lorpugo3 checks
+Hornwriter bets 745.00 and is all-in
+Lorpugo3 calls 745.00
+*** RIVER *** [5s Ts 8h As] [2d]
+Main pot 2130.00
+*** SHOW DOWN ***
+Main pot 2130.00
+Hornwriter shows [Ac Qd] (a pair of Aces [As Ac Qd Ts 8h])
+Lorpugo3 shows [8s Td] (two pair, Tens and Eights [Ts Td 8s 8h As])
+Lorpugo3 collected 2130.00 from main pot
+*** SUMMARY ***
+Total pot 2130.00
+Board [5s Ts 8h As 2d]
+Seat 1: Hornwriter (button) showed [Ac Qd] and lost with a pair of Aces [As Ac Qd Ts 8h]
+Seat 2: Lorpugo3 (big blind) showed [8s Td] and won 2130.00 with two pair, Tens and Eights [Ts Td 8s 8h As]
+

@@ -1,0 +1,601 @@
+Game Hand #384906659 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:47:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: DanielCB3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+DanielCB3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 5s]
+Lorpugo3 raises 50.00 to 60.00
+DanielCB3 raises 1480.00 to 1500.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1440.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 120.00
+
+Game Hand #384906720 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:47:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1440.00)
+Seat 2: DanielCB3 (1560.00)
+DanielCB3 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6c]
+DanielCB3 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jd 8d 5s]
+Main pot 80.00
+Lorpugo3 checks
+DanielCB3 bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [Jd 8d 5s] [Kd]
+Main pot 140.00
+Lorpugo3 checks
+DanielCB3 bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Jd 8d 5s Kd]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: DanielCB3 did not show and won 140.00
+
+Game Hand #384906975 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:48:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1370.00)
+Seat 2: DanielCB3 (1630.00)
+Lorpugo3 posts the small blind 10.00
+DanielCB3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3c]
+Lorpugo3 raises 30.00 to 40.00
+DanielCB3 calls 20.00
+*** FLOP *** [5s Jd 8c]
+Main pot 80.00
+DanielCB3 checks
+Lorpugo3 checks
+*** TURN *** [5s Jd 8c] [7s]
+Main pot 80.00
+DanielCB3 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [5s Jd 8c 7s]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: DanielCB3 did not show and won 80.00
+
+Game Hand #384907174 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:49:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: DanielCB3 (1670.00)
+DanielCB3 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Th]
+DanielCB3 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5h Qd 4d]
+Main pot 80.00
+Lorpugo3 checks
+DanielCB3 bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [5h Qd 4d] [9h]
+Main pot 120.00
+Lorpugo3 checks
+DanielCB3 checks
+*** RIVER *** [5h Qd 4d 9h] [Qc]
+Main pot 120.00
+Lorpugo3 checks
+DanielCB3 checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [4h Th] (two pair, Queens and Fours [Qd Qc 4h 4d Th])
+DanielCB3 mucks hand
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [5h Qd 4d 9h Qc]
+Seat 1: Lorpugo3 (big blind) showed [4h Th] and won 120.00 with two pair, Queens and Fours [Qd Qc 4h 4d Th]
+Seat 2: DanielCB3 (button) mucked [2c Kc]
+
+Game Hand #384907437 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:49:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1390.00)
+Seat 2: DanielCB3 (1610.00)
+Lorpugo3 posts the small blind 10.00
+DanielCB3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Qh]
+Lorpugo3 raises 60.00 to 70.00
+DanielCB3 calls 50.00
+*** FLOP *** [8s 2h 5h]
+Main pot 140.00
+DanielCB3 bets 70.00
+Lorpugo3 calls 70.00
+*** TURN *** [8s 2h 5h] [2s]
+Main pot 280.00
+DanielCB3 bets 140.00
+Lorpugo3 calls 140.00
+*** RIVER *** [8s 2h 5h 2s] [7s]
+Main pot 560.00
+DanielCB3 checks
+Lorpugo3 bets 350.00
+DanielCB3 folds
+Uncalled bet (350.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 560.00
+Board [8s 2h 5h 2s 7s]
+Seat 1: Lorpugo3 did not show and won 560.00
+Seat 2: DanielCB3 (big blind) folded on the River
+
+Game Hand #384907763 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:50:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1670.00)
+Seat 2: DanielCB3 (1330.00)
+DanielCB3 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Ac]
+DanielCB3 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5s 8h 9c]
+Main pot 80.00
+Lorpugo3 checks
+DanielCB3 checks
+*** TURN *** [5s 8h 9c] [4h]
+Main pot 80.00
+Lorpugo3 bets 50.00
+DanielCB3 calls 50.00
+*** RIVER *** [5s 8h 9c 4h] [5c]
+Main pot 180.00
+Lorpugo3 checks
+DanielCB3 checks
+*** SHOW DOWN ***
+Main pot 180.00
+Lorpugo3 shows [8s Ac] (two pair, Eights and Fives [8s 8h 5s 5c Ac])
+DanielCB3 mucks hand
+Lorpugo3 collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [5s 8h 9c 4h 5c]
+Seat 1: Lorpugo3 (big blind) showed [8s Ac] and won 180.00 with two pair, Eights and Fives [8s 8h 5s 5c Ac]
+Seat 2: DanielCB3 (button) mucked [Ks 4s]
+
+Game Hand #384907942 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:51:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1760.00)
+Seat 2: DanielCB3 (1240.00)
+Lorpugo3 posts the small blind 10.00
+DanielCB3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c Ad]
+Lorpugo3 raises 40.00 to 50.00
+DanielCB3 calls 30.00
+*** FLOP *** [7h Jd 8d]
+Main pot 100.00
+DanielCB3 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [7h Jd 8d]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: DanielCB3 did not show and won 100.00
+
+Game Hand #384908046 - Tournament #20880569 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 11:51:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1710.00)
+Seat 2: DanielCB3 (1290.00)
+DanielCB3 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 9s]
+DanielCB3 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jc 7c 4h]
+Main pot 80.00
+Lorpugo3 checks
+DanielCB3 checks
+*** TURN *** [Jc 7c 4h] [5s]
+Main pot 80.00
+Lorpugo3 checks
+DanielCB3 bets 30.00
+Lorpugo3 calls 30.00
+*** RIVER *** [Jc 7c 4h 5s] [Kd]
+Main pot 140.00
+Lorpugo3 checks
+DanielCB3 bets 105.00
+Lorpugo3 folds
+Uncalled bet (105.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Jc 7c 4h 5s Kd]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: DanielCB3 did not show and won 140.00
+
+Game Hand #384908330 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:52:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1640.00)
+Seat 2: DanielCB3 (1360.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 3s]
+Lorpugo3 raises 45.00 to 60.00
+DanielCB3 raises 120.00 to 150.00
+Lorpugo3 folds
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 210.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 210.00
+
+Game Hand #384908399 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:53:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: DanielCB3 (1420.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s As]
+DanielCB3 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+DanielCB3 calls 75.00
+*** FLOP *** [4d 5c 9h]
+Main pot 210.00
+Lorpugo3 bets 120.00
+DanielCB3 calls 120.00
+*** TURN *** [4d 5c 9h] [Ac]
+Main pot 450.00
+Lorpugo3 bets 255.00
+DanielCB3 folds
+Uncalled bet (255.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 450.00
+Board [4d 5c 9h Ac]
+Seat 1: Lorpugo3 did not show and won 450.00
+Seat 2: DanielCB3 (button) folded on the Turn
+
+Game Hand #384908573 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:53:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1805.00)
+Seat 2: DanielCB3 (1195.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 6d]
+Lorpugo3 folds
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 45.00
+
+Game Hand #384908604 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:53:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1790.00)
+Seat 2: DanielCB3 (1210.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 7c]
+DanielCB3 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: DanielCB3 (button) folded on the Pre-Flop
+
+Game Hand #384908627 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:53:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1805.00)
+Seat 2: DanielCB3 (1195.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Tc]
+Lorpugo3 raises 90.00 to 105.00
+DanielCB3 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: DanielCB3 (big blind) folded on the Pre-Flop
+
+Game Hand #384908742 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1835.00)
+Seat 2: DanielCB3 (1165.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 8d]
+DanielCB3 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: DanielCB3 (button) folded on the Pre-Flop
+
+Game Hand #384908782 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1850.00)
+Seat 2: DanielCB3 (1150.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 5s]
+Lorpugo3 raises 45.00 to 60.00
+DanielCB3 calls 30.00
+*** FLOP *** [Jd 3d 4c]
+Main pot 120.00
+DanielCB3 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Jd 3d 4c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: DanielCB3 did not show and won 120.00
+
+Game Hand #384908863 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1790.00)
+Seat 2: DanielCB3 (1210.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 2s]
+DanielCB3 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: DanielCB3 (button) folded on the Pre-Flop
+
+Game Hand #384908890 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1805.00)
+Seat 2: DanielCB3 (1195.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 8d]
+Lorpugo3 folds
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 45.00
+
+Game Hand #384908932 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1790.00)
+Seat 2: DanielCB3 (1210.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 7c]
+DanielCB3 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 60.00
+
+Game Hand #384908977 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:54:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1760.00)
+Seat 2: DanielCB3 (1240.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Jc]
+Lorpugo3 raises 60.00 to 75.00
+DanielCB3 calls 45.00
+*** FLOP *** [2c 3c 5h]
+Main pot 150.00
+DanielCB3 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [2c 3c 5h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: DanielCB3 did not show and won 150.00
+
+Game Hand #384909054 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:55:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1685.00)
+Seat 2: DanielCB3 (1315.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 6s]
+DanielCB3 raises 45.00 to 60.00
+Lorpugo3 raises 105.00 to 135.00
+DanielCB3 calls 75.00
+*** FLOP *** [8s 3h As]
+Main pot 270.00
+Lorpugo3 bets 135.00
+DanielCB3 folds
+Uncalled bet (135.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 270.00
+Board [8s 3h As]
+Seat 1: Lorpugo3 did not show and won 270.00
+Seat 2: DanielCB3 (button) folded on the Flop
+
+Game Hand #384909151 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:55:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1820.00)
+Seat 2: DanielCB3 (1180.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Th]
+Lorpugo3 raises 60.00 to 75.00
+DanielCB3 calls 45.00
+*** FLOP *** [Jd Ts 9h]
+Main pot 150.00
+DanielCB3 bets 75.00
+Lorpugo3 calls 75.00
+*** TURN *** [Jd Ts 9h] [Ac]
+Main pot 300.00
+DanielCB3 bets 225.00
+Lorpugo3 raises 510.00 to 510.00
+DanielCB3 calls 285.00
+*** RIVER *** [Jd Ts 9h Ac] [6h]
+Main pot 1320.00
+DanielCB3 checks
+Lorpugo3 bets 1160.00 and is all-in
+DanielCB3 folds
+Uncalled bet (1160.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 1320.00
+Board [Jd Ts 9h Ac 6h]
+Seat 1: Lorpugo3 did not show and won 1320.00
+Seat 2: DanielCB3 (big blind) folded on the River
+
+Game Hand #384909312 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:56:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2480.00)
+Seat 2: DanielCB3 (520.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 4s]
+DanielCB3 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: DanielCB3 (button) folded on the Pre-Flop
+
+Game Hand #384909334 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:56:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2495.00)
+Seat 2: DanielCB3 (505.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Ac]
+Lorpugo3 raises 60.00 to 75.00
+DanielCB3 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: DanielCB3 (big blind) folded on the Pre-Flop
+
+Game Hand #384909420 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:56:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2525.00)
+Seat 2: DanielCB3 (475.00)
+DanielCB3 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 7d]
+DanielCB3 raises 460.00 to 475.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (445.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 60.00
+
+Game Hand #384909467 - Tournament #20880569 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/03 11:57:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2495.00)
+Seat 2: DanielCB3 (505.00)
+Lorpugo3 posts the small blind 15.00
+DanielCB3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Kd]
+Lorpugo3 raises 45.00 to 60.00
+DanielCB3 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: DanielCB3 (big blind) folded on the Pre-Flop
+
+Game Hand #384909599 - Tournament #20880569 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 11:57:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2525.00)
+Seat 2: DanielCB3 (475.00)
+DanielCB3 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 4c]
+DanielCB3 raises 450.00 to 475.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (425.00) returned to DanielCB3
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 100.00
+
+Game Hand #384909636 - Tournament #20880569 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 11:57:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2475.00)
+Seat 2: DanielCB3 (525.00)
+Lorpugo3 posts the small blind 25.00
+DanielCB3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 6s]
+Lorpugo3 folds
+DanielCB3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DanielCB3 did not show and won 75.00
+
+Game Hand #384909664 - Tournament #20880569 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/03 11:58:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2450.00)
+Seat 2: DanielCB3 (550.00)
+DanielCB3 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Ad]
+DanielCB3 raises 525.00 to 550.00 and is all-in
+Lorpugo3 calls 500.00
+*** FLOP *** [Qd 7c 3d]
+Main pot 1100.00
+*** TURN *** [Qd 7c 3d] [As]
+Main pot 1100.00
+*** RIVER *** [Qd 7c 3d As] [7d]
+Main pot 1100.00
+*** SHOW DOWN ***
+Main pot 1100.00
+Lorpugo3 shows [9c Ad] (two pair, Aces and Sevens [As Ad 7d 7c Qd])
+DanielCB3 shows [4h 4s] (two pair, Sevens and Fours [7d 7c 4s 4h As])
+Lorpugo3 collected 1100.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [Qd 7c 3d As 7d]
+Seat 1: Lorpugo3 (big blind) showed [9c Ad] and won 1100.00 with two pair, Aces and Sevens [As Ad 7d 7c Qd]
+Seat 2: DanielCB3 (button) showed [4h 4s] and lost with two pair, Sevens and Fours [7d 7c 4s 4h As]
+

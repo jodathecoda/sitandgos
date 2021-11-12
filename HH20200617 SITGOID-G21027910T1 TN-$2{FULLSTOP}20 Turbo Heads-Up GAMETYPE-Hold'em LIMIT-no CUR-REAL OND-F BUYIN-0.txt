@@ -1,0 +1,33 @@
+Game Hand #403329720 - Tournament #21027910 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:23:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: CURSOSCIENIAN (1500.00)
+Lorpugo3 posts the small blind 10.00
+CURSOSCIENIAN posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Kd]
+Lorpugo3 raises 50.00 to 60.00
+CURSOSCIENIAN calls 40.00
+*** FLOP *** [9h 8s Kh]
+Main pot 120.00
+CURSOSCIENIAN checks
+Lorpugo3 checks
+*** TURN *** [9h 8s Kh] [6s]
+Main pot 120.00
+CURSOSCIENIAN bets 240.00
+Lorpugo3 calls 240.00
+*** RIVER *** [9h 8s Kh 6s] [9c]
+Main pot 600.00
+CURSOSCIENIAN bets 1200.00 and is all-in
+Lorpugo3 calls 1200.00 and is all-in
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Jh Kd] (two pair, Kings and Nines [Kh Kd 9h 9c Jh])
+CURSOSCIENIAN shows [3s 5s] (a pair of Nines [9h 9c Kh 8s 6s])
+Lorpugo3 collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [9h 8s Kh 6s 9c]
+Seat 1: Lorpugo3 (button) showed [Jh Kd] and won 3000.00 with two pair, Kings and Nines [Kh Kd 9h 9c Jh]
+Seat 2: CURSOSCIENIAN (big blind) showed [3s 5s] and lost with a pair of Nines [9h 9c Kh 8s 6s]
+

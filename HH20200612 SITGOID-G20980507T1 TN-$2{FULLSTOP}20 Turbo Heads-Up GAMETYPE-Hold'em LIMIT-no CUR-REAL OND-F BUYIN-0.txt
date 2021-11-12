@@ -1,0 +1,582 @@
+Game Hand #396938038 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:37:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Bayberry1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Th]
+Lorpugo3 folds
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Bayberry1 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396938089 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:37:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Bayberry1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 7d]
+Bayberry1 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Bayberry1 calls 40.00
+*** FLOP *** [Ks 4s Td]
+Main pot 120.00
+Lorpugo3 checks
+Bayberry1 checks
+*** TURN *** [Ks 4s Td] [6c]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Bayberry1 calls 60.00
+*** RIVER *** [Ks 4s Td 6c] [7c]
+Main pot 240.00
+Lorpugo3 checks
+Bayberry1 checks
+*** SHOW DOWN ***
+Main pot 240.00
+Lorpugo3 shows [9d 7d] (a pair of Sevens [7d 7c Ks Td 9d])
+Bayberry1 mucks hand
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [Ks 4s Td 6c 7c]
+Seat 1: Bayberry1 (button) mucked [8d 6h]
+Seat 2: Lorpugo3 (big blind) showed [9d 7d] and won 240.00 with a pair of Sevens [7d 7c Ks Td 9d]
+
+Game Hand #396938623 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:39:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Lorpugo3 posts the small blind 10.00
+Bayberry1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qh]
+Lorpugo3 raises 40.00 to 50.00
+Bayberry1 calls 30.00
+*** FLOP *** [Qs Ks 8h]
+Main pot 100.00
+Bayberry1 checks
+Lorpugo3 bets 50.00
+Bayberry1 calls 50.00
+*** TURN *** [Qs Ks 8h] [Ts]
+Main pot 200.00
+Bayberry1 checks
+Lorpugo3 checks
+*** RIVER *** [Qs Ks 8h Ts] [7h]
+Main pot 200.00
+Bayberry1 bets 1290.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1290.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Qs Ks 8h Ts 7h]
+Seat 1: Bayberry1 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #396938907 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:40:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Bayberry1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Qh]
+Bayberry1 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8c 4h Td]
+Main pot 40.00
+Lorpugo3 checks
+Bayberry1 bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [8c 4h Td] [Kh]
+Main pot 120.00
+Lorpugo3 checks
+Bayberry1 bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8c 4h Td Kh]
+Seat 1: Bayberry1 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #396939272 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:41:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 10.00
+Bayberry1 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Js]
+Lorpugo3 raises 40.00 to 50.00
+Bayberry1 calls 30.00
+*** FLOP *** [2d Kc 5c]
+Main pot 100.00
+Bayberry1 checks
+Lorpugo3 checks
+*** TURN *** [2d Kc 5c] [Jh]
+Main pot 100.00
+Bayberry1 checks
+Lorpugo3 bets 50.00
+Bayberry1 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [2d Kc 5c Jh]
+Seat 1: Bayberry1 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #396939639 - Tournament #20980507 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/12 12:42:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Bayberry1 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Qc]
+Bayberry1 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Bayberry1 calls 40.00
+*** FLOP *** [6h 8h 5d]
+Main pot 120.00
+Lorpugo3 checks
+Bayberry1 bets 90.00
+Lorpugo3 folds
+Uncalled bet (90.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [6h 8h 5d]
+Seat 1: Bayberry1 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #396940028 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:43:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1560.00)
+Seat 2: Lorpugo3 (1440.00)
+Lorpugo3 posts the small blind 15.00
+Bayberry1 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Kd]
+Lorpugo3 raises 60.00 to 75.00
+Bayberry1 calls 45.00
+*** FLOP *** [9s 2h 8c]
+Main pot 150.00
+Bayberry1 checks
+Lorpugo3 checks
+*** TURN *** [9s 2h 8c] [7d]
+Main pot 150.00
+Bayberry1 checks
+Lorpugo3 checks
+*** RIVER *** [9s 2h 8c 7d] [5s]
+Main pot 150.00
+Bayberry1 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [9s 2h 8c 7d 5s]
+Seat 1: Bayberry1 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #396940281 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:43:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1635.00)
+Seat 2: Lorpugo3 (1365.00)
+Bayberry1 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 7d]
+Bayberry1 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+Bayberry1 calls 60.00
+*** FLOP *** [8s 8d 5d]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Bayberry1 folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [8s 8d 5d]
+Seat 1: Bayberry1 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 180.00
+
+Game Hand #396940460 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:44:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1545.00)
+Seat 2: Lorpugo3 (1455.00)
+Lorpugo3 posts the small blind 15.00
+Bayberry1 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Ah]
+Lorpugo3 raises 75.00 to 90.00
+Bayberry1 calls 60.00
+*** FLOP *** [8h Ac 5d]
+Main pot 180.00
+Bayberry1 checks
+Lorpugo3 checks
+*** TURN *** [8h Ac 5d] [2d]
+Main pot 180.00
+Bayberry1 checks
+Lorpugo3 bets 105.00
+Bayberry1 calls 105.00
+*** RIVER *** [8h Ac 5d 2d] [9s]
+Main pot 390.00
+Bayberry1 checks
+Lorpugo3 bets 195.00
+Bayberry1 folds
+Uncalled bet (195.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 390.00
+Board [8h Ac 5d 2d 9s]
+Seat 1: Bayberry1 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 390.00
+
+Game Hand #396940877 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:45:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1350.00)
+Seat 2: Lorpugo3 (1650.00)
+Bayberry1 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Kd]
+Bayberry1 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+Bayberry1 calls 75.00
+*** FLOP *** [9h 7h 8c]
+Main pot 210.00
+Lorpugo3 checks
+Bayberry1 bets 210.00
+Lorpugo3 calls 210.00
+*** TURN *** [9h 7h 8c] [5h]
+Main pot 630.00
+Lorpugo3 checks
+Bayberry1 bets 1035.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1035.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 630.00
+Board [9h 7h 8c 5h]
+Seat 1: Bayberry1 did not show and won 630.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #396941253 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:46:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1665.00)
+Seat 2: Lorpugo3 (1335.00)
+Lorpugo3 posts the small blind 15.00
+Bayberry1 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d Js]
+Lorpugo3 folds
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Bayberry1 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396941285 - Tournament #20980507 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/12 12:46:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Bayberry1 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8h]
+Bayberry1 raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8s 4s Jd]
+Main pot 120.00
+Lorpugo3 checks
+Bayberry1 bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [8s 4s Jd] [4h]
+Main pot 240.00
+Lorpugo3 checks
+Bayberry1 bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [8s 4s Jd 4h]
+Seat 1: Bayberry1 did not show and won 240.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #396941645 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:47:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9c]
+Lorpugo3 folds
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Bayberry1 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396941696 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:48:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1825.00)
+Seat 2: Lorpugo3 (1175.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 3s]
+Bayberry1 calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+Bayberry1 raises 1775.00 to 1825.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1675.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Bayberry1 did not show and won 300.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396941804 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:48:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1975.00)
+Seat 2: Lorpugo3 (1025.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ah]
+Lorpugo3 raises 125.00 to 150.00
+Bayberry1 raises 1925.00 to 1975.00 and is all-in
+Lorpugo3 calls 875.00 and is all-in
+Uncalled bet (950.00) returned to Bayberry1
+*** FLOP *** [3h 9s Tc]
+Main pot 2050.00
+*** TURN *** [3h 9s Tc] [9c]
+Main pot 2050.00
+*** RIVER *** [3h 9s Tc 9c] [8h]
+Main pot 2050.00
+*** SHOW DOWN ***
+Main pot 2050.00
+Bayberry1 shows [Kh Ac] (a pair of Nines [9s 9c Ac Kh Tc])
+Lorpugo3 shows [Th Ah] (two pair, Tens and Nines [Th Tc 9s 9c Ah])
+Lorpugo3 collected 2050.00 from main pot
+*** SUMMARY ***
+Total pot 2050.00
+Board [3h 9s Tc 9c 8h]
+Seat 1: Bayberry1 (big blind) showed [Kh Ac] and lost with a pair of Nines [9s 9c Ac Kh Tc]
+Seat 2: Lorpugo3 (button) showed [Th Ah] and won 2050.00 with two pair, Tens and Nines [Th Tc 9s 9c Ah]
+
+Game Hand #396941961 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:48:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (950.00)
+Seat 2: Lorpugo3 (2050.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 9d]
+Bayberry1 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [8d Kc 3d]
+Main pot 100.00
+Lorpugo3 checks
+Bayberry1 checks
+*** TURN *** [8d Kc 3d] [9h]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Bayberry1 calls 50.00
+*** RIVER *** [8d Kc 3d 9h] [8s]
+Main pot 200.00
+Lorpugo3 checks
+Bayberry1 bets 100.00
+Lorpugo3 calls 100.00
+*** SHOW DOWN ***
+Main pot 400.00
+Bayberry1 shows [6s 5d] (a pair of Eights [8s 8d Kc 9h 6s])
+Lorpugo3 shows [5h 9d] (two pair, Nines and Eights [9h 9d 8s 8d Kc])
+Lorpugo3 collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [8d Kc 3d 9h 8s]
+Seat 1: Bayberry1 (button) showed [6s 5d] and lost with a pair of Eights [8s 8d Kc 9h 6s]
+Seat 2: Lorpugo3 (big blind) showed [5h 9d] and won 400.00 with two pair, Nines and Eights [9h 9d 8s 8d Kc]
+
+Game Hand #396942219 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:49:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (750.00)
+Seat 2: Lorpugo3 (2250.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 9h]
+Lorpugo3 raises 75.00 to 100.00
+Bayberry1 raises 700.00 to 750.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (650.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Bayberry1 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396942342 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:49:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (850.00)
+Seat 2: Lorpugo3 (2150.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Ks]
+Bayberry1 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [9s Th 6c]
+Main pot 100.00
+Lorpugo3 checks
+Bayberry1 bets 800.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (800.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [9s Th 6c]
+Seat 1: Bayberry1 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #396942480 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:50:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (900.00)
+Seat 2: Lorpugo3 (2100.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 5s]
+Lorpugo3 folds
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Bayberry1 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #396942538 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:50:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (925.00)
+Seat 2: Lorpugo3 (2075.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Tc]
+Bayberry1 raises 900.00 to 925.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (875.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Bayberry1 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #396942585 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:50:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (975.00)
+Seat 2: Lorpugo3 (2025.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Qd]
+Lorpugo3 raises 75.00 to 100.00
+Bayberry1 calls 50.00
+*** FLOP *** [5s 6s 9c]
+Main pot 200.00
+Bayberry1 bets 875.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (875.00) returned to Bayberry1
+Bayberry1 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [5s 6s 9c]
+Seat 1: Bayberry1 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #396942724 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:51:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5d]
+Bayberry1 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Kd Kh Jd]
+Main pot 100.00
+Lorpugo3 checks
+Bayberry1 checks
+*** TURN *** [Kd Kh Jd] [7h]
+Main pot 100.00
+Lorpugo3 checks
+Bayberry1 checks
+*** RIVER *** [Kd Kh Jd 7h] [6c]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Bayberry1 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Kd Kh Jd 7h 6c]
+Seat 1: Bayberry1 (button) folded on the River
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #396942905 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:51:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Bayberry1 (1025.00)
+Seat 2: Lorpugo3 (1975.00)
+Lorpugo3 posts the small blind 25.00
+Bayberry1 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Kh]
+Lorpugo3 raises 100.00 to 125.00
+Bayberry1 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Bayberry1 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #396942990 - Tournament #20980507 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/12 12:51:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Bayberry1 (975.00)
+Seat 2: Lorpugo3 (2025.00)
+Bayberry1 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 8s]
+Bayberry1 raises 950.00 to 975.00 and is all-in
+Lorpugo3 calls 925.00
+*** FLOP *** [9s Tc 4h]
+Main pot 1950.00
+*** TURN *** [9s Tc 4h] [8c]
+Main pot 1950.00
+*** RIVER *** [9s Tc 4h 8c] [4s]
+Main pot 1950.00
+*** SHOW DOWN ***
+Main pot 1950.00
+Bayberry1 shows [Ks 6s] (a pair of Fours [4s 4h Ks Tc 9s])
+Lorpugo3 shows [Ad 8s] (two pair, Eights and Fours [8s 8c 4s 4h Ad])
+Lorpugo3 collected 1950.00 from main pot
+*** SUMMARY ***
+Total pot 1950.00
+Board [9s Tc 4h 8c 4s]
+Seat 1: Bayberry1 (button) showed [Ks 6s] and lost with a pair of Fours [4s 4h Ks Tc 9s]
+Seat 2: Lorpugo3 (big blind) showed [Ad 8s] and won 1950.00 with two pair, Eights and Fours [8s 8c 4s 4h Ad]
+

@@ -1,0 +1,46 @@
+Game Hand #383610258 - Tournament #20870326 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:45:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: JRSwish (1500.00)
+JRSwish posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 4s]
+JRSwish raises 1490.00 to 1500.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1480.00) returned to JRSwish
+JRSwish does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: JRSwish did not show and won 40.00
+
+Game Hand #383610322 - Tournament #20870326 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 13:45:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: JRSwish (1520.00)
+Lorpugo3 posts the small blind 10.00
+JRSwish posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Ad]
+Lorpugo3 raises 50.00 to 60.00
+JRSwish raises 160.00 to 180.00
+Lorpugo3 raises 1420.00 to 1480.00 and is all-in
+JRSwish calls 1300.00
+*** FLOP *** [Kd 4d 5c]
+Main pot 2960.00
+*** TURN *** [Kd 4d 5c] [2s]
+Main pot 2960.00
+*** RIVER *** [Kd 4d 5c 2s] [8h]
+Main pot 2960.00
+*** SHOW DOWN ***
+Main pot 2960.00
+Lorpugo3 shows [Qd Ad] (a high card, Ace high [Ad Kd Qd 8h 5c])
+JRSwish shows [Kh 2c] (two pair, Kings and Deuces [Kh Kd 2s 2c 8h])
+JRSwish collected 2960.00 from main pot
+*** SUMMARY ***
+Total pot 2960.00
+Board [Kd 4d 5c 2s 8h]
+Seat 1: Lorpugo3 (button) showed [Qd Ad] and lost with a high card, Ace high [Ad Kd Qd 8h 5c]
+Seat 2: JRSwish (big blind) showed [Kh 2c] and won 2960.00 with two pair, Kings and Deuces [Kh Kd 2s 2c 8h]
+

@@ -1,0 +1,156 @@
+Game Hand #399516942 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:07:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Jeldan (1500.00)
+Lorpugo3 posts the small blind 10.00
+Jeldan posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Td]
+Lorpugo3 raises 50.00 to 60.00
+Jeldan calls 40.00
+*** FLOP *** [6h 7h 2c]
+Main pot 120.00
+Jeldan checks
+Lorpugo3 bets 60.00
+Jeldan raises 140.00 to 140.00
+Lorpugo3 calls 80.00
+*** TURN *** [6h 7h 2c] [Qs]
+Main pot 400.00
+Jeldan bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to Jeldan
+Jeldan does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [6h 7h 2c Qs]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Jeldan did not show and won 400.00
+
+Game Hand #399517363 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:08:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1300.00)
+Seat 2: Jeldan (1700.00)
+Jeldan posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Tc]
+Jeldan raises 30.00 to 40.00
+Lorpugo3 raises 110.00 to 130.00
+Jeldan raises 335.00 to 375.00
+Lorpugo3 folds
+Uncalled bet (245.00) returned to Jeldan
+Jeldan does not show
+*** SUMMARY ***
+Total pot 260.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Jeldan did not show and won 260.00
+
+Game Hand #399517608 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:08:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1170.00)
+Seat 2: Jeldan (1830.00)
+Lorpugo3 posts the small blind 10.00
+Jeldan posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 4s]
+Lorpugo3 folds
+Jeldan does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Jeldan did not show and won 30.00
+
+Game Hand #399517653 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:09:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1160.00)
+Seat 2: Jeldan (1840.00)
+Jeldan posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 5h]
+Jeldan raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [4c 7c 9c]
+Main pot 80.00
+Lorpugo3 checks
+Jeldan bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [4c 7c 9c] [3d]
+Main pot 160.00
+Lorpugo3 checks
+Jeldan bets 70.00
+Lorpugo3 calls 70.00
+*** RIVER *** [4c 7c 9c 3d] [8s]
+Main pot 300.00
+Lorpugo3 checks
+Jeldan bets 160.00
+Lorpugo3 calls 160.00
+*** SHOW DOWN ***
+Main pot 620.00
+Jeldan shows [5d 6h] (a straight, Nine high [9c 8s 7c 6h 5d])
+Lorpugo3 mucks hand
+Jeldan collected 620.00 from main pot
+*** SUMMARY ***
+Total pot 620.00
+Board [4c 7c 9c 3d 8s]
+Seat 1: Lorpugo3 (big blind) mucked [5c 5h]
+Seat 2: Jeldan (button) showed [5d 6h] and won 620.00 with a straight, Nine high [9c 8s 7c 6h 5d]
+
+Game Hand #399518079 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:09:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (850.00)
+Seat 2: Jeldan (2150.00)
+Lorpugo3 posts the small blind 10.00
+Jeldan posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 9s]
+Lorpugo3 raises 50.00 to 60.00
+Jeldan calls 40.00
+*** FLOP *** [5c 4c Ad]
+Main pot 120.00
+Jeldan checks
+Lorpugo3 bets 90.00
+Jeldan raises 270.00 to 270.00
+Lorpugo3 calls 180.00
+*** TURN *** [5c 4c Ad] [5h]
+Main pot 660.00
+Jeldan bets 660.00
+Lorpugo3 folds
+Uncalled bet (660.00) returned to Jeldan
+Jeldan does not show
+*** SUMMARY ***
+Total pot 660.00
+Board [5c 4c Ad 5h]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: Jeldan did not show and won 660.00
+
+Game Hand #399518429 - Tournament #21002377 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/14 14:10:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (520.00)
+Seat 2: Jeldan (2480.00)
+Jeldan posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Jd]
+Jeldan raises 30.00 to 40.00
+Lorpugo3 raises 110.00 to 130.00
+Jeldan raises 553.00 to 593.00
+Lorpugo3 calls 390.00 and is all-in
+Uncalled bet (73.00) returned to Jeldan
+*** FLOP *** [Kh 2d Ac]
+Main pot 1040.00
+*** TURN *** [Kh 2d Ac] [9c]
+Main pot 1040.00
+*** RIVER *** [Kh 2d Ac 9c] [2h]
+Main pot 1040.00
+*** SHOW DOWN ***
+Main pot 1040.00
+Lorpugo3 shows [Ks Jd] (two pair, Kings and Deuces [Ks Kh 2h 2d Ac])
+Jeldan shows [5s Ah] (two pair, Aces and Deuces [Ah Ac 2h 2d Kh])
+Jeldan collected 1040.00 from main pot
+*** SUMMARY ***
+Total pot 1040.00
+Board [Kh 2d Ac 9c 2h]
+Seat 1: Lorpugo3 (big blind) showed [Ks Jd] and lost with two pair, Kings and Deuces [Ks Kh 2h 2d Ac]
+Seat 2: Jeldan (button) showed [5s Ah] and won 1040.00 with two pair, Aces and Deuces [Ah Ac 2h 2d Kh]
+

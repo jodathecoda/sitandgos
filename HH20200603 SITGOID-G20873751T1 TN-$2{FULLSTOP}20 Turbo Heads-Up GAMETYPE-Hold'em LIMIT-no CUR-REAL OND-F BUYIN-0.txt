@@ -1,0 +1,317 @@
+Game Hand #384022250 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:28:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Tc]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 raises 100.00 to 120.00
+URUGUAYNZ20 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Seat 1: URUGUAYNZ20 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 160.00
+
+Game Hand #384022547 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:28:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 5s]
+Lorpugo3 raises 50.00 to 60.00
+URUGUAYNZ20 raises 100.00 to 120.00
+Lorpugo3 calls 60.00
+*** FLOP *** [6c 6s 5c]
+Main pot 240.00
+URUGUAYNZ20 bets 240.00
+Lorpugo3 raises 1420.00 to 1420.00 and is all-in
+URUGUAYNZ20 calls 1100.00 and is all-in
+Uncalled bet (80.00) returned to Lorpugo3
+*** TURN *** [6c 6s 5c] [Ac]
+Main pot 2920.00
+*** RIVER *** [6c 6s 5c Ac] [9d]
+Main pot 2920.00
+*** SHOW DOWN ***
+Main pot 2920.00
+URUGUAYNZ20 shows [4c 5d] (two pair, Sixs and Fives [6s 6c 5d 5c Ac])
+Lorpugo3 shows [7h 5s] (two pair, Sixs and Fives [6s 6c 5s 5c Ac])
+URUGUAYNZ20 collected 1460.00 from main pot
+Lorpugo3 collected 1460.00 from main pot
+*** SUMMARY ***
+Total pot 2920.00
+Board [6c 6s 5c Ac 9d]
+Seat 1: URUGUAYNZ20 (big blind) showed [4c 5d] and won 1460.00 with two pair, Sixs and Fives [6s 6c 5d 5c Ac]
+Seat 2: Lorpugo3 (button) showed [7h 5s] and won 1460.00 with two pair, Sixs and Fives [6s 6c 5s 5c Ac]
+
+Game Hand #384023186 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:29:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 5c]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Ah Kh 3s]
+Main pot 80.00
+Lorpugo3 checks
+URUGUAYNZ20 bets 80.00
+Lorpugo3 raises 230.00 to 230.00
+URUGUAYNZ20 folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Ah Kh 3s]
+Seat 1: URUGUAYNZ20 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 240.00
+
+Game Hand #384023742 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:29:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 9h]
+Lorpugo3 calls 10.00
+URUGUAYNZ20 raises 20.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [8s Jh 3d]
+Main pot 80.00
+URUGUAYNZ20 checks
+Lorpugo3 bets 40.00
+URUGUAYNZ20 calls 40.00
+*** TURN *** [8s Jh 3d] [Ac]
+Main pot 160.00
+URUGUAYNZ20 checks
+Lorpugo3 checks
+*** RIVER *** [8s Jh 3d Ac] [2s]
+Main pot 160.00
+URUGUAYNZ20 bets 320.00
+Lorpugo3 folds
+Uncalled bet (320.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [8s Jh 3d Ac 2s]
+Seat 1: URUGUAYNZ20 did not show and won 160.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #384024774 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:30:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Ah]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 raises 90.00 to 110.00
+URUGUAYNZ20 calls 70.00
+*** FLOP *** [7c Qs 4c]
+Main pot 220.00
+Lorpugo3 bets 110.00
+URUGUAYNZ20 calls 110.00
+*** TURN *** [7c Qs 4c] [4d]
+Main pot 440.00
+Lorpugo3 checks
+URUGUAYNZ20 checks
+*** RIVER *** [7c Qs 4c 4d] [3h]
+Main pot 440.00
+Lorpugo3 checks
+URUGUAYNZ20 checks
+*** SHOW DOWN ***
+Main pot 440.00
+Lorpugo3 shows [Tc Ah] (a pair of Fours [4d 4c Ah Qs Tc])
+URUGUAYNZ20 shows [2c 7s] (two pair, Sevens and Fours [7s 7c 4d 4c Qs])
+URUGUAYNZ20 collected 440.00 from main pot
+*** SUMMARY ***
+Total pot 440.00
+Board [7c Qs 4c 4d 3h]
+Seat 1: URUGUAYNZ20 (button) showed [2c 7s] and won 440.00 with two pair, Sevens and Fours [7s 7c 4d 4c Qs]
+Seat 2: Lorpugo3 (big blind) showed [Tc Ah] and lost with a pair of Fours [4d 4c Ah Qs Tc]
+
+Game Hand #384025750 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:31:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1640.00)
+Seat 2: Lorpugo3 (1360.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 8d]
+Lorpugo3 raises 50.00 to 60.00
+URUGUAYNZ20 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: URUGUAYNZ20 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #384026113 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:31:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1620.00)
+Seat 2: Lorpugo3 (1380.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 7s]
+URUGUAYNZ20 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: URUGUAYNZ20 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #384026261 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:31:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Ah]
+Lorpugo3 raises 60.00 to 70.00
+URUGUAYNZ20 calls 50.00
+*** FLOP *** [8c 6c 3c]
+Main pot 140.00
+URUGUAYNZ20 checks
+Lorpugo3 checks
+*** TURN *** [8c 6c 3c] [Td]
+Main pot 140.00
+URUGUAYNZ20 checks
+Lorpugo3 checks
+*** RIVER *** [8c 6c 3c Td] [Kc]
+Main pot 140.00
+URUGUAYNZ20 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 140.00
+URUGUAYNZ20 shows [Js 8h] (a pair of Eights [8h 8c Kc Js Td])
+Lorpugo3 mucks hand
+URUGUAYNZ20 collected 140.00 from main pot
+*** SUMMARY ***
+Total pot 140.00
+Board [8c 6c 3c Td Kc]
+Seat 1: URUGUAYNZ20 (big blind) showed [Js 8h] and won 140.00 with a pair of Eights [8h 8c Kc Js Td]
+Seat 2: Lorpugo3 (button) mucked [5h Ah]
+
+Game Hand #384026903 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:32:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 2h]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: URUGUAYNZ20 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #384027125 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:32:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (1700.00)
+Seat 2: Lorpugo3 (1300.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Td]
+Lorpugo3 raises 60.00 to 70.00
+URUGUAYNZ20 raises 1680.00 to 1700.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1630.00) returned to URUGUAYNZ20
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 140.00
+Seat 1: URUGUAYNZ20 did not show and won 140.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384027499 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:32:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (1770.00)
+Seat 2: Lorpugo3 (1230.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 3s]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 raises 1210.00 to 1230.00 and is all-in
+URUGUAYNZ20 calls 1190.00
+*** FLOP *** [3d 5d 5c]
+Main pot 2460.00
+*** TURN *** [3d 5d 5c] [7c]
+Main pot 2460.00
+*** RIVER *** [3d 5d 5c 7c] [Kc]
+Main pot 2460.00
+*** SHOW DOWN ***
+Main pot 2460.00
+URUGUAYNZ20 shows [4c 4h] (two pair, Fives and Fours [5d 5c 4h 4c Kc])
+Lorpugo3 shows [3h 3s] (a full house, Threes full of Fives [3s 3h 3d 5d 5c])
+Lorpugo3 collected 2460.00 from main pot
+*** SUMMARY ***
+Total pot 2460.00
+Board [3d 5d 5c 7c Kc]
+Seat 1: URUGUAYNZ20 (button) showed [4c 4h] and lost with two pair, Fives and Fours [5d 5c 4h 4c Kc]
+Seat 2: Lorpugo3 (big blind) showed [3h 3s] and won 2460.00 with a full house, Threes full of Fives [3s 3h 3d 5d 5c]
+
+Game Hand #384028201 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:33:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: URUGUAYNZ20 (540.00)
+Seat 2: Lorpugo3 (2460.00)
+Lorpugo3 posts the small blind 10.00
+URUGUAYNZ20 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Tc]
+Lorpugo3 folds
+URUGUAYNZ20 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: URUGUAYNZ20 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #384028339 - Tournament #20873751 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:33:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: URUGUAYNZ20 (550.00)
+Seat 2: Lorpugo3 (2450.00)
+URUGUAYNZ20 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 9s]
+URUGUAYNZ20 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [3h 6s 4h]
+Main pot 80.00
+Lorpugo3 checks
+URUGUAYNZ20 checks
+*** TURN *** [3h 6s 4h] [6d]
+Main pot 80.00
+Lorpugo3 bets 50.00
+URUGUAYNZ20 calls 50.00
+*** RIVER *** [3h 6s 4h 6d] [9c]
+Main pot 180.00
+Lorpugo3 checks
+URUGUAYNZ20 bets 460.00 and is all-in
+Lorpugo3 calls 460.00
+*** SHOW DOWN ***
+Main pot 1100.00
+URUGUAYNZ20 shows [Th 7d] (a pair of Sixs [6s 6d Th 9c 7d])
+Lorpugo3 shows [7c 9s] (two pair, Nines and Sixs [9s 9c 6s 6d 7c])
+Lorpugo3 collected 1100.00 from main pot
+*** SUMMARY ***
+Total pot 1100.00
+Board [3h 6s 4h 6d 9c]
+Seat 1: URUGUAYNZ20 (button) showed [Th 7d] and lost with a pair of Sixs [6s 6d Th 9c 7d]
+Seat 2: Lorpugo3 (big blind) showed [7c 9s] and won 1100.00 with two pair, Nines and Sixs [9s 9c 6s 6d 7c]
+

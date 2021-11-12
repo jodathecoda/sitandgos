@@ -1,0 +1,106 @@
+Game Hand #403301506 - Tournament #21027747 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:06:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: CURSOSCIENIAN (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+CURSOSCIENIAN posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 7d]
+CURSOSCIENIAN raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to CURSOSCIENIAN
+CURSOSCIENIAN does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: CURSOSCIENIAN did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #403301851 - Tournament #21027747 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:06:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: CURSOSCIENIAN (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+CURSOSCIENIAN posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 3c]
+Lorpugo3 folds
+CURSOSCIENIAN does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: CURSOSCIENIAN did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #403302039 - Tournament #21027747 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:06:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: CURSOSCIENIAN (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+CURSOSCIENIAN posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Th]
+CURSOSCIENIAN folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: CURSOSCIENIAN (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #403302186 - Tournament #21027747 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:06:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: CURSOSCIENIAN (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+CURSOSCIENIAN posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Th]
+Lorpugo3 raises 50.00 to 60.00
+CURSOSCIENIAN calls 40.00
+*** FLOP *** [3s 2c Ah]
+Main pot 120.00
+CURSOSCIENIAN checks
+Lorpugo3 bets 50.00
+CURSOSCIENIAN folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [3s 2c Ah]
+Seat 1: CURSOSCIENIAN (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #403302731 - Tournament #21027747 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:06:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: CURSOSCIENIAN (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+CURSOSCIENIAN posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 6c]
+CURSOSCIENIAN calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Ts 4c Jc]
+Main pot 40.00
+Lorpugo3 checks
+CURSOSCIENIAN bets 40.00
+Lorpugo3 calls 40.00
+*** TURN *** [Ts 4c Jc] [7h]
+Main pot 120.00
+Lorpugo3 checks
+CURSOSCIENIAN bets 240.00
+Lorpugo3 calls 240.00
+*** RIVER *** [Ts 4c Jc 7h] [2s]
+Main pot 600.00
+Lorpugo3 checks
+CURSOSCIENIAN bets 1160.00 and is all-in
+Lorpugo3 calls 1160.00
+*** SHOW DOWN ***
+Main pot 2920.00
+CURSOSCIENIAN shows [3s 5h] (a high card, Jack high [Jc Ts 7h 5h 4c])
+Lorpugo3 shows [Tc 6c] (a pair of Tens [Ts Tc Jc 7h 6c])
+Lorpugo3 collected 2920.00 from main pot
+*** SUMMARY ***
+Total pot 2920.00
+Board [Ts 4c Jc 7h 2s]
+Seat 1: CURSOSCIENIAN (button) showed [3s 5h] and lost with a high card, Jack high [Jc Ts 7h 5h 4c]
+Seat 2: Lorpugo3 (big blind) showed [Tc 6c] and won 2920.00 with a pair of Tens [Ts Tc Jc 7h 6c]
+

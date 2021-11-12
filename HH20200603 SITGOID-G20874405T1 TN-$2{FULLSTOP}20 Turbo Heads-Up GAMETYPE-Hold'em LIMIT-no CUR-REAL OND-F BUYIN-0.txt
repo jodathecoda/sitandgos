@@ -1,0 +1,29 @@
+Game Hand #384119855 - Tournament #20874405 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 22:43:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Mcrider122 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Mcrider122 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ac]
+Lorpugo3 raises 50.00 to 60.00
+Mcrider122 raises 160.00 to 180.00
+Lorpugo3 raises 1440.00 to 1500.00 and is all-in
+Mcrider122 calls 1320.00 and is all-in
+*** FLOP *** [Jh 4c 9s]
+Main pot 3000.00
+*** TURN *** [Jh 4c 9s] [4h]
+Main pot 3000.00
+*** RIVER *** [Jh 4c 9s 4h] [Js]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Qh Ac] (two pair, Jacks and Fours [Js Jh 4h 4c Ac])
+Mcrider122 shows [3s 3c] (two pair, Jacks and Fours [Js Jh 4h 4c 9s])
+Lorpugo3 collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [Jh 4c 9s 4h Js]
+Seat 1: Lorpugo3 (button) showed [Qh Ac] and won 3000.00 with two pair, Jacks and Fours [Js Jh 4h 4c Ac] with the kicker Ace
+Seat 2: Mcrider122 (big blind) showed [3s 3c] and lost with two pair, Jacks and Fours [Js Jh 4h 4c 9s]
+

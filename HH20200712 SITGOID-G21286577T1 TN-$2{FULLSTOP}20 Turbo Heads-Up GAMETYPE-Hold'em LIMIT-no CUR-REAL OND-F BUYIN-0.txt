@@ -1,0 +1,636 @@
+Game Hand #434259159 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:28:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 3h]
+Lorpugo3 raises 40.00 to 50.00
+ally8 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: ally8 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #434259336 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:28:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Ad]
+ally8 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+ally8 calls 40.00
+*** FLOP *** [Jh Th 4c]
+Main pot 120.00
+Lorpugo3 checks
+ally8 bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [Jh Th 4c] [Kd]
+Main pot 240.00
+Lorpugo3 bets 170.00
+ally8 folds
+Uncalled bet (170.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [Jh Th 4c Kd]
+Seat 1: ally8 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 240.00
+
+Game Hand #434259840 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:29:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 6h]
+Lorpugo3 raises 40.00 to 50.00
+ally8 raises 130.00 to 150.00
+Lorpugo3 folds
+ally8 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: ally8 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434260052 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:29:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Th]
+ally8 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qh 3d 2d]
+Main pot 40.00
+Lorpugo3 checks
+ally8 checks
+*** TURN *** [Qh 3d 2d] [Jc]
+Main pot 40.00
+Lorpugo3 checks
+ally8 checks
+*** RIVER *** [Qh 3d 2d Jc] [Ah]
+Main pot 40.00
+Lorpugo3 checks
+ally8 checks
+*** SHOW DOWN ***
+Main pot 40.00
+Lorpugo3 shows [7s Th] (a high card, Ace high [Ah Qh Jc Th 7s])
+ally8 shows [6c Kd] (a high card, Ace high [Ah Kd Qh Jc 6c])
+ally8 collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [Qh 3d 2d Jc Ah]
+Seat 1: ally8 (button) showed [6c Kd] and won 40.00 with a high card, Ace high [Ah Kd Qh Jc 6c] with the kicker King
+Seat 2: Lorpugo3 (big blind) showed [7s Th] and lost with a high card, Ace high [Ah Qh Jc Th 7s]
+
+Game Hand #434260418 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:29:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 7c]
+Lorpugo3 folds
+ally8 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: ally8 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434260488 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:30:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Jd]
+ally8 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: ally8 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #434260551 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:30:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 7h]
+Lorpugo3 raises 30.00 to 40.00
+ally8 calls 20.00
+*** FLOP *** [Kd 4h 8h]
+Main pot 80.00
+ally8 checks
+Lorpugo3 bets 30.00
+ally8 calls 30.00
+*** TURN *** [Kd 4h 8h] [8d]
+Main pot 140.00
+ally8 checks
+Lorpugo3 checks
+*** RIVER *** [Kd 4h 8h 8d] [5c]
+Main pot 140.00
+ally8 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 140.00
+ally8 shows [5h As] (two pair, Eights and Fives [8h 8d 5h 5c As])
+Lorpugo3 mucks hand
+ally8 collected 140.00 from main pot
+*** SUMMARY ***
+Total pot 140.00
+Board [Kd 4h 8h 8d 5c]
+Seat 1: ally8 (big blind) showed [5h As] and won 140.00 with two pair, Eights and Fives [8h 8d 5h 5c As]
+Seat 2: Lorpugo3 (button) mucked [Tc 7h]
+
+Game Hand #434260970 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:30:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 9d]
+ally8 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+ally8 calls 40.00
+*** FLOP *** [Qs Jd Tc]
+Main pot 120.00
+Lorpugo3 checks
+ally8 checks
+*** TURN *** [Qs Jd Tc] [Kc]
+Main pot 120.00
+Lorpugo3 checks
+ally8 bets 90.00
+Lorpugo3 calls 90.00
+*** RIVER *** [Qs Jd Tc Kc] [7c]
+Main pot 300.00
+Lorpugo3 checks
+ally8 bets 150.00
+Lorpugo3 calls 150.00
+*** SHOW DOWN ***
+Main pot 600.00
+ally8 shows [3d Ah] (a straight, Ace high [Ah Kc Qs Jd Tc])
+Lorpugo3 mucks hand
+ally8 collected 600.00 from main pot
+*** SUMMARY ***
+Total pot 600.00
+Board [Qs Jd Tc Kc 7c]
+Seat 1: ally8 (button) showed [3d Ah] and won 600.00 with a straight, Ace high [Ah Kc Qs Jd Tc]
+Seat 2: Lorpugo3 (big blind) mucked [Jc 9d]
+
+Game Hand #434261514 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:31:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Th]
+Lorpugo3 folds
+ally8 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: ally8 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434261594 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:31:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1810.00)
+Seat 2: Lorpugo3 (1190.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Ks]
+ally8 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qc Kh 5h]
+Main pot 40.00
+Lorpugo3 checks
+ally8 checks
+*** TURN *** [Qc Kh 5h] [Ah]
+Main pot 40.00
+Lorpugo3 bets 20.00
+ally8 calls 20.00
+*** RIVER *** [Qc Kh 5h Ah] [8h]
+Main pot 80.00
+Lorpugo3 checks
+ally8 checks
+*** SHOW DOWN ***
+Main pot 80.00
+Lorpugo3 shows [8c Ks] (two pair, Kings and Eights [Ks Kh 8h 8c Ah])
+ally8 mucks hand
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [Qc Kh 5h Ah 8h]
+Seat 1: ally8 (button) mucked [Jd 5d]
+Seat 2: Lorpugo3 (big blind) showed [8c Ks] and won 80.00 with two pair, Kings and Eights [Ks Kh 8h 8c Ah]
+
+Game Hand #434262050 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:32:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1770.00)
+Seat 2: Lorpugo3 (1230.00)
+Lorpugo3 posts the small blind 10.00
+ally8 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Ks]
+Lorpugo3 raises 40.00 to 50.00
+ally8 raises 130.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [3c Jh 3s]
+Main pot 300.00
+ally8 checks
+Lorpugo3 checks
+*** TURN *** [3c Jh 3s] [3h]
+Main pot 300.00
+ally8 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to ally8
+ally8 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [3c Jh 3s 3h]
+Seat 1: ally8 did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #434262377 - Tournament #21286577 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/12 15:32:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1920.00)
+Seat 2: Lorpugo3 (1080.00)
+ally8 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Jh]
+ally8 raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [9d As 8c]
+Main pot 120.00
+Lorpugo3 checks
+ally8 bets 60.00
+Lorpugo3 raises 150.00 to 150.00
+ally8 calls 90.00
+*** TURN *** [9d As 8c] [Qs]
+Main pot 420.00
+Lorpugo3 checks
+ally8 checks
+*** RIVER *** [9d As 8c Qs] [7c]
+Main pot 420.00
+Lorpugo3 checks
+ally8 checks
+*** SHOW DOWN ***
+Main pot 420.00
+Lorpugo3 shows [Qd Jh] (a pair of Queens [Qs Qd As Jh 9d])
+ally8 mucks hand
+Lorpugo3 collected 420.00 from main pot
+*** SUMMARY ***
+Total pot 420.00
+Board [9d As 8c Qs 7c]
+Seat 1: ally8 (button) mucked [Jc Jd]
+Seat 2: Lorpugo3 (big blind) showed [Qd Jh] and won 420.00 with a pair of Queens [Qs Qd As Jh 9d]
+
+Game Hand #434262795 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:33:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1710.00)
+Seat 2: Lorpugo3 (1290.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Js]
+Lorpugo3 folds
+ally8 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: ally8 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434262877 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:33:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1725.00)
+Seat 2: Lorpugo3 (1275.00)
+ally8 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 8d]
+ally8 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+ally8 calls 75.00
+*** FLOP *** [9c Th Kh]
+Main pot 210.00
+Lorpugo3 checks
+ally8 bets 158.00
+Lorpugo3 folds
+Uncalled bet (158.00) returned to ally8
+ally8 does not show
+*** SUMMARY ***
+Total pot 210.00
+Board [9c Th Kh]
+Seat 1: ally8 did not show and won 210.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #434263156 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:34:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 8h]
+Lorpugo3 raises 60.00 to 75.00
+ally8 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: ally8 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #434263305 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:34:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+ally8 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 2c]
+ally8 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [7c 9s 4h]
+Main pot 60.00
+Lorpugo3 checks
+ally8 checks
+*** TURN *** [7c 9s 4h] [Kd]
+Main pot 60.00
+Lorpugo3 bets 45.00
+ally8 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [7c 9s 4h Kd]
+Seat 1: ally8 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #434263697 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:34:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (1770.00)
+Seat 2: Lorpugo3 (1230.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 3c]
+Lorpugo3 raises 60.00 to 75.00
+ally8 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: ally8 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #434263839 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:35:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (1740.00)
+Seat 2: Lorpugo3 (1260.00)
+ally8 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Qc]
+ally8 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qh 3c 8d]
+Main pot 60.00
+Lorpugo3 checks
+ally8 bets 60.00
+Lorpugo3 calls 60.00
+*** TURN *** [Qh 3c 8d] [6c]
+Main pot 180.00
+Lorpugo3 checks
+ally8 bets 135.00
+Lorpugo3 calls 135.00
+*** RIVER *** [Qh 3c 8d 6c] [4h]
+Main pot 450.00
+Lorpugo3 checks
+ally8 bets 450.00
+Lorpugo3 calls 450.00
+*** SHOW DOWN ***
+Main pot 1350.00
+ally8 shows [5h 7c] (a straight, Eight high [8d 7c 6c 5h 4h])
+Lorpugo3 mucks hand
+ally8 collected 1350.00 from main pot
+*** SUMMARY ***
+Total pot 1350.00
+Board [Qh 3c 8d 6c 4h]
+Seat 1: ally8 (button) showed [5h 7c] and won 1350.00 with a straight, Eight high [8d 7c 6c 5h 4h]
+Seat 2: Lorpugo3 (big blind) mucked [5s Qc]
+
+Game Hand #434264646 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:36:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (2415.00)
+Seat 2: Lorpugo3 (585.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 7d]
+Lorpugo3 raises 45.00 to 60.00
+ally8 calls 30.00
+*** FLOP *** [Jc 8c 5c]
+Main pot 120.00
+ally8 checks
+Lorpugo3 bets 45.00
+ally8 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Jc 8c 5c]
+Seat 1: ally8 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #434264952 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:36:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (2355.00)
+Seat 2: Lorpugo3 (645.00)
+ally8 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 6h]
+ally8 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Qs Td 7s]
+Main pot 60.00
+Lorpugo3 checks
+ally8 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to ally8
+ally8 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Qs Td 7s]
+Seat 1: ally8 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #434265241 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:37:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (2385.00)
+Seat 2: Lorpugo3 (615.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 2c]
+Lorpugo3 folds
+ally8 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: ally8 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434265346 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:37:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (2400.00)
+Seat 2: Lorpugo3 (600.00)
+ally8 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 6h]
+ally8 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+ally8 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 135.00
+Seat 1: ally8 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 135.00
+
+Game Hand #434265506 - Tournament #21286577 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/12 15:37:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (2370.00)
+Seat 2: Lorpugo3 (630.00)
+Lorpugo3 posts the small blind 15.00
+ally8 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 5d]
+Lorpugo3 calls 15.00
+ally8 checks
+*** FLOP *** [8h Ad 2h]
+Main pot 60.00
+ally8 checks
+Lorpugo3 bets 30.00
+ally8 calls 30.00
+*** TURN *** [8h Ad 2h] [Ts]
+Main pot 120.00
+ally8 checks
+Lorpugo3 checks
+*** RIVER *** [8h Ad 2h Ts] [Kc]
+Main pot 120.00
+ally8 checks
+Lorpugo3 bets 135.00
+ally8 folds
+Uncalled bet (135.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [8h Ad 2h Ts Kc]
+Seat 1: ally8 (big blind) folded on the River
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #434266074 - Tournament #21286577 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 15:38:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (2310.00)
+Seat 2: Lorpugo3 (690.00)
+ally8 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 7d]
+ally8 raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to ally8
+ally8 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: ally8 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #434266263 - Tournament #21286577 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 15:38:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (2360.00)
+Seat 2: Lorpugo3 (640.00)
+Lorpugo3 posts the small blind 25.00
+ally8 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 8s]
+Lorpugo3 calls 25.00
+ally8 raises 2310.00 to 2360.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (2310.00) returned to ally8
+ally8 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: ally8 did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #434266444 - Tournament #21286577 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 15:38:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: ally8 (2410.00)
+Seat 2: Lorpugo3 (590.00)
+ally8 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 5h]
+ally8 calls 25.00
+Lorpugo3 raises 540.00 to 590.00 and is all-in
+ally8 folds
+Uncalled bet (540.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: ally8 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #434266623 - Tournament #21286577 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/12 15:39:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: ally8 (2360.00)
+Seat 2: Lorpugo3 (640.00)
+Lorpugo3 posts the small blind 25.00
+ally8 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 3c]
+Lorpugo3 raises 75.00 to 100.00
+ally8 calls 50.00
+*** FLOP *** [3h Ac 9d]
+Main pot 200.00
+ally8 checks
+Lorpugo3 bets 125.00
+ally8 calls 125.00
+*** TURN *** [3h Ac 9d] [Ah]
+Main pot 450.00
+ally8 checks
+Lorpugo3 bets 415.00 and is all-in
+ally8 calls 415.00
+*** RIVER *** [3h Ac 9d Ah] [5c]
+Main pot 1280.00
+*** SHOW DOWN ***
+Main pot 1280.00
+ally8 shows [Ad 6h] (three of a kind, Set of Aces [Ah Ad Ac 9d 6h])
+Lorpugo3 shows [Qc 3c] (two pair, Aces and Threes [Ah Ac 3h 3c Qc])
+ally8 collected 1280.00 from main pot
+*** SUMMARY ***
+Total pot 1280.00
+Board [3h Ac 9d Ah 5c]
+Seat 1: ally8 (big blind) showed [Ad 6h] and won 1280.00 with three of a kind, Set of Aces [Ah Ad Ac 9d 6h]
+Seat 2: Lorpugo3 (button) showed [Qc 3c] and lost with two pair, Aces and Threes [Ah Ac 3h 3c Qc]
+

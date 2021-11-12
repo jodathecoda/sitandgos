@@ -1,0 +1,426 @@
+Game Hand #381452817 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:43:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Jc]
+Mrjbay raises 1490.00 to 1500.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1480.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mrjbay did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #381453144 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:43:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 8d]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 1500.00 to 1520.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1480.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381453577 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:44:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1560.00)
+Seat 2: Lorpugo3 (1440.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c Qs]
+Mrjbay raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [5h Kc 2s]
+Main pot 120.00
+Lorpugo3 checks
+Mrjbay checks
+*** TURN *** [5h Kc 2s] [As]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Mrjbay calls 60.00
+*** RIVER *** [5h Kc 2s As] [3s]
+Main pot 240.00
+Lorpugo3 checks
+Mrjbay checks
+*** SHOW DOWN ***
+Main pot 240.00
+Lorpugo3 shows [7c Qs] (a high card, Ace high [As Kc Qs 7c 5h])
+Mrjbay shows [Qc Jc] (a high card, Ace high [As Kc Qc Jc 5h])
+Mrjbay collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [5h Kc 2s As 3s]
+Seat 1: Mrjbay (button) showed [Qc Jc] and won 240.00 with a high card, Ace high [As Kc Qc Jc 5h] with the kicker Jack
+Seat 2: Lorpugo3 (big blind) showed [7c Qs] and lost with a high card, Ace high [As Kc Qs 7c 5h]
+
+Game Hand #381454814 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:44:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1680.00)
+Seat 2: Lorpugo3 (1320.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 8s]
+Lorpugo3 folds
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mrjbay did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381455064 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:44:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1690.00)
+Seat 2: Lorpugo3 (1310.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Td]
+Mrjbay calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9c 9d Ts]
+Main pot 40.00
+Lorpugo3 checks
+Mrjbay checks
+*** TURN *** [9c 9d Ts] [6s]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Mrjbay raises 40.00 to 40.00
+Lorpugo3 calls 20.00
+*** RIVER *** [9c 9d Ts 6s] [4d]
+Main pot 120.00
+Lorpugo3 checks
+Mrjbay bets 80.00
+Lorpugo3 calls 80.00
+*** SHOW DOWN ***
+Main pot 280.00
+Mrjbay shows [Ks Kc] (two pair, Kings and Nines [Ks Kc 9d 9c Ts])
+Lorpugo3 mucks hand
+Mrjbay collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [9c 9d Ts 6s 4d]
+Seat 1: Mrjbay (button) showed [Ks Kc] and won 280.00 with two pair, Kings and Nines [Ks Kc 9d 9c Ts]
+Seat 2: Lorpugo3 (big blind) mucked [8h Td]
+
+Game Hand #381456676 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:45:21 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 5d]
+Lorpugo3 raises 40.00 to 50.00
+Mrjbay raises 130.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [Qh 7h Jc]
+Main pot 300.00
+Mrjbay checks
+Lorpugo3 checks
+*** TURN *** [Qh 7h Jc] [Kh]
+Main pot 300.00
+Mrjbay bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Qh 7h Jc Kh]
+Seat 1: Mrjbay did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #381457809 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:45:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1980.00)
+Seat 2: Lorpugo3 (1020.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 7s]
+Mrjbay raises 40.00 to 50.00
+Lorpugo3 raises 1000.00 to 1020.00 and is all-in
+Mrjbay calls 970.00
+*** FLOP *** [Ks Ac 3s]
+Main pot 2040.00
+*** TURN *** [Ks Ac 3s] [Kc]
+Main pot 2040.00
+*** RIVER *** [Ks Ac 3s Kc] [4h]
+Main pot 2040.00
+*** SHOW DOWN ***
+Main pot 2040.00
+Mrjbay shows [7c Qc] (a pair of Kings [Ks Kc Ac Qc 7c])
+Lorpugo3 shows [Ah 7s] (two pair, Aces and Kings [Ah Ac Ks Kc 7s])
+Lorpugo3 collected 2040.00 from main pot
+*** SUMMARY ***
+Total pot 2040.00
+Board [Ks Ac 3s Kc 4h]
+Seat 1: Mrjbay (button) showed [7c Qc] and lost with a pair of Kings [Ks Kc Ac Qc 7c]
+Seat 2: Lorpugo3 (big blind) showed [Ah 7s] and won 2040.00 with two pair, Aces and Kings [Ah Ac Ks Kc 7s]
+
+Game Hand #381458521 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:46:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (960.00)
+Seat 2: Lorpugo3 (2040.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 2s]
+Lorpugo3 folds
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mrjbay did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381458750 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:46:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (970.00)
+Seat 2: Lorpugo3 (2030.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Qh]
+Mrjbay folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mrjbay (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #381458958 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:46:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (960.00)
+Seat 2: Lorpugo3 (2040.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Qd]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 940.00 to 960.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (920.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381459373 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:46:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1000.00)
+Seat 2: Lorpugo3 (2000.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 2c]
+Mrjbay raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [2d 4h Ah]
+Main pot 80.00
+Lorpugo3 checks
+Mrjbay bets 960.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (960.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2d 4h Ah]
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #381460160 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:46:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1040.00)
+Seat 2: Lorpugo3 (1960.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 6c]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 1020.00 to 1040.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1000.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381460603 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1080.00)
+Seat 2: Lorpugo3 (1920.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 3d]
+Mrjbay raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mrjbay did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #381460928 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1100.00)
+Seat 2: Lorpugo3 (1900.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Qs]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 1080.00 to 1100.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1060.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381461378 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1140.00)
+Seat 2: Lorpugo3 (1860.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Tc]
+Mrjbay raises 1130.00 to 1140.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1120.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mrjbay did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #381461655 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1160.00)
+Seat 2: Lorpugo3 (1840.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 6c]
+Lorpugo3 calls 10.00
+Mrjbay raises 40.00 to 60.00
+Lorpugo3 folds
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381462276 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1180.00)
+Seat 2: Lorpugo3 (1820.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Th]
+Mrjbay folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Mrjbay (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #381462522 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:47:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1170.00)
+Seat 2: Lorpugo3 (1830.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 4h]
+Lorpugo3 raises 30.00 to 40.00
+Mrjbay raises 1150.00 to 1170.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1130.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Mrjbay did not show and won 80.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381462919 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:48:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1210.00)
+Seat 2: Lorpugo3 (1790.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 2s]
+Mrjbay raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mrjbay did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #381463269 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:48:10 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Mrjbay (1230.00)
+Seat 2: Lorpugo3 (1770.00)
+Lorpugo3 posts the small blind 10.00
+Mrjbay posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 5s]
+Lorpugo3 calls 10.00
+Mrjbay raises 1210.00 to 1230.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1210.00) returned to Mrjbay
+Mrjbay does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Mrjbay did not show and won 40.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381463991 - Tournament #20849633 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:48:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Mrjbay (1250.00)
+Seat 2: Lorpugo3 (1750.00)
+Mrjbay posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Jd]
+Mrjbay raises 1240.00 to 1250.00 and is all-in
+Lorpugo3 calls 1230.00
+*** FLOP *** [8s Ts Kc]
+Main pot 2500.00
+*** TURN *** [8s Ts Kc] [As]
+Main pot 2500.00
+*** RIVER *** [8s Ts Kc As] [8c]
+Main pot 2500.00
+*** SHOW DOWN ***
+Main pot 2500.00
+Mrjbay shows [2h Td] (two pair, Tens and Eights [Ts Td 8s 8c As])
+Lorpugo3 shows [Ah Jd] (two pair, Aces and Eights [As Ah 8s 8c Kc])
+Lorpugo3 collected 2500.00 from main pot
+*** SUMMARY ***
+Total pot 2500.00
+Board [8s Ts Kc As 8c]
+Seat 1: Mrjbay (button) showed [2h Td] and lost with two pair, Tens and Eights [Ts Td 8s 8c As]
+Seat 2: Lorpugo3 (big blind) showed [Ah Jd] and won 2500.00 with two pair, Aces and Eights [As Ah 8s 8c Kc]
+

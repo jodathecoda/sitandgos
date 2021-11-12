@@ -1,0 +1,1214 @@
+Game Hand #402387804 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:09:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Tank62483 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 3h]
+Tank62483 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6c Tc Ac]
+Main pot 40.00
+Lorpugo3 checks
+Tank62483 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [6c Tc Ac]
+Seat 1: Tank62483 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402387992 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:10:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+Tank62483 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 8d]
+Lorpugo3 raises 40.00 to 50.00
+Tank62483 raises 130.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [Ks 5h Kd]
+Main pot 300.00
+Tank62483 bets 300.00
+Lorpugo3 folds
+Uncalled bet (300.00) returned to Tank62483
+Tank62483 shows [Ac Jd] (a pair of Kings [Ks Kd Ac Jd 5h])
+*** SUMMARY ***
+Total pot 300.00
+Board [Ks 5h Kd]
+Seat 1: Tank62483 (big blind) showed [Ac Jd] and won 300.00 with a pair of Kings [Ks Kd Ac Jd 5h]
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #402388182 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:10:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1670.00)
+Seat 2: Lorpugo3 (1330.00)
+Tank62483 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 5d]
+Tank62483 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Tank62483 calls 40.00
+*** FLOP *** [Kd 4c 3h]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Tank62483 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Kd 4c 3h]
+Seat 1: Tank62483 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #402388313 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:10:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 10.00
+Tank62483 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s Jh]
+Lorpugo3 folds
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Tank62483 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402388380 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:11:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1620.00)
+Seat 2: Lorpugo3 (1380.00)
+Tank62483 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Jh]
+Tank62483 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Kh 8s 4s]
+Main pot 40.00
+Lorpugo3 checks
+Tank62483 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Kh 8s 4s]
+Seat 1: Tank62483 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402388541 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:11:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1640.00)
+Seat 2: Lorpugo3 (1360.00)
+Lorpugo3 posts the small blind 10.00
+Tank62483 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 6d]
+Lorpugo3 raises 40.00 to 50.00
+Tank62483 raises 130.00 to 150.00
+Lorpugo3 folds
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Tank62483 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402388654 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:11:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1690.00)
+Seat 2: Lorpugo3 (1310.00)
+Tank62483 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 2h]
+Tank62483 raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [9c 2d Kd]
+Main pot 120.00
+Lorpugo3 checks
+Tank62483 checks
+*** TURN *** [9c 2d Kd] [Qd]
+Main pot 120.00
+Lorpugo3 checks
+Tank62483 checks
+*** RIVER *** [9c 2d Kd Qd] [Kc]
+Main pot 120.00
+Lorpugo3 checks
+Tank62483 bets 130.00
+Lorpugo3 folds
+Uncalled bet (130.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [9c 2d Kd Qd Kc]
+Seat 1: Tank62483 did not show and won 120.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #402389119 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:13:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1750.00)
+Seat 2: Lorpugo3 (1250.00)
+Lorpugo3 posts the small blind 10.00
+Tank62483 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 8s]
+Lorpugo3 raises 40.00 to 50.00
+Tank62483 calls 30.00
+*** FLOP *** [Qs 2s 3h]
+Main pot 100.00
+Tank62483 checks
+Lorpugo3 checks
+*** TURN *** [Qs 2s 3h] [3d]
+Main pot 100.00
+Tank62483 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Qs 2s 3h 3d]
+Seat 1: Tank62483 did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #402389356 - Tournament #21020994 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 09:13:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1800.00)
+Seat 2: Lorpugo3 (1200.00)
+Tank62483 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 8c]
+Tank62483 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [4h Jd 4s]
+Main pot 80.00
+Lorpugo3 checks
+Tank62483 bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [4h Jd 4s] [3h]
+Main pot 120.00
+Lorpugo3 checks
+Tank62483 checks
+*** RIVER *** [4h Jd 4s 3h] [Ts]
+Main pot 120.00
+Lorpugo3 checks
+Tank62483 bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to Tank62483
+Tank62483 shows [7c Tc] (two pair, Tens and Fours [Ts Tc 4s 4h Jd])
+*** SUMMARY ***
+Total pot 120.00
+Board [4h Jd 4s 3h Ts]
+Seat 1: Tank62483 (button) showed [7c Tc] and won 120.00 with two pair, Tens and Fours [Ts Tc 4s 4h Jd]
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #402389688 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:14:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1860.00)
+Seat 2: Lorpugo3 (1140.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Ks]
+Lorpugo3 raises 60.00 to 75.00
+Tank62483 calls 45.00
+*** FLOP *** [Ad 9h 8s]
+Main pot 150.00
+Tank62483 bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [Ad 9h 8s] [6s]
+Main pot 210.00
+Tank62483 bets 210.00
+Lorpugo3 folds
+Uncalled bet (210.00) returned to Tank62483
+Tank62483 shows [2h 6h] (a pair of Sixs [6s 6h Ad 9h 8s])
+*** SUMMARY ***
+Total pot 210.00
+Board [Ad 9h 8s 6s]
+Seat 1: Tank62483 (big blind) showed [2h 6h] and won 210.00 with a pair of Sixs [6s 6h Ad 9h 8s]
+Seat 2: Lorpugo3 (button) folded on the Turn
+
+Game Hand #402389877 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:15:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1965.00)
+Seat 2: Lorpugo3 (1035.00)
+Tank62483 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 3h]
+Tank62483 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Tank62483 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402390006 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:15:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1995.00)
+Seat 2: Lorpugo3 (1005.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c Ts]
+Lorpugo3 raises 60.00 to 75.00
+Tank62483 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #402390064 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:15:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1965.00)
+Seat 2: Lorpugo3 (1035.00)
+Tank62483 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 2h]
+Tank62483 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Tank62483 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402390156 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:16:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1995.00)
+Seat 2: Lorpugo3 (1005.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 2c]
+Lorpugo3 folds
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Tank62483 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402390228 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:16:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (2010.00)
+Seat 2: Lorpugo3 (990.00)
+Tank62483 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s Jc]
+Tank62483 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Tank62483 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402390312 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:16:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (2040.00)
+Seat 2: Lorpugo3 (960.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Js]
+Lorpugo3 raises 60.00 to 75.00
+Tank62483 raises 195.00 to 225.00
+Lorpugo3 folds
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Tank62483 did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402390445 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:17:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (2115.00)
+Seat 2: Lorpugo3 (885.00)
+Tank62483 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Tc]
+Tank62483 raises 75.00 to 90.00
+Lorpugo3 raises 240.00 to 270.00
+Tank62483 raises 360.00 to 450.00
+Lorpugo3 calls 180.00
+*** FLOP *** [Ah 5c 7d]
+Main pot 900.00
+Lorpugo3 checks
+Tank62483 bets 900.00
+Lorpugo3 folds
+Uncalled bet (900.00) returned to Tank62483
+Tank62483 shows [As Th] (a pair of Aces [As Ah Th 7d 5c])
+*** SUMMARY ***
+Total pot 900.00
+Board [Ah 5c 7d]
+Seat 1: Tank62483 (button) showed [As Th] and won 900.00 with a pair of Aces [As Ah Th 7d 5c]
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402390682 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:17:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (2565.00)
+Seat 2: Lorpugo3 (435.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 2d]
+Lorpugo3 folds
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Tank62483 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402390762 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:18:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (2580.00)
+Seat 2: Lorpugo3 (420.00)
+Tank62483 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 8c]
+Tank62483 raises 45.00 to 60.00
+Lorpugo3 raises 390.00 to 420.00 and is all-in
+Tank62483 calls 360.00
+*** FLOP *** [Qc 3c Jd]
+Main pot 840.00
+*** TURN *** [Qc 3c Jd] [3d]
+Main pot 840.00
+*** RIVER *** [Qc 3c Jd 3d] [3s]
+Main pot 840.00
+*** SHOW DOWN ***
+Main pot 840.00
+Tank62483 shows [Ad 9d] (three of a kind, Set of Threes [3s 3d 3c Ad Qc])
+Lorpugo3 shows [8d 8c] (a full house, Threes full of Eights [3s 3d 3c 8d 8c])
+Lorpugo3 collected 840.00 from main pot
+*** SUMMARY ***
+Total pot 840.00
+Board [Qc 3c Jd 3d 3s]
+Seat 1: Tank62483 (button) showed [Ad 9d] and lost with three of a kind, Set of Threes [3s 3d 3c Ad Qc]
+Seat 2: Lorpugo3 (big blind) showed [8d 8c] and won 840.00 with a full house, Threes full of Eights [3s 3d 3c 8d 8c]
+
+Game Hand #402390879 - Tournament #21020994 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 09:18:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (2160.00)
+Seat 2: Lorpugo3 (840.00)
+Lorpugo3 posts the small blind 15.00
+Tank62483 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Jh]
+Lorpugo3 raises 60.00 to 75.00
+Tank62483 calls 45.00
+*** FLOP *** [As 8s 6d]
+Main pot 150.00
+Tank62483 checks
+Lorpugo3 bets 75.00
+Tank62483 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [As 8s 6d]
+Seat 1: Tank62483 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402391366 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:19:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (2085.00) is sitting out
+Seat 2: Lorpugo3 (915.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h As]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391381 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (2060.00) is sitting out
+Seat 2: Lorpugo3 (940.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 8s]
+Lorpugo3 raises 100.00 to 125.00
+Tank62483 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391423 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (2010.00) is sitting out
+Seat 2: Lorpugo3 (990.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Kh]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391448 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1985.00) is sitting out
+Seat 2: Lorpugo3 (1015.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 9s]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391534 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1935.00) is sitting out
+Seat 2: Lorpugo3 (1065.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 4d]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391559 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1910.00) is sitting out
+Seat 2: Lorpugo3 (1090.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js As]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391604 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1860.00) is sitting out
+Seat 2: Lorpugo3 (1140.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 5h]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391626 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1835.00) is sitting out
+Seat 2: Lorpugo3 (1165.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 9c]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391663 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1785.00) is sitting out
+Seat 2: Lorpugo3 (1215.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Jd]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391691 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:20:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1760.00) is sitting out
+Seat 2: Lorpugo3 (1240.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ts]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391725 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1710.00) is sitting out
+Seat 2: Lorpugo3 (1290.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 4c]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391761 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1685.00) is sitting out
+Seat 2: Lorpugo3 (1315.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 5h]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391789 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1635.00) is sitting out
+Seat 2: Lorpugo3 (1365.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 9c]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391807 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1610.00) is sitting out
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Qd]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391833 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1560.00) is sitting out
+Seat 2: Lorpugo3 (1440.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 3s]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391859 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1535.00) is sitting out
+Seat 2: Lorpugo3 (1465.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 2c]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391891 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1485.00) is sitting out
+Seat 2: Lorpugo3 (1515.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Jh]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391908 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:45 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1460.00) is sitting out
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 8h]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391945 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1410.00) is sitting out
+Seat 2: Lorpugo3 (1590.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 5s]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402391970 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:21:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1385.00) is sitting out
+Seat 2: Lorpugo3 (1615.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Jd]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402391997 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1335.00) is sitting out
+Seat 2: Lorpugo3 (1665.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 2d]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392019 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1310.00)
+Seat 2: Lorpugo3 (1690.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Kh]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 raises 1260.00 to 1310.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1210.00) returned to Tank62483
+Tank62483 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Tank62483 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402392144 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 8d]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392237 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1385.00) is sitting out
+Seat 2: Lorpugo3 (1615.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 2c]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392278 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1335.00) is sitting out
+Seat 2: Lorpugo3 (1665.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Qc]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392300 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:22:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1310.00) is sitting out
+Seat 2: Lorpugo3 (1690.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 4h]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392346 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1260.00) is sitting out
+Seat 2: Lorpugo3 (1740.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 5c]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392371 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1235.00) is sitting out
+Seat 2: Lorpugo3 (1765.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Js]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392405 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1185.00) is sitting out
+Seat 2: Lorpugo3 (1815.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s Ks]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392443 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1160.00) is sitting out
+Seat 2: Lorpugo3 (1840.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ac]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392477 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1110.00) is sitting out
+Seat 2: Lorpugo3 (1890.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Qh]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392501 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1085.00) is sitting out
+Seat 2: Lorpugo3 (1915.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 5s]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392604 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:23:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (1035.00) is sitting out
+Seat 2: Lorpugo3 (1965.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Js]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392631 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:24:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (1010.00) is sitting out
+Seat 2: Lorpugo3 (1990.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 5c]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392669 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:24:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (960.00) is sitting out
+Seat 2: Lorpugo3 (2040.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Qd]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392693 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:24:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (935.00) is sitting out
+Seat 2: Lorpugo3 (2065.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 9d]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392730 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:24:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (885.00) is sitting out
+Seat 2: Lorpugo3 (2115.00)
+Tank62483 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Jd]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402392748 - Tournament #21020994 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 09:24:24 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (860.00) is sitting out
+Seat 2: Lorpugo3 (2140.00)
+Lorpugo3 posts the small blind 25.00
+Tank62483 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 2h]
+Lorpugo3 raises 75.00 to 100.00
+Tank62483 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402392781 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:24:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (810.00) is sitting out
+Seat 2: Lorpugo3 (2190.00)
+Tank62483 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Jh]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402392810 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:24:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (760.00) is sitting out
+Seat 2: Lorpugo3 (2240.00)
+Lorpugo3 posts the small blind 50.00
+Tank62483 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 3h]
+Lorpugo3 raises 150.00 to 200.00
+Tank62483 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #402392853 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:24:44 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (660.00) is sitting out
+Seat 2: Lorpugo3 (2340.00)
+Tank62483 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 6d]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402392880 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:24:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (610.00) is sitting out
+Seat 2: Lorpugo3 (2390.00)
+Lorpugo3 posts the small blind 50.00
+Tank62483 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 5s]
+Lorpugo3 raises 150.00 to 200.00
+Tank62483 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #402392915 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:24:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (510.00) is sitting out
+Seat 2: Lorpugo3 (2490.00)
+Tank62483 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Jc]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402392941 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:25:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (460.00) is sitting out
+Seat 2: Lorpugo3 (2540.00)
+Lorpugo3 posts the small blind 50.00
+Tank62483 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 4h]
+Lorpugo3 raises 150.00 to 200.00
+Tank62483 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Tank62483 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #402392977 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:25:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (360.00) is sitting out
+Seat 2: Lorpugo3 (2640.00)
+Tank62483 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Th]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402392999 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:25:12 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (310.00) is sitting out
+Seat 2: Lorpugo3 (2690.00)
+Lorpugo3 posts the small blind 50.00
+Tank62483 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 4h]
+Lorpugo3 raises 150.00 to 200.00
+Tank62483 calls 100.00
+*** FLOP *** [5h Td Jc]
+Main pot 400.00
+Tank62483 checks
+Lorpugo3 bets 100.00
+Tank62483 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [5h Td Jc]
+Seat 1: Tank62483 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 400.00
+
+Game Hand #402393688 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:27:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Tank62483 (110.00) is sitting out
+Seat 2: Lorpugo3 (2890.00)
+Tank62483 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 4c]
+Tank62483 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Tank62483 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #402393709 - Tournament #21020994 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/16 09:27:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Tank62483 (60.00) is sitting out
+Seat 2: Lorpugo3 (2940.00)
+Lorpugo3 posts the small blind 50.00
+Tank62483 posts the big blind 60.00 and is all-in
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 4s]
+Lorpugo3 calls 10.00
+*** FLOP *** [Ah 2c 3d]
+Main pot 120.00
+*** TURN *** [Ah 2c 3d] [6d]
+Main pot 120.00
+*** RIVER *** [Ah 2c 3d 6d] [Td]
+Main pot 120.00
+*** SHOW DOWN ***
+Main pot 120.00
+Tank62483 shows [8h Qs] (a high card, Ace high [Ah Qs Td 8h 6d])
+Lorpugo3 shows [4d 4s] (a pair of Fours [4s 4d Ah Td 6d])
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Ah 2c 3d 6d Td]
+Seat 1: Tank62483 (big blind) showed [8h Qs] and lost with a high card, Ace high [Ah Qs Td 8h 6d]
+Seat 2: Lorpugo3 (button) showed [4d 4s] and won 120.00 with a pair of Fours [4s 4d Ah Td 6d]
+

@@ -1,0 +1,523 @@
+Game Hand #382405429 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:54:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 6s]
+cyboy123 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Jh Ad 9c]
+Main pot 40.00
+Lorpugo3 checks
+cyboy123 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Jh Ad 9c]
+Seat 1: cyboy123 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #382405675 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:54:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Ts]
+Lorpugo3 raises 40.00 to 50.00
+cyboy123 calls 30.00
+*** FLOP *** [3c Kd 9s]
+Main pot 100.00
+cyboy123 checks
+Lorpugo3 checks
+*** TURN *** [3c Kd 9s] [Ks]
+Main pot 100.00
+cyboy123 checks
+Lorpugo3 bets 50.00
+cyboy123 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [3c Kd 9s Ks]
+Seat 1: cyboy123 (big blind) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #382406030 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Js]
+cyboy123 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382406066 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 3d]
+Lorpugo3 folds
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382406104 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h As]
+cyboy123 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382406157 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 8d]
+Lorpugo3 raises 30.00 to 40.00
+cyboy123 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: cyboy123 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382406228 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1440.00)
+Seat 2: Lorpugo3 (1560.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7s]
+cyboy123 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382406275 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:55:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 8h]
+Lorpugo3 raises 40.00 to 50.00
+cyboy123 calls 30.00
+*** FLOP *** [Jd 4d 2c]
+Main pot 100.00
+cyboy123 checks
+Lorpugo3 bets 50.00
+cyboy123 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Jd 4d 2c]
+Seat 1: cyboy123 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #382406431 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:56:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Qh]
+cyboy123 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9h 3d Tc]
+Main pot 40.00
+Lorpugo3 checks
+cyboy123 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9h 3d Tc]
+Seat 1: cyboy123 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #382406596 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:56:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1400.00)
+Seat 2: Lorpugo3 (1600.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Kh]
+Lorpugo3 raises 40.00 to 50.00
+cyboy123 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: cyboy123 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #382406694 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:56:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1380.00)
+Seat 2: Lorpugo3 (1620.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Jc]
+cyboy123 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6d 4s Ts]
+Main pot 80.00
+Lorpugo3 checks
+cyboy123 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6d 4s Ts]
+Seat 1: cyboy123 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #382406871 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:57:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd Js]
+Lorpugo3 raises 30.00 to 40.00
+cyboy123 raises 40.00 to 60.00
+Lorpugo3 raises 110.00 to 150.00
+cyboy123 calls 90.00
+*** FLOP *** [Qh 3d 5d]
+Main pot 300.00
+cyboy123 checks
+Lorpugo3 bets 100.00
+cyboy123 calls 100.00
+*** TURN *** [Qh 3d 5d] [6h]
+Main pot 500.00
+cyboy123 checks
+Lorpugo3 checks
+*** RIVER *** [Qh 3d 5d 6h] [5h]
+Main pot 500.00
+cyboy123 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 500.00
+cyboy123 shows [2s Ad] (a pair of Fives [5h 5d Ad Qh 6h])
+Lorpugo3 shows [Jd Js] (two pair, Jacks and Fives [Js Jd 5h 5d Qh])
+Lorpugo3 collected 500.00 from main pot
+*** SUMMARY ***
+Total pot 500.00
+Board [Qh 3d 5d 6h 5h]
+Seat 1: cyboy123 (big blind) showed [2s Ad] and lost with a pair of Fives [5h 5d Ad Qh 6h]
+Seat 2: Lorpugo3 (button) showed [Jd Js] and won 500.00 with two pair, Jacks and Fives [Js Jd 5h 5d Qh]
+
+Game Hand #382407241 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:58:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1170.00)
+Seat 2: Lorpugo3 (1830.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 9s]
+cyboy123 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #382407289 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:58:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1160.00)
+Seat 2: Lorpugo3 (1840.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 8s]
+Lorpugo3 folds
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: cyboy123 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382407343 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:58:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1170.00)
+Seat 2: Lorpugo3 (1830.00)
+cyboy123 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 7d]
+cyboy123 raises 1160.00 to 1170.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1150.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: cyboy123 did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382407458 - Tournament #20856869 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/01 15:58:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1190.00)
+Seat 2: Lorpugo3 (1810.00)
+Lorpugo3 posts the small blind 10.00
+cyboy123 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 6d]
+Lorpugo3 raises 30.00 to 40.00
+cyboy123 calls 20.00
+*** FLOP *** [2s Jc Ks]
+Main pot 80.00
+cyboy123 checks
+Lorpugo3 checks
+*** TURN *** [2s Jc Ks] [8c]
+Main pot 80.00
+cyboy123 checks
+Lorpugo3 checks
+*** RIVER *** [2s Jc Ks 8c] [Ad]
+Main pot 80.00
+cyboy123 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 80.00
+cyboy123 shows [Tc 3s] (a high card, Ace high [Ad Ks Jc Tc 8c])
+Lorpugo3 shows [6c 6d] (a pair of Sixs [6d 6c Ad Ks Jc])
+Lorpugo3 collected 80.00 from main pot
+*** SUMMARY ***
+Total pot 80.00
+Board [2s Jc Ks 8c Ad]
+Seat 1: cyboy123 (big blind) showed [Tc 3s] and lost with a high card, Ace high [Ad Ks Jc Tc 8c]
+Seat 2: Lorpugo3 (button) showed [6c 6d] and won 80.00 with a pair of Sixs [6d 6c Ad Ks Jc]
+
+Game Hand #382407734 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 15:59:21 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1150.00)
+Seat 2: Lorpugo3 (1850.00)
+cyboy123 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h Qc]
+cyboy123 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: cyboy123 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #382407796 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 15:59:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1135.00)
+Seat 2: Lorpugo3 (1865.00)
+Lorpugo3 posts the small blind 15.00
+cyboy123 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Ah]
+Lorpugo3 raises 45.00 to 60.00
+cyboy123 calls 30.00
+*** FLOP *** [4s Qh 4d]
+Main pot 120.00
+cyboy123 checks
+Lorpugo3 bets 30.00
+cyboy123 calls 30.00
+*** TURN *** [4s Qh 4d] [2h]
+Main pot 180.00
+cyboy123 checks
+Lorpugo3 checks
+*** RIVER *** [4s Qh 4d 2h] [3d]
+Main pot 180.00
+cyboy123 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 180.00
+cyboy123 shows [6d 9s] (a pair of Fours [4s 4d Qh 9s 6d])
+Lorpugo3 shows [9h Ah] (a pair of Fours [4s 4d Ah Qh 9h])
+Lorpugo3 collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [4s Qh 4d 2h 3d]
+Seat 1: cyboy123 (big blind) showed [6d 9s] and lost with a pair of Fours [4s 4d Qh 9s 6d]
+Seat 2: Lorpugo3 (button) showed [9h Ah] and won 180.00 with a pair of Fours [4s 4d Ah Qh 9h] with the kicker Ace
+
+Game Hand #382408142 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:00:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1045.00)
+Seat 2: Lorpugo3 (1955.00)
+cyboy123 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 2c]
+cyboy123 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: cyboy123 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382408390 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:00:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1075.00)
+Seat 2: Lorpugo3 (1925.00)
+Lorpugo3 posts the small blind 15.00
+cyboy123 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 3h]
+Lorpugo3 folds
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: cyboy123 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #382408459 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:00:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+cyboy123 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 9h]
+cyboy123 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Jh 6s 3s]
+Main pot 60.00
+Lorpugo3 checks
+cyboy123 checks
+*** TURN *** [Jh 6s 3s] [Td]
+Main pot 60.00
+Lorpugo3 checks
+cyboy123 checks
+*** RIVER *** [Jh 6s 3s Td] [5d]
+Main pot 60.00
+Lorpugo3 checks
+cyboy123 checks
+*** SHOW DOWN ***
+Main pot 60.00
+Lorpugo3 shows [5c 9h] (a pair of Fives [5d 5c Jh Td 9h])
+cyboy123 mucks hand
+Lorpugo3 collected 60.00 from main pot
+*** SUMMARY ***
+Total pot 60.00
+Board [Jh 6s 3s Td 5d]
+Seat 1: cyboy123 (button) mucked [9d 2d]
+Seat 2: Lorpugo3 (big blind) showed [5c 9h] and won 60.00 with a pair of Fives [5d 5c Jh Td 9h]
+
+Game Hand #382408758 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:01:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1060.00)
+Seat 2: Lorpugo3 (1940.00)
+Lorpugo3 posts the small blind 15.00
+cyboy123 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 6d]
+Lorpugo3 calls 15.00
+cyboy123 checks
+*** FLOP *** [Js Qd Td]
+Main pot 60.00
+cyboy123 checks
+Lorpugo3 checks
+*** TURN *** [Js Qd Td] [8s]
+Main pot 60.00
+cyboy123 checks
+Lorpugo3 checks
+*** RIVER *** [Js Qd Td 8s] [Qh]
+Main pot 60.00
+cyboy123 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 60.00
+cyboy123 shows [5h 6c] (a pair of Queens [Qh Qd Js Td 8s])
+Lorpugo3 shows [Tc 6d] (two pair, Queens and Tens [Qh Qd Td Tc Js])
+Lorpugo3 collected 60.00 from main pot
+*** SUMMARY ***
+Total pot 60.00
+Board [Js Qd Td 8s Qh]
+Seat 1: cyboy123 (big blind) showed [5h 6c] and lost with a pair of Queens [Qh Qd Js Td 8s]
+Seat 2: Lorpugo3 (button) showed [Tc 6d] and won 60.00 with two pair, Queens and Tens [Qh Qd Td Tc Js]
+
+Game Hand #382409125 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:01:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: cyboy123 (1030.00)
+Seat 2: Lorpugo3 (1970.00)
+cyboy123 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9h]
+cyboy123 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to cyboy123
+cyboy123 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: cyboy123 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #382409232 - Tournament #20856869 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/01 16:02:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: cyboy123 (1060.00)
+Seat 2: Lorpugo3 (1940.00)
+Lorpugo3 posts the small blind 15.00
+cyboy123 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Jd]
+Lorpugo3 raises 45.00 to 60.00
+cyboy123 raises 60.00 to 90.00
+Lorpugo3 raises 1880.00 to 1940.00 and is all-in
+cyboy123 calls 970.00 and is all-in
+Uncalled bet (880.00) returned to Lorpugo3
+*** FLOP *** [Tc 3h 4s]
+Main pot 2120.00
+*** TURN *** [Tc 3h 4s] [Ah]
+Main pot 2120.00
+*** RIVER *** [Tc 3h 4s Ah] [Th]
+Main pot 2120.00
+*** SHOW DOWN ***
+Main pot 2120.00
+cyboy123 shows [Jc 9s] (a pair of Tens [Th Tc Ah Jc 9s])
+Lorpugo3 shows [Jh Jd] (two pair, Jacks and Tens [Jh Jd Th Tc Ah])
+Lorpugo3 collected 2120.00 from main pot
+*** SUMMARY ***
+Total pot 2120.00
+Board [Tc 3h 4s Ah Th]
+Seat 1: cyboy123 (big blind) showed [Jc 9s] and lost with a pair of Tens [Th Tc Ah Jc 9s]
+Seat 2: Lorpugo3 (button) showed [Jh Jd] and won 2120.00 with two pair, Jacks and Tens [Jh Jd Th Tc Ah]
+

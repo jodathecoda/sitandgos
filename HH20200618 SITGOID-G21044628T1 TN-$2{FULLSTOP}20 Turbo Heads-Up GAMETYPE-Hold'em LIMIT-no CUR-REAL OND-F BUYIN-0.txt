@@ -1,0 +1,122 @@
+Game Hand #405019845 - Tournament #21044628 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:59:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Ganchik (1500.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 3c]
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 30.00
+
+Game Hand #405019898 - Tournament #21044628 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 08:59:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: Ganchik (1510.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 9c]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jh 6c 4h]
+Main pot 80.00
+Lorpugo3 checks
+Ganchik bets 40.00
+Lorpugo3 raises 120.00 to 120.00
+Ganchik folds
+Uncalled bet (80.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [Jh 6c 4h]
+Seat 1: Lorpugo3 did not show and won 160.00
+Seat 2: Ganchik (button) folded on the Flop
+
+Game Hand #405020086 - Tournament #21044628 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 09:00:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: Ganchik (1430.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Jd]
+Lorpugo3 raises 60.00 to 70.00
+Ganchik raises 1410.00 to 1430.00 and is all-in
+Lorpugo3 calls 1360.00
+*** FLOP *** [9d As 6c]
+Main pot 2860.00
+*** TURN *** [9d As 6c] [3c]
+Main pot 2860.00
+*** RIVER *** [9d As 6c 3c] [Th]
+Main pot 2860.00
+*** SHOW DOWN ***
+Main pot 2860.00
+Lorpugo3 shows [Kc Jd] (a high card, Ace high [As Kc Jd Th 9d])
+Ganchik shows [Ad Qd] (a pair of Aces [As Ad Qd Th 9d])
+Ganchik collected 2860.00 from main pot
+*** SUMMARY ***
+Total pot 2860.00
+Board [9d As 6c 3c Th]
+Seat 1: Lorpugo3 (button) showed [Kc Jd] and lost with a high card, Ace high [As Kc Jd Th 9d]
+Seat 2: Ganchik (big blind) showed [Ad Qd] and won 2860.00 with a pair of Aces [As Ad Qd Th 9d]
+
+Game Hand #405020240 - Tournament #21044628 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 09:00:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (140.00)
+Seat 2: Ganchik (2860.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 4s]
+Ganchik raises 2850.00 to 2860.00 and is all-in
+Lorpugo3 calls 120.00 and is all-in
+Uncalled bet (2720.00) returned to Ganchik
+*** FLOP *** [Ks 5s 7h]
+Main pot 280.00
+*** TURN *** [Ks 5s 7h] [6d]
+Main pot 280.00
+*** RIVER *** [Ks 5s 7h 6d] [3d]
+Main pot 280.00
+*** SHOW DOWN ***
+Main pot 280.00
+Lorpugo3 shows [3s 4s] (a straight, Seven high [7h 6d 5s 4s 3s])
+Ganchik shows [5c Kh] (two pair, Kings and Fives [Ks Kh 5s 5c 7h])
+Lorpugo3 collected 280.00 from main pot
+*** SUMMARY ***
+Total pot 280.00
+Board [Ks 5s 7h 6d 3d]
+Seat 1: Lorpugo3 (big blind) showed [3s 4s] and won 280.00 with a straight, Seven high [7h 6d 5s 4s 3s]
+Seat 2: Ganchik (button) showed [5c Kh] and lost with two pair, Kings and Fives [Ks Kh 5s 5c 7h]
+
+Game Hand #405020346 - Tournament #21044628 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 09:00:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (280.00)
+Seat 2: Ganchik (2720.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Td]
+Lorpugo3 raises 270.00 to 280.00 and is all-in
+Ganchik calls 260.00
+*** FLOP *** [2d 6d Ah]
+Main pot 560.00
+*** TURN *** [2d 6d Ah] [7h]
+Main pot 560.00
+*** RIVER *** [2d 6d Ah 7h] [Qc]
+Main pot 560.00
+*** SHOW DOWN ***
+Main pot 560.00
+Lorpugo3 shows [7d Td] (a pair of Sevens [7h 7d Ah Qc Td])
+Ganchik shows [As Ts] (a pair of Aces [As Ah Qc Ts 7h])
+Ganchik collected 560.00 from main pot
+*** SUMMARY ***
+Total pot 560.00
+Board [2d 6d Ah 7h Qc]
+Seat 1: Lorpugo3 (button) showed [7d Td] and lost with a pair of Sevens [7h 7d Ah Qc Td]
+Seat 2: Ganchik (big blind) showed [As Ts] and won 560.00 with a pair of Aces [As Ah Qc Ts 7h]
+

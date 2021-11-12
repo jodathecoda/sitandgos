@@ -1,0 +1,84 @@
+Game Hand #381370076 - Tournament #20849236 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:08:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 5d]
+Lorpugo3 folds
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: pokerisngood did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #381370511 - Tournament #20849236 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:08:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 6c]
+pokerisngood raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to pokerisngood
+pokerisngood does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #381370883 - Tournament #20849236 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:09:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: pokerisngood (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+Lorpugo3 posts the small blind 10.00
+pokerisngood posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 8c]
+Lorpugo3 raises 40.00 to 50.00
+pokerisngood folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: pokerisngood (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #381371377 - Tournament #20849236 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/31 22:09:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: pokerisngood (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+pokerisngood posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 8h]
+pokerisngood raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [4s 7d 2s]
+Main pot 100.00
+Lorpugo3 checks
+pokerisngood bets 32.00
+Lorpugo3 raises 114.00 to 114.00
+pokerisngood calls 82.00
+*** TURN *** [4s 7d 2s] [4c]
+Main pot 328.00
+Lorpugo3 bets 246.00
+pokerisngood raises 1346.00 to 1346.00 and is all-in
+Lorpugo3 calls 1080.00 and is all-in
+Uncalled bet (20.00) returned to pokerisngood
+*** RIVER *** [4s 7d 2s 4c] [6d]
+Main pot 2980.00
+*** SHOW DOWN ***
+Main pot 2980.00
+pokerisngood shows [5h 4h] (three of a kind, Set of Fours [4s 4h 4c 7d 6d])
+Lorpugo3 shows [8d 8h] (two pair, Eights and Fours [8h 8d 4s 4c 7d])
+pokerisngood collected 2980.00 from main pot
+*** SUMMARY ***
+Total pot 2980.00
+Board [4s 7d 2s 4c 6d]
+Seat 1: pokerisngood (button) showed [5h 4h] and won 2980.00 with three of a kind, Set of Fours [4s 4h 4c 7d 6d]
+Seat 2: Lorpugo3 (big blind) showed [8d 8h] and lost with two pair, Eights and Fours [8h 8d 4s 4c 7d]
+

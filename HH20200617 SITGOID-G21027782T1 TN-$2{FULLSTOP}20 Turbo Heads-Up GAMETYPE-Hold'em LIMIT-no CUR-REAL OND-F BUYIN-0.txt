@@ -1,0 +1,70 @@
+Game Hand #403305602 - Tournament #21027782 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:08:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: CURSOSCIENIAN (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+CURSOSCIENIAN posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 5h]
+Lorpugo3 raises 40.00 to 50.00
+CURSOSCIENIAN calls 30.00
+*** FLOP *** [Qh 3s As]
+Main pot 100.00
+CURSOSCIENIAN checks
+Lorpugo3 bets 40.00
+CURSOSCIENIAN calls 40.00
+*** TURN *** [Qh 3s As] [Qc]
+Main pot 180.00
+CURSOSCIENIAN checks
+Lorpugo3 checks
+*** RIVER *** [Qh 3s As Qc] [8s]
+Main pot 180.00
+CURSOSCIENIAN bets 135.00
+Lorpugo3 calls 135.00
+*** SHOW DOWN ***
+Main pot 450.00
+CURSOSCIENIAN shows [Ac 2h] (two pair, Aces and Queens [As Ac Qh Qc 8s])
+Lorpugo3 mucks hand
+CURSOSCIENIAN collected 450.00 from main pot
+*** SUMMARY ***
+Total pot 450.00
+Board [Qh 3s As Qc 8s]
+Seat 1: CURSOSCIENIAN (big blind) showed [Ac 2h] and won 450.00 with two pair, Aces and Queens [As Ac Qh Qc 8s]
+Seat 2: Lorpugo3 (button) mucked [5s 5h]
+
+Game Hand #403307626 - Tournament #21027782 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 02:09:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: CURSOSCIENIAN (1725.00)
+Seat 2: Lorpugo3 (1275.00)
+CURSOSCIENIAN posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 4d]
+CURSOSCIENIAN raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Kc 4h Qc]
+Main pot 80.00
+Lorpugo3 bets 40.00
+CURSOSCIENIAN calls 40.00
+*** TURN *** [Kc 4h Qc] [4s]
+Main pot 160.00
+Lorpugo3 checks
+CURSOSCIENIAN bets 40.00
+Lorpugo3 calls 40.00
+*** RIVER *** [Kc 4h Qc 4s] [Qs]
+Main pot 240.00
+Lorpugo3 checks
+CURSOSCIENIAN bets 320.00
+Lorpugo3 raises 1155.00 to 1155.00 and is all-in
+CURSOSCIENIAN calls 835.00
+*** SHOW DOWN ***
+Main pot 2550.00
+CURSOSCIENIAN shows [Qd 7c] (a full house, Queens full of Fours [Qs Qd Qc 4s 4h])
+Lorpugo3 shows [Kd 4d] (a full house, Fours full of Kings [4s 4h 4d Kd Kc])
+CURSOSCIENIAN collected 2550.00 from main pot
+*** SUMMARY ***
+Total pot 2550.00
+Board [Kc 4h Qc 4s Qs]
+Seat 1: CURSOSCIENIAN (button) showed [Qd 7c] and won 2550.00 with a full house, Queens full of Fours [Qs Qd Qc 4s 4h]
+Seat 2: Lorpugo3 (big blind) showed [Kd 4d] and lost with a full house, Fours full of Kings [4s 4h 4d Kd Kc]
+

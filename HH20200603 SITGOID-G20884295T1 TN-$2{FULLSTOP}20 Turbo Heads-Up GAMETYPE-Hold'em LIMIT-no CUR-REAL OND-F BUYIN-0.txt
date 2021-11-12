@@ -1,0 +1,292 @@
+Game Hand #385335438 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:55:16 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: DocSmoove (1500.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc As]
+Lorpugo3 raises 40.00 to 50.00
+DocSmoove calls 30.00
+*** FLOP *** [9c Td Kd]
+Main pot 100.00
+DocSmoove checks
+Lorpugo3 checks
+*** TURN *** [9c Td Kd] [Qs]
+Main pot 100.00
+DocSmoove bets 70.00
+Lorpugo3 calls 70.00
+*** RIVER *** [9c Td Kd Qs] [6s]
+Main pot 240.00
+DocSmoove checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 240.00
+DocSmoove shows [6h 5c] (a pair of Sixs [6s 6h Kd Qs Td])
+Lorpugo3 shows [Qc As] (a pair of Queens [Qs Qc As Kd Td])
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [9c Td Kd Qs 6s]
+Seat 1: Lorpugo3 (button) showed [Qc As] and won 240.00 with a pair of Queens [Qs Qc As Kd Td]
+Seat 2: DocSmoove (big blind) showed [6h 5c] and lost with a pair of Sixs [6s 6h Kd Qs Td]
+
+Game Hand #385335828 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:55:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1620.00)
+Seat 2: DocSmoove (1380.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 4d]
+DocSmoove calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Kc Jc Js]
+Main pot 40.00
+Lorpugo3 checks
+DocSmoove bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to DocSmoove
+DocSmoove does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [Kc Jc Js]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: DocSmoove did not show and won 40.00
+
+Game Hand #385336088 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:56:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1600.00)
+Seat 2: DocSmoove (1400.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9c]
+Lorpugo3 raises 60.00 to 70.00
+DocSmoove raises 200.00 to 220.00
+Lorpugo3 folds
+DocSmoove does not show
+*** SUMMARY ***
+Total pot 290.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DocSmoove did not show and won 290.00
+
+Game Hand #385336323 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:56:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: DocSmoove (1470.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Ah]
+DocSmoove raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Qd Qs 7s]
+Main pot 100.00
+Lorpugo3 bets 50.00
+DocSmoove raises 150.00 to 150.00
+Lorpugo3 raises 340.00 to 390.00
+DocSmoove raises 1270.00 to 1420.00 and is all-in
+Lorpugo3 calls 1030.00
+*** TURN *** [Qd Qs 7s] [3s]
+Main pot 2940.00
+*** RIVER *** [Qd Qs 7s 3s] [As]
+Main pot 2940.00
+*** SHOW DOWN ***
+Main pot 2940.00
+Lorpugo3 shows [7d Ah] (two pair, Aces and Queens [As Ah Qs Qd 7s])
+DocSmoove shows [2d 2s] (a flush, Ace high [As Qs 7s 3s 2s])
+DocSmoove collected 2940.00 from main pot
+*** SUMMARY ***
+Total pot 2940.00
+Board [Qd Qs 7s 3s As]
+Seat 1: Lorpugo3 (big blind) showed [7d Ah] and lost with two pair, Aces and Queens [As Ah Qs Qd 7s]
+Seat 2: DocSmoove (button) showed [2d 2s] and won 2940.00 with a flush, Ace high [As Qs 7s 3s 2s]
+
+Game Hand #385336764 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:57:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (60.00)
+Seat 2: DocSmoove (2940.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 8h]
+Lorpugo3 raises 50.00 to 60.00 and is all-in
+DocSmoove calls 40.00
+*** FLOP *** [2s Ks 6s]
+Main pot 120.00
+*** TURN *** [2s Ks 6s] [3h]
+Main pot 120.00
+*** RIVER *** [2s Ks 6s 3h] [4s]
+Main pot 120.00
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [Qs 8h] (a flush, King high [Ks Qs 6s 4s 2s])
+DocSmoove shows [6c 2c] (two pair, Sixs and Deuces [6s 6c 2s 2c Ks])
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [2s Ks 6s 3h 4s]
+Seat 1: Lorpugo3 (button) showed [Qs 8h] and won 120.00 with a flush, King high [Ks Qs 6s 4s 2s]
+Seat 2: DocSmoove (big blind) showed [6c 2c] and lost with two pair, Sixs and Deuces [6s 6c 2s 2c Ks]
+
+Game Hand #385336937 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:57:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (120.00)
+Seat 2: DocSmoove (2880.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 4d]
+DocSmoove raises 50.00 to 60.00
+Lorpugo3 raises 100.00 to 120.00 and is all-in
+DocSmoove calls 60.00
+*** FLOP *** [Jh 4s 4h]
+Main pot 240.00
+*** TURN *** [Jh 4s 4h] [6h]
+Main pot 240.00
+*** RIVER *** [Jh 4s 4h 6h] [2d]
+Main pot 240.00
+*** SHOW DOWN ***
+Main pot 240.00
+Lorpugo3 shows [5c 4d] (three of a kind, Set of Fours [4s 4h 4d Jh 6h])
+DocSmoove shows [8s 8c] (two pair, Eights and Fours [8s 8c 4s 4h Jh])
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [Jh 4s 4h 6h 2d]
+Seat 1: Lorpugo3 (big blind) showed [5c 4d] and won 240.00 with three of a kind, Set of Fours [4s 4h 4d Jh 6h]
+Seat 2: DocSmoove (button) showed [8s 8c] and lost with two pair, Eights and Fours [8s 8c 4s 4h Jh]
+
+Game Hand #385337189 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:57:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (240.00)
+Seat 2: DocSmoove (2760.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 7d]
+Lorpugo3 folds
+DocSmoove does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DocSmoove did not show and won 30.00
+
+Game Hand #385337282 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:57:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (230.00)
+Seat 2: DocSmoove (2770.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 6c]
+DocSmoove raises 2760.00 to 2770.00 and is all-in
+Lorpugo3 calls 210.00 and is all-in
+Uncalled bet (2540.00) returned to DocSmoove
+*** FLOP *** [4s 3c 8c]
+Main pot 460.00
+*** TURN *** [4s 3c 8c] [Tc]
+Main pot 460.00
+*** RIVER *** [4s 3c 8c Tc] [Ad]
+Main pot 460.00
+*** SHOW DOWN ***
+Main pot 460.00
+Lorpugo3 shows [5c 6c] (a flush, Ten high [Tc 8c 6c 5c 3c])
+DocSmoove shows [Jd 9d] (a high card, Ace high [Ad Jd Tc 9d 8c])
+Lorpugo3 collected 460.00 from main pot
+*** SUMMARY ***
+Total pot 460.00
+Board [4s 3c 8c Tc Ad]
+Seat 1: Lorpugo3 (big blind) showed [5c 6c] and won 460.00 with a flush, Ten high [Tc 8c 6c 5c 3c]
+Seat 2: DocSmoove (button) showed [Jd 9d] and lost with a high card, Ace high [Ad Jd Tc 9d 8c]
+
+Game Hand #385337442 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:58:03 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: DocSmoove (2540.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 8h]
+Lorpugo3 folds
+DocSmoove does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: DocSmoove did not show and won 30.00
+
+Game Hand #385337522 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:58:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (450.00)
+Seat 2: DocSmoove (2550.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 2s]
+DocSmoove raises 30.00 to 40.00
+Lorpugo3 raises 430.00 to 450.00 and is all-in
+DocSmoove folds
+Uncalled bet (410.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: DocSmoove (button) folded on the Pre-Flop
+
+Game Hand #385338035 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:58:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (490.00)
+Seat 2: DocSmoove (2510.00)
+Lorpugo3 posts the small blind 10.00
+DocSmoove posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 5s]
+Lorpugo3 raises 30.00 to 40.00
+DocSmoove calls 20.00
+*** FLOP *** [9c 6s 5h]
+Main pot 80.00
+DocSmoove checks
+Lorpugo3 checks
+*** TURN *** [9c 6s 5h] [Jd]
+Main pot 80.00
+DocSmoove bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to DocSmoove
+DocSmoove does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9c 6s 5h Jd]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: DocSmoove did not show and won 80.00
+
+Game Hand #385338412 - Tournament #20884295 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/03 20:59:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (450.00)
+Seat 2: DocSmoove (2550.00)
+DocSmoove posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 2h]
+DocSmoove calls 10.00
+Lorpugo3 checks
+*** FLOP *** [As 6s Kd]
+Main pot 40.00
+Lorpugo3 checks
+DocSmoove checks
+*** TURN *** [As 6s Kd] [5c]
+Main pot 40.00
+Lorpugo3 checks
+DocSmoove checks
+*** RIVER *** [As 6s Kd 5c] [8d]
+Main pot 40.00
+Lorpugo3 bets 30.00
+DocSmoove folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [As 6s Kd 5c 8d]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: DocSmoove (button) folded on the River
+

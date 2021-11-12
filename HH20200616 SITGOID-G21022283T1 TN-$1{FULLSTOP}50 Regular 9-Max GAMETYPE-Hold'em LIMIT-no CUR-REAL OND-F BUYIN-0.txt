@@ -1,0 +1,1147 @@
+Game Hand #402519859 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:10:05 UTC
+Table '1' 9-max Seat #8 is the button
+Seat 1: Harvest312 (2000.00)
+Seat 2: Behind_Mask_ZS (2000.00)
+Seat 3: Medicaster (2000.00)
+Seat 4: RachelzRose (2000.00)
+Seat 5: Lorpugo3 (2000.00)
+Seat 6: Wh4le (2000.00)
+Seat 7: poker1123835 (2000.00)
+Seat 8: heubi (2000.00)
+Seat 9: Sakst8282 (2000.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Sakst8282 posts ante 2.00
+Sakst8282 posts the small blind 10.00
+Harvest312 posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 18.00
+Dealt to Lorpugo3 [9h 7h]
+Behind_Mask_ZS raises 40.00 to 40.00
+Medicaster folds
+RachelzRose folds
+Lorpugo3 calls 40.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Sakst8282 calls 30.00
+Harvest312 folds
+*** FLOP *** [Kh 7d Ah]
+Main pot 158.00
+Sakst8282 checks
+Behind_Mask_ZS checks
+Lorpugo3 bets 50.00
+Sakst8282 folds
+Behind_Mask_ZS folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 158.00
+Board [Kh 7d Ah]
+Seat 1: Harvest312 (big blind) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS folded on the Flop
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 did not show and won 158.00
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi (button) folded on the Pre-Flop
+Seat 9: Sakst8282 (small blind) folded on the Flop
+
+Game Hand #402520301 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:10:55 UTC
+Table '1' 9-max Seat #9 is the button
+Seat 1: Harvest312 (1978.00)
+Seat 2: Behind_Mask_ZS (1958.00)
+Seat 3: Medicaster (1998.00)
+Seat 4: RachelzRose (1998.00)
+Seat 5: Lorpugo3 (2116.00)
+Seat 6: Wh4le (1998.00)
+Seat 7: poker1123835 (1998.00)
+Seat 8: heubi (1998.00)
+Seat 9: Sakst8282 (1958.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Sakst8282 posts ante 2.00
+Harvest312 posts the small blind 10.00
+Behind_Mask_ZS posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 18.00
+Dealt to Lorpugo3 [Td Qd]
+Medicaster folds
+RachelzRose calls 20.00
+Lorpugo3 calls 20.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Sakst8282 raises 60.00 to 60.00
+Harvest312 calls 50.00
+Behind_Mask_ZS raises 159.00 to 179.00
+RachelzRose folds
+Lorpugo3 folds
+Sakst8282 calls 119.00
+Harvest312 calls 119.00
+*** FLOP *** [2d 3c Kc]
+Main pot 595.00
+Harvest312 checks
+Behind_Mask_ZS bets 149.00
+Sakst8282 calls 149.00
+Harvest312 folds
+*** TURN *** [2d 3c Kc] [Kh]
+Main pot 893.00
+Behind_Mask_ZS checks
+Sakst8282 bets 420.00
+Behind_Mask_ZS calls 420.00
+*** RIVER *** [2d 3c Kc Kh] [Tc]
+Main pot 1733.00
+Behind_Mask_ZS bets 1085.00
+Sakst8282 raises 1208.00 to 1208.00 and is all-in
+Behind_Mask_ZS calls 123.00 and is all-in
+*** SHOW DOWN ***
+Main pot 4149.00
+Behind_Mask_ZS shows [Th Ts] (a full house, Tens full of Kings [Ts Th Tc Kh Kc])
+Sakst8282 shows [Qc Ac] (a flush, Ace high [Ac Kc Qc Tc 3c])
+Behind_Mask_ZS collected 4149.00 from main pot
+*** SUMMARY ***
+Total pot 4149.00
+Board [2d 3c Kc Kh Tc]
+Seat 1: Harvest312 (small blind) folded on the Flop
+Seat 2: Behind_Mask_ZS (big blind) showed [Th Ts] and won 4149.00 with a full house, Tens full of Kings [Ts Th Tc Kh Kc]
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+Seat 9: Sakst8282 (button) showed [Qc Ac] and lost with a flush, Ace high [Ac Kc Qc Tc 3c]
+
+Game Hand #402521478 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:13:07 UTC
+Table '1' 9-max Seat #1 is the button
+Seat 1: Harvest312 (1797.00)
+Seat 2: Behind_Mask_ZS (4149.00)
+Seat 3: Medicaster (1996.00)
+Seat 4: RachelzRose (1976.00)
+Seat 5: Lorpugo3 (2094.00)
+Seat 6: Wh4le (1996.00)
+Seat 7: poker1123835 (1996.00)
+Seat 8: heubi (1996.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Behind_Mask_ZS posts the small blind 10.00
+Medicaster posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 16.00
+Dealt to Lorpugo3 [9c Ac]
+RachelzRose calls 20.00
+Lorpugo3 raises 60.00 to 60.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS folds
+Medicaster calls 40.00
+RachelzRose calls 40.00
+*** FLOP *** [Tc As 6c]
+Main pot 206.00
+Medicaster checks
+RachelzRose checks
+Lorpugo3 bets 103.00
+Medicaster calls 103.00
+RachelzRose folds
+*** TURN *** [Tc As 6c] [Td]
+Main pot 412.00
+Medicaster checks
+Lorpugo3 checks
+*** RIVER *** [Tc As 6c Td] [6d]
+Main pot 412.00
+Medicaster checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 412.00
+Medicaster shows [Ah 3h] (two pair, Aces and Tens [As Ah Td Tc 6d])
+Lorpugo3 shows [9c Ac] (two pair, Aces and Tens [As Ac Td Tc 9c])
+Lorpugo3 collected 412.00 from main pot
+*** SUMMARY ***
+Total pot 412.00
+Board [Tc As 6c Td 6d]
+Seat 1: Harvest312 (button) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS (small blind) folded on the Pre-Flop
+Seat 3: Medicaster (big blind) showed [Ah 3h] and lost with two pair, Aces and Tens [As Ah Td Tc 6d]
+Seat 4: RachelzRose folded on the Flop
+Seat 5: Lorpugo3 showed [9c Ac] and won 412.00 with two pair, Aces and Tens [As Ac Td Tc 9c] with the kicker Nine
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402522128 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:14:17 UTC
+Table '1' 9-max Seat #2 is the button
+Seat 1: Harvest312 (1795.00)
+Seat 2: Behind_Mask_ZS (4137.00)
+Seat 3: Medicaster (1831.00)
+Seat 4: RachelzRose (1914.00)
+Seat 5: Lorpugo3 (2341.00)
+Seat 6: Wh4le (1994.00)
+Seat 7: poker1123835 (1994.00)
+Seat 8: heubi (1994.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Medicaster posts the small blind 10.00
+RachelzRose posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 16.00
+Dealt to Lorpugo3 [Jh Ks]
+Lorpugo3 raises 50.00 to 50.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS folds
+Medicaster folds
+RachelzRose calls 30.00
+*** FLOP *** [7s Qd Js]
+Main pot 126.00
+RachelzRose checks
+Lorpugo3 checks
+*** TURN *** [7s Qd Js] [Qh]
+Main pot 126.00
+RachelzRose checks
+Lorpugo3 bets 63.00
+RachelzRose folds
+Uncalled bet (63.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 126.00
+Board [7s Qd Js Qh]
+Seat 1: Harvest312 folded on the Pre-Flop and did not bet
+Seat 2: Behind_Mask_ZS (button) folded on the Pre-Flop
+Seat 3: Medicaster (small blind) folded on the Pre-Flop
+Seat 4: RachelzRose (big blind) folded on the Turn
+Seat 5: Lorpugo3 did not show and won 126.00
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402522665 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:15:19 UTC
+Table '1' 9-max Seat #3 is the button
+Seat 1: Harvest312 (1793.00)
+Seat 2: Behind_Mask_ZS (4135.00)
+Seat 3: Medicaster (1819.00)
+Seat 4: RachelzRose (1862.00)
+Seat 5: Lorpugo3 (2415.00)
+Seat 6: Wh4le (1992.00)
+Seat 7: poker1123835 (1992.00)
+Seat 8: heubi (1992.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+RachelzRose posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 16.00
+Dealt to Lorpugo3 [Ts 3d]
+Wh4le folds
+poker1123835 folds
+heubi raises 70.00 to 70.00
+Harvest312 calls 70.00
+Behind_Mask_ZS folds
+Medicaster calls 70.00
+RachelzRose folds
+Lorpugo3 folds
+*** FLOP *** [Ad 5c 6s]
+Main pot 256.00
+heubi checks
+Harvest312 checks
+Medicaster checks
+*** TURN *** [Ad 5c 6s] [8s]
+Main pot 256.00
+heubi bets 64.00
+Harvest312 calls 64.00
+Medicaster folds
+*** RIVER *** [Ad 5c 6s 8s] [4h]
+Main pot 384.00
+heubi bets 96.00
+Harvest312 folds
+Uncalled bet (96.00) returned to heubi
+heubi does not show
+*** SUMMARY ***
+Total pot 384.00
+Board [Ad 5c 6s 8s 4h]
+Seat 1: Harvest312 folded on the River
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster (button) folded on the Turn
+Seat 4: RachelzRose (small blind) folded on the Pre-Flop
+Seat 5: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi did not show and won 384.00
+
+Game Hand #402523455 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:16:48 UTC
+Table '1' 9-max Seat #4 is the button
+Seat 1: Harvest312 (1657.00)
+Seat 2: Behind_Mask_ZS (4133.00)
+Seat 3: Medicaster (1747.00)
+Seat 4: RachelzRose (1850.00)
+Seat 5: Lorpugo3 (2393.00)
+Seat 6: Wh4le (1990.00)
+Seat 7: poker1123835 (1990.00)
+Seat 8: heubi (2240.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Lorpugo3 posts the small blind 10.00
+Wh4le posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 16.00
+Dealt to Lorpugo3 [3c 8d]
+poker1123835 calls 20.00
+heubi folds
+Harvest312 calls 20.00
+Behind_Mask_ZS raises 40.00 to 40.00
+Medicaster folds
+RachelzRose folds
+Lorpugo3 folds
+Wh4le folds
+poker1123835 calls 20.00
+Harvest312 calls 20.00
+*** FLOP *** [4c 5s As]
+Main pot 166.00
+poker1123835 checks
+Harvest312 checks
+Behind_Mask_ZS bets 50.00
+poker1123835 folds
+Harvest312 folds
+Uncalled bet (50.00) returned to Behind_Mask_ZS
+Behind_Mask_ZS does not show
+*** SUMMARY ***
+Total pot 166.00
+Board [4c 5s As]
+Seat 1: Harvest312 folded on the Flop
+Seat 2: Behind_Mask_ZS did not show and won 166.00
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose (button) folded on the Pre-Flop
+Seat 5: Lorpugo3 (small blind) folded on the Pre-Flop
+Seat 6: Wh4le (big blind) folded on the Pre-Flop
+Seat 7: poker1123835 folded on the Flop
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402524053 - Tournament #21022283 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 15:17:55 UTC
+Table '1' 9-max Seat #5 is the button
+Seat 1: Harvest312 (1615.00)
+Seat 2: Behind_Mask_ZS (4257.00)
+Seat 3: Medicaster (1745.00)
+Seat 4: RachelzRose (1848.00)
+Seat 5: Lorpugo3 (2381.00)
+Seat 6: Wh4le (1968.00)
+Seat 7: poker1123835 (1948.00)
+Seat 8: heubi (2238.00)
+Harvest312 posts ante 2.00
+Behind_Mask_ZS posts ante 2.00
+Medicaster posts ante 2.00
+RachelzRose posts ante 2.00
+Lorpugo3 posts ante 2.00
+Wh4le posts ante 2.00
+poker1123835 posts ante 2.00
+heubi posts ante 2.00
+Wh4le posts the small blind 10.00
+poker1123835 posts the big blind 20.00
+*** HOLE CARDS ***
+Main pot 16.00
+Dealt to Lorpugo3 [Js 9d]
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS folds
+Medicaster folds
+RachelzRose calls 20.00
+Lorpugo3 raises 70.00 to 70.00
+Wh4le folds
+poker1123835 calls 50.00
+RachelzRose calls 50.00
+*** FLOP *** [8h Tc 5c]
+Main pot 236.00
+poker1123835 checks
+RachelzRose bets 118.00
+Lorpugo3 calls 118.00
+poker1123835 folds
+*** TURN *** [8h Tc 5c] [Qd]
+Main pot 472.00
+RachelzRose bets 118.00
+Lorpugo3 raises 306.00 to 306.00
+RachelzRose calls 188.00
+*** RIVER *** [8h Tc 5c Qd] [9c]
+Main pot 1084.00
+RachelzRose bets 813.00
+Lorpugo3 folds
+Uncalled bet (813.00) returned to RachelzRose
+RachelzRose does not show
+*** SUMMARY ***
+Total pot 1084.00
+Board [8h Tc 5c Qd 9c]
+Seat 1: Harvest312 folded on the Pre-Flop and did not bet
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose did not show and won 1084.00
+Seat 5: Lorpugo3 (button) folded on the River
+Seat 6: Wh4le (small blind) folded on the Pre-Flop
+Seat 7: poker1123835 (big blind) folded on the Flop
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402525599 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:20:44 UTC
+Table '1' 9-max Seat #6 is the button
+Seat 1: Harvest312 (1613.00)
+Seat 2: Behind_Mask_ZS (4255.00)
+Seat 3: Medicaster (1743.00)
+Seat 4: RachelzRose (2436.00)
+Seat 5: Lorpugo3 (1885.00)
+Seat 6: Wh4le (1956.00)
+Seat 7: poker1123835 (1876.00)
+Seat 8: heubi (2236.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+poker1123835 posts the small blind 15.00
+heubi posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [Kh 4s]
+Harvest312 calls 30.00
+Behind_Mask_ZS folds
+Medicaster raises 127.00 to 127.00
+RachelzRose calls 127.00
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 raises 194.00 to 224.00
+Medicaster calls 97.00
+RachelzRose calls 97.00
+*** FLOP *** [6s 9d Ac]
+Main pot 741.00
+Harvest312 checks
+Medicaster bets 255.00
+RachelzRose folds
+Harvest312 folds
+Uncalled bet (255.00) returned to Medicaster
+Medicaster does not show
+*** SUMMARY ***
+Total pot 741.00
+Board [6s 9d Ac]
+Seat 1: Harvest312 folded on the Flop
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster did not show and won 741.00
+Seat 4: RachelzRose folded on the Flop
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le (button) folded on the Pre-Flop
+Seat 7: poker1123835 (small blind) folded on the Pre-Flop
+Seat 8: heubi (big blind) folded on the Pre-Flop
+
+Game Hand #402526223 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:21:46 UTC
+Table '1' 9-max Seat #7 is the button
+Seat 1: Harvest312 (1386.00)
+Seat 2: Behind_Mask_ZS (4252.00)
+Seat 3: Medicaster (2257.00)
+Seat 4: RachelzRose (2209.00)
+Seat 5: Lorpugo3 (1882.00)
+Seat 6: Wh4le (1953.00)
+Seat 7: poker1123835 (1858.00)
+Seat 8: heubi (2203.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+heubi posts the small blind 15.00
+Harvest312 posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [3c 4c]
+Behind_Mask_ZS raises 60.00 to 60.00
+Medicaster folds
+RachelzRose folds
+Lorpugo3 calls 60.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+*** FLOP *** [5s 2s 7c]
+Main pot 189.00
+Behind_Mask_ZS checks
+Lorpugo3 bets 189.00
+Behind_Mask_ZS folds
+Uncalled bet (189.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 189.00
+Board [5s 2s 7c]
+Seat 1: Harvest312 (big blind) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS folded on the Flop
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 did not show and won 189.00
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 (button) folded on the Pre-Flop
+Seat 8: heubi (small blind) folded on the Pre-Flop
+
+Game Hand #402526797 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:22:44 UTC
+Table '1' 9-max Seat #8 is the button
+Seat 1: Harvest312 (1353.00)
+Seat 2: Behind_Mask_ZS (4189.00)
+Seat 3: Medicaster (2254.00)
+Seat 4: RachelzRose (2206.00)
+Seat 5: Lorpugo3 (2008.00)
+Seat 6: Wh4le (1950.00)
+Seat 7: poker1123835 (1855.00)
+Seat 8: heubi (2185.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+Harvest312 posts the small blind 15.00
+Behind_Mask_ZS posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [5s 7s]
+Medicaster folds
+RachelzRose folds
+Lorpugo3 raises 90.00 to 90.00
+Wh4le folds
+poker1123835 calls 90.00
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS folds
+*** FLOP *** [Ac Qs 8h]
+Main pot 249.00
+Lorpugo3 checks
+poker1123835 checks
+*** TURN *** [Ac Qs 8h] [4h]
+Main pot 249.00
+Lorpugo3 bets 125.00
+poker1123835 raises 310.00 to 310.00
+Lorpugo3 folds
+Uncalled bet (185.00) returned to poker1123835
+poker1123835 does not show
+*** SUMMARY ***
+Total pot 499.00
+Board [Ac Qs 8h 4h]
+Seat 1: Harvest312 (small blind) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS (big blind) folded on the Pre-Flop
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Turn
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 did not show and won 499.00
+Seat 8: heubi (button) folded on the Pre-Flop
+
+Game Hand #402527417 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:23:49 UTC
+Table '1' 9-max Seat #1 is the button
+Seat 1: Harvest312 (1335.00)
+Seat 2: Behind_Mask_ZS (4156.00)
+Seat 3: Medicaster (2251.00)
+Seat 4: RachelzRose (2203.00)
+Seat 5: Lorpugo3 (1790.00)
+Seat 6: Wh4le (1947.00)
+Seat 7: poker1123835 (2136.00)
+Seat 8: heubi (2182.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+Behind_Mask_ZS posts the small blind 15.00
+Medicaster posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [7c 3s]
+RachelzRose folds
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS calls 15.00
+Medicaster checks
+*** FLOP *** [9h Ac Th]
+Main pot 84.00
+Behind_Mask_ZS checks
+Medicaster checks
+*** TURN *** [9h Ac Th] [8s]
+Main pot 84.00
+Behind_Mask_ZS checks
+Medicaster checks
+*** RIVER *** [9h Ac Th 8s] [5h]
+Main pot 84.00
+Behind_Mask_ZS bets 42.00
+Medicaster folds
+Uncalled bet (42.00) returned to Behind_Mask_ZS
+Behind_Mask_ZS does not show
+*** SUMMARY ***
+Total pot 84.00
+Board [9h Ac Th 8s 5h]
+Seat 1: Harvest312 (button) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS did not show and won 84.00
+Seat 3: Medicaster (big blind) folded on the River
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402528016 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:24:49 UTC
+Table '1' 9-max Seat #2 is the button
+Seat 1: Harvest312 (1332.00)
+Seat 2: Behind_Mask_ZS (4207.00)
+Seat 3: Medicaster (2218.00)
+Seat 4: RachelzRose (2200.00)
+Seat 5: Lorpugo3 (1787.00)
+Seat 6: Wh4le (1944.00)
+Seat 7: poker1123835 (2133.00)
+Seat 8: heubi (2179.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+Medicaster posts the small blind 15.00
+RachelzRose posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [5d 7s]
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi calls 30.00
+Harvest312 calls 30.00
+Behind_Mask_ZS raises 110.00 to 110.00
+Medicaster folds
+RachelzRose folds
+heubi folds
+Harvest312 calls 80.00
+*** FLOP *** [Js Td 4h]
+Main pot 319.00
+Harvest312 checks
+Behind_Mask_ZS bets 239.00
+Harvest312 raises 478.00 to 478.00
+Behind_Mask_ZS raises 1195.00 to 1434.00
+Harvest312 calls 741.00 and is all-in
+Uncalled bet (215.00) returned to Behind_Mask_ZS
+*** TURN *** [Js Td 4h] [3d]
+Main pot 2757.00
+*** RIVER *** [Js Td 4h 3d] [7d]
+Main pot 2757.00
+*** SHOW DOWN ***
+Main pot 2757.00
+Harvest312 shows [9d Jc] (a pair of Jacks [Js Jc Td 9d 7d])
+Behind_Mask_ZS shows [8c Th] (a pair of Tens [Th Td Js 8c 7d])
+Harvest312 collected 2757.00 from main pot
+*** SUMMARY ***
+Total pot 2757.00
+Board [Js Td 4h 3d 7d]
+Seat 1: Harvest312 showed [9d Jc] and won 2757.00 with a pair of Jacks [Js Jc Td 9d 7d]
+Seat 2: Behind_Mask_ZS (button) showed [8c Th] and lost with a pair of Tens [Th Td Js 8c 7d]
+Seat 3: Medicaster (small blind) folded on the Pre-Flop
+Seat 4: RachelzRose (big blind) folded on the Pre-Flop
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402528824 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:26:17 UTC
+Table '1' 9-max Seat #3 is the button
+Seat 1: Harvest312 (2757.00)
+Seat 2: Behind_Mask_ZS (2875.00)
+Seat 3: Medicaster (2200.00)
+Seat 4: RachelzRose (2167.00)
+Seat 5: Lorpugo3 (1784.00)
+Seat 6: Wh4le (1941.00)
+Seat 7: poker1123835 (2130.00)
+Seat 8: heubi (2146.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+RachelzRose posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [7s 3s]
+Wh4le folds
+poker1123835 folds
+heubi calls 30.00
+Harvest312 calls 30.00
+Behind_Mask_ZS folds
+Medicaster folds
+RachelzRose calls 15.00
+Lorpugo3 checks
+*** FLOP *** [9s 4s Kd]
+Main pot 144.00
+RachelzRose bets 60.00
+Lorpugo3 calls 60.00
+heubi folds
+Harvest312 folds
+*** TURN *** [9s 4s Kd] [6h]
+Main pot 264.00
+RachelzRose bets 60.00
+Lorpugo3 calls 60.00
+*** RIVER *** [9s 4s Kd 6h] [8c]
+Main pot 384.00
+RachelzRose checks
+Lorpugo3 bets 288.00
+RachelzRose folds
+Uncalled bet (288.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 384.00
+Board [9s 4s Kd 6h 8c]
+Seat 1: Harvest312 folded on the Flop
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster (button) folded on the Pre-Flop
+Seat 4: RachelzRose (small blind) folded on the River
+Seat 5: Lorpugo3 did not show and won 384.00
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Flop
+
+Game Hand #402529520 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:27:31 UTC
+Table '1' 9-max Seat #4 is the button
+Seat 1: Harvest312 (2724.00)
+Seat 2: Behind_Mask_ZS (2872.00)
+Seat 3: Medicaster (2197.00)
+Seat 4: RachelzRose (2014.00)
+Seat 5: Lorpugo3 (2015.00)
+Seat 6: Wh4le (1938.00)
+Seat 7: poker1123835 (2127.00)
+Seat 8: heubi (2113.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+Lorpugo3 posts the small blind 15.00
+Wh4le posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [9d Jd]
+poker1123835 folds
+heubi folds
+Harvest312 calls 30.00
+Behind_Mask_ZS calls 30.00
+Medicaster folds
+RachelzRose folds
+Lorpugo3 calls 15.00
+Wh4le checks
+*** FLOP *** [Qd 4h 2s]
+Main pot 144.00
+Lorpugo3 checks
+Wh4le checks
+Harvest312 checks
+Behind_Mask_ZS checks
+*** TURN *** [Qd 4h 2s] [Td]
+Main pot 144.00
+Lorpugo3 checks
+Wh4le bets 108.00
+Harvest312 folds
+Behind_Mask_ZS folds
+Lorpugo3 calls 108.00
+*** RIVER *** [Qd 4h 2s Td] [Qs]
+Main pot 360.00
+Lorpugo3 checks
+Wh4le bets 195.00
+Lorpugo3 folds
+Uncalled bet (195.00) returned to Wh4le
+Wh4le does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [Qd 4h 2s Td Qs]
+Seat 1: Harvest312 folded on the Turn
+Seat 2: Behind_Mask_ZS folded on the Turn
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose (button) folded on the Pre-Flop
+Seat 5: Lorpugo3 (small blind) folded on the River
+Seat 6: Wh4le did not show and won 360.00
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402530452 - Tournament #21022283 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 15:29:09 UTC
+Table '1' 9-max Seat #5 is the button
+Seat 1: Harvest312 (2691.00)
+Seat 2: Behind_Mask_ZS (2839.00)
+Seat 3: Medicaster (2194.00)
+Seat 4: RachelzRose (2011.00)
+Seat 5: Lorpugo3 (1874.00)
+Seat 6: Wh4le (2157.00)
+Seat 7: poker1123835 (2124.00)
+Seat 8: heubi (2110.00)
+Harvest312 posts ante 3.00
+Behind_Mask_ZS posts ante 3.00
+Medicaster posts ante 3.00
+RachelzRose posts ante 3.00
+Lorpugo3 posts ante 3.00
+Wh4le posts ante 3.00
+poker1123835 posts ante 3.00
+heubi posts ante 3.00
+Wh4le posts the small blind 15.00
+poker1123835 posts the big blind 30.00
+*** HOLE CARDS ***
+Main pot 24.00
+Dealt to Lorpugo3 [2d 8d]
+heubi calls 30.00
+Harvest312 calls 30.00
+Behind_Mask_ZS folds
+Medicaster folds
+RachelzRose calls 30.00
+Lorpugo3 folds
+Wh4le calls 15.00
+poker1123835 raises 135.00 to 165.00
+heubi folds
+Harvest312 calls 135.00
+RachelzRose calls 135.00
+Wh4le folds
+*** FLOP *** [6d Td 5s]
+Main pot 579.00
+poker1123835 bets 290.00
+Harvest312 folds
+RachelzRose folds
+Uncalled bet (290.00) returned to poker1123835
+poker1123835 does not show
+*** SUMMARY ***
+Total pot 579.00
+Board [6d Td 5s]
+Seat 1: Harvest312 folded on the Flop
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Flop
+Seat 5: Lorpugo3 (button) folded on the Pre-Flop
+Seat 6: Wh4le (small blind) folded on the Pre-Flop
+Seat 7: poker1123835 did not show and won 579.00
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402531172 - Tournament #21022283 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:30:25 UTC
+Table '1' 9-max Seat #6 is the button
+Seat 1: Harvest312 (2523.00)
+Seat 2: Behind_Mask_ZS (2836.00)
+Seat 3: Medicaster (2191.00)
+Seat 4: RachelzRose (1843.00)
+Seat 5: Lorpugo3 (1871.00)
+Seat 6: Wh4le (2124.00)
+Seat 7: poker1123835 (2535.00)
+Seat 8: heubi (2077.00)
+Harvest312 posts ante 5.00
+Behind_Mask_ZS posts ante 5.00
+Medicaster posts ante 5.00
+RachelzRose posts ante 5.00
+Lorpugo3 posts ante 5.00
+Wh4le posts ante 5.00
+poker1123835 posts ante 5.00
+heubi posts ante 5.00
+poker1123835 posts the small blind 25.00
+heubi posts the big blind 50.00
+*** HOLE CARDS ***
+Main pot 40.00
+Dealt to Lorpugo3 [Jc 4h]
+Harvest312 folds
+Behind_Mask_ZS folds
+Medicaster raises 150.00 to 150.00
+RachelzRose folds
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi folds
+Uncalled bet (100.00) returned to Medicaster
+Medicaster does not show
+*** SUMMARY ***
+Total pot 165.00
+Seat 1: Harvest312 folded on the Pre-Flop and did not bet
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster did not show and won 165.00
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le (button) folded on the Pre-Flop
+Seat 7: poker1123835 (small blind) folded on the Pre-Flop
+Seat 8: heubi (big blind) folded on the Pre-Flop
+
+Game Hand #402531548 - Tournament #21022283 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:31:05 UTC
+Table '1' 9-max Seat #7 is the button
+Seat 1: Harvest312 (2518.00)
+Seat 2: Behind_Mask_ZS (2831.00)
+Seat 3: Medicaster (2301.00)
+Seat 4: RachelzRose (1838.00)
+Seat 5: Lorpugo3 (1866.00)
+Seat 6: Wh4le (2119.00)
+Seat 7: poker1123835 (2505.00)
+Seat 8: heubi (2022.00)
+Harvest312 posts ante 5.00
+Behind_Mask_ZS posts ante 5.00
+Medicaster posts ante 5.00
+RachelzRose posts ante 5.00
+Lorpugo3 posts ante 5.00
+Wh4le posts ante 5.00
+poker1123835 posts ante 5.00
+heubi posts ante 5.00
+heubi posts the small blind 25.00
+Harvest312 posts the big blind 50.00
+*** HOLE CARDS ***
+Main pot 40.00
+Dealt to Lorpugo3 [Ad 9c]
+Behind_Mask_ZS folds
+Medicaster folds
+RachelzRose raises 215.00 to 215.00
+Lorpugo3 folds
+Wh4le raises 624.00 to 624.00
+poker1123835 folds
+heubi folds
+Harvest312 folds
+RachelzRose raises 1618.00 to 1833.00 and is all-in
+Wh4le calls 1209.00
+*** FLOP *** [Th 2h 4d]
+Main pot 3781.00
+*** TURN *** [Th 2h 4d] [3c]
+Main pot 3781.00
+*** RIVER *** [Th 2h 4d 3c] [As]
+Main pot 3781.00
+*** SHOW DOWN ***
+Main pot 3781.00
+RachelzRose shows [Ac Ks] (a pair of Aces [As Ac Ks Th 4d])
+Wh4le shows [Jd Jc] (a pair of Jacks [Jd Jc As Th 4d])
+RachelzRose collected 3781.00 from main pot
+*** SUMMARY ***
+Total pot 3781.00
+Board [Th 2h 4d 3c As]
+Seat 1: Harvest312 (big blind) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS folded on the Pre-Flop and did not bet
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose showed [Ac Ks] and won 3781.00 with a pair of Aces [As Ac Ks Th 4d]
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le showed [Jd Jc] and lost with a pair of Jacks [Jd Jc As Th 4d]
+Seat 7: poker1123835 (button) folded on the Pre-Flop
+Seat 8: heubi (small blind) folded on the Pre-Flop
+
+Game Hand #402532139 - Tournament #21022283 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:32:08 UTC
+Table '1' 9-max Seat #8 is the button
+Seat 1: Harvest312 (2463.00)
+Seat 2: Behind_Mask_ZS (2826.00)
+Seat 3: Medicaster (2296.00)
+Seat 4: RachelzRose (3781.00)
+Seat 5: Lorpugo3 (1861.00)
+Seat 6: Wh4le (281.00)
+Seat 7: poker1123835 (2500.00)
+Seat 8: heubi (1992.00)
+Harvest312 posts ante 5.00
+Behind_Mask_ZS posts ante 5.00
+Medicaster posts ante 5.00
+RachelzRose posts ante 5.00
+Lorpugo3 posts ante 5.00
+Wh4le posts ante 5.00
+poker1123835 posts ante 5.00
+heubi posts ante 5.00
+Harvest312 posts the small blind 25.00
+Behind_Mask_ZS posts the big blind 50.00
+*** HOLE CARDS ***
+Main pot 40.00
+Dealt to Lorpugo3 [2h 7s]
+Medicaster folds
+RachelzRose folds
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi raises 133.00 to 133.00
+Harvest312 folds
+Behind_Mask_ZS calls 83.00
+*** FLOP *** [Qc 4h 9c]
+Main pot 331.00
+Behind_Mask_ZS checks
+heubi bets 166.00
+Behind_Mask_ZS calls 166.00
+*** TURN *** [Qc 4h 9c] [9s]
+Main pot 663.00
+Behind_Mask_ZS checks
+heubi checks
+*** RIVER *** [Qc 4h 9c 9s] [9h]
+Main pot 663.00
+Behind_Mask_ZS checks
+heubi bets 166.00
+Behind_Mask_ZS calls 166.00
+*** SHOW DOWN ***
+Main pot 995.00
+heubi shows [9d Ah] (four of a kind, Four Nines [9s 9h 9d 9c Ah])
+Behind_Mask_ZS mucks hand
+heubi collected 995.00 from main pot
+*** SUMMARY ***
+Total pot 995.00
+Board [Qc 4h 9c 9s 9h]
+Seat 1: Harvest312 (small blind) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS (big blind) mucked [Ac 5c]
+Seat 3: Medicaster folded on the Pre-Flop and did not bet
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi (button) showed [9d Ah] and won 995.00 with four of a kind, Four Nines [9s 9h 9d 9c Ah]
+
+Game Hand #402532967 - Tournament #21022283 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:33:33 UTC
+Table '1' 9-max Seat #1 is the button
+Seat 1: Harvest312 (2433.00)
+Seat 2: Behind_Mask_ZS (2356.00)
+Seat 3: Medicaster (2291.00)
+Seat 4: RachelzRose (3776.00)
+Seat 5: Lorpugo3 (1856.00)
+Seat 6: Wh4le (276.00)
+Seat 7: poker1123835 (2495.00)
+Seat 8: heubi (2517.00)
+Harvest312 posts ante 5.00
+Behind_Mask_ZS posts ante 5.00
+Medicaster posts ante 5.00
+RachelzRose posts ante 5.00
+Lorpugo3 posts ante 5.00
+Wh4le posts ante 5.00
+poker1123835 posts ante 5.00
+heubi posts ante 5.00
+Behind_Mask_ZS posts the small blind 25.00
+Medicaster posts the big blind 50.00
+*** HOLE CARDS ***
+Main pot 40.00
+Dealt to Lorpugo3 [3c 2s]
+RachelzRose folds
+Lorpugo3 folds
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS calls 25.00
+Medicaster checks
+*** FLOP *** [Ks Qc Jh]
+Main pot 140.00
+Behind_Mask_ZS checks
+Medicaster checks
+*** TURN *** [Ks Qc Jh] [Js]
+Main pot 140.00
+Behind_Mask_ZS checks
+Medicaster bets 60.00
+Behind_Mask_ZS folds
+Uncalled bet (60.00) returned to Medicaster
+Medicaster does not show
+*** SUMMARY ***
+Total pot 140.00
+Board [Ks Qc Jh Js]
+Seat 1: Harvest312 (button) folded on the Pre-Flop
+Seat 2: Behind_Mask_ZS (small blind) folded on the Turn
+Seat 3: Medicaster did not show and won 140.00
+Seat 4: RachelzRose folded on the Pre-Flop and did not bet
+Seat 5: Lorpugo3 folded on the Pre-Flop and did not bet
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+
+Game Hand #402533648 - Tournament #21022283 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:34:42 UTC
+Table '1' 9-max Seat #2 is the button
+Seat 1: Harvest312 (2428.00)
+Seat 2: Behind_Mask_ZS (2301.00)
+Seat 3: Medicaster (2376.00)
+Seat 4: RachelzRose (3771.00)
+Seat 5: Lorpugo3 (1851.00)
+Seat 6: Wh4le (271.00)
+Seat 7: poker1123835 (2490.00)
+Seat 8: heubi (2512.00)
+Harvest312 posts ante 5.00
+Behind_Mask_ZS posts ante 5.00
+Medicaster posts ante 5.00
+RachelzRose posts ante 5.00
+Lorpugo3 posts ante 5.00
+Wh4le posts ante 5.00
+poker1123835 posts ante 5.00
+heubi posts ante 5.00
+Medicaster posts the small blind 25.00
+RachelzRose posts the big blind 50.00
+*** HOLE CARDS ***
+Main pot 40.00
+Dealt to Lorpugo3 [Kc Kd]
+Lorpugo3 raises 150.00 to 150.00
+Wh4le folds
+poker1123835 folds
+heubi folds
+Harvest312 folds
+Behind_Mask_ZS calls 150.00
+Medicaster raises 665.00 to 690.00
+RachelzRose folds
+Lorpugo3 raises 1696.00 to 1846.00 and is all-in
+Behind_Mask_ZS folds
+Medicaster calls 1156.00
+*** FLOP *** [9c 9d Js]
+Main pot 3932.00
+*** TURN *** [9c 9d Js] [4d]
+Main pot 3932.00
+*** RIVER *** [9c 9d Js 4d] [7s]
+Main pot 3932.00
+*** SHOW DOWN ***
+Main pot 3932.00
+Medicaster shows [Ah Ac] (two pair, Aces and Nines [Ah Ac 9d 9c Js])
+Lorpugo3 shows [Kc Kd] (two pair, Kings and Nines [Kd Kc 9d 9c Js])
+Medicaster collected 3932.00 from main pot
+*** SUMMARY ***
+Total pot 3932.00
+Board [9c 9d Js 4d 7s]
+Seat 1: Harvest312 folded on the Pre-Flop and did not bet
+Seat 2: Behind_Mask_ZS (button) folded on the Pre-Flop
+Seat 3: Medicaster (small blind) showed [Ah Ac] and won 3932.00 with two pair, Aces and Nines [Ah Ac 9d 9c Js]
+Seat 4: RachelzRose (big blind) folded on the Pre-Flop
+Seat 5: Lorpugo3 showed [Kc Kd] and lost with two pair, Kings and Nines [Kd Kc 9d 9c Js]
+Seat 6: Wh4le folded on the Pre-Flop and did not bet
+Seat 7: poker1123835 folded on the Pre-Flop and did not bet
+Seat 8: heubi folded on the Pre-Flop and did not bet
+

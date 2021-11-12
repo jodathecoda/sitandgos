@@ -1,0 +1,29 @@
+Game Hand #384034966 - Tournament #20873656 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/02 21:39:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Lighorr (1500.00)
+Lorpugo3 posts the small blind 10.00
+Lighorr posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ts]
+Lorpugo3 raises 40.00 to 50.00
+Lighorr raises 140.00 to 160.00
+Lorpugo3 raises 1450.00 to 1500.00 and is all-in
+Lighorr calls 1340.00 and is all-in
+*** FLOP *** [Jd 9s 5h]
+Main pot 3000.00
+*** TURN *** [Jd 9s 5h] [9d]
+Main pot 3000.00
+*** RIVER *** [Jd 9s 5h 9d] [Kd]
+Main pot 3000.00
+*** SHOW DOWN ***
+Main pot 3000.00
+Lorpugo3 shows [Th Ts] (two pair, Tens and Nines [Ts Th 9s 9d Kd])
+Lighorr shows [Ad Jh] (two pair, Jacks and Nines [Jh Jd 9s 9d Ad])
+Lighorr collected 3000.00 from main pot
+*** SUMMARY ***
+Total pot 3000.00
+Board [Jd 9s 5h 9d Kd]
+Seat 1: Lorpugo3 (button) showed [Th Ts] and lost with two pair, Tens and Nines [Ts Th 9s 9d Kd]
+Seat 2: Lighorr (big blind) showed [Ad Jh] and won 3000.00 with two pair, Jacks and Nines [Jh Jd 9s 9d Ad]
+

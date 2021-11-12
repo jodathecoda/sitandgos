@@ -1,0 +1,321 @@
+Game Hand #372275005 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:48:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: WaterFireWater (1500.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 2s]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to WaterFireWater
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: WaterFireWater did not show and won 40.00
+
+Game Hand #372275145 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: WaterFireWater (1520.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 2s]
+Lorpugo3 folds
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: WaterFireWater did not show and won 30.00
+
+Game Hand #372275244 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: WaterFireWater (1530.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 3c]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to WaterFireWater
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: WaterFireWater did not show and won 40.00
+
+Game Hand #372275346 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:49:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: WaterFireWater (1550.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Ad]
+Lorpugo3 raises 40.00 to 50.00
+WaterFireWater calls 30.00
+*** FLOP *** [6d 5h Jc]
+Main pot 100.00
+WaterFireWater checks
+Lorpugo3 bets 50.00
+WaterFireWater calls 50.00
+*** TURN *** [6d 5h Jc] [Kd]
+Main pot 200.00
+WaterFireWater checks
+Lorpugo3 bets 100.00
+WaterFireWater calls 100.00
+*** RIVER *** [6d 5h Jc Kd] [Kc]
+Main pot 400.00
+WaterFireWater checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 400.00
+WaterFireWater shows [8d 7h] (a pair of Kings [Kd Kc Jc 8d 7h])
+Lorpugo3 shows [3c Ad] (a pair of Kings [Kd Kc Ad Jc 6d])
+Lorpugo3 collected 400.00 from main pot
+*** SUMMARY ***
+Total pot 400.00
+Board [6d 5h Jc Kd Kc]
+Seat 1: Lorpugo3 (button) showed [3c Ad] and won 400.00 with a pair of Kings [Kd Kc Ad Jc 6d] with the kicker Ace
+Seat 2: WaterFireWater (big blind) showed [8d 7h] and lost with a pair of Kings [Kd Kc Jc 8d 7h]
+
+Game Hand #372275876 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:50:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1650.00)
+Seat 2: WaterFireWater (1350.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 5s]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to WaterFireWater
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: WaterFireWater did not show and won 40.00
+
+Game Hand #372276024 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:50:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1630.00)
+Seat 2: WaterFireWater (1370.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 7d]
+Lorpugo3 raises 30.00 to 40.00
+WaterFireWater calls 20.00
+*** FLOP *** [Td As Jd]
+Main pot 80.00
+WaterFireWater checks
+Lorpugo3 checks
+*** TURN *** [Td As Jd] [9c]
+Main pot 80.00
+WaterFireWater checks
+Lorpugo3 checks
+*** RIVER *** [Td As Jd 9c] [5c]
+Main pot 80.00
+WaterFireWater checks
+Lorpugo3 bets 30.00
+WaterFireWater calls 30.00
+*** SHOW DOWN ***
+Main pot 140.00
+Lorpugo3 shows [9s 7d] (a pair of Nines [9s 9c As Jd Td])
+WaterFireWater mucks hand
+Lorpugo3 collected 140.00 from main pot
+*** SUMMARY ***
+Total pot 140.00
+Board [Td As Jd 9c 5c]
+Seat 1: Lorpugo3 (button) showed [9s 7d] and won 140.00 with a pair of Nines [9s 9c As Jd Td]
+Seat 2: WaterFireWater (big blind) mucked [5d 7s]
+
+Game Hand #372276516 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1700.00)
+Seat 2: WaterFireWater (1300.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Ah]
+WaterFireWater folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: WaterFireWater (button) folded on the Pre-Flop
+
+Game Hand #372276592 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1710.00)
+Seat 2: WaterFireWater (1290.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 6s]
+Lorpugo3 raises 30.00 to 40.00
+WaterFireWater folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: WaterFireWater (big blind) folded on the Pre-Flop
+
+Game Hand #372276732 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1730.00)
+Seat 2: WaterFireWater (1270.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 9d]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [2d 4c 3h]
+Main pot 80.00
+Lorpugo3 checks
+WaterFireWater bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to WaterFireWater
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [2d 4c 3h]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: WaterFireWater did not show and won 80.00
+
+Game Hand #372277067 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:48 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1690.00)
+Seat 2: WaterFireWater (1310.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 6h]
+Lorpugo3 folds
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: WaterFireWater did not show and won 30.00
+
+Game Hand #372277191 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:51:58 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1680.00)
+Seat 2: WaterFireWater (1320.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Qh]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [9h 3d Jh]
+Main pot 80.00
+Lorpugo3 checks
+WaterFireWater bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [9h 3d Jh] [2s]
+Main pot 120.00
+Lorpugo3 checks
+WaterFireWater bets 20.00
+Lorpugo3 calls 20.00
+*** RIVER *** [9h 3d Jh 2s] [3c]
+Main pot 160.00
+Lorpugo3 checks
+WaterFireWater checks
+*** SHOW DOWN ***
+Main pot 160.00
+Lorpugo3 shows [8s Qh] (a pair of Threes [3d 3c Qh Jh 9h])
+WaterFireWater shows [Ah 4h] (a pair of Threes [3d 3c Ah Jh 9h])
+WaterFireWater collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [9h 3d Jh 2s 3c]
+Seat 1: Lorpugo3 (big blind) showed [8s Qh] and lost with a pair of Threes [3d 3c Qh Jh 9h]
+Seat 2: WaterFireWater (button) showed [Ah 4h] and won 160.00 with a pair of Threes [3d 3c Ah Jh 9h] with the kicker Ace
+
+Game Hand #372277787 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:52:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1600.00)
+Seat 2: WaterFireWater (1400.00)
+Lorpugo3 posts the small blind 10.00
+WaterFireWater posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 5c]
+Lorpugo3 raises 30.00 to 40.00
+WaterFireWater calls 20.00
+*** FLOP *** [9s Ah 9h]
+Main pot 80.00
+WaterFireWater bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to WaterFireWater
+WaterFireWater does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9s Ah 9h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: WaterFireWater did not show and won 80.00
+
+Game Hand #372278081 - Tournament #20768729 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/05/25 14:53:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: WaterFireWater (1440.00)
+WaterFireWater posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 3s]
+WaterFireWater raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [7h 7c Kc]
+Main pot 80.00
+Lorpugo3 checks
+WaterFireWater bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [7h 7c Kc] [6d]
+Main pot 120.00
+Lorpugo3 bets 60.00
+WaterFireWater calls 60.00
+*** RIVER *** [7h 7c Kc 6d] [9d]
+Main pot 240.00
+Lorpugo3 bets 100.00
+WaterFireWater folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [7h 7c Kc 6d 9d]
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: WaterFireWater (button) folded on the River
+
+Game Hand #372278664 - Tournament #20768729 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/05/25 14:54:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1680.00)
+Seat 2: WaterFireWater (1320.00)
+Lorpugo3 posts the small blind 15.00
+WaterFireWater posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh Ah]
+Lorpugo3 raises 60.00 to 75.00
+WaterFireWater raises 1290.00 to 1320.00 and is all-in
+Lorpugo3 calls 1245.00
+*** FLOP *** [Qc Ad Kd]
+Main pot 2640.00
+*** TURN *** [Qc Ad Kd] [5d]
+Main pot 2640.00
+*** RIVER *** [Qc Ad Kd 5d] [Jc]
+Main pot 2640.00
+*** SHOW DOWN ***
+Main pot 2640.00
+Lorpugo3 shows [Kh Ah] (two pair, Aces and Kings [Ah Ad Kh Kd Qc])
+WaterFireWater shows [7c 7d] (a pair of Sevens [7d 7c Ad Kd Qc])
+Lorpugo3 collected 2640.00 from main pot
+*** SUMMARY ***
+Total pot 2640.00
+Board [Qc Ad Kd 5d Jc]
+Seat 1: Lorpugo3 (button) showed [Kh Ah] and won 2640.00 with two pair, Aces and Kings [Ah Ad Kh Kd Qc]
+Seat 2: WaterFireWater (big blind) showed [7c 7d] and lost with a pair of Sevens [7d 7c Ad Kd Qc]
+

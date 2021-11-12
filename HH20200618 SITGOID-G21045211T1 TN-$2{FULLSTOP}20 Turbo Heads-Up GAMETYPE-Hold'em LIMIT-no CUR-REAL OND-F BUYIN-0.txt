@@ -1,0 +1,702 @@
+Game Hand #405079109 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:40:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: REKCUF (1500.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2h]
+REKCUF raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 40.00
+
+Game Hand #405079174 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:40:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: REKCUF (1520.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c Ad]
+Lorpugo3 raises 40.00 to 50.00
+REKCUF calls 30.00
+*** FLOP *** [9s Td 2c]
+Main pot 100.00
+REKCUF checks
+Lorpugo3 checks
+*** TURN *** [9s Td 2c] [Js]
+Main pot 100.00
+REKCUF checks
+Lorpugo3 checks
+*** RIVER *** [9s Td 2c Js] [Jd]
+Main pot 100.00
+REKCUF checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 100.00
+REKCUF shows [4h 6h] (a pair of Jacks [Js Jd Td 9s 6h])
+Lorpugo3 shows [7c Ad] (a pair of Jacks [Js Jd Ad Td 9s])
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [9s Td 2c Js Jd]
+Seat 1: Lorpugo3 (button) showed [7c Ad] and won 100.00 with a pair of Jacks [Js Jd Ad Td 9s] with the kicker Ace
+Seat 2: REKCUF (big blind) showed [4h 6h] and lost with a pair of Jacks [Js Jd Td 9s 6h]
+
+Game Hand #405079362 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:41:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: REKCUF (1470.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Th]
+REKCUF folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: REKCUF (button) folded on the Pre-Flop
+
+Game Hand #405079394 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:41:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: REKCUF (1460.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Th]
+Lorpugo3 raises 40.00 to 50.00
+REKCUF raises 130.00 to 150.00
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 200.00
+
+Game Hand #405079479 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:41:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: REKCUF (1510.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 5s]
+REKCUF folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: REKCUF (button) folded on the Pre-Flop
+
+Game Hand #405079507 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:42:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: REKCUF (1500.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s As]
+Lorpugo3 raises 40.00 to 50.00
+REKCUF folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: REKCUF (big blind) folded on the Pre-Flop
+
+Game Hand #405079564 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:42:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: REKCUF (1480.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 2d]
+REKCUF calls 10.00
+Lorpugo3 checks
+*** FLOP *** [3d Kd Kc]
+Main pot 40.00
+Lorpugo3 checks
+REKCUF checks
+*** TURN *** [3d Kd Kc] [4c]
+Main pot 40.00
+Lorpugo3 bets 20.00
+REKCUF folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [3d Kd Kc 4c]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: REKCUF (button) folded on the Turn
+
+Game Hand #405079737 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:42:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1540.00)
+Seat 2: REKCUF (1460.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5d]
+Lorpugo3 raises 30.00 to 40.00
+REKCUF folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: REKCUF (big blind) folded on the Pre-Flop
+
+Game Hand #405079800 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:42:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: REKCUF (1440.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 3d]
+REKCUF calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6h 8s Tc]
+Main pot 40.00
+Lorpugo3 checks
+REKCUF checks
+*** TURN *** [6h 8s Tc] [7d]
+Main pot 40.00
+Lorpugo3 bets 20.00
+REKCUF calls 20.00
+*** RIVER *** [6h 8s Tc 7d] [5c]
+Main pot 80.00
+Lorpugo3 checks
+REKCUF bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6h 8s Tc 7d 5c]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: REKCUF did not show and won 80.00
+
+Game Hand #405080019 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:43:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1520.00)
+Seat 2: REKCUF (1480.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Tc]
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 30.00
+
+Game Hand #405080051 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:43:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: REKCUF (1490.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 3s]
+REKCUF calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9h Kh Qh]
+Main pot 40.00
+Lorpugo3 checks
+REKCUF bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [9h Kh Qh]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: REKCUF did not show and won 40.00
+
+Game Hand #405080164 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:44:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: REKCUF (1510.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 8d]
+Lorpugo3 raises 40.00 to 50.00
+REKCUF calls 30.00
+*** FLOP *** [7d 4s 9h]
+Main pot 100.00
+REKCUF checks
+Lorpugo3 bets 75.00
+REKCUF calls 75.00
+*** TURN *** [7d 4s 9h] [7c]
+Main pot 250.00
+REKCUF checks
+Lorpugo3 bets 125.00
+REKCUF calls 125.00
+*** RIVER *** [7d 4s 9h 7c] [Jh]
+Main pot 500.00
+REKCUF bets 500.00
+Lorpugo3 folds
+Uncalled bet (500.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 500.00
+Board [7d 4s 9h 7c Jh]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: REKCUF did not show and won 500.00
+
+Game Hand #405080443 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:44:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1240.00)
+Seat 2: REKCUF (1760.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 4h]
+REKCUF calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6h 2h 7d]
+Main pot 40.00
+Lorpugo3 checks
+REKCUF checks
+*** TURN *** [6h 2h 7d] [9h]
+Main pot 40.00
+Lorpugo3 bets 20.00
+REKCUF folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [6h 2h 7d 9h]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: REKCUF (button) folded on the Turn
+
+Game Hand #405080601 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:45:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: REKCUF (1740.00)
+Lorpugo3 posts the small blind 10.00
+REKCUF posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 5h]
+Lorpugo3 calls 10.00
+REKCUF raises 80.00 to 100.00
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 120.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 120.00
+
+Game Hand #405080685 - Tournament #21045211 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/18 11:45:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1240.00)
+Seat 2: REKCUF (1760.00)
+REKCUF posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 9c]
+REKCUF calls 10.00
+Lorpugo3 raises 30.00 to 50.00
+REKCUF calls 30.00
+*** FLOP *** [4d 6d Qd]
+Main pot 100.00
+Lorpugo3 checks
+REKCUF bets 140.00
+Lorpugo3 folds
+Uncalled bet (140.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4d 6d Qd]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: REKCUF did not show and won 100.00
+
+Game Hand #405080854 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:46:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1190.00)
+Seat 2: REKCUF (1810.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Th]
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 45.00
+
+Game Hand #405080898 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:46:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1175.00)
+Seat 2: REKCUF (1825.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 6h]
+REKCUF calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+REKCUF calls 45.00
+*** FLOP *** [8s Td 9c]
+Main pot 150.00
+Lorpugo3 checks
+REKCUF checks
+*** TURN *** [8s Td 9c] [3s]
+Main pot 150.00
+Lorpugo3 bets 30.00
+REKCUF calls 30.00
+*** RIVER *** [8s Td 9c 3s] [Ah]
+Main pot 210.00
+Lorpugo3 bets 105.00
+REKCUF raises 525.00 to 525.00
+Lorpugo3 folds
+Uncalled bet (420.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 420.00
+Board [8s Td 9c 3s Ah]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: REKCUF did not show and won 420.00
+
+Game Hand #405081280 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:47:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (965.00)
+Seat 2: REKCUF (2035.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 6h]
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 45.00
+
+Game Hand #405081324 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:47:42 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (950.00)
+Seat 2: REKCUF (2050.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Kh]
+REKCUF calls 15.00
+Lorpugo3 checks
+*** FLOP *** [9s 8d Kd]
+Main pot 60.00
+Lorpugo3 bets 45.00
+REKCUF folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [9s 8d Kd]
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: REKCUF (button) folded on the Flop
+
+Game Hand #405081456 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:48:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (980.00)
+Seat 2: REKCUF (2020.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9s]
+Lorpugo3 raises 45.00 to 60.00
+REKCUF calls 30.00
+*** FLOP *** [Ts Th 2h]
+Main pot 120.00
+REKCUF checks
+Lorpugo3 bets 90.00
+REKCUF folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ts Th 2h]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: REKCUF (big blind) folded on the Flop
+
+Game Hand #405081586 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:48:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1040.00)
+Seat 2: REKCUF (1960.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 2d]
+REKCUF folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: REKCUF (button) folded on the Pre-Flop
+
+Game Hand #405081621 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:48:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: REKCUF (1945.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 6d]
+Lorpugo3 raises 45.00 to 60.00
+REKCUF calls 30.00
+*** FLOP *** [4h 2c Qc]
+Main pot 120.00
+REKCUF bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [4h 2c Qc]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: REKCUF did not show and won 120.00
+
+Game Hand #405081713 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:48:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (995.00)
+Seat 2: REKCUF (2005.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 9c]
+REKCUF calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+REKCUF calls 45.00
+*** FLOP *** [3h 2h 4s]
+Main pot 150.00
+Lorpugo3 bets 113.00
+REKCUF folds
+Uncalled bet (113.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [3h 2h 4s]
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: REKCUF (button) folded on the Flop
+
+Game Hand #405081862 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:49:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1070.00)
+Seat 2: REKCUF (1930.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 5d]
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 45.00
+
+Game Hand #405081915 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:49:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: REKCUF (1945.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5s]
+REKCUF folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: REKCUF (button) folded on the Pre-Flop
+
+Game Hand #405081945 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:49:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1070.00)
+Seat 2: REKCUF (1930.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 9h]
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 45.00
+
+Game Hand #405081976 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:49:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: REKCUF (1945.00)
+REKCUF posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c Qd]
+REKCUF calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Js Th 3s]
+Main pot 60.00
+Lorpugo3 checks
+REKCUF bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Js Th 3s]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: REKCUF did not show and won 60.00
+
+Game Hand #405082098 - Tournament #21045211 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/18 11:50:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1025.00)
+Seat 2: REKCUF (1975.00)
+Lorpugo3 posts the small blind 15.00
+REKCUF posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Ac]
+Lorpugo3 raises 60.00 to 75.00
+REKCUF calls 45.00
+*** FLOP *** [Jh Th 5c]
+Main pot 150.00
+REKCUF checks
+Lorpugo3 checks
+*** TURN *** [Jh Th 5c] [6d]
+Main pot 150.00
+REKCUF checks
+Lorpugo3 bets 75.00
+REKCUF calls 75.00
+*** RIVER *** [Jh Th 5c 6d] [Kh]
+Main pot 300.00
+REKCUF checks
+Lorpugo3 bets 180.00
+REKCUF folds
+Uncalled bet (180.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Jh Th 5c 6d Kh]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: REKCUF (big blind) folded on the River
+
+Game Hand #405082420 - Tournament #21045211 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 11:51:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1175.00)
+Seat 2: REKCUF (1825.00)
+REKCUF posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Jd]
+REKCUF calls 25.00
+Lorpugo3 checks
+*** FLOP *** [3h Kd 4h]
+Main pot 100.00
+Lorpugo3 checks
+REKCUF bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [3h Kd 4h]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: REKCUF did not show and won 100.00
+
+Game Hand #405082535 - Tournament #21045211 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 11:51:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1125.00)
+Seat 2: REKCUF (1875.00)
+Lorpugo3 posts the small blind 25.00
+REKCUF posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 9s]
+Lorpugo3 raises 100.00 to 125.00
+REKCUF folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: REKCUF (big blind) folded on the Pre-Flop
+
+Game Hand #405082599 - Tournament #21045211 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 11:51:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1175.00)
+Seat 2: REKCUF (1825.00)
+REKCUF posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 6h]
+REKCUF calls 25.00
+Lorpugo3 checks
+*** FLOP *** [Qs Ad As]
+Main pot 100.00
+Lorpugo3 checks
+REKCUF bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to REKCUF
+REKCUF does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [Qs Ad As]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: REKCUF did not show and won 100.00
+
+Game Hand #405082758 - Tournament #21045211 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 11:52:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1125.00)
+Seat 2: REKCUF (1875.00)
+Lorpugo3 posts the small blind 25.00
+REKCUF posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 9s]
+Lorpugo3 raises 75.00 to 100.00
+REKCUF raises 250.00 to 300.00
+Lorpugo3 folds
+REKCUF does not show
+*** SUMMARY ***
+Total pot 400.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: REKCUF did not show and won 400.00
+
+Game Hand #405082845 - Tournament #21045211 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/18 11:52:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1025.00)
+Seat 2: REKCUF (1975.00)
+REKCUF posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Ks]
+REKCUF calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+REKCUF raises 1925.00 to 1975.00 and is all-in
+Lorpugo3 calls 875.00 and is all-in
+Uncalled bet (950.00) returned to REKCUF
+*** FLOP *** [5s 9h 6d]
+Main pot 2050.00
+*** TURN *** [5s 9h 6d] [Ac]
+Main pot 2050.00
+*** RIVER *** [5s 9h 6d Ac] [Ah]
+Main pot 2050.00
+*** SHOW DOWN ***
+Main pot 2050.00
+Lorpugo3 shows [Jh Ks] (a pair of Aces [Ah Ac Ks Jh 9h])
+REKCUF shows [7s 7d] (two pair, Aces and Sevens [Ah Ac 7s 7d 9h])
+REKCUF collected 2050.00 from main pot
+*** SUMMARY ***
+Total pot 2050.00
+Board [5s 9h 6d Ac Ah]
+Seat 1: Lorpugo3 (big blind) showed [Jh Ks] and lost with a pair of Aces [Ah Ac Ks Jh 9h]
+Seat 2: REKCUF (button) showed [7s 7d] and won 2050.00 with two pair, Aces and Sevens [Ah Ac 7s 7d 9h]
+

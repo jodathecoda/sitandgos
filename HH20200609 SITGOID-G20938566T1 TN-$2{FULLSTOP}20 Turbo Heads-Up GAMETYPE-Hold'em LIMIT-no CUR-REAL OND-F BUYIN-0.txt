@@ -1,0 +1,1439 @@
+Game Hand #392229004 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:04:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Jd]
+Lorpugo3 raises 40.00 to 50.00
+Meaux46 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #392229270 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:04:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 2h]
+Meaux46 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Meaux46 calls 40.00
+*** FLOP *** [Js 7d 2d]
+Main pot 120.00
+Lorpugo3 bets 40.00
+Meaux46 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Js 7d 2d]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #392229772 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:05:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 4s]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Meaux46 did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392229920 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:05:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 3c]
+Meaux46 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [4s Tc 5h]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Meaux46 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [4s Tc 5h]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #392230388 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:05:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d As]
+Lorpugo3 raises 40.00 to 50.00
+Meaux46 raises 100.00 to 120.00
+Lorpugo3 calls 70.00
+*** FLOP *** [4s Js 7h]
+Main pot 240.00
+Meaux46 bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [4s Js 7h]
+Seat 1: Meaux46 did not show and won 240.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #392231064 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:06:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh Ts]
+Meaux46 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Meaux46 calls 40.00
+*** FLOP *** [2d Ac 3s]
+Main pot 120.00
+Lorpugo3 bets 60.00
+Meaux46 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [2d Ac 3s]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #392231532 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:06:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1470.00)
+Seat 2: Lorpugo3 (1530.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Tc]
+Lorpugo3 raises 30.00 to 40.00
+Meaux46 calls 20.00
+*** FLOP *** [9d Ks 8c]
+Main pot 80.00
+Meaux46 checks
+Lorpugo3 bets 40.00
+Meaux46 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [9d Ks 8c]
+Seat 1: Meaux46 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #392231978 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:06:59 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 3c]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #392232115 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:07:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1420.00)
+Seat 2: Lorpugo3 (1580.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Jd]
+Lorpugo3 raises 40.00 to 50.00
+Meaux46 calls 30.00
+*** FLOP *** [Ah Jh 2c]
+Main pot 100.00
+Meaux46 checks
+Lorpugo3 bets 40.00
+Meaux46 calls 40.00
+*** TURN *** [Ah Jh 2c] [4s]
+Main pot 180.00
+Meaux46 checks
+Lorpugo3 checks
+*** RIVER *** [Ah Jh 2c 4s] [Ks]
+Main pot 180.00
+Meaux46 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 180.00
+Meaux46 shows [6s 7c] (a high card, Ace high [Ah Ks Jh 7c 6s])
+Lorpugo3 shows [Td Jd] (a pair of Jacks [Jh Jd Ah Ks Td])
+Lorpugo3 collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [Ah Jh 2c 4s Ks]
+Seat 1: Meaux46 (big blind) showed [6s 7c] and lost with a high card, Ace high [Ah Ks Jh 7c 6s]
+Seat 2: Lorpugo3 (button) showed [Td Jd] and won 180.00 with a pair of Jacks [Jh Jd Ah Ks Td]
+
+Game Hand #392232932 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:07:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 3d]
+Meaux46 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Th Ah Ad]
+Main pot 40.00
+Lorpugo3 bets 20.00
+Meaux46 calls 20.00
+*** TURN *** [Th Ah Ad] [8s]
+Main pot 80.00
+Lorpugo3 checks
+Meaux46 checks
+*** RIVER *** [Th Ah Ad 8s] [Ts]
+Main pot 80.00
+Lorpugo3 checks
+Meaux46 bets 80.00
+Lorpugo3 folds
+Uncalled bet (80.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Th Ah Ad 8s Ts]
+Seat 1: Meaux46 did not show and won 80.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #392233611 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:08:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1370.00)
+Seat 2: Lorpugo3 (1630.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 5c]
+Lorpugo3 raises 30.00 to 40.00
+Meaux46 raises 70.00 to 90.00
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 130.00
+Seat 1: Meaux46 did not show and won 130.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392233919 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:08:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 4c]
+Meaux46 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [Qh 7h Qs]
+Main pot 40.00
+Lorpugo3 checks
+Meaux46 checks
+*** TURN *** [Qh 7h Qs] [2h]
+Main pot 40.00
+Lorpugo3 bets 30.00
+Meaux46 calls 30.00
+*** RIVER *** [Qh 7h Qs 2h] [Kc]
+Main pot 100.00
+Lorpugo3 checks
+Meaux46 checks
+*** SHOW DOWN ***
+Main pot 100.00
+Lorpugo3 shows [7d 4c] (two pair, Queens and Sevens [Qs Qh 7h 7d Kc])
+Meaux46 mucks hand
+Lorpugo3 collected 100.00 from main pot
+*** SUMMARY ***
+Total pot 100.00
+Board [Qh 7h Qs 2h Kc]
+Seat 1: Meaux46 (button) mucked [Th 9s]
+Seat 2: Lorpugo3 (big blind) showed [7d 4c] and won 100.00 with two pair, Queens and Sevens [Qs Qh 7h 7d Kc]
+
+Game Hand #392234531 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:08:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Lorpugo3 posts the small blind 10.00
+Meaux46 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 8d]
+Lorpugo3 raises 40.00 to 50.00
+Meaux46 calls 30.00
+*** FLOP *** [7h Qh Kc]
+Main pot 100.00
+Meaux46 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [7h Qh Kc]
+Seat 1: Meaux46 did not show and won 100.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #392234859 - Tournament #20938566 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/08 21:09:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Meaux46 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 4d]
+Meaux46 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [5s 2h Tc]
+Main pot 40.00
+Lorpugo3 checks
+Meaux46 checks
+*** TURN *** [5s 2h Tc] [8d]
+Main pot 40.00
+Lorpugo3 bets 30.00
+Meaux46 raises 60.00 to 60.00
+Lorpugo3 calls 30.00
+*** RIVER *** [5s 2h Tc 8d] [8h]
+Main pot 160.00
+Lorpugo3 checks
+Meaux46 bets 160.00
+Lorpugo3 folds
+Uncalled bet (160.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 160.00
+Board [5s 2h Tc 8d 8h]
+Seat 1: Meaux46 did not show and won 160.00
+Seat 2: Lorpugo3 (big blind) folded on the River
+
+Game Hand #392235696 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:09:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1490.00)
+Seat 2: Lorpugo3 (1510.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Ks]
+Lorpugo3 raises 45.00 to 60.00
+Meaux46 calls 30.00
+*** FLOP *** [Tc Ad 2h]
+Main pot 120.00
+Meaux46 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Tc Ad 2h]
+Seat 1: Meaux46 did not show and won 120.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #392236039 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:10:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Tc]
+Meaux46 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+Meaux46 calls 60.00
+*** FLOP *** [9s 6s Jc]
+Main pot 180.00
+Lorpugo3 checks
+Meaux46 checks
+*** TURN *** [9s 6s Jc] [5h]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Meaux46 folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [9s 6s Jc 5h]
+Seat 1: Meaux46 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 180.00
+
+Game Hand #392236634 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:10:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Td]
+Lorpugo3 raises 75.00 to 90.00
+Meaux46 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #392236864 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:10:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1430.00)
+Seat 2: Lorpugo3 (1570.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 9h]
+Meaux46 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [5s 4d Ks]
+Main pot 60.00
+Lorpugo3 checks
+Meaux46 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [5s 4d Ks]
+Seat 1: Meaux46 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392237278 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:11:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 2c]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Meaux46 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392237421 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:11:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1475.00)
+Seat 2: Lorpugo3 (1525.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Ks]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #392237540 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:11:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1460.00)
+Seat 2: Lorpugo3 (1540.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc 9s]
+Lorpugo3 raises 60.00 to 75.00
+Meaux46 raises 1430.00 to 1460.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1385.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392237933 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:11:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1535.00)
+Seat 2: Lorpugo3 (1465.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 7h]
+Meaux46 calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+Meaux46 calls 60.00
+*** FLOP *** [5h 7c 9s]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Meaux46 folds
+Uncalled bet (90.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [5h 7c 9s]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 180.00
+
+Game Hand #392238440 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:12:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1445.00)
+Seat 2: Lorpugo3 (1555.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 7c]
+Lorpugo3 raises 60.00 to 75.00
+Meaux46 calls 45.00
+*** FLOP *** [6d As Js]
+Main pot 150.00
+Meaux46 checks
+Lorpugo3 checks
+*** TURN *** [6d As Js] [2d]
+Main pot 150.00
+Meaux46 checks
+Lorpugo3 bets 60.00
+Meaux46 raises 120.00 to 120.00
+Lorpugo3 calls 60.00
+*** RIVER *** [6d As Js 2d] [3s]
+Main pot 390.00
+Meaux46 bets 390.00
+Lorpugo3 folds
+Uncalled bet (390.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 390.00
+Board [6d As Js 2d 3s]
+Seat 1: Meaux46 did not show and won 390.00
+Seat 2: Lorpugo3 (button) folded on the River
+
+Game Hand #392239376 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:12:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1640.00)
+Seat 2: Lorpugo3 (1360.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2h 6c]
+Meaux46 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [Th 7h Kh]
+Main pot 60.00
+Lorpugo3 bets 30.00
+Meaux46 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [Th 7h Kh]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #392239708 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:13:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 9d]
+Lorpugo3 raises 90.00 to 105.00
+Meaux46 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #392239934 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:13:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1580.00)
+Seat 2: Lorpugo3 (1420.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Kc]
+Meaux46 calls 15.00
+Lorpugo3 raises 75.00 to 105.00
+Meaux46 raises 1550.00 to 1580.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1475.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 210.00
+Seat 1: Meaux46 did not show and won 210.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392240277 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:13:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1685.00)
+Seat 2: Lorpugo3 (1315.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 5d]
+Lorpugo3 raises 45.00 to 60.00
+Meaux46 raises 240.00 to 270.00
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 330.00
+Seat 1: Meaux46 did not show and won 330.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392240589 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:13:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1745.00)
+Seat 2: Lorpugo3 (1255.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 9c]
+Meaux46 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [As Qh 3s]
+Main pot 60.00
+Lorpugo3 checks
+Meaux46 bets 75.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [As Qh 3s]
+Seat 1: Meaux46 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392241005 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:14:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1775.00)
+Seat 2: Lorpugo3 (1225.00)
+Lorpugo3 posts the small blind 15.00
+Meaux46 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 8c]
+Lorpugo3 raises 60.00 to 75.00
+Meaux46 calls 45.00
+*** FLOP *** [Jd 9d 2s]
+Main pot 150.00
+Meaux46 checks
+Lorpugo3 bets 75.00
+Meaux46 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [Jd 9d 2s]
+Seat 1: Meaux46 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #392241451 - Tournament #20938566 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:14:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1700.00)
+Seat 2: Lorpugo3 (1300.00)
+Meaux46 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 2h]
+Meaux46 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [3c 5c Qc]
+Main pot 60.00
+Lorpugo3 checks
+Meaux46 bets 135.00
+Lorpugo3 folds
+Uncalled bet (135.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [3c 5c Qc]
+Seat 1: Meaux46 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392242006 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:14:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1730.00)
+Seat 2: Lorpugo3 (1270.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 5c]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Meaux46 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392242152 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:14:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1755.00)
+Seat 2: Lorpugo3 (1245.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Kh]
+Meaux46 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [2s 6h Td]
+Main pot 100.00
+Lorpugo3 checks
+Meaux46 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [2s 6h Td]
+Seat 1: Meaux46 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392242628 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:15:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1805.00)
+Seat 2: Lorpugo3 (1195.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Td]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Meaux46 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392242798 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:15:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1830.00)
+Seat 2: Lorpugo3 (1170.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc Qc]
+Meaux46 calls 25.00
+Lorpugo3 raises 125.00 to 175.00
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 225.00
+
+Game Hand #392243035 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:15:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 3h]
+Lorpugo3 raises 100.00 to 125.00
+Meaux46 raises 325.00 to 375.00
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Meaux46 did not show and won 500.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392243352 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:15:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1905.00)
+Seat 2: Lorpugo3 (1095.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c 4h]
+Meaux46 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [8h 3h Ah]
+Main pot 100.00
+Lorpugo3 bets 50.00
+Meaux46 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [8h 3h Ah]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #392243740 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:16:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1855.00)
+Seat 2: Lorpugo3 (1145.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 6s]
+Lorpugo3 raises 100.00 to 125.00
+Meaux46 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #392243955 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:16:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1805.00)
+Seat 2: Lorpugo3 (1195.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 9s]
+Meaux46 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [6d Ac 2d]
+Main pot 100.00
+Lorpugo3 checks
+Meaux46 checks
+*** TURN *** [6d Ac 2d] [7s]
+Main pot 100.00
+Lorpugo3 bets 75.00
+Meaux46 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [6d Ac 2d 7s]
+Seat 1: Meaux46 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #392244646 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:16:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1755.00)
+Seat 2: Lorpugo3 (1245.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 5c]
+Lorpugo3 raises 150.00 to 175.00
+Meaux46 raises 1705.00 to 1755.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1580.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 350.00
+Seat 1: Meaux46 did not show and won 350.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392245018 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:17:07 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1930.00)
+Seat 2: Lorpugo3 (1070.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d Qd]
+Meaux46 calls 25.00
+Lorpugo3 raises 125.00 to 175.00
+Meaux46 calls 125.00
+*** FLOP *** [2h 5c Jd]
+Main pot 350.00
+Lorpugo3 bets 150.00
+Meaux46 folds
+Uncalled bet (150.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 350.00
+Board [2h 5c Jd]
+Seat 1: Meaux46 (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 350.00
+
+Game Hand #392245540 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:17:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1755.00)
+Seat 2: Lorpugo3 (1245.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 9h]
+Lorpugo3 raises 75.00 to 100.00
+Meaux46 raises 300.00 to 350.00
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 450.00
+Seat 1: Meaux46 did not show and won 450.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392245873 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:17:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1855.00)
+Seat 2: Lorpugo3 (1145.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 6c]
+Meaux46 raises 150.00 to 175.00
+Lorpugo3 folds
+Uncalled bet (125.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Meaux46 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392246275 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:18:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1905.00)
+Seat 2: Lorpugo3 (1095.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h Qc]
+Lorpugo3 raises 75.00 to 100.00
+Meaux46 calls 50.00
+*** FLOP *** [Qs 4c 5h]
+Main pot 200.00
+Meaux46 checks
+Lorpugo3 bets 100.00
+Meaux46 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Qs 4c 5h]
+Seat 1: Meaux46 (big blind) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #392246688 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:18:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1805.00)
+Seat 2: Lorpugo3 (1195.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Jc]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #392246818 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:18:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1780.00)
+Seat 2: Lorpugo3 (1220.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Jd]
+Lorpugo3 raises 125.00 to 150.00
+Meaux46 raises 1730.00 to 1780.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1630.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Meaux46 did not show and won 300.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392247222 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:18:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1930.00)
+Seat 2: Lorpugo3 (1070.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Js]
+Meaux46 calls 25.00
+Lorpugo3 raises 125.00 to 175.00
+Meaux46 raises 1880.00 to 1930.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1755.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 350.00
+Seat 1: Meaux46 did not show and won 350.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392247584 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:19:06 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2105.00)
+Seat 2: Lorpugo3 (895.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 7h]
+Lorpugo3 raises 75.00 to 100.00
+Meaux46 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #392247766 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:19:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2055.00)
+Seat 2: Lorpugo3 (945.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Td]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #392247902 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:19:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2030.00)
+Seat 2: Lorpugo3 (970.00)
+Lorpugo3 posts the small blind 25.00
+Meaux46 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 2c]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Meaux46 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392248048 - Tournament #20938566 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:19:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2055.00)
+Seat 2: Lorpugo3 (945.00)
+Meaux46 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 8s]
+Meaux46 calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+Meaux46 raises 300.00 to 350.00
+Lorpugo3 calls 200.00
+*** FLOP *** [3c 2d Ks]
+Main pot 700.00
+Lorpugo3 checks
+Meaux46 bets 600.00
+Lorpugo3 folds
+Uncalled bet (600.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 700.00
+Board [3c 2d Ks]
+Seat 1: Meaux46 did not show and won 700.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392248785 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2405.00)
+Seat 2: Lorpugo3 (595.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 7h]
+Lorpugo3 raises 545.00 to 595.00 and is all-in
+Meaux46 folds
+Uncalled bet (495.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #392249011 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2305.00)
+Seat 2: Lorpugo3 (695.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Kd]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #392249159 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2255.00)
+Seat 2: Lorpugo3 (745.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 9s]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392249294 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2305.00)
+Seat 2: Lorpugo3 (695.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 7d]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #392249461 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2255.00)
+Seat 2: Lorpugo3 (745.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 8d]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392249616 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:20:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2305.00)
+Seat 2: Lorpugo3 (695.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 6s]
+Meaux46 calls 50.00
+Lorpugo3 raises 595.00 to 695.00 and is all-in
+Meaux46 calls 595.00
+*** FLOP *** [Kd Jh 2d]
+Main pot 1390.00
+*** TURN *** [Kd Jh 2d] [7d]
+Main pot 1390.00
+*** RIVER *** [Kd Jh 2d 7d] [Ad]
+Main pot 1390.00
+*** SHOW DOWN ***
+Main pot 1390.00
+Meaux46 shows [Qc 9c] (a high card, Ace high [Ad Kd Qc Jh 9c])
+Lorpugo3 shows [6c 6s] (a pair of Sixs [6s 6c Ad Kd Jh])
+Lorpugo3 collected 1390.00 from main pot
+*** SUMMARY ***
+Total pot 1390.00
+Board [Kd Jh 2d 7d Ad]
+Seat 1: Meaux46 (button) showed [Qc 9c] and lost with a high card, Ace high [Ad Kd Qc Jh 9c]
+Seat 2: Lorpugo3 (big blind) showed [6c 6s] and won 1390.00 with a pair of Sixs [6s 6c Ad Kd Jh]
+
+Game Hand #392250027 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:21:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1610.00)
+Seat 2: Lorpugo3 (1390.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c Qd]
+Lorpugo3 calls 50.00
+Meaux46 raises 300.00 to 400.00
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 500.00
+Seat 1: Meaux46 did not show and won 500.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392250303 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:21:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1710.00)
+Seat 2: Lorpugo3 (1290.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 3d]
+Meaux46 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [6h Kc 5c]
+Main pot 200.00
+Lorpugo3 bets 100.00
+Meaux46 raises 1610.00 to 1610.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1510.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [6h Kc 5c]
+Seat 1: Meaux46 did not show and won 400.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #392250729 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:21:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1910.00)
+Seat 2: Lorpugo3 (1090.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 4s]
+Lorpugo3 calls 50.00
+Meaux46 checks
+*** FLOP *** [Jc 3c Jh]
+Main pot 200.00
+Meaux46 bets 450.00
+Lorpugo3 folds
+Uncalled bet (450.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Jc 3c Jh]
+Seat 1: Meaux46 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #392251113 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:21:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2010.00)
+Seat 2: Lorpugo3 (990.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Qh]
+Meaux46 calls 50.00
+Lorpugo3 raises 890.00 to 990.00 and is all-in
+Meaux46 folds
+Uncalled bet (890.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #392251351 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:22:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1910.00)
+Seat 2: Lorpugo3 (1090.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 4s]
+Lorpugo3 raises 1040.00 to 1090.00 and is all-in
+Meaux46 folds
+Uncalled bet (990.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #392251568 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:22:13 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1810.00)
+Seat 2: Lorpugo3 (1190.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 2s]
+Meaux46 raises 250.00 to 300.00
+Lorpugo3 folds
+Uncalled bet (200.00) returned to Meaux46
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Meaux46 did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392252046 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:22:37 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1910.00)
+Seat 2: Lorpugo3 (1090.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 5h]
+Lorpugo3 raises 1040.00 to 1090.00 and is all-in
+Meaux46 folds
+Uncalled bet (990.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Meaux46 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #392252252 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:22:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1810.00)
+Seat 2: Lorpugo3 (1190.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d As]
+Meaux46 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 150.00
+
+Game Hand #392252431 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:22:55 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1760.00)
+Seat 2: Lorpugo3 (1240.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Ad]
+Lorpugo3 raises 150.00 to 200.00
+Meaux46 calls 100.00
+*** FLOP *** [2s Kc 9d]
+Main pot 400.00
+Meaux46 checks
+Lorpugo3 bets 200.00
+Meaux46 raises 750.00 to 750.00
+Lorpugo3 raises 840.00 to 1040.00 and is all-in
+Meaux46 calls 290.00
+*** TURN *** [2s Kc 9d] [6c]
+Main pot 2480.00
+*** RIVER *** [2s Kc 9d 6c] [2d]
+Main pot 2480.00
+*** SHOW DOWN ***
+Main pot 2480.00
+Meaux46 shows [8d 9h] (two pair, Nines and Deuces [9h 9d 2s 2d Kc])
+Lorpugo3 shows [Ah Ad] (two pair, Aces and Deuces [Ah Ad 2s 2d Kc])
+Lorpugo3 collected 2480.00 from main pot
+*** SUMMARY ***
+Total pot 2480.00
+Board [2s Kc 9d 6c 2d]
+Seat 1: Meaux46 (big blind) showed [8d 9h] and lost with two pair, Nines and Deuces [9h 9d 2s 2d Kc]
+Seat 2: Lorpugo3 (button) showed [Ah Ad] and won 2480.00 with two pair, Aces and Deuces [Ah Ad 2s 2d Kc]
+
+Game Hand #392253188 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:23:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (520.00)
+Seat 2: Lorpugo3 (2480.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac Jh]
+Meaux46 calls 50.00
+Lorpugo3 raises 2380.00 to 2480.00 and is all-in
+Meaux46 calls 420.00 and is all-in
+Uncalled bet (1960.00) returned to Lorpugo3
+*** FLOP *** [8s 3h 5s]
+Main pot 1040.00
+*** TURN *** [8s 3h 5s] [2c]
+Main pot 1040.00
+*** RIVER *** [8s 3h 5s 2c] [9h]
+Main pot 1040.00
+*** SHOW DOWN ***
+Main pot 1040.00
+Meaux46 shows [Ah Ad] (a pair of Aces [Ah Ad 9h 8s 5s])
+Lorpugo3 shows [Ac Jh] (a high card, Ace high [Ac Jh 9h 8s 5s])
+Meaux46 collected 1040.00 from main pot
+*** SUMMARY ***
+Total pot 1040.00
+Board [8s 3h 5s 2c 9h]
+Seat 1: Meaux46 (button) showed [Ah Ad] and won 1040.00 with a pair of Aces [Ah Ad 9h 8s 5s]
+Seat 2: Lorpugo3 (big blind) showed [Ac Jh] and lost with a high card, Ace high [Ac Jh 9h 8s 5s]
+
+Game Hand #392253536 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:23:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (1040.00)
+Seat 2: Lorpugo3 (1960.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4s]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392253677 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:23:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (1090.00)
+Seat 2: Lorpugo3 (1910.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Kd]
+Meaux46 raises 300.00 to 350.00
+Lorpugo3 raises 1810.00 to 1910.00 and is all-in
+Meaux46 calls 740.00 and is all-in
+Uncalled bet (820.00) returned to Lorpugo3
+*** FLOP *** [4c 7d Jh]
+Main pot 2180.00
+*** TURN *** [4c 7d Jh] [9h]
+Main pot 2180.00
+*** RIVER *** [4c 7d Jh 9h] [5s]
+Main pot 2180.00
+*** SHOW DOWN ***
+Main pot 2180.00
+Meaux46 shows [Qc Js] (a pair of Jacks [Js Jh Qc 9h 7d])
+Lorpugo3 shows [Qh Kd] (a high card, King high [Kd Qh Jh 9h 7d])
+Meaux46 collected 2180.00 from main pot
+*** SUMMARY ***
+Total pot 2180.00
+Board [4c 7d Jh 9h 5s]
+Seat 1: Meaux46 (button) showed [Qc Js] and won 2180.00 with a pair of Jacks [Js Jh Qc 9h 7d]
+Seat 2: Lorpugo3 (big blind) showed [Qh Kd] and lost with a high card, King high [Kd Qh Jh 9h 7d]
+
+Game Hand #392254145 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:24:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Meaux46 (2180.00)
+Seat 2: Lorpugo3 (820.00)
+Lorpugo3 posts the small blind 50.00
+Meaux46 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 3d]
+Lorpugo3 folds
+Meaux46 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Meaux46 did not show and won 150.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392254287 - Tournament #20938566 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/08 21:24:23 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Meaux46 (2230.00)
+Seat 2: Lorpugo3 (770.00)
+Meaux46 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 6d]
+Meaux46 raises 350.00 to 400.00
+Lorpugo3 raises 670.00 to 770.00 and is all-in
+Meaux46 calls 370.00
+*** FLOP *** [Ac 5s Td]
+Main pot 1540.00
+*** TURN *** [Ac 5s Td] [3h]
+Main pot 1540.00
+*** RIVER *** [Ac 5s Td 3h] [2h]
+Main pot 1540.00
+*** SHOW DOWN ***
+Main pot 1540.00
+Meaux46 shows [9c Kc] (a high card, Ace high [Ac Kc Td 9c 5s])
+Lorpugo3 shows [9h 6d] (a high card, Ace high [Ac Td 9h 6d 5s])
+Meaux46 collected 1540.00 from main pot
+*** SUMMARY ***
+Total pot 1540.00
+Board [Ac 5s Td 3h 2h]
+Seat 1: Meaux46 (button) showed [9c Kc] and won 1540.00 with a high card, Ace high [Ac Kc Td 9c 5s] with the kicker King
+Seat 2: Lorpugo3 (big blind) showed [9h 6d] and lost with a high card, Ace high [Ac Td 9h 6d 5s]
+

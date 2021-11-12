@@ -1,0 +1,678 @@
+Game Hand #436575297 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:08:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Ganchik (1500.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 2s]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 40.00
+
+Game Hand #436575567 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:08:39 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1480.00)
+Seat 2: Ganchik (1520.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 3s]
+Lorpugo3 raises 50.00 to 60.00
+Ganchik folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Ganchik (big blind) folded on the Pre-Flop
+
+Game Hand #436575824 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:08:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Ganchik (1500.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Qc]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436575959 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:08:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1510.00)
+Seat 2: Ganchik (1490.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 6h]
+Lorpugo3 raises 40.00 to 50.00
+Ganchik calls 30.00
+*** FLOP *** [Tc 6d 2d]
+Main pot 100.00
+Ganchik checks
+Lorpugo3 bets 60.00
+Ganchik calls 60.00
+*** TURN *** [Tc 6d 2d] [5c]
+Main pot 220.00
+Ganchik checks
+Lorpugo3 checks
+*** RIVER *** [Tc 6d 2d 5c] [8c]
+Main pot 220.00
+Ganchik checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 220.00
+Ganchik shows [Ah Qs] (a high card, Ace high [Ah Qs Tc 8c 6d])
+Lorpugo3 shows [9d 6h] (a pair of Sixs [6h 6d Tc 9d 8c])
+Lorpugo3 collected 220.00 from main pot
+*** SUMMARY ***
+Total pot 220.00
+Board [Tc 6d 2d 5c 8c]
+Seat 1: Lorpugo3 (button) showed [9d 6h] and won 220.00 with a pair of Sixs [6h 6d Tc 9d 8c]
+Seat 2: Ganchik (big blind) showed [Ah Qs] and lost with a high card, Ace high [Ah Qs Tc 8c 6d]
+
+Game Hand #436577128 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:09:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1620.00)
+Seat 2: Ganchik (1380.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 40.00
+
+Game Hand #436577462 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:10:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1600.00)
+Seat 2: Ganchik (1400.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4c]
+Lorpugo3 raises 40.00 to 50.00
+Ganchik folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Ganchik (big blind) folded on the Pre-Flop
+
+Game Hand #436577783 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:10:14 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1620.00)
+Seat 2: Ganchik (1380.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh Jd]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [2d 9s 3d]
+Main pot 80.00
+Lorpugo3 checks
+Ganchik bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [2d 9s 3d] [6s]
+Main pot 140.00
+Lorpugo3 checks
+Ganchik bets 35.00
+Lorpugo3 calls 35.00
+*** RIVER *** [2d 9s 3d 6s] [9h]
+Main pot 210.00
+Lorpugo3 checks
+Ganchik checks
+*** SHOW DOWN ***
+Main pot 210.00
+Lorpugo3 shows [Qh Jd] (a pair of Nines [9s 9h Qh Jd 6s])
+Ganchik shows [2s Ac] (two pair, Nines and Deuces [9s 9h 2s 2d Ac])
+Ganchik collected 210.00 from main pot
+*** SUMMARY ***
+Total pot 210.00
+Board [2d 9s 3d 6s 9h]
+Seat 1: Lorpugo3 (big blind) showed [Qh Jd] and lost with a pair of Nines [9s 9h Qh Jd 6s]
+Seat 2: Ganchik (button) showed [2s Ac] and won 210.00 with two pair, Nines and Deuces [9s 9h 2s 2d Ac]
+
+Game Hand #436579029 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1515.00)
+Seat 2: Ganchik (1485.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 5h]
+Lorpugo3 raises 40.00 to 50.00
+Ganchik folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Ganchik (big blind) folded on the Pre-Flop
+
+Game Hand #436579301 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1535.00)
+Seat 2: Ganchik (1465.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Qh]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436579449 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:24 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1545.00)
+Seat 2: Ganchik (1455.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 5c]
+Lorpugo3 raises 40.00 to 50.00
+Ganchik folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Ganchik (big blind) folded on the Pre-Flop
+
+Game Hand #436579740 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1565.00)
+Seat 2: Ganchik (1435.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 2d]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 40.00
+
+Game Hand #436579989 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1545.00)
+Seat 2: Ganchik (1455.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 4s]
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 30.00
+
+Game Hand #436580192 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:11:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1535.00)
+Seat 2: Ganchik (1465.00)
+Ganchik posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 4d]
+Ganchik raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [3c 3h 4h]
+Main pot 80.00
+Lorpugo3 checks
+Ganchik bets 30.00
+Lorpugo3 raises 80.00 to 80.00
+Ganchik calls 50.00
+*** TURN *** [3c 3h 4h] [5s]
+Main pot 240.00
+Lorpugo3 checks
+Ganchik checks
+*** RIVER *** [3c 3h 4h 5s] [2h]
+Main pot 240.00
+Lorpugo3 checks
+Ganchik bets 220.00
+Lorpugo3 folds
+Uncalled bet (220.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 240.00
+Board [3c 3h 4h 5s 2h]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Ganchik did not show and won 240.00
+
+Game Hand #436581466 - Tournament #21797672 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:12:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1415.00)
+Seat 2: Ganchik (1585.00)
+Lorpugo3 posts the small blind 10.00
+Ganchik posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 7c]
+Lorpugo3 raises 40.00 to 50.00
+Ganchik calls 30.00
+*** FLOP *** [8h 3h Kd]
+Main pot 100.00
+Ganchik checks
+Lorpugo3 checks
+*** TURN *** [8h 3h Kd] [4h]
+Main pot 100.00
+Ganchik bets 30.00
+Lorpugo3 calls 30.00
+*** RIVER *** [8h 3h Kd 4h] [4s]
+Main pot 160.00
+Ganchik checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+Ganchik shows [Js Tc] (a pair of Fours [4s 4h Kd Js Tc])
+Lorpugo3 mucks hand
+Ganchik collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [8h 3h Kd 4h 4s]
+Seat 1: Lorpugo3 (button) mucked [5h 7c]
+Seat 2: Ganchik (big blind) showed [Js Tc] and won 160.00 with a pair of Fours [4s 4h Kd Js Tc] with the kicker Jack
+
+Game Hand #436582575 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:13:35 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1335.00)
+Seat 2: Ganchik (1665.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th 8s]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436582731 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:13:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1350.00)
+Seat 2: Ganchik (1650.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts 6c]
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 45.00
+
+Game Hand #436582893 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:13:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1335.00)
+Seat 2: Ganchik (1665.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Qh]
+Ganchik raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 60.00
+
+Game Hand #436583088 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:13:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1305.00)
+Seat 2: Ganchik (1695.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c 3d]
+Lorpugo3 raises 60.00 to 75.00
+Ganchik folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Ganchik (big blind) folded on the Pre-Flop
+
+Game Hand #436583373 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:14:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1335.00)
+Seat 2: Ganchik (1665.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4h]
+Ganchik raises 45.00 to 60.00
+Lorpugo3 raises 135.00 to 165.00
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 did not show and won 225.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436583775 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:14:25 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1395.00)
+Seat 2: Ganchik (1605.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Ad]
+Lorpugo3 raises 60.00 to 75.00
+Ganchik calls 45.00
+*** FLOP *** [Ts Th 2h]
+Main pot 150.00
+Ganchik checks
+Lorpugo3 bets 75.00
+Ganchik calls 75.00
+*** TURN *** [Ts Th 2h] [4h]
+Main pot 300.00
+Ganchik checks
+Lorpugo3 bets 105.00
+Ganchik folds
+Uncalled bet (105.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [Ts Th 2h 4h]
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: Ganchik (big blind) folded on the Turn
+
+Game Hand #436584974 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:15:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1545.00)
+Seat 2: Ganchik (1455.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s 4d]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436585158 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:15:22 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Ganchik (1440.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 8s]
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 45.00
+
+Game Hand #436585358 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:15:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1545.00)
+Seat 2: Ganchik (1455.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Ks]
+Ganchik raises 45.00 to 60.00
+Lorpugo3 raises 150.00 to 180.00
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 240.00
+Seat 1: Lorpugo3 did not show and won 240.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436585756 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:15:47 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1605.00)
+Seat 2: Ganchik (1395.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 4d]
+Lorpugo3 raises 60.00 to 75.00
+Ganchik raises 120.00 to 150.00
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 225.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 225.00
+
+Game Hand #436586169 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:16:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1530.00)
+Seat 2: Ganchik (1470.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 6d]
+Ganchik raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [9c 3s 8d]
+Main pot 120.00
+Lorpugo3 checks
+Ganchik bets 45.00
+Lorpugo3 folds
+Uncalled bet (45.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [9c 3s 8d]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: Ganchik did not show and won 120.00
+
+Game Hand #436586719 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:16:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1470.00)
+Seat 2: Ganchik (1530.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 9s]
+Lorpugo3 raises 60.00 to 75.00
+Ganchik raises 158.00 to 188.00
+Lorpugo3 folds
+Ganchik does not show
+*** SUMMARY ***
+Total pot 263.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 263.00
+
+Game Hand #436587183 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:16:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1395.00)
+Seat 2: Ganchik (1605.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Qh]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436587389 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:16:56 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: Ganchik (1590.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 7c]
+Lorpugo3 raises 75.00 to 90.00
+Ganchik calls 60.00
+*** FLOP *** [Qs 5s Jh]
+Main pot 180.00
+Ganchik checks
+Lorpugo3 checks
+*** TURN *** [Qs 5s Jh] [8c]
+Main pot 180.00
+Ganchik checks
+Lorpugo3 checks
+*** RIVER *** [Qs 5s Jh 8c] [5c]
+Main pot 180.00
+Ganchik bets 45.00
+Lorpugo3 raises 180.00 to 180.00
+Ganchik calls 135.00
+*** SHOW DOWN ***
+Main pot 540.00
+Lorpugo3 shows [5h 7c] (three of a kind, Set of Fives [5s 5h 5c Qs Jh])
+Ganchik mucks hand
+Lorpugo3 collected 540.00 from main pot
+*** SUMMARY ***
+Total pot 540.00
+Board [Qs 5s Jh 8c 5c]
+Seat 1: Lorpugo3 (button) showed [5h 7c] and won 540.00 with three of a kind, Set of Fives [5s 5h 5c Qs Jh]
+Seat 2: Ganchik (big blind) mucked [As Td]
+
+Game Hand #436588609 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:17:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1680.00)
+Seat 2: Ganchik (1320.00)
+Ganchik posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Kh]
+Ganchik folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: Ganchik (button) folded on the Pre-Flop
+
+Game Hand #436588803 - Tournament #21797672 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:17:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1695.00)
+Seat 2: Ganchik (1305.00)
+Lorpugo3 posts the small blind 15.00
+Ganchik posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Js]
+Lorpugo3 raises 75.00 to 90.00
+Ganchik raises 195.00 to 225.00
+Lorpugo3 calls 135.00
+*** FLOP *** [9d 6d 5d]
+Main pot 450.00
+Ganchik bets 1080.00 and is all-in
+Lorpugo3 calls 1080.00
+*** TURN *** [9d 6d 5d] [8h]
+Main pot 2610.00
+*** RIVER *** [9d 6d 5d 8h] [Jc]
+Main pot 2610.00
+*** SHOW DOWN ***
+Main pot 2610.00
+Lorpugo3 shows [9s Js] (two pair, Jacks and Nines [Js Jc 9s 9d 8h])
+Ganchik shows [7h 4h] (a straight, Nine high [9d 8h 7h 6d 5d])
+Ganchik collected 2610.00 from main pot
+*** SUMMARY ***
+Total pot 2610.00
+Board [9d 6d 5d 8h Jc]
+Seat 1: Lorpugo3 (button) showed [9s Js] and lost with two pair, Jacks and Nines [Js Jc 9s 9d 8h]
+Seat 2: Ganchik (big blind) showed [7h 4h] and won 2610.00 with a straight, Nine high [9d 8h 7h 6d 5d]
+
+Game Hand #436589563 - Tournament #21797672 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:18:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (390.00)
+Seat 2: Ganchik (2610.00)
+Ganchik posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 8c]
+Ganchik raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to Ganchik
+Ganchik does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Ganchik did not show and won 100.00
+
+Game Hand #436589778 - Tournament #21797672 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:18:38 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (340.00)
+Seat 2: Ganchik (2660.00)
+Lorpugo3 posts the small blind 25.00
+Ganchik posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Ks]
+Lorpugo3 raises 315.00 to 340.00 and is all-in
+Ganchik calls 290.00
+*** FLOP *** [Kd Kc 9d]
+Main pot 680.00
+*** TURN *** [Kd Kc 9d] [Td]
+Main pot 680.00
+*** RIVER *** [Kd Kc 9d Td] [3s]
+Main pot 680.00
+*** SHOW DOWN ***
+Main pot 680.00
+Lorpugo3 shows [9h Ks] (a full house, Kings full of Nines [Ks Kd Kc 9h 9d])
+Ganchik shows [2s Ad] (a pair of Kings [Kd Kc Ad Td 9d])
+Lorpugo3 collected 680.00 from main pot
+*** SUMMARY ***
+Total pot 680.00
+Board [Kd Kc 9d Td 3s]
+Seat 1: Lorpugo3 (button) showed [9h Ks] and won 680.00 with a full house, Kings full of Nines [Ks Kd Kc 9h 9d]
+Seat 2: Ganchik (big blind) showed [2s Ad] and lost with a pair of Kings [Kd Kc Ad Td 9d]
+
+Game Hand #436590133 - Tournament #21797672 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 22:18:54 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (680.00)
+Seat 2: Ganchik (2320.00)
+Ganchik posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 8h]
+Ganchik raises 75.00 to 100.00
+Lorpugo3 raises 630.00 to 680.00 and is all-in
+Ganchik calls 580.00
+*** FLOP *** [Ad 6d Ah]
+Main pot 1360.00
+*** TURN *** [Ad 6d Ah] [6c]
+Main pot 1360.00
+*** RIVER *** [Ad 6d Ah 6c] [Td]
+Main pot 1360.00
+*** SHOW DOWN ***
+Main pot 1360.00
+Lorpugo3 shows [Qc 8h] (two pair, Aces and Sixs [Ah Ad 6d 6c Qc])
+Ganchik shows [7d As] (a full house, Aces full of Sixs [As Ah Ad 6d 6c])
+Ganchik collected 1360.00 from main pot
+*** SUMMARY ***
+Total pot 1360.00
+Board [Ad 6d Ah 6c Td]
+Seat 1: Lorpugo3 (big blind) showed [Qc 8h] and lost with two pair, Aces and Sixs [Ah Ad 6d 6c Qc]
+Seat 2: Ganchik (button) showed [7d As] and won 1360.00 with a full house, Aces full of Sixs [As Ah Ad 6d 6c]
+

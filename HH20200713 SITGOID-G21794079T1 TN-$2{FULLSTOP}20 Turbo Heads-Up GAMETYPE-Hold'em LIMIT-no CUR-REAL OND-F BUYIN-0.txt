@@ -1,0 +1,695 @@
+Game Hand #436133251 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:26:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: JONNY336 (1500.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 4h]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 30.00
+
+Game Hand #436133323 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:26:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1490.00)
+Seat 2: JONNY336 (1510.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 3d]
+JONNY336 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [5c 8s 4d]
+Main pot 80.00
+Lorpugo3 checks
+JONNY336 checks
+*** TURN *** [5c 8s 4d] [9d]
+Main pot 80.00
+Lorpugo3 checks
+JONNY336 checks
+*** RIVER *** [5c 8s 4d 9d] [Qd]
+Main pot 80.00
+Lorpugo3 bets 50.00
+JONNY336 calls 50.00
+*** SHOW DOWN ***
+Main pot 180.00
+Lorpugo3 shows [5d 3d] (a flush, Queen high [Qd 9d 5d 4d 3d])
+JONNY336 mucks hand
+Lorpugo3 collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [5c 8s 4d 9d Qd]
+Seat 1: Lorpugo3 (big blind) showed [5d 3d] and won 180.00 with a flush, Queen high [Qd 9d 5d 4d 3d]
+Seat 2: JONNY336 (button) mucked [7s 5s]
+
+Game Hand #436133677 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:27:00 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1580.00)
+Seat 2: JONNY336 (1420.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Ts]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 30.00
+
+Game Hand #436133737 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:27:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1570.00)
+Seat 2: JONNY336 (1430.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Jc]
+JONNY336 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [9h 8h Ks]
+Main pot 100.00
+Lorpugo3 checks
+JONNY336 bets 75.00
+Lorpugo3 calls 75.00
+*** TURN *** [9h 8h Ks] [Qs]
+Main pot 250.00
+Lorpugo3 checks
+JONNY336 checks
+*** RIVER *** [9h 8h Ks Qs] [Js]
+Main pot 250.00
+Lorpugo3 bets 125.00
+JONNY336 folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9h 8h Ks Qs Js]
+Seat 1: Lorpugo3 did not show and won 250.00
+Seat 2: JONNY336 (button) folded on the River
+
+Game Hand #436134012 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:27:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1695.00)
+Seat 2: JONNY336 (1305.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Kh]
+Lorpugo3 raises 30.00 to 40.00
+JONNY336 calls 20.00
+*** FLOP *** [Th 6h 3h]
+Main pot 80.00
+JONNY336 bets 20.00
+Lorpugo3 raises 60.00 to 60.00
+JONNY336 calls 40.00
+*** TURN *** [Th 6h 3h] [Ac]
+Main pot 200.00
+JONNY336 checks
+Lorpugo3 bets 100.00
+JONNY336 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Th 6h 3h Ac]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: JONNY336 (big blind) folded on the Turn
+
+Game Hand #436134303 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:28:22 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1795.00)
+Seat 2: JONNY336 (1205.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 7h]
+JONNY336 raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to JONNY336
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 40.00
+
+Game Hand #436134443 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:28:42 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1775.00)
+Seat 2: JONNY336 (1225.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad 7h]
+Lorpugo3 raises 30.00 to 40.00
+JONNY336 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: JONNY336 (big blind) folded on the Pre-Flop
+
+Game Hand #436134519 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:28:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1795.00)
+Seat 2: JONNY336 (1205.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Jh]
+JONNY336 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: JONNY336 (button) folded on the Pre-Flop
+
+Game Hand #436134585 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:29:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1805.00)
+Seat 2: JONNY336 (1195.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Ad]
+Lorpugo3 raises 40.00 to 50.00
+JONNY336 raises 130.00 to 150.00
+Lorpugo3 raises 340.00 to 390.00
+JONNY336 folds
+Uncalled bet (240.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 300.00
+Seat 1: Lorpugo3 did not show and won 300.00
+Seat 2: JONNY336 (big blind) folded on the Pre-Flop
+
+Game Hand #436134787 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:29:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1955.00)
+Seat 2: JONNY336 (1045.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9h]
+JONNY336 raises 40.00 to 50.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to JONNY336
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 40.00
+
+Game Hand #436134879 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:29:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1935.00)
+Seat 2: JONNY336 (1065.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Kh]
+Lorpugo3 raises 30.00 to 40.00
+JONNY336 calls 20.00
+*** FLOP *** [6d 9h Qd]
+Main pot 80.00
+JONNY336 checks
+Lorpugo3 checks
+*** TURN *** [6d 9h Qd] [Qs]
+Main pot 80.00
+JONNY336 bets 40.00
+Lorpugo3 calls 40.00
+*** RIVER *** [6d 9h Qd Qs] [8d]
+Main pot 160.00
+JONNY336 checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 160.00
+JONNY336 shows [9d 7c] (two pair, Queens and Nines [Qs Qd 9h 9d 8d])
+Lorpugo3 mucks hand
+JONNY336 collected 160.00 from main pot
+*** SUMMARY ***
+Total pot 160.00
+Board [6d 9h Qd Qs 8d]
+Seat 1: Lorpugo3 (button) mucked [4d Kh]
+Seat 2: JONNY336 (big blind) showed [9d 7c] and won 160.00 with two pair, Queens and Nines [Qs Qd 9h 9d 8d]
+
+Game Hand #436135318 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:30:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1855.00)
+Seat 2: JONNY336 (1145.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 5d]
+JONNY336 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: JONNY336 (button) folded on the Pre-Flop
+
+Game Hand #436135360 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:30:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1865.00)
+Seat 2: JONNY336 (1135.00)
+Lorpugo3 posts the small blind 10.00
+JONNY336 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c Js]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 30.00
+
+Game Hand #436135454 - Tournament #21794079 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 13:30:59 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1855.00)
+Seat 2: JONNY336 (1145.00)
+JONNY336 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td Th]
+JONNY336 raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [4s 3h Js]
+Main pot 100.00
+Lorpugo3 checks
+JONNY336 checks
+*** TURN *** [4s 3h Js] [2s]
+Main pot 100.00
+Lorpugo3 bets 50.00
+JONNY336 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4s 3h Js 2s]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: JONNY336 (button) folded on the Turn
+
+Game Hand #436135669 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:31:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1905.00)
+Seat 2: JONNY336 (1095.00)
+Lorpugo3 posts the small blind 15.00
+JONNY336 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d Ad]
+Lorpugo3 raises 60.00 to 75.00
+JONNY336 raises 210.00 to 240.00
+Lorpugo3 calls 165.00
+*** FLOP *** [Ks Qs As]
+Main pot 480.00
+JONNY336 bets 855.00 and is all-in
+Lorpugo3 calls 855.00
+*** TURN *** [Ks Qs As] [3d]
+Main pot 2190.00
+*** RIVER *** [Ks Qs As 3d] [9s]
+Main pot 2190.00
+*** SHOW DOWN ***
+Main pot 2190.00
+Lorpugo3 shows [8d Ad] (a pair of Aces [As Ad Ks Qs 9s])
+JONNY336 shows [Ah 3c] (two pair, Aces and Threes [As Ah 3d 3c Ks])
+JONNY336 collected 2190.00 from main pot
+*** SUMMARY ***
+Total pot 2190.00
+Board [Ks Qs As 3d 9s]
+Seat 1: Lorpugo3 (button) showed [8d Ad] and lost with a pair of Aces [As Ad Ks Qs 9s]
+Seat 2: JONNY336 (big blind) showed [Ah 3c] and won 2190.00 with two pair, Aces and Threes [As Ah 3d 3c Ks]
+
+Game Hand #436135974 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:32:08 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (810.00)
+Seat 2: JONNY336 (2190.00)
+JONNY336 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h 7c]
+JONNY336 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [4d Kc Ks]
+Main pot 60.00
+Lorpugo3 bets 30.00
+JONNY336 raises 90.00 to 90.00
+Lorpugo3 calls 60.00
+*** TURN *** [4d Kc Ks] [Ah]
+Main pot 240.00
+Lorpugo3 checks
+JONNY336 checks
+*** RIVER *** [4d Kc Ks Ah] [Qs]
+Main pot 240.00
+Lorpugo3 checks
+JONNY336 checks
+*** SHOW DOWN ***
+Main pot 240.00
+Lorpugo3 shows [4h 7c] (two pair, Kings and Fours [Ks Kc 4h 4d Ah])
+JONNY336 mucks hand
+Lorpugo3 collected 240.00 from main pot
+*** SUMMARY ***
+Total pot 240.00
+Board [4d Kc Ks Ah Qs]
+Seat 1: Lorpugo3 (big blind) showed [4h 7c] and won 240.00 with two pair, Kings and Fours [Ks Kc 4h 4d Ah]
+Seat 2: JONNY336 (button) mucked [8d 9c]
+
+Game Hand #436136464 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:33:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (930.00)
+Seat 2: JONNY336 (2070.00)
+Lorpugo3 posts the small blind 15.00
+JONNY336 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Kd]
+Lorpugo3 raises 60.00 to 75.00
+JONNY336 raises 180.00 to 210.00
+Lorpugo3 raises 855.00 to 930.00 and is all-in
+JONNY336 calls 720.00
+*** FLOP *** [7s 9h Jd]
+Main pot 1860.00
+*** TURN *** [7s 9h Jd] [Qc]
+Main pot 1860.00
+*** RIVER *** [7s 9h Jd Qc] [9c]
+Main pot 1860.00
+*** SHOW DOWN ***
+Main pot 1860.00
+Lorpugo3 shows [Ad Kd] (a pair of Nines [9h 9c Ad Kd Qc])
+JONNY336 shows [8d Kh] (a pair of Nines [9h 9c Kh Qc Jd])
+Lorpugo3 collected 1860.00 from main pot
+*** SUMMARY ***
+Total pot 1860.00
+Board [7s 9h Jd Qc 9c]
+Seat 1: Lorpugo3 (button) showed [Ad Kd] and won 1860.00 with a pair of Nines [9h 9c Ad Kd Qc] with the kicker Ace
+Seat 2: JONNY336 (big blind) showed [8d Kh] and lost with a pair of Nines [9h 9c Kh Qc Jd]
+
+Game Hand #436136702 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:33:46 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1860.00)
+Seat 2: JONNY336 (1140.00)
+JONNY336 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah Js]
+JONNY336 raises 60.00 to 75.00
+Lorpugo3 raises 1830.00 to 1860.00 and is all-in
+JONNY336 folds
+Uncalled bet (1785.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: JONNY336 (button) folded on the Pre-Flop
+
+Game Hand #436136858 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:34:06 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1935.00)
+Seat 2: JONNY336 (1065.00)
+Lorpugo3 posts the small blind 15.00
+JONNY336 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Td 8s]
+Lorpugo3 raises 45.00 to 60.00
+JONNY336 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: JONNY336 (big blind) folded on the Pre-Flop
+
+Game Hand #436136920 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:34:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1965.00)
+Seat 2: JONNY336 (1035.00)
+JONNY336 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s Ks]
+JONNY336 raises 75.00 to 90.00
+Lorpugo3 calls 60.00
+*** FLOP *** [4d Ts Jc]
+Main pot 180.00
+Lorpugo3 checks
+JONNY336 checks
+*** TURN *** [4d Ts Jc] [Kh]
+Main pot 180.00
+Lorpugo3 bets 90.00
+JONNY336 raises 945.00 to 945.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (855.00) returned to JONNY336
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [4d Ts Jc Kh]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: JONNY336 did not show and won 360.00
+
+Game Hand #436137193 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:34:51 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1785.00)
+Seat 2: JONNY336 (1215.00)
+Lorpugo3 posts the small blind 15.00
+JONNY336 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js Ad]
+Lorpugo3 raises 60.00 to 75.00
+JONNY336 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: JONNY336 (big blind) folded on the Pre-Flop
+
+Game Hand #436137288 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:35:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1815.00)
+Seat 2: JONNY336 (1185.00)
+JONNY336 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 6c]
+JONNY336 raises 75.00 to 90.00
+Lorpugo3 calls 60.00
+*** FLOP *** [Qc 6h Ad]
+Main pot 180.00
+Lorpugo3 checks
+JONNY336 checks
+*** TURN *** [Qc 6h Ad] [3s]
+Main pot 180.00
+Lorpugo3 checks
+JONNY336 checks
+*** RIVER *** [Qc 6h Ad 3s] [Qd]
+Main pot 180.00
+Lorpugo3 bets 135.00
+JONNY336 raises 270.00 to 270.00
+Lorpugo3 raises 1590.00 to 1725.00 and is all-in
+JONNY336 calls 825.00 and is all-in
+Uncalled bet (630.00) returned to Lorpugo3
+*** SHOW DOWN ***
+Main pot 2370.00
+Lorpugo3 shows [6s 6c] (a full house, Sixs full of Queens [6s 6h 6c Qd Qc])
+JONNY336 shows [Ah Ac] (a full house, Aces full of Queens [Ah Ad Ac Qd Qc])
+JONNY336 collected 2370.00 from main pot
+*** SUMMARY ***
+Total pot 2370.00
+Board [Qc 6h Ad 3s Qd]
+Seat 1: Lorpugo3 (big blind) showed [6s 6c] and lost with a full house, Sixs full of Queens [6s 6h 6c Qd Qc]
+Seat 2: JONNY336 (button) showed [Ah Ac] and won 2370.00 with a full house, Aces full of Queens [Ah Ad Ac Qd Qc]
+
+Game Hand #436137642 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:35:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (630.00)
+Seat 2: JONNY336 (2370.00)
+Lorpugo3 posts the small blind 15.00
+JONNY336 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 2s]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 45.00
+
+Game Hand #436137690 - Tournament #21794079 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 13:35:57 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (615.00)
+Seat 2: JONNY336 (2385.00)
+JONNY336 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 9d]
+JONNY336 raises 2370.00 to 2385.00 and is all-in
+Lorpugo3 calls 585.00 and is all-in
+Uncalled bet (1770.00) returned to JONNY336
+*** FLOP *** [Qc 8h Qs]
+Main pot 1230.00
+*** TURN *** [Qc 8h Qs] [Jd]
+Main pot 1230.00
+*** RIVER *** [Qc 8h Qs Jd] [8c]
+Main pot 1230.00
+*** SHOW DOWN ***
+Main pot 1230.00
+Lorpugo3 shows [Kd 9d] (two pair, Queens and Eights [Qs Qc 8h 8c Kd])
+JONNY336 shows [4h 4c] (two pair, Queens and Eights [Qs Qc 8h 8c Jd])
+Lorpugo3 collected 1230.00 from main pot
+*** SUMMARY ***
+Total pot 1230.00
+Board [Qc 8h Qs Jd 8c]
+Seat 1: Lorpugo3 (big blind) showed [Kd 9d] and won 1230.00 with two pair, Queens and Eights [Qs Qc 8h 8c Kd] with the kicker King
+Seat 2: JONNY336 (button) showed [4h 4c] and lost with two pair, Queens and Eights [Qs Qc 8h 8c Jd]
+
+Game Hand #436137847 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:36:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: JONNY336 (1770.00)
+Lorpugo3 posts the small blind 25.00
+JONNY336 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 5h]
+Lorpugo3 raises 75.00 to 100.00
+JONNY336 calls 50.00
+*** FLOP *** [7h 9d Kd]
+Main pot 200.00
+JONNY336 checks
+Lorpugo3 bets 125.00
+JONNY336 folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [7h 9d Kd]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: JONNY336 (big blind) folded on the Flop
+
+Game Hand #436138024 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:36:41 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: JONNY336 (1670.00)
+JONNY336 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 9s]
+JONNY336 raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to JONNY336
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 100.00
+
+Game Hand #436138108 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:36:52 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: JONNY336 (1720.00)
+Lorpugo3 posts the small blind 25.00
+JONNY336 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h Jc]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 75.00
+
+Game Hand #436138179 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:37:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1255.00)
+Seat 2: JONNY336 (1745.00)
+JONNY336 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 6h]
+JONNY336 raises 100.00 to 125.00
+Lorpugo3 folds
+Uncalled bet (75.00) returned to JONNY336
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 100.00
+
+Game Hand #436138251 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:37:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1205.00)
+Seat 2: JONNY336 (1795.00)
+Lorpugo3 posts the small blind 25.00
+JONNY336 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Jh]
+Lorpugo3 folds
+JONNY336 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: JONNY336 did not show and won 75.00
+
+Game Hand #436138322 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:37:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1180.00)
+Seat 2: JONNY336 (1820.00)
+JONNY336 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Td]
+JONNY336 raises 100.00 to 125.00
+Lorpugo3 calls 75.00
+*** FLOP *** [3d 6d Jc]
+Main pot 250.00
+Lorpugo3 checks
+JONNY336 checks
+*** TURN *** [3d 6d Jc] [8s]
+Main pot 250.00
+Lorpugo3 bets 125.00
+JONNY336 calls 125.00
+*** RIVER *** [3d 6d Jc 8s] [Jd]
+Main pot 500.00
+Lorpugo3 bets 300.00
+JONNY336 raises 600.00 to 600.00
+Lorpugo3 calls 300.00
+*** SHOW DOWN ***
+Main pot 1700.00
+JONNY336 shows [Qd 8d] (a flush, Queen high [Qd Jd 8d 6d 3d])
+Lorpugo3 mucks hand
+JONNY336 collected 1700.00 from main pot
+*** SUMMARY ***
+Total pot 1700.00
+Board [3d 6d Jc 8s Jd]
+Seat 1: Lorpugo3 (big blind) mucked [8h Td]
+Seat 2: JONNY336 (button) showed [Qd 8d] and won 1700.00 with a flush, Queen high [Qd Jd 8d 6d 3d]
+
+Game Hand #436138715 - Tournament #21794079 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/07/13 13:38:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (330.00)
+Seat 2: JONNY336 (2670.00)
+Lorpugo3 posts the small blind 25.00
+JONNY336 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 6d]
+Lorpugo3 raises 305.00 to 330.00 and is all-in
+JONNY336 calls 280.00
+*** FLOP *** [2s 3h Qc]
+Main pot 660.00
+*** TURN *** [2s 3h Qc] [9h]
+Main pot 660.00
+*** RIVER *** [2s 3h Qc 9h] [9s]
+Main pot 660.00
+*** SHOW DOWN ***
+Main pot 660.00
+Lorpugo3 shows [Qh 6d] (two pair, Queens and Nines [Qh Qc 9s 9h 6d])
+JONNY336 shows [Ac Ah] (two pair, Aces and Nines [Ah Ac 9s 9h Qc])
+JONNY336 collected 660.00 from main pot
+*** SUMMARY ***
+Total pot 660.00
+Board [2s 3h Qc 9h 9s]
+Seat 1: Lorpugo3 (button) showed [Qh 6d] and lost with two pair, Queens and Nines [Qh Qc 9s 9h 6d]
+Seat 2: JONNY336 (big blind) showed [Ac Ah] and won 660.00 with two pair, Aces and Nines [Ah Ac 9s 9h Qc]
+

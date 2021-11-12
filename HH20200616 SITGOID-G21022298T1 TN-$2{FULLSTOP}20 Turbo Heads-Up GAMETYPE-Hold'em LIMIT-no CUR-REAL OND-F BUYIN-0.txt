@@ -1,0 +1,1015 @@
+Game Hand #402509922 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:49:55 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 4h]
+Yarrgh calls 10.00
+Lorpugo3 checks
+*** FLOP *** [9h 2s Td]
+Main pot 40.00
+Lorpugo3 checks
+Yarrgh checks
+*** TURN *** [9h 2s Td] [Kd]
+Main pot 40.00
+Lorpugo3 checks
+Yarrgh checks
+*** RIVER *** [9h 2s Td Kd] [2d]
+Main pot 40.00
+Lorpugo3 checks
+Yarrgh checks
+*** SHOW DOWN ***
+Main pot 40.00
+Lorpugo3 shows [4d 4h] (two pair, Fours and Deuces [4h 4d 2s 2d Kd])
+Yarrgh shows [3s 2c] (three of a kind, Set of Deuces [2s 2d 2c Kd Td])
+Yarrgh collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [9h 2s Td Kd 2d]
+Seat 1: Yarrgh (button) showed [3s 2c] and won 40.00 with three of a kind, Set of Deuces [2s 2d 2c Kd Td]
+Seat 2: Lorpugo3 (big blind) showed [4d 4h] and lost with two pair, Fours and Deuces [4h 4d 2s 2d Kd]
+
+Game Hand #402510158 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:50:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 4c]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402510216 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:50:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs 3d]
+Yarrgh raises 50.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh did not show and won 40.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402510304 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:50:40 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d 4d]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402510426 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:50:53 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1530.00)
+Seat 2: Lorpugo3 (1470.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8d 8h]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402510530 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:51:04 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1520.00)
+Seat 2: Lorpugo3 (1480.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3s 3h]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402510660 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:51:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1500.00)
+Seat 2: Lorpugo3 (1500.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d 9c]
+Yarrgh raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Kc 6c 6s]
+Main pot 100.00
+Lorpugo3 checks
+Yarrgh bets 50.00
+Lorpugo3 raises 150.00 to 150.00
+Yarrgh folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Kc 6c 6s]
+Seat 1: Yarrgh (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #402510940 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:51:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1400.00)
+Seat 2: Lorpugo3 (1600.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Qc]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh did not show and won 30.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402510996 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:51:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1410.00)
+Seat 2: Lorpugo3 (1590.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Th]
+Yarrgh raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Qh Ah 5s]
+Main pot 80.00
+Lorpugo3 bets 20.00
+Yarrgh folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Qh Ah 5s]
+Seat 1: Yarrgh (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 80.00
+
+Game Hand #402511154 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:52:16 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1370.00)
+Seat 2: Lorpugo3 (1630.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Ac]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402511254 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:52:26 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1350.00)
+Seat 2: Lorpugo3 (1650.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 6d]
+Yarrgh calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+Yarrgh calls 40.00
+*** FLOP *** [Td Jh Kc]
+Main pot 120.00
+Lorpugo3 bets 50.00
+Yarrgh folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Td Jh Kc]
+Seat 1: Yarrgh (button) folded on the Flop
+Seat 2: Lorpugo3 did not show and won 120.00
+
+Game Hand #402511449 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:52:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Qh]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh raises 105.00 to 125.00
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 175.00
+Seat 1: Yarrgh did not show and won 175.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402511664 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:53:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1340.00)
+Seat 2: Lorpugo3 (1660.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 7d]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402511714 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:53:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s Ac]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402511799 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:53:28 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1310.00)
+Seat 2: Lorpugo3 (1690.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ac]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402511860 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:53:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Kh]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh calls 30.00
+*** FLOP *** [8c 4d Ad]
+Main pot 100.00
+Yarrgh checks
+Lorpugo3 checks
+*** TURN *** [8c 4d Ad] [Ks]
+Main pot 100.00
+Yarrgh checks
+Lorpugo3 bets 40.00
+Yarrgh calls 40.00
+*** RIVER *** [8c 4d Ad Ks] [4c]
+Main pot 180.00
+Yarrgh checks
+Lorpugo3 checks
+*** SHOW DOWN ***
+Main pot 180.00
+Yarrgh shows [3h Kd] (two pair, Kings and Fours [Ks Kd 4d 4c Ad])
+Lorpugo3 shows [Jc Kh] (two pair, Kings and Fours [Ks Kh 4d 4c Ad])
+Yarrgh collected 90.00 from main pot
+Lorpugo3 collected 90.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [8c 4d Ad Ks 4c]
+Seat 1: Yarrgh (big blind) showed [3h Kd] and won 90.00 with two pair, Kings and Fours [Ks Kd 4d 4c Ad]
+Seat 2: Lorpugo3 (button) showed [Jc Kh] and won 90.00 with two pair, Kings and Fours [Ks Kh 4d 4c Ad]
+
+Game Hand #402512250 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:54:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 9s]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 30.00
+
+Game Hand #402512296 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:54:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1290.00)
+Seat 2: Lorpugo3 (1710.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h Ah]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402512374 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:54:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1270.00)
+Seat 2: Lorpugo3 (1730.00)
+Yarrgh posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 5s]
+Yarrgh raises 40.00 to 50.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8s Kc Qd]
+Main pot 100.00
+Lorpugo3 checks
+Yarrgh bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [8s Kc Qd]
+Seat 1: Yarrgh did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402512571 - Tournament #21022298 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 14:54:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1320.00)
+Seat 2: Lorpugo3 (1680.00)
+Lorpugo3 posts the small blind 10.00
+Yarrgh posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 8d]
+Lorpugo3 raises 40.00 to 50.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 40.00
+
+Game Hand #402512638 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:55:04 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 3d]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #402512688 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:55:11 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1285.00)
+Seat 2: Lorpugo3 (1715.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 7d]
+Lorpugo3 raises 60.00 to 75.00
+Yarrgh raises 158.00 to 188.00
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 263.00
+Seat 1: Yarrgh did not show and won 263.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402512837 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:55:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4s]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #402512866 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:55:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1345.00)
+Seat 2: Lorpugo3 (1655.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 2d]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402512908 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:55:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1360.00)
+Seat 2: Lorpugo3 (1640.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 8h]
+Yarrgh calls 15.00
+Lorpugo3 raises 60.00 to 90.00
+Yarrgh calls 60.00
+*** FLOP *** [Tc Ad 3h]
+Main pot 180.00
+Lorpugo3 bets 90.00
+Yarrgh calls 90.00
+*** TURN *** [Tc Ad 3h] [3s]
+Main pot 360.00
+Lorpugo3 checks
+Yarrgh bets 180.00
+Lorpugo3 folds
+Uncalled bet (180.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 360.00
+Board [Tc Ad 3h 3s]
+Seat 1: Yarrgh did not show and won 360.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #402513110 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:56:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 2d]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402513152 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:56:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1555.00)
+Seat 2: Lorpugo3 (1445.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 4s]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #402513195 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:56:33 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1540.00)
+Seat 2: Lorpugo3 (1460.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Kd]
+Lorpugo3 raises 60.00 to 75.00
+Yarrgh folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #402513307 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:56:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1510.00)
+Seat 2: Lorpugo3 (1490.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ad Td]
+Yarrgh raises 75.00 to 90.00
+Lorpugo3 calls 60.00
+*** FLOP *** [Jh 3h 5c]
+Main pot 180.00
+Lorpugo3 checks
+Yarrgh bets 90.00
+Lorpugo3 calls 90.00
+*** TURN *** [Jh 3h 5c] [Ah]
+Main pot 360.00
+Lorpugo3 checks
+Yarrgh checks
+*** RIVER *** [Jh 3h 5c Ah] [5d]
+Main pot 360.00
+Lorpugo3 checks
+Yarrgh checks
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [Ad Td] (two pair, Aces and Fives [Ah Ad 5d 5c Jh])
+Yarrgh mucks hand
+Lorpugo3 collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [Jh 3h 5c Ah 5d]
+Seat 1: Yarrgh (button) mucked [7c 7s]
+Seat 2: Lorpugo3 (big blind) showed [Ad Td] and won 360.00 with two pair, Aces and Fives [Ah Ad 5d 5c Jh]
+
+Game Hand #402513551 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:57:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 4d]
+Lorpugo3 raises 45.00 to 60.00
+Yarrgh folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #402513605 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:57:41 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1300.00)
+Seat 2: Lorpugo3 (1700.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2c]
+Yarrgh raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402513677 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:57:53 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1330.00)
+Seat 2: Lorpugo3 (1670.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d 9h]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402513729 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:58:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1345.00)
+Seat 2: Lorpugo3 (1655.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 6c]
+Yarrgh raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [8c Kd Qd]
+Main pot 120.00
+Lorpugo3 checks
+Yarrgh checks
+*** TURN *** [8c Kd Qd] [8s]
+Main pot 120.00
+Lorpugo3 bets 30.00
+Yarrgh raises 90.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 180.00
+Board [8c Kd Qd 8s]
+Seat 1: Yarrgh did not show and won 180.00
+Seat 2: Lorpugo3 (big blind) folded on the Turn
+
+Game Hand #402513916 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:58:36 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1435.00)
+Seat 2: Lorpugo3 (1565.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 2c]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402513955 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:58:43 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 8h]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #402513995 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:58:50 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1435.00)
+Seat 2: Lorpugo3 (1565.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Qd]
+Lorpugo3 raises 60.00 to 75.00
+Yarrgh folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #402514047 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1405.00)
+Seat 2: Lorpugo3 (1595.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c 5d]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #402514084 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1390.00)
+Seat 2: Lorpugo3 (1610.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 8h]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402514123 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1405.00)
+Seat 2: Lorpugo3 (1595.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6s]
+Yarrgh raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402514177 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1435.00)
+Seat 2: Lorpugo3 (1565.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 2d]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Yarrgh did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402514218 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:30 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Yarrgh posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Qs]
+Yarrgh calls 15.00
+Lorpugo3 checks
+*** FLOP *** [9s Js Ah]
+Main pot 60.00
+Lorpugo3 checks
+Yarrgh bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 60.00
+Board [9s Js Ah]
+Seat 1: Yarrgh did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402514341 - Tournament #21022298 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/16 14:59:51 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1480.00)
+Seat 2: Lorpugo3 (1520.00)
+Lorpugo3 posts the small blind 15.00
+Yarrgh posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd Qc]
+Lorpugo3 raises 60.00 to 75.00
+Yarrgh folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #402514424 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:00:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1450.00)
+Seat 2: Lorpugo3 (1550.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qh 7c]
+Yarrgh raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [4h Kh 9c]
+Main pot 200.00
+Lorpugo3 checks
+Yarrgh bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [4h Kh 9c]
+Seat 1: Yarrgh did not show and won 200.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402514562 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:00:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d 4h]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Yarrgh did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402514607 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:00:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1575.00)
+Seat 2: Lorpugo3 (1425.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 9d]
+Yarrgh folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Yarrgh (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #402514647 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:00:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1550.00)
+Seat 2: Lorpugo3 (1450.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3s]
+Lorpugo3 folds
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Yarrgh did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #402514689 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:00:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1575.00)
+Seat 2: Lorpugo3 (1425.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kd 9d]
+Yarrgh raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [Ac 3d 5h]
+Main pot 200.00
+Lorpugo3 checks
+Yarrgh checks
+*** TURN *** [Ac 3d 5h] [Js]
+Main pot 200.00
+Lorpugo3 bets 100.00
+Yarrgh folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Ac 3d 5h Js]
+Seat 1: Yarrgh (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 200.00
+
+Game Hand #402514851 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:01:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1475.00)
+Seat 2: Lorpugo3 (1525.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jc Ah]
+Lorpugo3 raises 100.00 to 125.00
+Yarrgh folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402514930 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:01:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1425.00)
+Seat 2: Lorpugo3 (1575.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s Qh]
+Yarrgh raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Yarrgh did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402515043 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:01:27 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1475.00)
+Seat 2: Lorpugo3 (1525.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Qs]
+Lorpugo3 raises 100.00 to 125.00
+Yarrgh folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402515174 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:01:40 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1425.00)
+Seat 2: Lorpugo3 (1575.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7s Qs]
+Yarrgh raises 125.00 to 150.00
+Lorpugo3 calls 100.00
+*** FLOP *** [9d Th Td]
+Main pot 300.00
+Lorpugo3 checks
+Yarrgh bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 300.00
+Board [9d Th Td]
+Seat 1: Yarrgh did not show and won 300.00
+Seat 2: Lorpugo3 (big blind) folded on the Flop
+
+Game Hand #402515341 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:02:00 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1575.00)
+Seat 2: Lorpugo3 (1425.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9d]
+Lorpugo3 raises 100.00 to 125.00
+Yarrgh folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Yarrgh (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 100.00
+
+Game Hand #402515442 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:02:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Yarrgh (1525.00)
+Seat 2: Lorpugo3 (1475.00)
+Yarrgh posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Td]
+Yarrgh raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to Yarrgh
+Yarrgh does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Yarrgh did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #402515507 - Tournament #21022298 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/16 15:02:20 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Yarrgh (1575.00)
+Seat 2: Lorpugo3 (1425.00)
+Lorpugo3 posts the small blind 25.00
+Yarrgh posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 5s]
+Lorpugo3 raises 100.00 to 125.00
+Yarrgh raises 263.00 to 313.00
+Lorpugo3 calls 188.00
+*** FLOP *** [Qd Kd Ah]
+Main pot 626.00
+Yarrgh bets 313.00
+Lorpugo3 raises 1112.00 to 1112.00 and is all-in
+Yarrgh calls 799.00
+*** TURN *** [Qd Kd Ah] [2s]
+Main pot 2850.00
+*** RIVER *** [Qd Kd Ah 2s] [3d]
+Main pot 2850.00
+*** SHOW DOWN ***
+Main pot 2850.00
+Yarrgh shows [Ac Th] (a pair of Aces [Ah Ac Kd Qd Th])
+Lorpugo3 shows [As 5s] (a pair of Aces [As Ah Kd Qd 5s])
+Yarrgh collected 2850.00 from main pot
+*** SUMMARY ***
+Total pot 2850.00
+Board [Qd Kd Ah 2s 3d]
+Seat 1: Yarrgh (big blind) showed [Ac Th] and won 2850.00 with a pair of Aces [Ah Ac Kd Qd Th] with the kicker Ten
+Seat 2: Lorpugo3 (button) showed [As 5s] and lost with a pair of Aces [As Ah Kd Qd 5s]
+

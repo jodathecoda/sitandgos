@@ -1,0 +1,1136 @@
+Game Hand #403776410 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:42:14 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: PEPTOBILLY76 (1500.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 8h]
+Lorpugo3 raises 40.00 to 50.00
+PEPTOBILLY76 raises 1480.00 to 1500.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1450.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Jd Ad]
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [Jd Ad] and won 100.00
+
+Game Hand #403776535 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:42:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1450.00)
+Seat 2: PEPTOBILLY76 (1550.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s 9h]
+PEPTOBILLY76 calls 10.00
+Lorpugo3 raises 40.00 to 60.00
+PEPTOBILLY76 calls 40.00
+*** FLOP *** [Jh 7h 3h]
+Main pot 120.00
+Lorpugo3 bets 60.00
+PEPTOBILLY76 calls 60.00
+*** TURN *** [Jh 7h 3h] [6h]
+Main pot 240.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 240.00
+Lorpugo3 folds
+Uncalled bet (240.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [4s 5s] (a straight, Seven high [7h 6h 5s 4s 3h])
+*** SUMMARY ***
+Total pot 240.00
+Board [Jh 7h 3h 6h]
+Seat 1: Lorpugo3 (big blind) folded on the Turn
+Seat 2: PEPTOBILLY76 (button) showed [4s 5s] and won 240.00 with a straight, Seven high [7h 6h 5s 4s 3h]
+
+Game Hand #403776859 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:43:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: PEPTOBILLY76 (1670.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6d 4s]
+Lorpugo3 raises 40.00 to 50.00
+PEPTOBILLY76 calls 30.00
+*** FLOP *** [Th Qh 3d]
+Main pot 100.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 50.00
+PEPTOBILLY76 raises 1620.00 to 1620.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1570.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Qs 9h] (a pair of Queens [Qs Qh Th 9h 3d])
+*** SUMMARY ***
+Total pot 200.00
+Board [Th Qh 3d]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [Qs 9h] and won 200.00 with a pair of Queens [Qs Qh Th 9h 3d]
+
+Game Hand #403777093 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:43:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1230.00)
+Seat 2: PEPTOBILLY76 (1770.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 2d]
+PEPTOBILLY76 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [8h 4h 9s]
+Main pot 40.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [8h 4h 9s] [3h]
+Main pot 40.00
+Lorpugo3 bets 20.00
+PEPTOBILLY76 folds
+Uncalled bet (20.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Board [8h 4h 9s 3h]
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: PEPTOBILLY76 (button) folded on the Turn
+
+Game Hand #403777314 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:44:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1250.00)
+Seat 2: PEPTOBILLY76 (1750.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ah 7h]
+Lorpugo3 raises 40.00 to 50.00
+PEPTOBILLY76 calls 30.00
+*** FLOP *** [2h 2c Qd]
+Main pot 100.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 50.00
+PEPTOBILLY76 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [2h 2c Qd]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403777520 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:44:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1300.00)
+Seat 2: PEPTOBILLY76 (1700.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 4d]
+PEPTOBILLY76 calls 10.00
+Lorpugo3 checks
+*** FLOP *** [6c Kc Th]
+Main pot 40.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [6c Kc Th] [7d]
+Main pot 40.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [6c Kc Th 7d] [6h]
+Main pot 40.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** SHOW DOWN ***
+Main pot 40.00
+Lorpugo3 shows [Qc 4d] (a pair of Sixs [6h 6c Kc Qc Th])
+PEPTOBILLY76 shows [2d As] (a pair of Sixs [6h 6c As Kc Th])
+PEPTOBILLY76 collected 40.00 from main pot
+*** SUMMARY ***
+Total pot 40.00
+Board [6c Kc Th 7d 6h]
+Seat 1: Lorpugo3 (big blind) showed [Qc 4d] and lost with a pair of Sixs [6h 6c Kc Qc Th]
+Seat 2: PEPTOBILLY76 (button) showed [2d As] and won 40.00 with a pair of Sixs [6h 6c As Kc Th] with the kicker Ace
+
+Game Hand #403777780 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:44:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: PEPTOBILLY76 (1720.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 7c]
+Lorpugo3 raises 40.00 to 50.00
+PEPTOBILLY76 calls 30.00
+*** FLOP *** [4c 9d Js]
+Main pot 100.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 50.00
+PEPTOBILLY76 folds
+Uncalled bet (50.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 100.00
+Board [4c 9d Js]
+Seat 1: Lorpugo3 did not show and won 100.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403777995 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:45:18 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: PEPTOBILLY76 (1670.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h Jc]
+PEPTOBILLY76 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [Jd Kd Ah]
+Main pot 80.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 20.00
+Lorpugo3 calls 20.00
+*** TURN *** [Jd Kd Ah] [6s]
+Main pot 120.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [Jd Kd Ah 6s] [9h]
+Main pot 120.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [7h Jc] (a pair of Jacks [Jd Jc Ah Kd 9h])
+PEPTOBILLY76 shows [Qs 6c] (a pair of Sixs [6s 6c Ah Kd Qs])
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Jd Kd Ah 6s 9h]
+Seat 1: Lorpugo3 (big blind) showed [7h Jc] and won 120.00 with a pair of Jacks [Jd Jc Ah Kd 9h]
+Seat 2: PEPTOBILLY76 (button) showed [Qs 6c] and lost with a pair of Sixs [6s 6c Ah Kd Qs]
+
+Game Hand #403778307 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:45:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1390.00)
+Seat 2: PEPTOBILLY76 (1610.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h 5h]
+Lorpugo3 raises 30.00 to 40.00
+PEPTOBILLY76 calls 20.00
+*** FLOP *** [Ad 8h 8d]
+Main pot 80.00
+PEPTOBILLY76 bets 40.00
+Lorpugo3 folds
+Uncalled bet (40.00) returned to PEPTOBILLY76
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ad 8h 8d]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 did not show and won 80.00
+
+Game Hand #403778480 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:46:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1350.00)
+Seat 2: PEPTOBILLY76 (1650.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 7c]
+PEPTOBILLY76 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: PEPTOBILLY76 (button) folded on the Pre-Flop
+
+Game Hand #403778524 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:46:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1360.00)
+Seat 2: PEPTOBILLY76 (1640.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 2c]
+Lorpugo3 raises 30.00 to 40.00
+PEPTOBILLY76 calls 20.00
+*** FLOP *** [Ad 4s Ac]
+Main pot 80.00
+PEPTOBILLY76 checks
+Lorpugo3 checks
+*** TURN *** [Ad 4s Ac] [Qc]
+Main pot 80.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 40.00
+PEPTOBILLY76 folds
+Uncalled bet (40.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [Ad 4s Ac Qc]
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Turn
+
+Game Hand #403778778 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:46:48 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1400.00)
+Seat 2: PEPTOBILLY76 (1600.00)
+PEPTOBILLY76 posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6h 9s]
+PEPTOBILLY76 raises 30.00 to 40.00
+Lorpugo3 calls 20.00
+*** FLOP *** [6d Qd As]
+Main pot 80.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to PEPTOBILLY76
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 80.00
+Board [6d Qd As]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: PEPTOBILLY76 did not show and won 80.00
+
+Game Hand #403778981 - Tournament #21035651 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/17 14:47:10 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1360.00)
+Seat 2: PEPTOBILLY76 (1640.00)
+Lorpugo3 posts the small blind 10.00
+PEPTOBILLY76 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 9c]
+Lorpugo3 raises 30.00 to 40.00
+PEPTOBILLY76 calls 20.00
+*** FLOP *** [Ad Qs 6h]
+Main pot 80.00
+PEPTOBILLY76 bets 20.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [6s 7s] (a pair of Sixs [6s 6h Ad Qs 7s])
+*** SUMMARY ***
+Total pot 80.00
+Board [Ad Qs 6h]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [6s 7s] and won 80.00 with a pair of Sixs [6s 6h Ad Qs 7s]
+
+Game Hand #403779150 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:47:32 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1320.00)
+Seat 2: PEPTOBILLY76 (1680.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7d Tc]
+PEPTOBILLY76 raises 45.00 to 60.00
+Lorpugo3 calls 30.00
+*** FLOP *** [Ks 4d Js]
+Main pot 120.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [Ks 4d Js] [5d]
+Main pot 120.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [Ks 4d Js 5d] [Kc]
+Main pot 120.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 120.00
+Lorpugo3 folds
+Uncalled bet (120.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Jd Qh] (two pair, Kings and Jacks [Ks Kc Js Jd Qh])
+*** SUMMARY ***
+Total pot 120.00
+Board [Ks 4d Js 5d Kc]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: PEPTOBILLY76 (button) showed [Jd Qh] and won 120.00 with two pair, Kings and Jacks [Ks Kc Js Jd Qh]
+
+Game Hand #403779497 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:48:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: PEPTOBILLY76 (1740.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h 9d]
+Lorpugo3 raises 60.00 to 75.00
+PEPTOBILLY76 folds
+Uncalled bet (45.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Pre-Flop
+
+Game Hand #403779577 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:48:19 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1290.00)
+Seat 2: PEPTOBILLY76 (1710.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 3s]
+PEPTOBILLY76 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [5s 7h 4h]
+Main pot 60.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [5s 7h 4h] [6d]
+Main pot 60.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [5s 7h 4h 6d] [Kd]
+Main pot 60.00
+Lorpugo3 bets 30.00
+PEPTOBILLY76 calls 30.00
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [2s 3s] (a straight, Seven high [7h 6d 5s 4h 3s])
+PEPTOBILLY76 shows [4d 2c] (a pair of Fours [4h 4d Kd 7h 6d])
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [5s 7h 4h 6d Kd]
+Seat 1: Lorpugo3 (big blind) showed [2s 3s] and won 120.00 with a straight, Seven high [7h 6d 5s 4h 3s]
+Seat 2: PEPTOBILLY76 (button) showed [4d 2c] and lost with a pair of Fours [4h 4d Kd 7h 6d]
+
+Game Hand #403779870 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:48:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1350.00)
+Seat 2: PEPTOBILLY76 (1650.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2s 4s]
+Lorpugo3 raises 45.00 to 60.00
+PEPTOBILLY76 calls 30.00
+*** FLOP *** [Ah 4h Td]
+Main pot 120.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 60.00
+PEPTOBILLY76 folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Ah 4h Td]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403780033 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:49:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1410.00)
+Seat 2: PEPTOBILLY76 (1590.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2c 6h]
+PEPTOBILLY76 raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Ts Qs]
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (button) showed [Ts Qs] and won 60.00
+
+Game Hand #403780128 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:49:20 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: PEPTOBILLY76 (1620.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Ah]
+Lorpugo3 raises 60.00 to 75.00
+PEPTOBILLY76 calls 45.00
+*** FLOP *** [2s 3s Kh]
+Main pot 150.00
+PEPTOBILLY76 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to PEPTOBILLY76
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [2s 3s Kh]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 did not show and won 150.00
+
+Game Hand #403780409 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:49:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1305.00)
+Seat 2: PEPTOBILLY76 (1695.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8s 8c]
+PEPTOBILLY76 calls 15.00
+Lorpugo3 raises 45.00 to 75.00
+PEPTOBILLY76 calls 45.00
+*** FLOP *** [6c Ts Kh]
+Main pot 150.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [6c Ts Kh] [9d]
+Main pot 150.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [6c Ts Kh 9d] [Ks]
+Main pot 150.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** SHOW DOWN ***
+Main pot 150.00
+Lorpugo3 shows [8s 8c] (two pair, Kings and Eights [Ks Kh 8s 8c Ts])
+PEPTOBILLY76 shows [As 3s] (a pair of Kings [Ks Kh As Ts 9d])
+Lorpugo3 collected 150.00 from main pot
+*** SUMMARY ***
+Total pot 150.00
+Board [6c Ts Kh 9d Ks]
+Seat 1: Lorpugo3 (big blind) showed [8s 8c] and won 150.00 with two pair, Kings and Eights [Ks Kh 8s 8c Ts]
+Seat 2: PEPTOBILLY76 (button) showed [As 3s] and lost with a pair of Kings [Ks Kh As Ts 9d]
+
+Game Hand #403780763 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:50:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: PEPTOBILLY76 (1620.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6s]
+Lorpugo3 folds
+PEPTOBILLY76 shows [4c 6c]
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [4c 6c] and won 45.00
+
+Game Hand #403780829 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:50:39 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1365.00)
+Seat 2: PEPTOBILLY76 (1635.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 8d]
+PEPTOBILLY76 calls 15.00
+Lorpugo3 checks
+*** FLOP *** [9h 5h 6c]
+Main pot 60.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 60.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [7d 7c] (a pair of Sevens [7d 7c 9h 6c 5h])
+*** SUMMARY ***
+Total pot 60.00
+Board [9h 5h 6c]
+Seat 1: Lorpugo3 (big blind) folded on the Flop
+Seat 2: PEPTOBILLY76 (button) showed [7d 7c] and won 60.00 with a pair of Sevens [7d 7c 9h 6c 5h]
+
+Game Hand #403781055 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:51:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1335.00)
+Seat 2: PEPTOBILLY76 (1665.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 3d]
+Lorpugo3 raises 60.00 to 75.00
+PEPTOBILLY76 calls 45.00
+*** FLOP *** [4h 9d 8c]
+Main pot 150.00
+PEPTOBILLY76 bets 150.00
+Lorpugo3 folds
+Uncalled bet (150.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [9s Ts] (a pair of Nines [9s 9d Ts 8c 4h])
+*** SUMMARY ***
+Total pot 150.00
+Board [4h 9d 8c]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [9s Ts] and won 150.00 with a pair of Nines [9s 9d Ts 8c 4h]
+
+Game Hand #403781256 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:51:29 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1260.00)
+Seat 2: PEPTOBILLY76 (1740.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9d Tc]
+PEPTOBILLY76 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: PEPTOBILLY76 (button) folded on the Pre-Flop
+
+Game Hand #403781307 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:51:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1275.00)
+Seat 2: PEPTOBILLY76 (1725.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 9c]
+Lorpugo3 raises 60.00 to 75.00
+PEPTOBILLY76 calls 45.00
+*** FLOP *** [2s Qh 3s]
+Main pot 150.00
+PEPTOBILLY76 checks
+Lorpugo3 checks
+*** TURN *** [2s Qh 3s] [4c]
+Main pot 150.00
+PEPTOBILLY76 bets 30.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to PEPTOBILLY76
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 150.00
+Board [2s Qh 3s 4c]
+Seat 1: Lorpugo3 (button) folded on the Turn
+Seat 2: PEPTOBILLY76 did not show and won 150.00
+
+Game Hand #403781549 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:52:03 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1200.00)
+Seat 2: PEPTOBILLY76 (1800.00)
+PEPTOBILLY76 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 6s]
+PEPTOBILLY76 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 did not show and won 45.00
+Seat 2: PEPTOBILLY76 (button) folded on the Pre-Flop
+
+Game Hand #403781600 - Tournament #21035651 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/17 14:52:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1215.00)
+Seat 2: PEPTOBILLY76 (1785.00)
+Lorpugo3 posts the small blind 15.00
+PEPTOBILLY76 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 4c]
+Lorpugo3 raises 60.00 to 75.00
+PEPTOBILLY76 calls 45.00
+*** FLOP *** [3s Jh 5c]
+Main pot 150.00
+PEPTOBILLY76 bets 30.00
+Lorpugo3 calls 30.00
+*** TURN *** [3s Jh 5c] [6c]
+Main pot 210.00
+PEPTOBILLY76 bets 30.00
+Lorpugo3 calls 30.00
+*** RIVER *** [3s Jh 5c 6c] [8d]
+Main pot 270.00
+PEPTOBILLY76 bets 135.00
+Lorpugo3 folds
+Uncalled bet (135.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Qh 6h] (a pair of Sixs [6h 6c Qh Jh 8d])
+*** SUMMARY ***
+Total pot 270.00
+Board [3s Jh 5c 6c 8d]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: PEPTOBILLY76 (big blind) showed [Qh 6h] and won 270.00 with a pair of Sixs [6h 6c Qh Jh 8d]
+
+Game Hand #403781916 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:52:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1080.00)
+Seat 2: PEPTOBILLY76 (1920.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5d 6c]
+PEPTOBILLY76 raises 75.00 to 100.00
+Lorpugo3 calls 50.00
+*** FLOP *** [8c 5h 8s]
+Main pot 200.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** TURN *** [8c 5h 8s] [9c]
+Main pot 200.00
+Lorpugo3 bets 100.00
+PEPTOBILLY76 calls 100.00
+*** RIVER *** [8c 5h 8s 9c] [Jh]
+Main pot 400.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 1720.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1720.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Js Qh] (two pair, Jacks and Eights [Js Jh 8s 8c Qh])
+*** SUMMARY ***
+Total pot 400.00
+Board [8c 5h 8s 9c Jh]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: PEPTOBILLY76 (button) showed [Js Qh] and won 400.00 with two pair, Jacks and Eights [Js Jh 8s 8c Qh]
+
+Game Hand #403782194 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:53:18 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (880.00)
+Seat 2: PEPTOBILLY76 (2120.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Ah]
+Lorpugo3 raises 100.00 to 125.00
+PEPTOBILLY76 calls 75.00
+*** FLOP *** [4s 3d Qc]
+Main pot 250.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 125.00
+PEPTOBILLY76 folds
+Uncalled bet (125.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [4s 3d Qc]
+Seat 1: Lorpugo3 did not show and won 250.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403782352 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:53:38 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1005.00)
+Seat 2: PEPTOBILLY76 (1995.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8c Qs]
+PEPTOBILLY76 raises 125.00 to 150.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [5d 5c]
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (button) showed [5d 5c] and won 100.00
+
+Game Hand #403782524 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:53:58 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (955.00)
+Seat 2: PEPTOBILLY76 (2045.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Ah]
+Lorpugo3 raises 75.00 to 100.00
+PEPTOBILLY76 calls 50.00
+*** FLOP *** [2s 3c 4c]
+Main pot 200.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 100.00
+PEPTOBILLY76 folds
+Uncalled bet (100.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [2s 3c 4c]
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403782691 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:54:17 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1055.00)
+Seat 2: PEPTOBILLY76 (1945.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Jh]
+PEPTOBILLY76 calls 25.00
+Lorpugo3 raises 100.00 to 150.00
+PEPTOBILLY76 calls 100.00
+*** FLOP *** [2c 6d Td]
+Main pot 300.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 225.00
+Lorpugo3 raises 905.00 to 905.00 and is all-in
+PEPTOBILLY76 folds
+Uncalled bet (680.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 750.00
+Board [2c 6d Td]
+Seat 1: Lorpugo3 did not show and won 750.00
+Seat 2: PEPTOBILLY76 (button) folded on the Flop
+
+Game Hand #403782930 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:54:46 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1430.00)
+Seat 2: PEPTOBILLY76 (1570.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qc 5c]
+Lorpugo3 raises 75.00 to 100.00
+PEPTOBILLY76 raises 1520.00 to 1570.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1470.00) returned to PEPTOBILLY76
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 did not show and won 200.00
+
+Game Hand #403783060 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:55:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1330.00)
+Seat 2: PEPTOBILLY76 (1670.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7c 2h]
+PEPTOBILLY76 raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [Kh 3c]
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (button) showed [Kh 3c] and won 100.00
+
+Game Hand #403783131 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:55:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1280.00)
+Seat 2: PEPTOBILLY76 (1720.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 8s]
+Lorpugo3 raises 75.00 to 100.00
+PEPTOBILLY76 calls 50.00
+*** FLOP *** [4c 2s Td]
+Main pot 200.00
+PEPTOBILLY76 bets 50.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [2d Kh] (a pair of Deuces [2s 2d Kh Td 4c])
+*** SUMMARY ***
+Total pot 200.00
+Board [4c 2s Td]
+Seat 1: Lorpugo3 (button) folded on the Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [2d Kh] and won 200.00 with a pair of Deuces [2s 2d Kh Td 4c]
+
+Game Hand #403783255 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:55:30 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1180.00)
+Seat 2: PEPTOBILLY76 (1820.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 2h]
+PEPTOBILLY76 calls 25.00
+Lorpugo3 checks
+*** FLOP *** [5c Jh 4s]
+Main pot 100.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 50.00
+Lorpugo3 raises 125.00 to 125.00
+PEPTOBILLY76 calls 75.00
+*** TURN *** [5c Jh 4s] [Kc]
+Main pot 350.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** RIVER *** [5c Jh 4s Kc] [9s]
+Main pot 350.00
+Lorpugo3 checks
+PEPTOBILLY76 checks
+*** SHOW DOWN ***
+Main pot 350.00
+Lorpugo3 shows [5s 2h] (a pair of Fives [5s 5c Kc Jh 9s])
+PEPTOBILLY76 mucks hand
+Lorpugo3 collected 350.00 from main pot
+*** SUMMARY ***
+Total pot 350.00
+Board [5c Jh 4s Kc 9s]
+Seat 1: Lorpugo3 (big blind) showed [5s 2h] and won 350.00 with a pair of Fives [5s 5c Kc Jh 9s]
+Seat 2: PEPTOBILLY76 (button) mucked [7s 6c]
+
+Game Hand #403783513 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:56:15 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1355.00)
+Seat 2: PEPTOBILLY76 (1645.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9h Kh]
+Lorpugo3 raises 75.00 to 100.00
+PEPTOBILLY76 raises 1595.00 to 1645.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1545.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [As 4c]
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (big blind) showed [As 4c] and won 200.00
+
+Game Hand #403783622 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:56:31 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1255.00)
+Seat 2: PEPTOBILLY76 (1745.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Td]
+PEPTOBILLY76 calls 25.00
+Lorpugo3 raises 75.00 to 125.00
+PEPTOBILLY76 calls 75.00
+*** FLOP *** [9d Kc As]
+Main pot 250.00
+Lorpugo3 bets 75.00
+PEPTOBILLY76 folds
+Uncalled bet (75.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 250.00
+Board [9d Kc As]
+Seat 1: Lorpugo3 did not show and won 250.00
+Seat 2: PEPTOBILLY76 (button) folded on the Flop
+
+Game Hand #403783792 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:56:57 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1380.00)
+Seat 2: PEPTOBILLY76 (1620.00)
+Lorpugo3 posts the small blind 25.00
+PEPTOBILLY76 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [7h 4s]
+Lorpugo3 folds
+PEPTOBILLY76 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 did not show and won 75.00
+
+Game Hand #403783864 - Tournament #21035651 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/17 14:57:07 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1355.00)
+Seat 2: PEPTOBILLY76 (1645.00)
+PEPTOBILLY76 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jd 6c]
+PEPTOBILLY76 raises 75.00 to 100.00
+Lorpugo3 folds
+Uncalled bet (50.00) returned to PEPTOBILLY76
+PEPTOBILLY76 shows [4h Kh]
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: PEPTOBILLY76 (button) showed [4h Kh] and won 100.00
+
+Game Hand #403783947 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:57:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1305.00)
+Seat 2: PEPTOBILLY76 (1695.00)
+Lorpugo3 posts the small blind 50.00
+PEPTOBILLY76 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [2d Kc]
+Lorpugo3 raises 150.00 to 200.00
+PEPTOBILLY76 calls 100.00
+*** FLOP *** [Kd Jh 4d]
+Main pot 400.00
+PEPTOBILLY76 checks
+Lorpugo3 checks
+*** TURN *** [Kd Jh 4d] [5s]
+Main pot 400.00
+PEPTOBILLY76 bets 100.00
+Lorpugo3 raises 300.00 to 300.00
+PEPTOBILLY76 folds
+Uncalled bet (200.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 600.00
+Board [Kd Jh 4d 5s]
+Seat 1: Lorpugo3 did not show and won 600.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Turn
+
+Game Hand #403784153 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:57:52 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1605.00)
+Seat 2: PEPTOBILLY76 (1395.00)
+PEPTOBILLY76 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 6h]
+PEPTOBILLY76 calls 50.00
+Lorpugo3 raises 1505.00 to 1605.00 and is all-in
+PEPTOBILLY76 folds
+Uncalled bet (1505.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PEPTOBILLY76 (button) folded on the Pre-Flop
+
+Game Hand #403784218 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:58:05 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1705.00)
+Seat 2: PEPTOBILLY76 (1295.00)
+Lorpugo3 posts the small blind 50.00
+PEPTOBILLY76 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3h]
+Lorpugo3 raises 150.00 to 200.00
+PEPTOBILLY76 calls 100.00
+*** FLOP *** [3c 6d Qh]
+Main pot 400.00
+PEPTOBILLY76 checks
+Lorpugo3 bets 200.00
+PEPTOBILLY76 folds
+Uncalled bet (200.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 400.00
+Board [3c 6d Qh]
+Seat 1: Lorpugo3 did not show and won 400.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Flop
+
+Game Hand #403784369 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:58:28 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1905.00)
+Seat 2: PEPTOBILLY76 (1095.00)
+PEPTOBILLY76 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Kh]
+PEPTOBILLY76 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 150.00
+Seat 1: Lorpugo3 did not show and won 150.00
+Seat 2: PEPTOBILLY76 (button) folded on the Pre-Flop
+
+Game Hand #403784402 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:58:34 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1955.00)
+Seat 2: PEPTOBILLY76 (1045.00)
+Lorpugo3 posts the small blind 50.00
+PEPTOBILLY76 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 7c]
+Lorpugo3 raises 1905.00 to 1955.00 and is all-in
+PEPTOBILLY76 folds
+Uncalled bet (1855.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Pre-Flop
+
+Game Hand #403784477 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:58:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (2055.00)
+Seat 2: PEPTOBILLY76 (945.00)
+PEPTOBILLY76 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd 3h]
+PEPTOBILLY76 calls 50.00
+Lorpugo3 checks
+*** FLOP *** [3d 8s Ad]
+Main pot 200.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 100.00
+Lorpugo3 calls 100.00
+*** TURN *** [3d 8s Ad] [4d]
+Main pot 400.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 100.00
+Lorpugo3 calls 100.00
+*** RIVER *** [3d 8s Ad 4d] [Qc]
+Main pot 600.00
+Lorpugo3 checks
+PEPTOBILLY76 bets 100.00
+Lorpugo3 raises 1755.00 to 1755.00 and is all-in
+PEPTOBILLY76 calls 545.00 and is all-in
+Uncalled bet (1110.00) returned to Lorpugo3
+*** SHOW DOWN ***
+Main pot 1890.00
+Lorpugo3 shows [Qd 3h] (two pair, Queens and Threes [Qd Qc 3h 3d Ad])
+PEPTOBILLY76 shows [8c Ac] (two pair, Aces and Eights [Ad Ac 8s 8c Qc])
+PEPTOBILLY76 collected 1890.00 from main pot
+*** SUMMARY ***
+Total pot 1890.00
+Board [3d 8s Ad 4d Qc]
+Seat 1: Lorpugo3 (big blind) showed [Qd 3h] and lost with two pair, Queens and Threes [Qd Qc 3h 3d Ad]
+Seat 2: PEPTOBILLY76 (button) showed [8c Ac] and won 1890.00 with two pair, Aces and Eights [Ad Ac 8s 8c Qc]
+
+Game Hand #403784765 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:59:35 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1110.00)
+Seat 2: PEPTOBILLY76 (1890.00)
+Lorpugo3 posts the small blind 50.00
+PEPTOBILLY76 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qd Jc]
+Lorpugo3 raises 1060.00 to 1110.00 and is all-in
+PEPTOBILLY76 folds
+Uncalled bet (1010.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 200.00
+Seat 1: Lorpugo3 did not show and won 200.00
+Seat 2: PEPTOBILLY76 (big blind) folded on the Pre-Flop
+
+Game Hand #403784829 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 14:59:47 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1210.00)
+Seat 2: PEPTOBILLY76 (1790.00)
+PEPTOBILLY76 posts the small blind 50.00
+Lorpugo3 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 6d]
+PEPTOBILLY76 calls 50.00
+Lorpugo3 raises 1110.00 to 1210.00 and is all-in
+PEPTOBILLY76 calls 1110.00
+*** FLOP *** [3d Th 2d]
+Main pot 2420.00
+*** TURN *** [3d Th 2d] [6c]
+Main pot 2420.00
+*** RIVER *** [3d Th 2d 6c] [5d]
+Main pot 2420.00
+*** SHOW DOWN ***
+Main pot 2420.00
+Lorpugo3 shows [Kh 6d] (a pair of Sixs [6d 6c Kh Th 5d])
+PEPTOBILLY76 shows [Qs 7s] (a high card, Queen high [Qs Th 7s 6c 5d])
+Lorpugo3 collected 2420.00 from main pot
+*** SUMMARY ***
+Total pot 2420.00
+Board [3d Th 2d 6c 5d]
+Seat 1: Lorpugo3 (big blind) showed [Kh 6d] and won 2420.00 with a pair of Sixs [6d 6c Kh Th 5d]
+Seat 2: PEPTOBILLY76 (button) showed [Qs 7s] and lost with a high card, Queen high [Qs Th 7s 6c 5d]
+
+Game Hand #403784950 - Tournament #21035651 - Holdem(No Limit) - Level 4 (50.00/100.00)- 2020/06/17 15:00:08 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (2420.00)
+Seat 2: PEPTOBILLY76 (580.00)
+Lorpugo3 posts the small blind 50.00
+PEPTOBILLY76 posts the big blind 100.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ac]
+Lorpugo3 raises 2370.00 to 2420.00 and is all-in
+PEPTOBILLY76 calls 480.00 and is all-in
+Uncalled bet (1840.00) returned to Lorpugo3
+*** FLOP *** [Qs 3s Kh]
+Main pot 1160.00
+*** TURN *** [Qs 3s Kh] [3d]
+Main pot 1160.00
+*** RIVER *** [Qs 3s Kh 3d] [Kd]
+Main pot 1160.00
+*** SHOW DOWN ***
+Main pot 1160.00
+Lorpugo3 shows [Th Ac] (two pair, Kings and Threes [Kh Kd 3s 3d Ac])
+PEPTOBILLY76 shows [8c Td] (two pair, Kings and Threes [Kh Kd 3s 3d Qs])
+Lorpugo3 collected 1160.00 from main pot
+*** SUMMARY ***
+Total pot 1160.00
+Board [Qs 3s Kh 3d Kd]
+Seat 1: Lorpugo3 (button) showed [Th Ac] and won 1160.00 with two pair, Kings and Threes [Kh Kd 3s 3d Ac] with the kicker Ace
+Seat 2: PEPTOBILLY76 (big blind) showed [8c Td] and lost with two pair, Kings and Threes [Kh Kd 3s 3d Qs]
+

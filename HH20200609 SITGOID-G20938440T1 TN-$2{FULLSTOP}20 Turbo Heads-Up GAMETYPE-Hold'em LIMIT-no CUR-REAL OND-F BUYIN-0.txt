@@ -1,0 +1,192 @@
+Game Hand #392223359 - Tournament #20938440 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 20:59:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: sangaf7 (1085.00)
+Seat 2: Lorpugo3 (1915.00)
+sangaf7 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Qs Js]
+sangaf7 raises 75.00 to 90.00
+Lorpugo3 calls 60.00
+*** FLOP *** [8s 6h Jc]
+Main pot 180.00
+Lorpugo3 checks
+sangaf7 bets 90.00
+Lorpugo3 raises 270.00 to 270.00
+sangaf7 calls 180.00
+*** TURN *** [8s 6h Jc] [6s]
+Main pot 720.00
+Lorpugo3 bets 360.00
+sangaf7 folds
+Uncalled bet (360.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 720.00
+Board [8s 6h Jc 6s]
+Seat 1: sangaf7 (button) folded on the Turn
+Seat 2: Lorpugo3 did not show and won 720.00
+
+Game Hand #392224022 - Tournament #20938440 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:00:25 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: sangaf7 (725.00)
+Seat 2: Lorpugo3 (2275.00)
+Lorpugo3 posts the small blind 15.00
+sangaf7 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 8d]
+Lorpugo3 raises 45.00 to 60.00
+sangaf7 folds
+Uncalled bet (30.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: sangaf7 (big blind) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 60.00
+
+Game Hand #392224171 - Tournament #20938440 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:00:36 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: sangaf7 (695.00)
+Seat 2: Lorpugo3 (2305.00)
+sangaf7 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Jh 3c]
+sangaf7 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: sangaf7 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 45.00
+
+Game Hand #392224257 - Tournament #20938440 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:00:43 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: sangaf7 (680.00)
+Seat 2: Lorpugo3 (2320.00)
+Lorpugo3 posts the small blind 15.00
+sangaf7 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c 2h]
+Lorpugo3 folds
+sangaf7 does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: sangaf7 did not show and won 45.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392224355 - Tournament #20938440 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/06/08 21:00:49 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: sangaf7 (695.00)
+Seat 2: Lorpugo3 (2305.00)
+sangaf7 posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s 7d]
+sangaf7 raises 75.00 to 90.00
+Lorpugo3 folds
+Uncalled bet (60.00) returned to sangaf7
+sangaf7 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: sangaf7 did not show and won 60.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392224529 - Tournament #20938440 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:01:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: sangaf7 (725.00)
+Seat 2: Lorpugo3 (2275.00)
+Lorpugo3 posts the small blind 25.00
+sangaf7 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9c 4h]
+Lorpugo3 folds
+sangaf7 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: sangaf7 did not show and won 75.00
+Seat 2: Lorpugo3 (button) folded on the Pre-Flop
+
+Game Hand #392224670 - Tournament #20938440 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:01:09 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: sangaf7 (750.00)
+Seat 2: Lorpugo3 (2250.00)
+sangaf7 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [8h Ad]
+sangaf7 folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 75.00
+Seat 1: sangaf7 (button) folded on the Pre-Flop
+Seat 2: Lorpugo3 did not show and won 75.00
+
+Game Hand #392224759 - Tournament #20938440 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:01:15 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: sangaf7 (725.00)
+Seat 2: Lorpugo3 (2275.00)
+Lorpugo3 posts the small blind 25.00
+sangaf7 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ts Jc]
+Lorpugo3 raises 75.00 to 100.00
+sangaf7 calls 50.00
+*** FLOP *** [Ks 5d Kc]
+Main pot 200.00
+sangaf7 bets 100.00
+Lorpugo3 folds
+Uncalled bet (100.00) returned to sangaf7
+sangaf7 does not show
+*** SUMMARY ***
+Total pot 200.00
+Board [Ks 5d Kc]
+Seat 1: sangaf7 did not show and won 200.00
+Seat 2: Lorpugo3 (button) folded on the Flop
+
+Game Hand #392225173 - Tournament #20938440 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:01:37 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: sangaf7 (825.00)
+Seat 2: Lorpugo3 (2175.00)
+sangaf7 posts the small blind 25.00
+Lorpugo3 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks Qc]
+sangaf7 raises 800.00 to 825.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (775.00) returned to sangaf7
+sangaf7 does not show
+*** SUMMARY ***
+Total pot 100.00
+Seat 1: sangaf7 did not show and won 100.00
+Seat 2: Lorpugo3 (big blind) folded on the Pre-Flop
+
+Game Hand #392225524 - Tournament #20938440 - Holdem(No Limit) - Level 3 (25.00/50.00)- 2020/06/08 21:01:56 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: sangaf7 (875.00)
+Seat 2: Lorpugo3 (2125.00)
+Lorpugo3 posts the small blind 25.00
+sangaf7 posts the big blind 50.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Th Ad]
+Lorpugo3 raises 100.00 to 125.00
+sangaf7 calls 75.00
+*** FLOP *** [Tc 9c 5s]
+Main pot 250.00
+sangaf7 bets 188.00
+Lorpugo3 raises 2000.00 to 2000.00 and is all-in
+sangaf7 calls 562.00 and is all-in
+Uncalled bet (1250.00) returned to Lorpugo3
+*** TURN *** [Tc 9c 5s] [6h]
+Main pot 1750.00
+*** RIVER *** [Tc 9c 5s 6h] [6c]
+Main pot 1750.00
+*** SHOW DOWN ***
+Main pot 1750.00
+sangaf7 shows [Td Qc] (two pair, Tens and Sixs [Td Tc 6h 6c Qc])
+Lorpugo3 shows [Th Ad] (two pair, Tens and Sixs [Th Tc 6h 6c Ad])
+Lorpugo3 collected 1750.00 from main pot
+*** SUMMARY ***
+Total pot 1750.00
+Board [Tc 9c 5s 6h 6c]
+Seat 1: sangaf7 (big blind) showed [Td Qc] and lost with two pair, Tens and Sixs [Td Tc 6h 6c Qc]
+Seat 2: Lorpugo3 (button) showed [Th Ad] and won 1750.00 with two pair, Tens and Sixs [Th Tc 6h 6c Ad] with the kicker Ace
+

@@ -1,0 +1,131 @@
+Game Hand #402369260 - Tournament #21020850 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 08:22:13 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1500.00)
+Seat 2: Croutonlol (1500.00)
+Croutonlol posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ac 3c]
+Croutonlol raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [Jh Ad 4h]
+Main pot 120.00
+Lorpugo3 checks
+Croutonlol checks
+*** TURN *** [Jh Ad 4h] [9h]
+Main pot 120.00
+Lorpugo3 checks
+Croutonlol checks
+*** RIVER *** [Jh Ad 4h 9h] [Js]
+Main pot 120.00
+Lorpugo3 checks
+Croutonlol checks
+*** SHOW DOWN ***
+Main pot 120.00
+Lorpugo3 shows [Ac 3c] (two pair, Aces and Jacks [Ad Ac Js Jh 9h])
+Croutonlol mucks hand
+Lorpugo3 collected 120.00 from main pot
+*** SUMMARY ***
+Total pot 120.00
+Board [Jh Ad 4h 9h Js]
+Seat 1: Lorpugo3 (big blind) showed [Ac 3c] and won 120.00 with two pair, Aces and Jacks [Ad Ac Js Jh 9h]
+Seat 2: Croutonlol (button) mucked [8d 8s]
+
+Game Hand #402369647 - Tournament #21020850 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 08:23:02 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (1560.00)
+Seat 2: Croutonlol (1440.00)
+Lorpugo3 posts the small blind 10.00
+Croutonlol posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc Ad]
+Lorpugo3 raises 40.00 to 50.00
+Croutonlol calls 30.00
+*** FLOP *** [Th 8s 2h]
+Main pot 100.00
+Croutonlol checks
+Lorpugo3 bets 70.00
+Croutonlol calls 70.00
+*** TURN *** [Th 8s 2h] [5h]
+Main pot 240.00
+Croutonlol checks
+Lorpugo3 bets 120.00
+Croutonlol raises 300.00 to 300.00
+Lorpugo3 calls 180.00
+*** RIVER *** [Th 8s 2h 5h] [Ks]
+Main pot 840.00
+Croutonlol bets 1020.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (1020.00) returned to Croutonlol
+Croutonlol does not show
+*** SUMMARY ***
+Total pot 840.00
+Board [Th 8s 2h 5h Ks]
+Seat 1: Lorpugo3 (button) folded on the River
+Seat 2: Croutonlol did not show and won 840.00
+
+Game Hand #402370126 - Tournament #21020850 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 08:24:05 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (1140.00)
+Seat 2: Croutonlol (1860.00)
+Croutonlol posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 9h]
+Croutonlol raises 50.00 to 60.00
+Lorpugo3 calls 40.00
+*** FLOP *** [7c 5s 3c]
+Main pot 120.00
+Lorpugo3 checks
+Croutonlol checks
+*** TURN *** [7c 5s 3c] [Ah]
+Main pot 120.00
+Lorpugo3 checks
+Croutonlol bets 40.00
+Lorpugo3 raises 130.00 to 130.00
+Croutonlol calls 90.00
+*** RIVER *** [7c 5s 3c Ah] [Qh]
+Main pot 380.00
+Lorpugo3 bets 285.00
+Croutonlol raises 1235.00 to 1235.00
+Lorpugo3 folds
+Uncalled bet (950.00) returned to Croutonlol
+Croutonlol does not show
+*** SUMMARY ***
+Total pot 950.00
+Board [7c 5s 3c Ah Qh]
+Seat 1: Lorpugo3 (big blind) folded on the River
+Seat 2: Croutonlol did not show and won 950.00
+
+Game Hand #402370775 - Tournament #21020850 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/06/16 08:25:29 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (665.00)
+Seat 2: Croutonlol (2335.00)
+Lorpugo3 posts the small blind 10.00
+Croutonlol posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5c Kh]
+Lorpugo3 raises 40.00 to 50.00
+Croutonlol calls 30.00
+*** FLOP *** [5d 2h 3s]
+Main pot 100.00
+Croutonlol checks
+Lorpugo3 bets 75.00
+Croutonlol raises 2285.00 to 2285.00 and is all-in
+Lorpugo3 calls 540.00 and is all-in
+Uncalled bet (1670.00) returned to Croutonlol
+*** TURN *** [5d 2h 3s] [4s]
+Main pot 1330.00
+*** RIVER *** [5d 2h 3s 4s] [7c]
+Main pot 1330.00
+*** SHOW DOWN ***
+Main pot 1330.00
+Lorpugo3 shows [5c Kh] (a pair of Fives [5d 5c Kh 7c 4s])
+Croutonlol shows [6h 6c] (a straight, Seven high [7c 6h 5d 4s 3s])
+Croutonlol collected 1330.00 from main pot
+*** SUMMARY ***
+Total pot 1330.00
+Board [5d 2h 3s 4s 7c]
+Seat 1: Lorpugo3 (button) showed [5c Kh] and lost with a pair of Fives [5d 5c Kh 7c 4s]
+Seat 2: Croutonlol (big blind) showed [6h 6c] and won 1330.00 with a straight, Seven high [7c 6h 5d 4s 3s]
+

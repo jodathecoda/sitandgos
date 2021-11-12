@@ -1,0 +1,432 @@
+Game Hand #436631941 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:49:11 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (500.00)
+Seat 2: Magik R0cket (500.00)
+Lorpugo3 posts the small blind 10.00
+Magik R0cket posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6c 7d]
+Lorpugo3 raises 30.00 to 40.00
+Magik R0cket raises 480.00 to 500.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (460.00) returned to Magik R0cket
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 80.00
+
+Game Hand #436632240 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:49:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (460.00)
+Seat 2: Magik R0cket (540.00)
+Magik R0cket posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3d Ts]
+Magik R0cket raises 30.00 to 40.00
+Lorpugo3 folds
+Uncalled bet (20.00) returned to Magik R0cket
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 40.00
+
+Game Hand #436632420 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:49:31 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (440.00)
+Seat 2: Magik R0cket (560.00)
+Lorpugo3 posts the small blind 10.00
+Magik R0cket posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As Qs]
+Lorpugo3 raises 30.00 to 40.00
+Magik R0cket raises 540.00 to 560.00 and is all-in
+Lorpugo3 calls 400.00 and is all-in
+Uncalled bet (120.00) returned to Magik R0cket
+*** FLOP *** [Ad Th 5h]
+Main pot 880.00
+*** TURN *** [Ad Th 5h] [Jh]
+Main pot 880.00
+*** RIVER *** [Ad Th 5h Jh] [Jd]
+Main pot 880.00
+*** SHOW DOWN ***
+Main pot 880.00
+Lorpugo3 shows [As Qs] (two pair, Aces and Jacks [As Ad Jh Jd Qs])
+Magik R0cket shows [8d 8h] (two pair, Jacks and Eights [Jh Jd 8h 8d Ad])
+Lorpugo3 collected 880.00 from main pot
+*** SUMMARY ***
+Total pot 880.00
+Board [Ad Th 5h Jh Jd]
+Seat 1: Lorpugo3 (button) showed [As Qs] and won 880.00 with two pair, Aces and Jacks [As Ad Jh Jd Qs]
+Seat 2: Magik R0cket (big blind) showed [8d 8h] and lost with two pair, Jacks and Eights [Jh Jd 8h 8d Ad]
+
+Game Hand #436632778 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:49:49 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (880.00)
+Seat 2: Magik R0cket (120.00)
+Magik R0cket posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4s 6s]
+Magik R0cket folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Magik R0cket (button) folded on the Pre-Flop
+
+Game Hand #436633028 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:50:01 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (890.00)
+Seat 2: Magik R0cket (110.00)
+Lorpugo3 posts the small blind 10.00
+Magik R0cket posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d Qd]
+Lorpugo3 raises 880.00 to 890.00 and is all-in
+Magik R0cket folds
+Uncalled bet (870.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 40.00
+Seat 1: Lorpugo3 did not show and won 40.00
+Seat 2: Magik R0cket (big blind) folded on the Pre-Flop
+
+Game Hand #436633193 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:50:09 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (910.00)
+Seat 2: Magik R0cket (90.00)
+Magik R0cket posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 3s]
+Magik R0cket folds
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 did not show and won 30.00
+Seat 2: Magik R0cket (button) folded on the Pre-Flop
+
+Game Hand #436633405 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:50:17 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (920.00)
+Seat 2: Magik R0cket (80.00)
+Lorpugo3 posts the small blind 10.00
+Magik R0cket posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [6s 5d]
+Lorpugo3 folds
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 30.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 30.00
+
+Game Hand #436633583 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:50:26 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (910.00)
+Seat 2: Magik R0cket (90.00)
+Magik R0cket posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kh 8h]
+Magik R0cket raises 80.00 to 90.00 and is all-in
+Lorpugo3 calls 70.00
+*** FLOP *** [8s 4s 7s]
+Main pot 180.00
+*** TURN *** [8s 4s 7s] [Js]
+Main pot 180.00
+*** RIVER *** [8s 4s 7s Js] [6s]
+Main pot 180.00
+*** SHOW DOWN ***
+Main pot 180.00
+Lorpugo3 shows [Kh 8h] (a flush, Jack high [Js 8s 7s 6s 4s])
+Magik R0cket shows [Jh 9c] (a flush, Jack high [Js 8s 7s 6s 4s])
+Lorpugo3 collected 90.00 from main pot
+Magik R0cket collected 90.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [8s 4s 7s Js 6s]
+Seat 1: Lorpugo3 (big blind) showed [Kh 8h] and won 90.00 with a flush, Jack high [Js 8s 7s 6s 4s]
+Seat 2: Magik R0cket (button) showed [Jh 9c] and won 90.00 with a flush, Jack high [Js 8s 7s 6s 4s]
+
+Game Hand #436634016 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:50:45 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (910.00)
+Seat 2: Magik R0cket (90.00)
+Lorpugo3 posts the small blind 10.00
+Magik R0cket posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3c Qh]
+Lorpugo3 raises 900.00 to 910.00 and is all-in
+Magik R0cket calls 70.00 and is all-in
+Uncalled bet (820.00) returned to Lorpugo3
+*** FLOP *** [4c 8s Kc]
+Main pot 180.00
+*** TURN *** [4c 8s Kc] [4h]
+Main pot 180.00
+*** RIVER *** [4c 8s Kc 4h] [8c]
+Main pot 180.00
+*** SHOW DOWN ***
+Main pot 180.00
+Lorpugo3 shows [3c Qh] (two pair, Eights and Fours [8s 8c 4h 4c Kc])
+Magik R0cket shows [8d Kh] (a full house, Eights full of Kings [8s 8d 8c Kh Kc])
+Magik R0cket collected 180.00 from main pot
+*** SUMMARY ***
+Total pot 180.00
+Board [4c 8s Kc 4h 8c]
+Seat 1: Lorpugo3 (button) showed [3c Qh] and lost with two pair, Eights and Fours [8s 8c 4h 4c Kc]
+Seat 2: Magik R0cket (big blind) showed [8d Kh] and won 180.00 with a full house, Eights full of Kings [8s 8d 8c Kh Kc]
+
+Game Hand #436634357 - Tournament #21798098 - Holdem(No Limit) - Level 1 (10.00/20.00)- 2020/07/13 22:51:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (820.00)
+Seat 2: Magik R0cket (180.00)
+Magik R0cket posts the small blind 10.00
+Lorpugo3 posts the big blind 20.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [9s Tc]
+Magik R0cket raises 170.00 to 180.00 and is all-in
+Lorpugo3 calls 160.00
+*** FLOP *** [7h Qc Jh]
+Main pot 360.00
+*** TURN *** [7h Qc Jh] [2s]
+Main pot 360.00
+*** RIVER *** [7h Qc Jh 2s] [Qs]
+Main pot 360.00
+*** SHOW DOWN ***
+Main pot 360.00
+Lorpugo3 shows [9s Tc] (a pair of Queens [Qs Qc Jh Tc 9s])
+Magik R0cket shows [As 9h] (a pair of Queens [Qs Qc As Jh 9h])
+Magik R0cket collected 360.00 from main pot
+*** SUMMARY ***
+Total pot 360.00
+Board [7h Qc Jh 2s Qs]
+Seat 1: Lorpugo3 (big blind) showed [9s Tc] and lost with a pair of Queens [Qs Qc Jh Tc 9s]
+Seat 2: Magik R0cket (button) showed [As 9h] and won 360.00 with a pair of Queens [Qs Qc As Jh 9h] with the kicker Ace
+
+Game Hand #436634759 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:51:19 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (640.00)
+Seat 2: Magik R0cket (360.00)
+Lorpugo3 posts the small blind 15.00
+Magik R0cket posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5h 4s]
+Lorpugo3 raises 45.00 to 60.00
+Magik R0cket calls 30.00
+*** FLOP *** [Qd Ks 6d]
+Main pot 120.00
+Magik R0cket checks
+Lorpugo3 bets 60.00
+Magik R0cket folds
+Uncalled bet (60.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 120.00
+Board [Qd Ks 6d]
+Seat 1: Lorpugo3 did not show and won 120.00
+Seat 2: Magik R0cket (big blind) folded on the Flop
+
+Game Hand #436635331 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:51:44 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (700.00)
+Seat 2: Magik R0cket (300.00)
+Magik R0cket posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Js 2d]
+Magik R0cket raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Magik R0cket
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 60.00
+
+Game Hand #436635524 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:51:54 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (670.00)
+Seat 2: Magik R0cket (330.00)
+Lorpugo3 posts the small blind 15.00
+Magik R0cket posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [3h 7c]
+Lorpugo3 folds
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 45.00
+
+Game Hand #436635706 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:52:02 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (655.00)
+Seat 2: Magik R0cket (345.00)
+Magik R0cket posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [As 2h]
+Magik R0cket raises 45.00 to 60.00
+Lorpugo3 raises 625.00 to 655.00 and is all-in
+Magik R0cket calls 285.00 and is all-in
+Uncalled bet (310.00) returned to Lorpugo3
+*** FLOP *** [6d 5d Tc]
+Main pot 690.00
+*** TURN *** [6d 5d Tc] [2c]
+Main pot 690.00
+*** RIVER *** [6d 5d Tc 2c] [5s]
+Main pot 690.00
+*** SHOW DOWN ***
+Main pot 690.00
+Lorpugo3 shows [As 2h] (two pair, Fives and Deuces [5s 5d 2h 2c As])
+Magik R0cket shows [Kd Ts] (two pair, Tens and Fives [Ts Tc 5s 5d Kd])
+Magik R0cket collected 690.00 from main pot
+*** SUMMARY ***
+Total pot 690.00
+Board [6d 5d Tc 2c 5s]
+Seat 1: Lorpugo3 (big blind) showed [As 2h] and lost with two pair, Fives and Deuces [5s 5d 2h 2c As]
+Seat 2: Magik R0cket (button) showed [Kd Ts] and won 690.00 with two pair, Tens and Fives [Ts Tc 5s 5d Kd]
+
+Game Hand #436636273 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:52:27 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (310.00)
+Seat 2: Magik R0cket (690.00)
+Lorpugo3 posts the small blind 15.00
+Magik R0cket posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Tc 3c]
+Lorpugo3 folds
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 45.00
+Seat 1: Lorpugo3 (button) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 45.00
+
+Game Hand #436636435 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:52:34 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (295.00)
+Seat 2: Magik R0cket (705.00)
+Magik R0cket posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Kc 7d]
+Magik R0cket raises 690.00 to 705.00 and is all-in
+Lorpugo3 calls 265.00 and is all-in
+Uncalled bet (410.00) returned to Magik R0cket
+*** FLOP *** [5h 2c Th]
+Main pot 590.00
+*** TURN *** [5h 2c Th] [9s]
+Main pot 590.00
+*** RIVER *** [5h 2c Th 9s] [Ad]
+Main pot 590.00
+*** SHOW DOWN ***
+Main pot 590.00
+Lorpugo3 shows [Kc 7d] (a high card, Ace high [Ad Kc Th 9s 7d])
+Magik R0cket shows [6c Qc] (a high card, Ace high [Ad Qc Th 9s 6c])
+Lorpugo3 collected 590.00 from main pot
+*** SUMMARY ***
+Total pot 590.00
+Board [5h 2c Th 9s Ad]
+Seat 1: Lorpugo3 (big blind) showed [Kc 7d] and won 590.00 with a high card, Ace high [Ad Kc Th 9s 7d] with the kicker King
+Seat 2: Magik R0cket (button) showed [6c Qc] and lost with a high card, Ace high [Ad Qc Th 9s 6c]
+
+Game Hand #436636781 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:52:50 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (590.00)
+Seat 2: Magik R0cket (410.00)
+Lorpugo3 posts the small blind 15.00
+Magik R0cket posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [Ks 9s]
+Lorpugo3 raises 575.00 to 590.00 and is all-in
+Magik R0cket folds
+Uncalled bet (560.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 did not show and won 60.00
+Seat 2: Magik R0cket (big blind) folded on the Pre-Flop
+
+Game Hand #436637020 - Tournament #21798098 - Holdem(No Limit) - Level 2 (15.00/30.00)- 2020/07/13 22:53:01 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (620.00)
+Seat 2: Magik R0cket (380.00)
+Magik R0cket posts the small blind 15.00
+Lorpugo3 posts the big blind 30.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4c Qh]
+Magik R0cket raises 45.00 to 60.00
+Lorpugo3 folds
+Uncalled bet (30.00) returned to Magik R0cket
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 60.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 60.00
+
+Game Hand #436637255 - Tournament #21798098 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/07/13 22:53:12 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (590.00)
+Seat 2: Magik R0cket (410.00)
+Lorpugo3 posts the small blind 20.00
+Magik R0cket posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4h Ac]
+Lorpugo3 raises 570.00 to 590.00 and is all-in
+Magik R0cket folds
+Uncalled bet (550.00) returned to Lorpugo3
+Lorpugo3 does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 did not show and won 80.00
+Seat 2: Magik R0cket (big blind) folded on the Pre-Flop
+
+Game Hand #436637530 - Tournament #21798098 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/07/13 22:53:23 UTC
+Table '1' 2-max Seat #2 is the button
+Seat 1: Lorpugo3 (630.00)
+Seat 2: Magik R0cket (370.00)
+Magik R0cket posts the small blind 20.00
+Lorpugo3 posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [4d 6d]
+Magik R0cket raises 350.00 to 370.00 and is all-in
+Lorpugo3 folds
+Uncalled bet (330.00) returned to Magik R0cket
+Magik R0cket does not show
+*** SUMMARY ***
+Total pot 80.00
+Seat 1: Lorpugo3 (big blind) folded on the Pre-Flop
+Seat 2: Magik R0cket did not show and won 80.00
+
+Game Hand #436637744 - Tournament #21798098 - Holdem(No Limit) - Level 3 (20.00/40.00)- 2020/07/13 22:53:33 UTC
+Table '1' 2-max Seat #1 is the button
+Seat 1: Lorpugo3 (590.00)
+Seat 2: Magik R0cket (410.00)
+Lorpugo3 posts the small blind 20.00
+Magik R0cket posts the big blind 40.00
+*** HOLE CARDS ***
+Dealt to Lorpugo3 [5s Ad]
+Lorpugo3 raises 570.00 to 590.00 and is all-in
+Magik R0cket calls 370.00 and is all-in
+Uncalled bet (180.00) returned to Lorpugo3
+*** FLOP *** [7h Kd 4c]
+Main pot 820.00
+*** TURN *** [7h Kd 4c] [8c]
+Main pot 820.00
+*** RIVER *** [7h Kd 4c 8c] [Kc]
+Main pot 820.00
+*** SHOW DOWN ***
+Main pot 820.00
+Lorpugo3 shows [5s Ad] (a pair of Kings [Kd Kc Ad 8c 7h])
+Magik R0cket shows [Js Qh] (a pair of Kings [Kd Kc Qh Js 8c])
+Lorpugo3 collected 820.00 from main pot
+*** SUMMARY ***
+Total pot 820.00
+Board [7h Kd 4c 8c Kc]
+Seat 1: Lorpugo3 (button) showed [5s Ad] and won 820.00 with a pair of Kings [Kd Kc Ad 8c 7h] with the kicker Ace
+Seat 2: Magik R0cket (big blind) showed [Js Qh] and lost with a pair of Kings [Kd Kc Qh Js 8c]
+
